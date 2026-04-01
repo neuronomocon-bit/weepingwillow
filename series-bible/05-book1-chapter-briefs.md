@@ -14,6 +14,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **Conflict:** The facility is wrong. Environmental cues — temperature shifts, sounds that shouldn't be there, a sense of presence. Something is still active inside. Iris makes contact with it (shown in fragments, not fully depicted — the reader gets pieces, not the whole event).
 **Outcome:** Iris exits the facility. Her extraction gear has data. Her memory does not. There are gaps — minutes she cannot reconstruct. She drives home.
 **Emotional Beat:** Iris glances at a photo on her dashboard — her sister Lena. She recognizes the face. She cannot access why it matters. The gap is already there.
+**As Written:** Job ref MN-44-7. Iris enters through a cut fence and a side service door with dead keypad. Facility: concrete bunker on the coast, partial power, every third light in the server room. The Taking is shown in fragments — memories surface (kitchen at 19, yellow mug, hospital corridor, red scarf on a winter beach, two girls on a staircase). She sees a pale hand, a flash of Willow's face ("Features learned from observation rather than born to them"). Comes to kneeling by her pack, no memory of the gap. Time jump: 14:07 to 14:41. Drives back to Lowport. Photo of Lena found under a water bottle in the cup holder — printed, softened corners. Recognizes Lena. Feels nothing. Leaves the photo on the dashboard.
 
 ---
 
@@ -25,6 +26,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **Conflict:** Caleb notices Iris is different — slower, flatter, less reactive. He probes lightly. Iris deflects. She doesn't have language for what's wrong.
 **Outcome:** The job completes. Caleb is established as someone the reader likes and trusts. The contrast between his aliveness and Iris's muted state is clear.
 **Emotional Beat:** Caleb laughs at something. Iris watches him laugh. She knows she used to respond to this. She waits for the response. It doesn't come.
+**As Written:** Job ref HD-12-3 at Harbor Data Storage (converted distribution center, inland from river). Two-person access. Caleb already inside — "Lock was decorative." Work dynamic established: he handles access/physical, she handles systems. He probes her state throughout: "You seem different," "slower, maybe. Or just quieter in a way you weren't before," "Say something / Because you usually would have by now." Dock Nine anecdote — Caleb tells a funny story, Iris responds "It was inconsistent." Diner scene after: Caleb tells a warehouse story, laughs, Iris watches and waits for a matching response that doesn't come. Parting line: "If something's off, you can just say that. You don't have to optimize the answer."
 
 ---
 
