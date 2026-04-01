@@ -131,11 +131,11 @@ She doesn't know if it's enough.
 
 ---
 
-## TRILOGY — COMPLETE ARC
+## WEEPING WILLOW — SERIES ARC (BOOKS 1–3)
 
-**Book 1:** Something is out there. (Discovery)
-**Book 2:** It's getting stronger — and so is the cost. (Escalation)
-**Book 3:** It can be stopped. But not without losing what made stopping it matter. (Resolution)
+**Weeping Willow: The First Cut** — Something is out there. (Discovery)
+**Weeping Willow: The Hunger** — It's getting stronger — and so is the cost. (Escalation)
+**Weeping Willow: The Silence** — It can be stopped. But not without losing what made stopping it matter. (Resolution)
 
 **Thematic completion:** The trilogy asks whether identity can survive the removal of its components. The answer is: barely. Not fully. But something persists — something beneath memory, beneath emotion, beneath everything that can be named or taken. Whether that's enough is left to the reader.
 

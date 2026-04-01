@@ -1,5 +1,16 @@
 # WEEPING WILLOW — WORLD BIBLE
 
+## SERIES NAME & STRUCTURE
+
+**Series:** Weeping Willow
+**Book 1:** Weeping Willow: The First Cut
+**Book 2:** Weeping Willow: The Hunger
+**Book 3:** Weeping Willow: The Silence
+
+The series name is **Weeping Willow** — not "The Weeping Willow Trilogy." This keeps the door open for future books beyond the initial three.
+
+---
+
 ## TIME PERIOD
 
 **~2050** — Late 2040s to early 2050s.
