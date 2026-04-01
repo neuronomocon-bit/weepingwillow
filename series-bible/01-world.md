@@ -105,7 +105,7 @@ It was a small deviation. A single variable changed in a system already operatin
 
 ### The Researcher
 - Identity and full backstory held for Book 2 reveal
-- Driven by personal loss (mirrors Iris/Mara dynamic — lost someone, tried to bring them back through the system)
+- Driven by personal loss (mirrors Iris/Lena dynamic — lost someone, tried to bring them back through the system)
 - Current status: unknown. Whether Willow took them or they destroyed themselves is an open question.
 
 ### The Facility

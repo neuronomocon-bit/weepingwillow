@@ -31,11 +31,12 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 ### Chapter 3 — The First Case
 
 **POV:** Iris Vale
-**Location:** A residential area in Lowport. The home of the first reported anomaly case.
+**Location:** A residential area in Lowport, north side. The home of the first reported anomaly case.
 **Goal:** Iris investigates a person who "came back different" — flagged by Kade as possibly connected to Meridian-adjacent sites.
 **Conflict:** The person isn't hostile, isn't distressed. They're just diminished. Functional but flat. Their family is confused, frightened. Medical explanations don't fit.
 **Outcome:** Iris observes but can't explain what she's seeing. Something about the case feels familiar — a recognition she can't place. She reports back to Kade.
 **Emotional Beat:** Standing outside the person's home afterward, Iris feels a faint pressure in her head — the first hint of her proximity sense, though she doesn't understand it yet.
+**As Written:** Subject is Joel (dock worker/logistics). Wife is Leah. Case ref K-01. Joel was gone two days, returned "fine." Responses are correct but empty — "I know what is necessary," "It was appropriate." Iris reports to Kade: "Something has been removed."
 
 ---
 
