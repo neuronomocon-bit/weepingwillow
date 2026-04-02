@@ -3,7 +3,7 @@
 ## What This Project Is
 
 A horror/sci-fi novel series called **Weeping Willow**. First three books:
-- **Weeping Willow: The First Cut** (Book 1)
+- **Weeping Willow: The Absence** (Book 1)
 - **Weeping Willow: The Hunger** (Book 2)
 - **Weeping Willow: The Silence** (Book 3)
 
@@ -24,7 +24,7 @@ All 12 docs in `series-bible/`:
 | `01-world.md` | Setting (Lowport, Maine, ~2050), tech, Meridian origin, atmosphere, public awareness arc |
 | `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Virek, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
 | `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
-| `04-book1-outline.md` | "The First Cut" — 3-act structure, detailed beats |
+| `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
 | `06-book2-outline.md` | "The Hunger" — act structure, origin reveal, Willow's choice |
 | `07-book3-outline.md` | "The Silence" — final confrontation, destruction method, locked specifics |
@@ -42,8 +42,10 @@ All 12 docs in `series-bible/`:
 - Book 1 Ch2 — Caleb Ward ✅
 - Book 1 Ch3 — The First Case ✅
 - Book 1 Ch4 — Lila Mercer ✅
+- Book 1 Ch5 — Kade ✅
+- Book 1 Ch6 — Rourke ✅
 
-**Next up:** Book 1 Ch5 — Kade
+**Next up:** Book 1 Ch7 — The Pattern
 
 ## How to Review a Chapter
 
@@ -71,5 +73,18 @@ When user says a chapter is in `chapter_review.md`:
 - Ch1 time gap: 14:07 to 14:41
 - Caleb's key line: "You don't have to optimize the answer"
 - Iris's report to Kade: "Something has been removed"
+- Ch5 Kade's office: second floor, repurposed building, keypad entry, layered maps on wall, boxes with site codes
+- Ch5 Meridian scope: multiple sites (primary, secondary storage, offsite data mirrors), six confirmed adjacent locations in Iris's folder
+- Ch5 Meridian risk management: sites spread deliberately — "From themselves"
+- Ch5 Iris total time inside Meridian: three hours (34-minute gap within that)
+- Ch5 Iris self-description: works "more efficiently" now — Kade notes she would have "pushed harder" before Meridian
+- Ch5 Iris's closing assessment: "It's moving"
+- Ch5 Terms: "Access, retrieval, no questions that get written down"
+- Ch6 Rourke's dataset: hundreds of cases, classified as "behavioral flattening, dissociative presentation, emotional attenuation"
+- Ch6 Neural imaging: reduced activity in specific emotional processing centers — "not uniform, targeted"
+- Ch6 No cases recover fully — treatment is "management"
+- Ch6 Rourke detects Iris presenting with same markers (flattened affect, delayed response, reduced emotional variance)
+- Ch6 Rourke gives Iris redacted case summaries on tablet — pragmatic, not alliance
+- Ch6 Iris emotional check: "Expected: frustration. Observed: none."
 - Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
 - Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent

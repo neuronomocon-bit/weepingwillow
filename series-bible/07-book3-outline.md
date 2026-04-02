@@ -133,7 +133,7 @@ She doesn't know if it's enough.
 
 ## WEEPING WILLOW — SERIES ARC (BOOKS 1–3)
 
-**Weeping Willow: The First Cut** — Something is out there. (Discovery)
+**Weeping Willow: The Absence** — Something is out there. (Discovery)
 **Weeping Willow: The Hunger** — It's getting stronger — and so is the cost. (Escalation)
 **Weeping Willow: The Silence** — It can be stopped. But not without losing what made stopping it matter. (Resolution)
 

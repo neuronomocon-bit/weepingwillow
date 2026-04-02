@@ -50,7 +50,7 @@ Formula: **page count x 0.002252"**
 
 These generate the full wrap background art. The front cover area is where you composite your Willow images. The biomechanical texture/border wraps continuously from back through spine to front.
 
-### Book 1 — The First Cut
+### Book 1 — The Absence
 
 **Background mood:** Raw. Industrial. Emerging. Dark as possible. The entity has just emerged — the biomechanical elements are exposed, wet, newly formed.
 
@@ -80,11 +80,11 @@ Dark biomechanical full book cover wrap (back cover, spine, front cover as one c
 
 ### Front Cover
 - **Series name:** "WEEPING WILLOW" — top area, within safe zone
-- **Subtitle:** "The First Cut" / "The Hunger" / "The Silence" — below series name
+- **Subtitle:** "The Absence" / "The Hunger" / "The Silence" — below series name
 - **Author name:** Bottom area, within safe zone
 
 ### Spine (top to bottom, rotated)
-- **Series + subtitle:** "WEEPING WILLOW: THE FIRST CUT"
+- **Series + subtitle:** "WEEPING WILLOW: THE ABSENCE"
 - **Author name:** near bottom
 - KDP convention: spine text reads top-to-bottom when book is face-up
 
@@ -109,7 +109,7 @@ Given the dark gothic aesthetic:
 
 ## Back Cover Copy (Draft — Adjust as Needed)
 
-### Book 1 — The First Cut
+### Book 1 — The Absence
 
 > The job was routine. Enter the sealed Meridian facility. Recover the data. Get out.
 >

@@ -3,7 +3,7 @@
 ## SERIES NAME & STRUCTURE
 
 **Series:** Weeping Willow
-**Book 1:** Weeping Willow: The First Cut
+**Book 1:** Weeping Willow: The Absence
 **Book 2:** Weeping Willow: The Hunger
 **Book 3:** Weeping Willow: The Silence
 

@@ -1,1026 +1,608 @@
-Chapter 4 — Lila Mercer
+Chapter 6 — Rourke
 
+The building was newer than the surrounding block.
 
+Not new in the way things were designed to look new. New in the way they were replaced—cleaner materials, sharper edges, systems that worked without adjustment. The older structures around it had been patched, layered over time. This one had been inserted.
 
-The building sat two blocks off the main road, set back behind a narrow strip of gravel and a row of low shrubs that had been trimmed into even lines and left that way.
+Lowport Public Health.
 
+The signage was simple. Matte. No backlighting.
 
+Inside, the air was controlled. Dry enough to notice.
 
-Three stories. Exterior siding replaced in sections. A security panel by the front door that still worked.
+The lighting was even. No flicker. No dim sections. Every surface was visible.
 
+Iris checked in at a wall-mounted terminal. Name. Time. Purpose. The system confirmed without sound. A door unlocked to her right.
 
+No waiting room.
 
-Iris pressed the call button.
+The corridor beyond was narrow but efficient. Doors evenly spaced. Frosted glass panels with printed identifiers. Behavioral Health. Intake. Evaluation.
 
+She followed the directions the system had given her. Third door on the left.
 
+It was already open.
 
-A pause.
+Dr. Elena Rourke was seated at a desk that faced the doorway. No attempt to soften the arrangement. No chairs angled for conversation. Two seats across from her, aligned straight.
 
+A screen hovered just above the desk surface, angled toward her. Data visible in layered windows. Charts. Text. Case identifiers.
 
+Rourke looked up as Iris stepped in.
 
-Then:
+“You’re early,” she said.
 
+“No delay.”
 
+Rourke nodded once, then gestured to the chair.
 
-“Yes?”
+“Sit.”
 
+Iris did.
 
+Rourke didn’t introduce herself. Didn’t ask if Iris knew who she was.
 
-The voice came through clean. No distortion.
+She tapped something on the screen. One window expanded. A profile.
 
-
-
-“Iris Vale,” she said. “You agreed to a visit.”
-
-
-
-Another pause. Shorter.
-
-
-
-“Yes. Come up.”
-
-
-
-The door unlocked with a soft click.
-
-
-
-Inside, the air was warmer than outside, but not by much. The kind of warmth that came from a system running consistently rather than comfortably.
-
-
-
-The hallway lights were on. No flicker. No gaps.
-
-
-
-Unit numbers were printed directly on the doors. No variation in placement.
-
-
-
-Lila’s was on the second floor.
-
-
-
-Iris knocked once.
-
-
-
-The door opened almost immediately.
-
-
-
-Lila Mercer stood there.
-
-
-
-Mid-thirties. Hair pulled back. Clean clothes. No visible signs of fatigue or stress.
-
-
-
-She looked directly at Iris.
-
-
-
-“Hello,” she said.
-
-
-
-“Hello.”
-
-
-
-Lila stepped aside.
-
-
-
-“Please come in.”
-
-
-
-The apartment was organized.
-
-
-
-Not in a deliberate way. Not staged.
-
-
-
-Everything was simply where it should be.
-
-
-
-Shoes placed evenly near the door. Surfaces clear. No objects out of alignment. No signs of interruption or abandonment.
-
-
-
-A small table near the window. Two chairs. A cup set near one edge.
-
-
-
-“Would you like something to drink?” Lila asked.
-
-
-
-“No.”
-
-
-
-“Okay.”
-
-
-
-Lila moved to the table and sat.
-
-
-
-Iris remained standing for a moment, then took the chair across from her.
-
-
-
-The window behind Lila faced the street. Light came through evenly. No curtains drawn.
-
-
-
-“Daniel said you had some questions,” Lila said.
-
-
+“You’ve been visiting cases,” Rourke said.
 
 “Yes.”
 
-
-
-“I can answer them.”
-
-
-
-Her tone was level. Not flat. Not warm.
-
-
-
-Correct.
-
-
-
-Iris watched her.
-
-
-
-Blink rate normal. Eye contact steady. No visible hesitation.
-
-
-
-“Can you tell me what happened,” Iris said.
-
-
-
-Lila nodded once.
-
-
-
-“I went to a location,” she said. “I met someone. We spoke. I left.”
-
-
-
-“Where.”
-
-
-
-“I don’t know the address.”
-
-
-
-“Do you remember how you got there.”
-
-
+“Without referral.”
 
 “Yes.”
 
+“That’s not standard.”
 
+“I’m not standard.”
 
-“How.”
+Rourke studied her for a moment. Not disapproving. Not approving. Assessing.
 
+“That doesn’t address it,” she said.
 
+“It’s accurate.”
 
-“I traveled.”
+Rourke let that pass.
 
-
-
-The answer held.
-
-
-
-No attempt to clarify.
-
-
-
-“Do you remember the person you met,” Iris asked.
-
-
+“Joel K-01,” she said, glancing at the screen. “North side. Dock logistics.”
 
 “Yes.”
 
-
-
-“What did they look like.”
-
-
-
-Lila paused.
-
-
-
-Not searching. Not struggling.
-
-
-
-Just a pause.
-
-
-
-“I don’t have that information,” she said.
-
-
-
-“You spoke with them.”
-
-
+“You spoke with him.”
 
 “Yes.”
 
-
-
-“And you don’t know what they looked like.”
-
-
-
-“No.”
-
-
-
-The words aligned. The structure held.
-
-
-
-Iris nodded once.
-
-
-
-“Do you feel any different since then,” she asked.
-
-
-
-“No.”
-
-
-
-“Any changes in memory.”
-
-
-
-“No.”
-
-
-
-“Sleep.”
-
-
-
-“No.”
-
-
-
-“Appetite.”
-
-
-
-“No.”
-
-
-
-“Pain.”
-
-
-
-“No.”
-
-
-
-Each answer came without delay. Without adjustment.
-
-
-
-Iris let the silence settle.
-
-
-
-Lila waited.
-
-
-
-Not impatient. Not expectant.
-
-
-
-Present.
-
-
-
-“Can you tell me about your day,” Iris said.
-
-
-
-Lila nodded again.
-
-
-
-“I woke at seven,” she said. “I ate breakfast. I cleaned the apartment. I went for a walk. I returned. I prepared food. I am here.”
-
-
-
-The sequence was complete.
-
-
-
-No additions.
-
-
-
-“Did anything stand out,” Iris asked.
-
-
-
-“No.”
-
-
-
-“Anything unusual.”
-
-
-
-“No.”
-
-
-
-Iris looked at the cup on the table.
-
-
-
-“Were you using that,” she asked.
-
-
+“And his wife.”
 
 “Yes.”
 
+Rourke tapped again. Another window.
 
-
-“What were you drinking.”
-
-
-
-“Tea.”
-
-
-
-“Do you like tea.”
-
-
+“Lila Mercer,” she said. “Second-floor unit. No prior psychiatric history. No neurological markers.”
 
 “Yes.”
 
-
-
-“What do you like about it.”
-
-
-
-Lila looked at the cup.
-
-
-
-Then back at Iris.
-
-
-
-“It is appropriate,” she said.
-
-
-
-The sentence landed and remained.
-
-
-
-Iris felt something in her hands.
-
-
-
-A small shift. Not visible.
-
-
-
-She placed her palms flat against her legs.
-
-
-
-“Do you have family,” Iris said.
-
-
+“You arranged that meeting through a third party.”
 
 “Yes.”
 
+Rourke’s eyes lifted from the screen.
 
-
-“Do you speak with them.”
-
-
-
-“Yes.”
-
-
-
-“When was the last time.”
-
-
-
-“Yesterday.”
-
-
-
-“What did you talk about.”
-
-
-
-“We exchanged updates.”
-
-
-
-“What kind of updates.”
-
-
-
-“Daily activity.”
-
-
-
-“Did anything in that conversation matter to you.”
-
-
-
-Lila considered this.
-
-
-
-“I do not have that information,” she said.
-
-
-
-The words were not deflective.
-
-
-
-They were exact.
-
-
-
-Iris nodded.
-
-
-
-“Can you describe how you feel right now,” she asked.
-
-
-
-“I feel well,” Lila said.
-
-
-
-“How.”
-
-
-
-“I am not in pain. I am functioning normally.”
-
-
-
-“Anything else.”
-
-
+“You’re not part of any formal investigation,” she said.
 
 “No.”
 
+“Then why are you doing this.”
 
+Iris considered the question.
 
-The room held steady.
+There were several possible answers. None of them complete.
 
+“I was at Meridian,” she said.
 
+Rourke didn’t react to the name immediately. Not visibly.
 
-No tension. No imbalance.
+“Many people were,” she said.
 
+“Not after shutdown.”
 
+That landed.
 
-Everything in it operated as expected.
+A small shift. Not in posture. In attention.
 
-
-
-Iris watched Lila’s face.
-
-
-
-There was no absence in the features themselves.
-
-
-
-The absence was behind them.
-
-
-
-Not visible.
-
-
-
-But present.
-
-
-
-She became aware of her breathing.
-
-
-
-Even. Controlled.
-
-
-
-Too controlled.
-
-
-
-She let it go.
-
-
-
-It did not change.
-
-
-
-“Do you remember being upset,” Iris said.
-
-
+“You were on-site,” Rourke said.
 
 “Yes.”
 
+“For what purpose.”
 
+“Data recovery.”
 
 “When.”
 
+Iris gave the date.
 
+Rourke’s fingers moved across the surface of the desk. Not typing. Pulling something up.
 
-“Before.”
+A new window. Restricted access. She entered a credential manually.
 
+The system hesitated. Then resolved.
 
+She read for a few seconds.
 
-“About what.”
+“MN-44-7,” she said.
 
+“Yes.”
 
+“You were cleared for limited retrieval.”
 
-Lila paused again.
+“Yes.”
 
+“You completed the job.”
 
+“Yes.”
 
-“I don’t have that information,” she said.
+Rourke looked up again.
 
-
-
-“Do you remember what that felt like.”
-
-
+“No incident report,” she said.
 
 “No.”
-
-
-
-The answer came clean.
-
-
-
-Iris felt it this time.
-
-
-
-Not in her head.
-
-
-
-In her arms.
-
-
-
-A faint tightening along the skin, like a response to cold that wasn’t there.
-
-
-
-She looked down at her hands.
-
-
-
-No visible change.
-
-
-
-She flexed her fingers once.
-
-
-
-The sensation remained.
-
-
-
-“Do you miss it,” Iris asked.
-
-
-
-Lila’s head tilted slightly.
-
-
-
-“Miss what.”
-
-
-
-“Being upset.”
-
-
-
-Lila considered the question.
-
-
-
-“No,” she said.
-
-
 
 “Why.”
 
+“I didn’t log one.”
 
-
-“I am functioning,” she said.
-
-
-
-The answer was complete.
-
-
-
-Iris nodded.
-
-
-
-“Do you feel concern for other people,” she asked.
-
-
-
-“Yes.”
-
-
-
-“How.”
-
-
-
-“I respond when required.”
-
-
-
-The phrasing held.
-
-
-
-“I respond when required.”
-
-
-
-Iris repeated it once in her head.
-
-
-
-No variation.
-
-
-
-“Do you feel concern for me,” she said.
-
-
-
-“Yes.”
-
-
-
-“How.”
-
-
-
-“You are here,” Lila said. “You have questions. I am answering them.”
-
-
+“That doesn’t address it.”
 
 Iris held her gaze.
 
+“I don’t remember everything that happened inside,” she said.
 
+Rourke watched her. Longer this time.
 
-There was no resistance in it.
+“How much don’t you remember.”
 
+“Thirty-four minutes.”
 
+“From when.”
 
-No deflection.
+“Mid-entry. Before exit.”
 
+“You continued functioning after.”
 
+“Yes.”
 
-No attempt to read Iris back.
-
-
-
-Just attention.
-
-
-
-Correct.
-
-
-
-The tightening in her arms spread slightly, up toward her shoulders.
-
-
-
-Not pain.
-
-
-
-Recognition.
-
-
-
-She stood.
-
-
-
-Lila stood with her.
-
-
-
-“Is there anything else you need,” Lila asked.
-
-
+“No disorientation reported.”
 
 “No.”
 
+“No physical injury.”
 
+“No.”
 
-“I can provide more information if necessary.”
+“No follow-up.”
 
+“No.”
 
+Rourke leaned back slightly.
 
-“I’ll let you know.”
+“And now you’re connecting that to these cases,” she said.
 
+“Yes.”
 
+“On what basis.”
 
-Lila nodded once.
+“Pattern.”
 
+“That’s not sufficient.”
 
+“No.”
 
-They moved toward the door.
+Rourke turned the screen slightly, angling it toward Iris.
 
+“This is my dataset,” she said.
 
+Rows of cases. Identifiers. Dates. Locations. Diagnostic notes.
 
-Everything in the apartment remained in place.
+“You’re seeing two, maybe three instances,” Rourke continued. “I’m seeing hundreds.”
 
+Iris scanned the list.
 
+The density was higher than she expected.
 
-Nothing disturbed.
+“These are all the same classification,” Rourke said. “Behavioral flattening. Dissociative presentation. Emotional attenuation.”
 
+“Attenuation,” Iris repeated.
 
+“Yes.”
 
-Lila opened the door.
+“Reduction.”
 
+“Yes.”
 
+Rourke watched her.
 
-The hallway light was the same as before.
+“That’s a description,” Iris said. “Not a cause.”
 
+“It’s a starting point.”
 
+“For treatment.”
 
-Iris stepped out.
+“For understanding.”
 
+Rourke expanded a chart. Graphs of response times. Emotional markers. Neural imaging overlays.
 
+“We’re seeing consistent patterns,” she said. “Reduced affective response. Lower emotional variance. Stable cognitive function.”
 
-Lila remained in the doorway.
+“Stable,” Iris said.
 
+“Yes.”
 
+“Then why are they being flagged.”
 
-“I hope you have a good day,” she said.
+“Because the change is abrupt,” Rourke said. “Not progressive. Not explained by baseline history.”
 
+“So something caused it.”
 
+“Yes.”
 
-The words were correct.
+“And you don’t know what.”
 
+“Not yet.”
 
+Iris looked back at the case list.
 
-The tone was correct.
+“Do they all have contact events,” she asked.
 
+“Define contact.”
 
+“An interaction. A specific point where something changes.”
 
-There was no delay. No emphasis.
+Rourke shook her head slightly.
 
+“Some do,” she said. “Some don’t.”
 
+“They do,” Iris said.
 
-Nothing wrong with it.
+Rourke’s expression didn’t change.
 
+“That’s an assumption,” she said.
 
+“No.”
 
-Iris looked at her.
+“It’s a conclusion based on incomplete data.”
 
+“It’s based on observation.”
 
+“Of a subset.”
 
-The tightening in her shoulders held.
+“Yes.”
 
+Rourke tapped the screen again.
 
+“These cases span multiple districts,” she said. “Different environments. Different demographics. No consistent exposure variable.”
 
-She recognized it.
+Iris followed the locations.
 
+They weren’t clustered cleanly.
 
+But they weren’t random either.
 
-Not as a thought.
+“They’re moving,” she said.
 
+Rourke didn’t respond immediately.
 
+“They’re not moving,” she said. “They’re appearing.”
 
-Not as a conclusion.
+“That’s the same thing,” Iris said.
 
+“No,” Rourke said. “It isn’t.”
 
+She leaned forward slightly, hands resting flat on the desk.
 
-As alignment.
+“What you’re describing,” she continued, “is an external agent. A single cause moving through the population.”
 
+“Yes.”
 
+“That’s not supported.”
 
-Lila stood there.
+“It is.”
 
+“By you.”
 
+“Yes.”
 
-Calm. Present. Functional.
+“That’s not sufficient.”
 
+“No.”
 
+The silence settled between them.
 
-Complete.
+Rourke shifted her focus back to the screen.
 
+“These cases respond to treatment variably,” she said. “Some stabilize. Some regress. Some remain unchanged.”
 
+“Do any recover fully,” Iris asked.
 
-Iris nodded once and turned away.
+Rourke paused.
 
+“No,” she said.
 
+“Then it’s not treatment.”
 
-The hallway stretched ahead of her in the same even light.
+“It’s management.”
 
+“Of what.”
 
+“Of a condition we don’t fully understand yet.”
 
-She walked to the stairs and descended without stopping.
+Iris watched her.
 
+“You’re not wrong about the symptoms,” she said.
 
+Rourke looked up.
 
-Outside, the air felt colder.
+“But you’re wrong about the cause.”
 
+“That’s your assessment.”
 
+“Yes.”
 
-The difference registered immediately.
+“Based on what.”
 
+Iris considered how to explain it.
 
+“They’re too consistent,” she said.
 
-She paused at the bottom of the steps.
+“In what way.”
 
+“The way they answer,” Iris said. “Not what they say. How it stops.”
 
+Rourke studied her.
 
-The sensation in her arms faded slowly, like something releasing its grip.
+“Clarify.”
 
+“They complete the response,” Iris said. “Then nothing follows.”
 
+“That’s not uncommon.”
 
-She flexed her fingers again.
+“No.”
 
+“But it’s consistent.”
 
+“That’s still not evidence.”
 
-Normal.
+“No.”
 
+Rourke leaned back again.
 
+“You’re identifying a pattern,” she said. “That’s useful. It’s part of what we do.”
 
-She looked back up at the building.
+“This isn’t what you do.”
 
+“That’s not accurate.”
 
+“You’re fitting it to a model.”
 
-Second floor.
+“Yes.”
 
+“It doesn’t fit.”
 
+“It will.”
 
-Window aligned with the others.
+“How.”
 
+“With more data.”
 
+Iris looked at the screen again.
 
-Nothing visible.
+“How many more,” she asked.
 
+Rourke didn’t answer that.
 
+Instead, she minimized the case list and pulled up another file.
 
-She stood there for a moment longer.
+Neural imaging.
 
+Highlighted regions. Comparative scans.
 
+“We’re seeing reduced activity in specific emotional processing centers,” she said. “Not uniform. Targeted.”
 
-Lila Mercer was not distressed.
+“Targeted,” Iris repeated.
 
+“Yes.”
 
+“By what.”
 
-Not damaged.
+“That’s what we’re determining.”
 
+Iris held her gaze.
 
+“It’s not random,” she said.
 
-Not aware of any change.
+“No.”
 
+“It’s not environmental.”
 
+“We haven’t ruled that out.”
 
-Iris turned and walked toward the street.
+“It’s not viral.”
 
+“We haven’t ruled that out.”
 
+“It’s not neurological in origin.”
 
-By the time she reached the van, the sensation was gone.
+Rourke’s expression remained steady.
 
+“That’s where we disagree,” she said.
 
+Iris nodded once.
 
-She opened the door and got in.
+“Yes.”
 
+Rourke studied her again.
 
+“You’re also presenting with some of the same markers,” she said.
 
-Sat.
+Iris didn’t respond.
 
+“Flattened affect,” Rourke continued. “Delayed response. Reduced emotional variance.”
 
+“Yes.”
 
-Hands on the wheel.
+“Have you been evaluated.”
 
+“No.”
 
+“You should be.”
 
-Still.
+“No.”
 
+“That’s not optional if you continue to involve yourself in these cases.”
 
+“It is for me.”
 
-Lila’s voice held.
+Rourke held her gaze.
 
+“You’re not immune,” she said.
 
+“I know.”
 
-I feel well.
+“Then why are you doing this.”
 
-I am functioning normally.
+Iris considered the question again.
 
-I hope you have a good day.
+“I was there,” she said.
 
+“That’s not sufficient.”
 
+“It is.”
 
-All correct.
+Rourke watched her for a few seconds longer.
 
+Then she closed the imaging file.
 
+“This is what I can tell you,” she said. “We are tracking this. We are treating it. We are not seeing evidence of an external agent.”
 
-Iris started the engine.
+“You are,” Iris said. “You’re just not calling it that.”
 
+Rourke shook her head slightly.
 
+“That’s not how this works.”
 
-She did not write anything down.
+“It is,” Iris said. “You just haven’t reached that point yet.”
 
+Rourke didn’t respond.
 
+Instead, she reached to the side and pulled a thin tablet from the desk. She slid it across to Iris.
 
-She did not need to.
+“Because you’re already involved,” Rourke said. “And I’d rather you work from something structured than invent the rest.”
 
+Iris looked at it but didn’t pick it up.
 
+“Why,” she asked.
 
-This was not a question.
+“Because you’re going to continue whether I agree with it or not.”
 
+“Yes.”
 
+“But this doesn’t mean I agree with your conclusion.”
 
-She pulled into the street and drove.
+“I know.”
 
+Rourke’s fingers rested on the edge of the tablet.
 
+“If you find something that fits your model,” she said, “bring it to me.”
 
-The city moved around her in its usual patterns.
+“I will.”
 
+“And if it doesn’t,” Rourke added, “stop forcing it to.”
 
+Iris nodded once.
 
-Nothing in it had changed.
+She picked up the tablet and stood.
 
+Rourke didn’t stand with her.
 
+The meeting was over.
 
-Something had.
+Iris moved toward the door, then paused.
 
+Not because of anything Rourke had said.
 
+Because of what should have followed.
 
-She knew what category it belonged to.
+Frustration. Resistance. Something pushing back against the dismissal.
 
+There was nothing.
 
+She turned back slightly.
 
-She did not have a name for it.
+“You’re wrong,” she said.
 
+The statement was flat. Not confrontational.
 
+Rourke met her eyes.
 
-She did not need one.
+“Probably,” she said. “At some point.”
 
+“Now.”
 
+Rourke didn’t argue.
 
-She drove.
+“That’s not what my data says,” she said.
 
+Iris nodded.
+
+“That’s the problem.”
+
+She opened the door and stepped into the corridor.
+
+The air felt the same as before. Controlled. Even.
+
+Behind her, the door closed with a soft seal.
+
+She walked the length of the corridor without slowing.
+
+Past identical doors. Identical panels. Identical lighting.
+
+Everything in the building functioned exactly as designed.
+
+At the exit, the system registered her departure automatically.
+
+The outer door unlocked.
+
+She stepped outside.
+
+The air shifted immediately. Damp. Cold. Less controlled.
+
+She stopped just beyond the threshold.
+
+Not because she needed to.
+
+Because she recognized the space where something should be.
+
+Frustration.
+
+She had been dismissed. Professionally. Completely.
+
+She understood why.
+
+She understood what that meant for the investigation.
+
+She understood that she should feel something in response.
+
+There was nothing.
+
+She noted it.
+
+A simple internal check.
+
+Expected: frustration.
+Observed: none.
+
+She stepped off the curb and continued down the street.
+
+The building behind her remained clean, lit, and correct.
+
+Inside, the model held.
+
+Outside, something was moving.

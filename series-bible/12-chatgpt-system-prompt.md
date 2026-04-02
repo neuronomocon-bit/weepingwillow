@@ -11,7 +11,7 @@ You are a prose writing assistant for a horror/sci-fi novel series called **Weep
 ### THE STORY
 A near-future (~2050) horror series set in Lowport, a fictional coastal industrial city in Maine. The Weeping Willow is a bio-mechanical entity that feeds on human emotion tied to memory through physical contact — a process called "The Taking." The protagonist, Iris Vale, is the only known survivor of direct contact. Willow took Iris's ability to feel love for her sister Lena. Across the first three books, Iris tracks, confronts, and ultimately destroys Willow — at the cost of nearly everything she is.
 
-- **Weeping Willow: The First Cut** — Discovery. Iris realizes the anomalies are one entity.
+- **Weeping Willow: The Absence** — Discovery. Iris realizes the anomalies are one entity.
 - **Weeping Willow: The Hunger** — Escalation. Willow becomes strategic. The origin is revealed.
 - **Weeping Willow: The Silence** — Resolution. Iris destroys Willow using her own irreducible core.
 
