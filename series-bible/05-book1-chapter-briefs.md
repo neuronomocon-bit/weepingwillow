@@ -50,6 +50,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **Conflict:** Lila is unsettling not because she's wrong, but because she's too smooth. She answers questions. She makes eye contact. She performs normalcy. But there is no depth behind any of it. Iris recognizes this — not intellectually, but physically. Her body reacts even when her emotions don't.
 **Outcome:** Iris leaves knowing this is real. Whatever happened to Lila is the same category as what happened to her — but complete. Lila is what full Taking looks like.
 **Emotional Beat:** Lila says something polite as Iris leaves. The words are correct. The tone is correct. Nothing is wrong with it. And that is exactly what is wrong with it.
+**As Written:** Lila's apartment — second floor, organized, nothing out of place. Kade arranged the visit ("Daniel said you had some questions"). Lila answers all questions correctly and immediately. Key responses: "I traveled," "It is appropriate" (about tea), "I don't have that information" (repeated — about the person she met, what upset her, whether a conversation mattered), "I respond when required" (about concern for others). Iris's body reacts physically — tightening in hands, then arms, then shoulders — while her emotions don't. Recognition is somatic, not intellectual. Parting line: "I hope you have a good day." Iris leaves knowing this is the same category as what happened to her, but complete. Does not write anything down. "This was not a question."
 
 ---
 

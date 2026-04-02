@@ -1,446 +1,1026 @@
-Chapter 3 — The First Case
+Chapter 4 — Lila Mercer
 
-The address sat on the north side of the city, where the houses had been built in rows that followed the curve of the shoreline before turning inward toward older streets.
 
-Small yards. Low fences. Paint that had been refreshed unevenly over the years. The kind of place where things were maintained just enough to keep working.
 
-Iris parked along the curb and shut off the engine.
+The building sat two blocks off the main road, set back behind a narrow strip of gravel and a row of low shrubs that had been trimmed into even lines and left that way.
 
-The house was one of several nearly identical structures on the block. Two stories. Narrow porch. A single window to the left of the front door with the blinds half drawn. Light inside, though the day did not require it.
 
-She checked the slate.
 
-Case Reference: K-01
-Source: Kade
-Note: “Came back different.”
-Flag: Possible Meridian adjacency
+Three stories. Exterior siding replaced in sections. A security panel by the front door that still worked.
 
-No additional detail.
 
-That was consistent with Kade. He sent what was needed to locate the problem. The rest was for observation.
 
-Iris stepped out of the van.
+Iris pressed the call button.
 
-The air here held less of the industrial edge. Still damp. Still cold in a way that stayed in surfaces. A thin layer of moisture clung to the porch railing when she touched it on her way up the steps.
 
-She knocked.
-
-Footsteps approached from inside. Not hurried. Not slow.
-
-The door opened.
-
-A woman stood there, mid-thirties, hair pulled back loosely, one hand still resting on the inside of the frame as if she had paused before opening it.
-
-“You’re—” she began.
-
-“Iris Vale,” Iris said. “You contacted Kade.”
-
-The woman nodded quickly.
-
-“Yes. Yes. Come in.”
-
-She stepped back to make space.
-
-The interior of the house was warm. Not comfortable. Just heated. The kind of warmth that came from keeping the system on slightly higher than needed.
-
-A man sat in a chair in the living room, angled toward a television that was on but muted. He turned his head when Iris entered.
-
-“Daniel said you’d come,” the woman said. “I’m— sorry. I didn’t— I’m Mara.”
-
-“Iris.”
-
-“This is—” Mara gestured toward the man. “—this is Joel.”
-
-Joel nodded.
-
-“Hello,” he said.
-
-His voice was clear. Level. Not strained. Not weak.
-
-Normal.
-
-Iris stepped into the room.
-
-“Can you tell me what happened,” she said.
-
-Mara moved closer to Joel without touching him.
-
-“He was gone for two days,” she said. “He said he was going to meet someone about work. He didn’t come back. His phone didn’t— it just stopped. And then he came home like nothing had happened.”
-
-Joel watched her while she spoke.
-
-Not with confusion. Not with concern. Just attention.
-
-“And?” Iris said.
-
-Mara swallowed.
-
-“And he’s… he’s fine,” she said, the word landing wrong. “He says he’s fine. He is fine. He eats. He sleeps. He talks to me. He goes to work.”
-
-Joel nodded once, as if confirming a statement.
-
-“I am fine,” he said.
-
-Iris looked at him.
-
-“Do you remember where you were,” she asked.
-
-“Yes,” Joel said.
-
-“Where.”
-
-“I met someone about a contract. We spoke. I returned home.”
-
-His tone remained steady. The words were appropriate. Structured correctly. No hesitation.
-
-“Where did you meet,” Iris asked.
-
-“A building near the coast.”
-
-“Do you know the address.”
-
-“No.”
-
-Mara shook her head slightly.
-
-“He doesn’t know anything,” she said. “He just says it like that every time.”
-
-Joel turned his head toward her.
-
-“I know what is necessary,” he said.
-
-The sentence was calm. Not defensive. Not reassuring.
-
-Just stated.
-
-Iris stepped closer.
-
-Joel’s posture was relaxed. Hands resting loosely on his knees. No tension in the shoulders. No visible fatigue.
-
-She watched his face.
-
-Blink rate normal. Eye movement steady. No delay in tracking.
-
-“Can you describe the person you met,” she said.
-
-Joel considered this for a fraction of a second.
-
-“They were there,” he said.
-
-“What did they look like.”
-
-“I do not know.”
-
-“You spoke with them.”
-
-“Yes.”
-
-“And you don’t know what they looked like.”
-
-“No.”
-
-Mara let out a small breath that caught halfway.
-
-“Do you hear that?” she said. “Do you hear how that sounds?”
-
-Joel looked at her again.
-
-“It is accurate,” he said.
-
-Mara pressed her lips together.
-
-Iris shifted her focus back to Joel.
-
-“Do you feel any different,” she asked.
-
-“No.”
-
-“Any changes in sleep. Appetite. Focus.”
-
-“No.”
-
-“Pain.”
-
-“No.”
-
-“Gaps in memory.”
-
-“No.”
-
-Mara laughed once, sharp and brief.
-
-“That’s the part,” she said. “There’s a gap. There has to be. He was gone for two days.”
-
-Joel did not react to the tone.
-
-“I remember what is necessary,” he said again.
-
-The repetition did not carry emphasis. It did not attempt to convince.
-
-It was simply the same sentence.
-
-Iris stood in front of him and let the silence settle.
-
-There was something in the way he held himself.
-
-Not wrong in any single element.
-
-The wrongness was in the absence of small things that should have been there.
-
-Micro-adjustments. Unconscious shifts in posture. The subtle unevenness that came from discomfort, from distraction, from internal noise.
-
-He was still.
-
-Not rigid. Not controlled.
-
-Just without excess.
-
-“Can you tell me about your day,” Iris said.
-
-Joel nodded.
-
-“I woke at six,” he said. “I ate breakfast. I left for work at seven. I returned at five. We ate dinner.”
-
-He paused.
-
-“We are now here.”
-
-The sequence was complete.
-
-Mara shook her head again, slower this time.
-
-“He used to—” she stopped. “He would talk. He would tell me things. Not like that.”
-
-Joel looked at her.
-
-“What would you like me to add,” he asked.
-
-The question was sincere.
-
-Mara didn’t answer.
-
-Iris watched him.
-
-“Tell me about something that bothered you this week,” she said.
-
-Joel considered.
-
-“There was a delay in a shipment,” he said. “It required adjustment.”
-
-“Did that bother you.”
-
-“It required adjustment,” he repeated.
-
-Iris nodded once.
-
-“Tell me about something you enjoyed.”
-
-Joel’s gaze shifted slightly, not away from her, but inward.
-
-“We had dinner,” he said.
-
-“What about it.”
-
-“It was appropriate.”
-
-Mara made a sound in her throat and turned away, moving toward the kitchen.
-
-“I’m sorry,” she said, not looking at either of them. “I’m sorry, I just—”
-
-She stopped at the counter, hands resting on the surface.
-
-Joel watched her go.
-
-His expression did not change.
-
-Iris stepped closer.
-
-“Do you feel concern for her,” she asked quietly.
-
-Joel followed her gaze.
-
-“She is distressed,” he said.
-
-“Yes.”
-
-“I will remain present.”
-
-The answer was correct.
-
-Iris felt it land without weight.
-
-She reached out and took his wrist.
-
-His skin was warm. Pulse steady. No resistance to the contact.
-
-Joel looked down at her hand, then back at her face.
-
-“Is that required,” he asked.
-
-“No.”
-
-She released him.
-
-The room held its shape.
-
-Nothing in it was broken.
-
-Nothing in it had failed in a way that would register on a system.
-
-Mara returned after a moment, wiping her hands on a towel that did not need wiping.
-
-“Can you fix this,” she said.
-
-The question was direct.
-
-Iris looked at her.
-
-“I don’t know what this is yet,” she said.
-
-Mara nodded once, as if that answer had been expected.
-
-“Daniel said you would say that.”
-
-“I need to observe,” Iris said.
-
-“For how long.”
-
-“I don’t know.”
-
-Mara glanced at Joel.
-
-He met her eyes with the same steady attention.
-
-She looked away first.
-
-“Okay,” she said. “Okay.”
-
-Iris stepped back.
-
-“I’ll report what I see,” she said.
-
-“Please,” Mara said.
-
-Joel inclined his head slightly.
-
-“Thank you for coming,” he said.
-
-The sentence was polite. Appropriate.
-
-Empty.
-
-Iris moved toward the door.
-
-Mara followed her out onto the porch.
-
-The air outside felt colder than when she had arrived.
-
-“Is he going to stay like this,” Mara asked.
-
-Iris paused.
-
-“I don’t have enough information,” she said.
-
-Mara nodded.
-
-“Right.”
-
-She looked back through the open door.
-
-Joel had not moved from the chair.
-
-The television continued to play without sound.
-
-“Call if anything changes,” Iris said.
-
-“I will.”
-
-Iris stepped off the porch and walked back to the van.
-
-She did not look back again.
-
-Inside the vehicle, she set her slate on the passenger seat and did not start the engine immediately.
-
-She closed her eyes for a moment.
-
-Joel’s voice replayed.
-
-I am fine.
-I know what is necessary.
-It is accurate.
-
-The structure of it held.
-
-No strain. No conflict.
-
-Nothing missing from the sentence.
-
-Something missing from the person.
-
-She opened her eyes.
-
-The street remained quiet. Other houses. Other lives moving in patterns that would not intersect with this one.
-
-She started the engine.
-
-Then stopped.
-
-There was a pressure.
-
-Faint.
-
-Not pain.
-
-A subtle weight behind her eyes, as if her body were registering something just outside her perception.
-
-She turned her head slightly, looking down the street, then back toward the house.
-
-Nothing visible.
-
-The pressure remained for a second longer.
-
-Then it eased.
-
-Iris sat with her hands on the wheel.
-
-The feeling did not return.
-
-She put the van in gear and pulled away from the curb.
-
-At the end of the block, she reached for the slate and opened a channel.
-
-“Kade,” she said.
 
 A pause.
 
-“Go,” his voice returned.
 
-“Subject is functional,” she said. “Cognitive responses intact. Language appropriate. No distress. No awareness of change.”
 
-“Family?”
+Then:
 
-“Observes difference. Cannot define it.”
 
-A beat.
 
-“Your read,” Kade said.
+“Yes?”
 
-Iris looked at the road ahead.
 
-“Something has been removed,” she said.
 
-“What.”
+The voice came through clean. No distortion.
 
-“I don’t know.”
 
-Silence on the line.
 
-“Send me everything,” Kade said.
+“Iris Vale,” she said. “You agreed to a visit.”
 
-“I will.”
 
-She ended the call.
 
-The pressure did not return as she drove.
+Another pause. Shorter.
 
-But she was aware of the place where it had been.
+
+
+“Yes. Come up.”
+
+
+
+The door unlocked with a soft click.
+
+
+
+Inside, the air was warmer than outside, but not by much. The kind of warmth that came from a system running consistently rather than comfortably.
+
+
+
+The hallway lights were on. No flicker. No gaps.
+
+
+
+Unit numbers were printed directly on the doors. No variation in placement.
+
+
+
+Lila’s was on the second floor.
+
+
+
+Iris knocked once.
+
+
+
+The door opened almost immediately.
+
+
+
+Lila Mercer stood there.
+
+
+
+Mid-thirties. Hair pulled back. Clean clothes. No visible signs of fatigue or stress.
+
+
+
+She looked directly at Iris.
+
+
+
+“Hello,” she said.
+
+
+
+“Hello.”
+
+
+
+Lila stepped aside.
+
+
+
+“Please come in.”
+
+
+
+The apartment was organized.
+
+
+
+Not in a deliberate way. Not staged.
+
+
+
+Everything was simply where it should be.
+
+
+
+Shoes placed evenly near the door. Surfaces clear. No objects out of alignment. No signs of interruption or abandonment.
+
+
+
+A small table near the window. Two chairs. A cup set near one edge.
+
+
+
+“Would you like something to drink?” Lila asked.
+
+
+
+“No.”
+
+
+
+“Okay.”
+
+
+
+Lila moved to the table and sat.
+
+
+
+Iris remained standing for a moment, then took the chair across from her.
+
+
+
+The window behind Lila faced the street. Light came through evenly. No curtains drawn.
+
+
+
+“Daniel said you had some questions,” Lila said.
+
+
+
+“Yes.”
+
+
+
+“I can answer them.”
+
+
+
+Her tone was level. Not flat. Not warm.
+
+
+
+Correct.
+
+
+
+Iris watched her.
+
+
+
+Blink rate normal. Eye contact steady. No visible hesitation.
+
+
+
+“Can you tell me what happened,” Iris said.
+
+
+
+Lila nodded once.
+
+
+
+“I went to a location,” she said. “I met someone. We spoke. I left.”
+
+
+
+“Where.”
+
+
+
+“I don’t know the address.”
+
+
+
+“Do you remember how you got there.”
+
+
+
+“Yes.”
+
+
+
+“How.”
+
+
+
+“I traveled.”
+
+
+
+The answer held.
+
+
+
+No attempt to clarify.
+
+
+
+“Do you remember the person you met,” Iris asked.
+
+
+
+“Yes.”
+
+
+
+“What did they look like.”
+
+
+
+Lila paused.
+
+
+
+Not searching. Not struggling.
+
+
+
+Just a pause.
+
+
+
+“I don’t have that information,” she said.
+
+
+
+“You spoke with them.”
+
+
+
+“Yes.”
+
+
+
+“And you don’t know what they looked like.”
+
+
+
+“No.”
+
+
+
+The words aligned. The structure held.
+
+
+
+Iris nodded once.
+
+
+
+“Do you feel any different since then,” she asked.
+
+
+
+“No.”
+
+
+
+“Any changes in memory.”
+
+
+
+“No.”
+
+
+
+“Sleep.”
+
+
+
+“No.”
+
+
+
+“Appetite.”
+
+
+
+“No.”
+
+
+
+“Pain.”
+
+
+
+“No.”
+
+
+
+Each answer came without delay. Without adjustment.
+
+
+
+Iris let the silence settle.
+
+
+
+Lila waited.
+
+
+
+Not impatient. Not expectant.
+
+
+
+Present.
+
+
+
+“Can you tell me about your day,” Iris said.
+
+
+
+Lila nodded again.
+
+
+
+“I woke at seven,” she said. “I ate breakfast. I cleaned the apartment. I went for a walk. I returned. I prepared food. I am here.”
+
+
+
+The sequence was complete.
+
+
+
+No additions.
+
+
+
+“Did anything stand out,” Iris asked.
+
+
+
+“No.”
+
+
+
+“Anything unusual.”
+
+
+
+“No.”
+
+
+
+Iris looked at the cup on the table.
+
+
+
+“Were you using that,” she asked.
+
+
+
+“Yes.”
+
+
+
+“What were you drinking.”
+
+
+
+“Tea.”
+
+
+
+“Do you like tea.”
+
+
+
+“Yes.”
+
+
+
+“What do you like about it.”
+
+
+
+Lila looked at the cup.
+
+
+
+Then back at Iris.
+
+
+
+“It is appropriate,” she said.
+
+
+
+The sentence landed and remained.
+
+
+
+Iris felt something in her hands.
+
+
+
+A small shift. Not visible.
+
+
+
+She placed her palms flat against her legs.
+
+
+
+“Do you have family,” Iris said.
+
+
+
+“Yes.”
+
+
+
+“Do you speak with them.”
+
+
+
+“Yes.”
+
+
+
+“When was the last time.”
+
+
+
+“Yesterday.”
+
+
+
+“What did you talk about.”
+
+
+
+“We exchanged updates.”
+
+
+
+“What kind of updates.”
+
+
+
+“Daily activity.”
+
+
+
+“Did anything in that conversation matter to you.”
+
+
+
+Lila considered this.
+
+
+
+“I do not have that information,” she said.
+
+
+
+The words were not deflective.
+
+
+
+They were exact.
+
+
+
+Iris nodded.
+
+
+
+“Can you describe how you feel right now,” she asked.
+
+
+
+“I feel well,” Lila said.
+
+
+
+“How.”
+
+
+
+“I am not in pain. I am functioning normally.”
+
+
+
+“Anything else.”
+
+
+
+“No.”
+
+
+
+The room held steady.
+
+
+
+No tension. No imbalance.
+
+
+
+Everything in it operated as expected.
+
+
+
+Iris watched Lila’s face.
+
+
+
+There was no absence in the features themselves.
+
+
+
+The absence was behind them.
+
+
+
+Not visible.
+
+
+
+But present.
+
+
+
+She became aware of her breathing.
+
+
+
+Even. Controlled.
+
+
+
+Too controlled.
+
+
+
+She let it go.
+
+
+
+It did not change.
+
+
+
+“Do you remember being upset,” Iris said.
+
+
+
+“Yes.”
+
+
+
+“When.”
+
+
+
+“Before.”
+
+
+
+“About what.”
+
+
+
+Lila paused again.
+
+
+
+“I don’t have that information,” she said.
+
+
+
+“Do you remember what that felt like.”
+
+
+
+“No.”
+
+
+
+The answer came clean.
+
+
+
+Iris felt it this time.
+
+
+
+Not in her head.
+
+
+
+In her arms.
+
+
+
+A faint tightening along the skin, like a response to cold that wasn’t there.
+
+
+
+She looked down at her hands.
+
+
+
+No visible change.
+
+
+
+She flexed her fingers once.
+
+
+
+The sensation remained.
+
+
+
+“Do you miss it,” Iris asked.
+
+
+
+Lila’s head tilted slightly.
+
+
+
+“Miss what.”
+
+
+
+“Being upset.”
+
+
+
+Lila considered the question.
+
+
+
+“No,” she said.
+
+
+
+“Why.”
+
+
+
+“I am functioning,” she said.
+
+
+
+The answer was complete.
+
+
+
+Iris nodded.
+
+
+
+“Do you feel concern for other people,” she asked.
+
+
+
+“Yes.”
+
+
+
+“How.”
+
+
+
+“I respond when required.”
+
+
+
+The phrasing held.
+
+
+
+“I respond when required.”
+
+
+
+Iris repeated it once in her head.
+
+
+
+No variation.
+
+
+
+“Do you feel concern for me,” she said.
+
+
+
+“Yes.”
+
+
+
+“How.”
+
+
+
+“You are here,” Lila said. “You have questions. I am answering them.”
+
+
+
+Iris held her gaze.
+
+
+
+There was no resistance in it.
+
+
+
+No deflection.
+
+
+
+No attempt to read Iris back.
+
+
+
+Just attention.
+
+
+
+Correct.
+
+
+
+The tightening in her arms spread slightly, up toward her shoulders.
+
+
+
+Not pain.
+
+
+
+Recognition.
+
+
+
+She stood.
+
+
+
+Lila stood with her.
+
+
+
+“Is there anything else you need,” Lila asked.
+
+
+
+“No.”
+
+
+
+“I can provide more information if necessary.”
+
+
+
+“I’ll let you know.”
+
+
+
+Lila nodded once.
+
+
+
+They moved toward the door.
+
+
+
+Everything in the apartment remained in place.
+
+
+
+Nothing disturbed.
+
+
+
+Lila opened the door.
+
+
+
+The hallway light was the same as before.
+
+
+
+Iris stepped out.
+
+
+
+Lila remained in the doorway.
+
+
+
+“I hope you have a good day,” she said.
+
+
+
+The words were correct.
+
+
+
+The tone was correct.
+
+
+
+There was no delay. No emphasis.
+
+
+
+Nothing wrong with it.
+
+
+
+Iris looked at her.
+
+
+
+The tightening in her shoulders held.
+
+
+
+She recognized it.
+
+
+
+Not as a thought.
+
+
+
+Not as a conclusion.
+
+
+
+As alignment.
+
+
+
+Lila stood there.
+
+
+
+Calm. Present. Functional.
+
+
+
+Complete.
+
+
+
+Iris nodded once and turned away.
+
+
+
+The hallway stretched ahead of her in the same even light.
+
+
+
+She walked to the stairs and descended without stopping.
+
+
+
+Outside, the air felt colder.
+
+
+
+The difference registered immediately.
+
+
+
+She paused at the bottom of the steps.
+
+
+
+The sensation in her arms faded slowly, like something releasing its grip.
+
+
+
+She flexed her fingers again.
+
+
+
+Normal.
+
+
+
+She looked back up at the building.
+
+
+
+Second floor.
+
+
+
+Window aligned with the others.
+
+
+
+Nothing visible.
+
+
+
+She stood there for a moment longer.
+
+
+
+Lila Mercer was not distressed.
+
+
+
+Not damaged.
+
+
+
+Not aware of any change.
+
+
+
+Iris turned and walked toward the street.
+
+
+
+By the time she reached the van, the sensation was gone.
+
+
+
+She opened the door and got in.
+
+
+
+Sat.
+
+
+
+Hands on the wheel.
+
+
+
+Still.
+
+
+
+Lila’s voice held.
+
+
+
+I feel well.
+
+I am functioning normally.
+
+I hope you have a good day.
+
+
+
+All correct.
+
+
+
+Iris started the engine.
+
+
+
+She did not write anything down.
+
+
+
+She did not need to.
+
+
+
+This was not a question.
+
+
+
+She pulled into the street and drove.
+
+
+
+The city moved around her in its usual patterns.
+
+
+
+Nothing in it had changed.
+
+
+
+Something had.
+
+
+
+She knew what category it belonged to.
+
+
+
+She did not have a name for it.
+
+
+
+She did not need one.
+
+
+
+She drove.
+

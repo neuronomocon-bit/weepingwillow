@@ -40,8 +40,9 @@ All 12 docs in `series-bible/`:
 - Book 1 Ch1 — The Gap ✅
 - Book 1 Ch2 — Caleb Ward ✅
 - Book 1 Ch3 — The First Case ✅
+- Book 1 Ch4 — Lila Mercer ✅
 
-**Next up:** Book 1 Ch4 — Lila Mercer
+**Next up:** Book 1 Ch5 — Kade
 
 ## How to Review a Chapter
 
