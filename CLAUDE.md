@@ -48,7 +48,15 @@ All 12 docs in `series-bible/`:
 - Book 1 Ch7 — The Pattern ✅
 - Book 1 Ch8 — Following the Thread ✅
 
-**Next up:** Book 1 Ch9 — The City Feels It
+- Book 1 Ch9 — The City Feels It ✅
+
+- Book 1 Ch10 — Lena ✅
+
+- Book 1 Ch11 — Caleb Shift ✅
+
+- Book 1 Ch12 — The Taking of Caleb Ward (MIDPOINT) ✅
+
+**Next up:** Book 1 Ch13 — After
 
 ## How to Review a Chapter
 
@@ -100,5 +108,25 @@ When user says a chapter is in `chapter_review.md`:
 - Ch8 Proximity sense at third site: faint shift, doesn't resolve, fades — "Something" / "Nothing"
 - Ch8 Iris erosion: watches Kade's pauses, notes them structurally not emotionally, recognizes the gap, does not feel the need to close it
 - Ch4 revision: added recovery exchange ("To return to a previous state of function") and "Do you feel like anything is missing" / "No"
+- Ch9 City flattening: fewer exchanges, interactions complete and stop, no extension, no overlap
+- Ch9 Rourke's notes shifting: fewer qualifiers, shorter, more direct
+- Ch9 Iris delays worsening: "duration longer than prior instances" — response to Kade's message delayed
+- Ch9 Faulty decision: chose farther site over closer one, couldn't reconstruct the logic, reversed
+- Ch9 Memory at intersection: image held, identity did not — can't tell if difference is the city or her
+- Ch10 Iris performs throughout — not transparent about the gap, constructs appropriate responses
+- Ch10 Key performances: "I still care" (clean, no hesitation), "In the ways that matter," "Showing up. Staying in contact. Maintaining—" (builds from a list)
+- Ch10 "I love you" exchange: words matched, tone aligned, no delay — Lena "almost convinced. Then not."
+- Ch10 Lena consulted a doctor — described Iris's behavior, told stress or dissociation
+- Ch11 Caleb micro-delays: pause a fraction too long, smile stays then drops, answer lands slightly late
+- Ch11 Caleb describes the site: "Nothing's broken. Everything's just… off." "Like the system's thinking about it before it does anything."
+- Ch11 Iris summary: "Function intact. Continuity intact. Something else — slightly displaced."
+- Ch11 Past-tense beat: "He had been the most alive person she knew. The tense registered. Past. She corrected it. He is. The correction held. Not fully."
+- Ch12 Caleb's POV — only chapter from his perspective. First on-page Taking.
+- Ch12 Taking memories: running as a kid, coffee on a late shift ("the warmth of it, the fact that they had noticed"), job gone wrong (improvised solution)
+- Ch12 Taking mechanism: feeling separates from image, then image follows. "Gone."
+- Ch12 Final memory: not an event but a state — "the sense that things mattered"
+- Ch12 Post-Taking: logs "Response timing remains inconsistent. No confirmed failure." — processes event through reduced framework
+- Ch12 Willow silent throughout. Hand on chest, flat, no pressure. Face not retained.
+- Ch12 "Nothing in him marked the change. Nothing in him noted the absence."
 - Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
 - Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent
