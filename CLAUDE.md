@@ -58,7 +58,13 @@ All 12 docs in `series-bible/`:
 
 - Book 1 Ch13 — After ✅
 
-**Next up:** Book 1 Ch14 — The Weight
+- Book 1 Ch14 — The Weight ✅
+
+- Book 1 Ch15 — Deterioration ✅
+
+- Book 1 Ch16 — The Realization (ACT II TURN) ✅
+
+**Next up:** Book 1 Ch17 — Tracking
 
 ## How to Review a Chapter
 
@@ -134,5 +140,21 @@ When user says a chapter is in `chapter_review.md`:
 - Ch13 Joke test: "I don't recall" → when prompted, "That's consistent" — not the same as the original, filled with something sufficient
 - Ch13 Key test: "If everything went wrong at once" — old Caleb would improvise, this Caleb gives textbook crisis management
 - Ch13 "The difference between them was not kind. Only degree."
+- Ch14 Rourke scene: 63 new cases, no recoveries, says "No" faster than before. "You used to elaborate" / "The data doesn't require elaboration." Steadiness tightened, not cracked.
+- Ch14 Retrieval lag: site address delayed 3-4 seconds. "Duration: longer than prior instances. Category: retrieval lag."
+- Ch14 Performing grief: Kade asks "Does it bother you" — Iris says "Yes" with correct tone, no internal state. "She had not been describing a condition. She had been answering."
+- Ch14 Two possibilities: dishonest, or she had forgotten to continue. Cannot determine which.
+- Ch15 False certainties: phantom case (certain she marked it, no record), false site memory (interior doesn't match exterior), unrecalled conversation with Kade
+- Ch15 Burned contact: flagged Iris to Kade, "said you came in wrong" — messages same but order shifted, something missing between
+- Ch15 Self-note: "Do not trust sequence." Later reopens — understands words, not the conclusion. Continues without verification.
+- Ch15 Map corruption: adjusts marker to fit path, coordinates don't match, leaves it
+- Ch15 "Certain. Incorrect. Continuing."
+- Ch16 Rebuilds map from verified record only — removes prior adjustments, path remains: one line, no branches
+- Ch16 "It's one." — single moving point of contact, selectively affecting individuals
+- Ch16 Iris maps her own symptoms onto the path (delay, retrieval lag, performance) — doesn't say it out loud
+- Ch16 Kade: "If you're right, we're not tracking something that happened. We're tracking something that's still happening."
+- Ch16 "The system had simplified. One."
+- Ch16 "She was the only one who could sense it. That was not an advantage. It was a limitation."
+- Ch16 "The door had closed."
 - Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
 - Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent
