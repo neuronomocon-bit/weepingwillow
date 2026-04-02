@@ -64,7 +64,16 @@ All 12 docs in `series-bible/`:
 
 - Book 1 Ch16 — The Realization (ACT II TURN) ✅
 
-**Next up:** Book 1 Ch17 — Tracking
+- Book 1 Ch17 — Tracking ✅
+- Book 1 Ch18 — The Deeper Zone ✅
+- Book 1 Ch19 — Closing Distance ✅
+- Book 1 Ch20 — Contact ✅
+- Book 1 Ch21 — Partial Loss ✅
+- Book 1 Ch22 — Exit ✅
+
+**Book 1 — The Absence: COMPLETE**
+
+**Next up:** Book 2 Ch1 — Aftermath
 
 ## How to Review a Chapter
 
