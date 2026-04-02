@@ -33,7 +33,7 @@ All 12 docs in `series-bible/`:
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
 | `12-chatgpt-system-prompt.md` | Ready-to-paste system prompt for ChatGPT + drift corrections |
-| `character-image-prompts.md` | DALL-E/ChatGPT image generation prompts for all characters |
+| `character-image-prompts.md` | DALL-E/ChatGPT image prompts — dark gothic painterly style, all 12 characters (16 prompts) |
 
 ## Writing Progress
 
@@ -71,3 +71,5 @@ When user says a chapter is in `chapter_review.md`:
 - Ch1 time gap: 14:07 to 14:41
 - Caleb's key line: "You don't have to optimize the answer"
 - Iris's report to Kade: "Something has been removed"
+- Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
+- Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent
