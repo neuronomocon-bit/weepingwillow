@@ -45,7 +45,10 @@ All 12 docs in `series-bible/`:
 - Book 1 Ch5 — Kade ✅
 - Book 1 Ch6 — Rourke ✅
 
-**Next up:** Book 1 Ch7 — The Pattern
+- Book 1 Ch7 — The Pattern ✅
+- Book 1 Ch8 — Following the Thread ✅
+
+**Next up:** Book 1 Ch9 — The City Feels It
 
 ## How to Review a Chapter
 
@@ -59,6 +62,7 @@ When user says a chapter is in `chapter_review.md`:
    - Character voice consistency (see `02-characters.md`)
    - Willow's physical rules (if applicable)
    - Continuity with prior chapters (check "As Written" blocks in earlier briefs)
+   - **Fragmentation & bloat check:** Flag sections where single-line/single-word paragraph rhythm becomes monotonous, content is restated without earning the repetition, or low-density prose inflates page count without adding meaning. The sparse style is correct for the series — but it must earn its space. Compound observations are allowed; not every beat needs its own line.
 4. Flag any issues: name conflicts, tone drift, missing beats, continuity breaks
 5. After approval, add an "As Written" block to the chapter brief with key prose details
 6. Commit and push when asked
@@ -86,5 +90,15 @@ When user says a chapter is in `chapter_review.md`:
 - Ch6 Rourke detects Iris presenting with same markers (flattened affect, delayed response, reduced emotional variance)
 - Ch6 Rourke gives Iris redacted case summaries on tablet — pragmatic, not alliance
 - Ch6 Iris emotional check: "Expected: frustration. Observed: none."
+- Ch7 Analysis method: time-filtered gradient, directional path (not cluster), infrastructure overlay filtered to Meridian-adjacent systems
+- Ch7 Transcript structure: "Question → Answer → Stop" — "Different words. Same shape."
+- Ch7 Proximity sense at map: "Location: frontal. Duration: brief. Intensity: minimal."
+- Ch7 Act I turn spoken aloud: "It's not a condition." "It's not environmental." "Something is moving." "And it touches people."
+- Ch8 Kade's Meridian access codes still work — clearance never revoked
+- Ch8 Site types: relay point (data movement), transfer point (equipment) — Kade recognized both from his logistics work
+- Ch8 Kade's guilt: "I moved things through here. Crates. Equipment. Data units. Didn't ask what was in them." "Didn't ask why."
+- Ch8 Proximity sense at third site: faint shift, doesn't resolve, fades — "Something" / "Nothing"
+- Ch8 Iris erosion: watches Kade's pauses, notes them structurally not emotionally, recognizes the gap, does not feel the need to close it
+- Ch4 revision: added recovery exchange ("To return to a previous state of function") and "Do you feel like anything is missing" / "No"
 - Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
 - Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent
