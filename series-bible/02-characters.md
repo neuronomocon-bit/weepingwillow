@@ -281,3 +281,82 @@ First fully Taken individual Iris interacts with during the story. Walking proof
 - Shows the outcome clearly and early — establishes what "Taken" looks like before the reader sees it happen
 - Sets the tone for the horror: not violent, not dramatic — just absence
 - Proves to the reader (if not to the world) that Iris is right
+
+---
+
+## JOEL (First Case — Book 1 Ch3)
+
+### Role
+First reported anomaly case Iris investigates. A dock worker / logistics employee on Lowport's north side. Case ref K-01, flagged by Kade.
+
+### What Happened
+Gone for two days. Returned "fine." Functional but hollow — responses correct but empty.
+
+### Key Responses (As Written)
+- "I know what is necessary."
+- "It was appropriate."
+
+### Function
+- First external confirmation that what happened to Iris is happening to others
+- Establishes the pattern: contact-based, localized, progressive
+- His case is what triggers Iris's report to Kade: "Something has been removed."
+
+---
+
+## LEAH (Joel's Wife — Book 1 Ch3)
+
+### Role
+Joel's wife. Represents the family left behind — confused, frightened, unable to explain what changed.
+
+### Function
+- Shows the human cost from the other side — the people who have to live with someone who came back different
+- Emotional contrast to Joel's flatness
+- Mirrors what Lena experiences with Iris, at a smaller scale
+
+---
+
+## ENZO (Deliberate Target — Book 2 Ch5)
+
+### Role
+A musician in Lowport. One of Willow's first deliberately chosen targets — selected not by proximity but by emotional profile. Deep interior life, unresolved creative tension, rich emotional landscape.
+
+### Function
+- The on-page proof that Willow has evolved from proximity-based feeding to psychological selection
+- When Iris visits his home, the evidence of a full life — instruments, photos, creative work — shows what Willow saw: complexity worth consuming
+- His Taking has no geographic connection to Meridian. Willow traveled to find him. That's the turning point.
+
+---
+
+## JOE E. (Pattern-Shift Case — Book 2 Ch2)
+
+### Role
+A counselor in Lowport. One of the new cases that breaks the old geographic tracking model. His entire professional life was built around emotional depth — listening, holding, processing other people's pain.
+
+### Function
+- Named in case files when Iris and Kade map the pattern shift
+- Represents the new victim profile: people with deep emotional lives, not people near Meridian sites
+- A counselor being emptied of emotional capacity is its own specific horror — the person who helped others feel is now someone who can't
+
+---
+
+## XANDER (Predicted Target — Book 2 Ch17)
+
+### Role
+A Lowport resident Iris identifies as a likely Willow target using the emotional profile model. She finds him before Willow does — or tries to.
+
+### Function
+- Gives the predicted-target list a human face instead of abstract data points
+- Makes Iris's "thinking like Willow" beat concrete and disturbing — she identified him the same way Willow would
+- Raises the stakes: can Iris protect someone she's flagged, or is identification the same as marking them?
+
+---
+
+## WESTON (The Quiet World — Book 3 Ch7)
+
+### Role
+A Lowport resident who was volatile, anxious, and struggling before Willow's spread. Now calm, content, functional. He represents the city accepting the change — and the horror of that acceptance.
+
+### Function
+- Embodies the Book 3 central nightmare: damage that looks like improvement
+- Was genuinely suffering before. Is genuinely calmer now. The reduction helped him by every metric. And something essential is gone.
+- Forces the reader to sit with the uncomfortable question: if the person doesn't miss what was taken, is it still loss?

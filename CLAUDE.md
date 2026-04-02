@@ -22,7 +22,7 @@ All 12 docs in `series-bible/`:
 | File | Contents |
 |------|----------|
 | `01-world.md` | Setting (Lowport, Maine, ~2050), tech, Meridian origin, atmosphere, public awareness arc |
-| `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Virek, Lila Mercer |
+| `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Virek, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
 | `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
 | `04-book1-outline.md` | "The First Cut" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
@@ -33,6 +33,7 @@ All 12 docs in `series-bible/`:
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
 | `12-chatgpt-system-prompt.md` | Ready-to-paste system prompt for ChatGPT + drift corrections |
+| `character-image-prompts.md` | DALL-E/ChatGPT image generation prompts for all characters |
 
 ## Writing Progress
 

@@ -77,9 +77,9 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **POV:** Iris Vale (observational)
 **Location:** Lowport. Public spaces. The quiet city.
 **Goal:** The Act I turn: the world isn't collapsing. It's changing. And it might be accepting the change.
-**Conflict:** People are adapting. Not fighting — adapting. The reduced emotional landscape is becoming normal. People don't miss what they can't remember losing. Social friction is down. Productivity is up. The city works better in measurable ways. Some people are even grateful — calmer, less anxious, less burdened. The horror of Book 3 isn't chaos. It's contentment. Manufactured peace built on theft.
+**Conflict:** People are adapting. Not fighting — adapting. The reduced emotional landscape is becoming normal. People don't miss what they can't remember losing. Social friction is down. Productivity is up. The city works better in measurable ways. Some people are even grateful — Weston, a man who was volatile, anxious, and struggling before, is now calm, content, functional. He'll tell anyone who asks that he feels better. He's not wrong. And something essential is gone. The horror of Book 3 isn't chaos. It's contentment. Manufactured peace built on theft.
 **Outcome:** The world is not going to fight this. Not because it can't — because it doesn't want to. The absence of pain feels like improvement. Only people who remember what pain was for — what it protected, what it meant — can see the loss. And there are fewer of those people every day.
-**Emotional Beat:** Iris walks through a park. Children play. Quietly. Correctly. No screaming, no tears, no wild joy. Just activity. Efficient, pleasant activity. Iris watches and thinks: this is what Willow wants. Not destruction. Completion. A finished world. Smooth. Resolved. Silent.
+**Emotional Beat:** Iris walks through a park. Children play. Quietly. Correctly. No screaming, no tears, no wild joy. Just activity. Efficient, pleasant activity. She passes Weston — calm, pleasant, improved by every metric. He nods. She nods back. He was suffering before. He isn't now. The question sits: if the person doesn't miss what was taken, is it still loss? Iris watches and thinks: this is what Willow wants. Not destruction. Completion. A finished world. Smooth. Resolved. Silent.
 
 ---
 

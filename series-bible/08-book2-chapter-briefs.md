@@ -22,7 +22,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **POV:** Iris Vale
 **Location:** Kade's operational space. Case files, maps, location data.
 **Goal:** Establish that Willow's behavior has changed. The pattern from Book 1 no longer holds.
-**Conflict:** New cases are appearing, but they don't fit the old geographic/proximity model. The victims aren't near Meridian-connected sites. They aren't random either. Specific individuals — a counselor, a musician, a woman caring for her aging mother. People with deep emotional lives. Iris sees it before Kade does: Willow is choosing.
+**Conflict:** New cases are appearing, but they don't fit the old geographic/proximity model. The victims aren't near Meridian-connected sites. They aren't random either. Specific individuals — Joe E., a counselor whose whole life was holding other people's pain; a musician; a woman caring for her aging mother. People with deep emotional lives. Iris sees it before Kade does: Willow is choosing.
 **Outcome:** The old tracking model is obsolete. Willow has evolved past instinct into selection.
 **Emotional Beat:** Iris looks at the victim profiles and recognizes the type — people who feel deeply, carry unresolved weight, have complex interior lives. People like she used to be. Willow is hunting what Iris lost.
 
@@ -55,9 +55,9 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **POV:** Iris Vale
 **Location:** The home or workplace of a newly affected individual. Lowport residential zone.
 **Goal:** Show the first clear evidence of deliberate selection.
-**Conflict:** Iris investigates a new case — someone Taken who was nowhere near any known Willow territory. No geographic connection. No Meridian tie. But the person fits the profile: emotionally complex, carrying significant unresolved weight. Willow traveled to find them. Chose them. This isn't proximity-based feeding anymore. It's hunting.
+**Conflict:** Iris investigates Enzo — a musician, Taken, who was nowhere near any known Willow territory. No geographic connection. No Meridian tie. But he fits the profile: emotionally complex, carrying significant unresolved creative tension. Willow traveled to find him. Chose him. This isn't proximity-based feeding anymore. It's hunting.
 **Outcome:** Iris maps the new data against the old. The pattern has shifted entirely — from spatial to psychological. Willow is targeting emotional richness.
-**Emotional Beat:** Iris stands in the victim's home. Photos on walls. Evidence of a full life. She looks at it all and recognizes what Willow saw — a dense, rich emotional landscape. The perfect meal. Iris used to have one of those.
+**Emotional Beat:** Iris stands in Enzo's home. Instruments, photos, evidence of a full creative life. She looks at it all and recognizes what Willow saw — a dense, rich emotional landscape. The perfect meal. Iris used to have one of those.
 
 ---
 
@@ -191,9 +191,9 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **POV:** Iris Vale (with Kade)
 **Location:** Lowport's outer zones transitioning to populated areas — Willow operates everywhere now.
 **Goal:** Iris adapts her tracking method. She stops predicting location and starts predicting targets.
-**Conflict:** Using the emotional profile model and Rourke's data, Iris identifies likely next targets — people who fit the pattern Willow has established. She positions herself near them. Not as protection — as bait for proximity. She's using her own damaged connection to Willow as a detection system. Kade objects. Iris does it anyway.
+**Conflict:** Using the emotional profile model and Rourke's data, Iris identifies likely next targets — people who fit the pattern Willow has established. One of them is Xander — someone whose emotional profile flags him as exactly what Willow selects for. She positions herself near predicted targets. Not as protection — as bait for proximity. She's using her own damaged connection to Willow as a detection system. Kade objects. Iris does it anyway.
 **Outcome:** The method works — partially. Iris's proximity sense confirms Willow's interest in a predicted target. But being right doesn't mean being able to stop it.
-**Emotional Beat:** Iris looks at the list of predicted targets. Names. Faces. People with rich emotional lives. She's identifying them the same way Willow does — by their emotional complexity. She's thinking like the thing that damaged her. She notes this. She does not stop.
+**Emotional Beat:** Iris looks at the list of predicted targets. Xander's name. Others. Faces. People with rich emotional lives. She's identifying them the same way Willow does — by their emotional complexity. She's thinking like the thing that damaged her. She identified Xander the same way Willow would have. She notes this. She does not stop.
 
 ---
 
