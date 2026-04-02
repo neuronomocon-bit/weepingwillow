@@ -56,7 +56,9 @@ All 12 docs in `series-bible/`:
 
 - Book 1 Ch12 — The Taking of Caleb Ward (MIDPOINT) ✅
 
-**Next up:** Book 1 Ch13 — After
+- Book 1 Ch13 — After ✅
+
+**Next up:** Book 1 Ch14 — The Weight
 
 ## How to Review a Chapter
 
@@ -128,5 +130,9 @@ When user says a chapter is in `chapter_review.md`:
 - Ch12 Post-Taking: logs "Response timing remains inconsistent. No confirmed failure." — processes event through reduced framework
 - Ch12 Willow silent throughout. Hand on chest, flat, no pressure. Face not retained.
 - Ch12 "Nothing in him marked the change. Nothing in him noted the absence."
+- Ch13 Post-Taking Caleb: answers clean, immediate, correct — no excess, no deviation, just acceptance
+- Ch13 Joke test: "I don't recall" → when prompted, "That's consistent" — not the same as the original, filled with something sufficient
+- Ch13 Key test: "If everything went wrong at once" — old Caleb would improvise, this Caleb gives textbook crisis management
+- Ch13 "The difference between them was not kind. Only degree."
 - Willow reference images: `C:\Users\kriss\Dropbox\weepingwillow\` (true form + human form)
 - Image style: dark gothic painterly, near-monochrome, NOT photorealism — Beksinski-adjacent

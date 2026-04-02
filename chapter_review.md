@@ -1,257 +1,391 @@
-Chapter 12 — The Taking of Caleb Ward
+Chapter 13 — After
 
-The site was quiet.
+Caleb agreed to meet.
 
-End of shift. Most of the crew had cleared out. Systems powered down in stages, leaving only baseline operation—low lighting, minimal noise, a steady mechanical presence that didn't require attention.
+No hesitation. No rescheduling. A time, a place, confirmed on first message.
 
-Caleb stayed.
+Iris arrived first.
 
-One more pass. That was the reason.
+A small bar near the edge of Lowport. Not crowded. Not empty. The kind of place Caleb would have chosen before—practical, familiar, close to the outer zones.
 
-It wasn't necessary.
+She took a seat near the wall. Clear view of the entrance.
 
-He did it anyway.
+Caleb arrived on time.
 
-He moved through the structure without checking his device. The layout was familiar enough. He knew where everything was supposed to be, and where it had been drifting out of alignment.
+He saw her, nodded once, and walked over.
 
-The corridors were narrower in this section. Older construction. Reinforced walls, exposed runs along the ceiling. No windows.
+“Iris,” he said.
 
-He reached the control room at the far end.
+“Caleb.”
 
-The panel was active.
+He sat across from her.
 
-He stood in front of it, watching the readouts.
-Everything reported within acceptable range.
+No delay. No adjustment. Movement efficient.
 
-Still—
+“You said you wanted to talk,” he said.
 
-He waited.
+“Yes.”
 
-Not for anything specific.
+A server approached. Caleb ordered. Standard. No variation.
 
-Just long enough to confirm what he already knew.
+Iris declined.
 
-Something wasn't right.
+“You’ve been working outer sites,” she said.
 
-He turned away.
+“Yes.”
 
-The room held steady behind him.
+“Same rotation.”
 
-He stepped back into the corridor. Stopped.
+“Yes.”
 
-Not because he heard something.
+“Any issues.”
 
-Because something had changed.
+“Minor inconsistencies,” he said. “Nothing that affects function.”
 
-He looked down the length of the corridor. Empty. Lighting consistent. No movement. No sound beyond the low system hum.
+The phrasing was precise. Neutral.
 
-He took a step forward. Then another.
+Iris watched him.
 
-The sensation wasn't external. Not a sound. Not a shift in the air.
+“You’ve been logging them,” she said.
 
-A recognition.
+“Yes.”
 
-He slowed.
+“For how long.”
 
-There was someone at the far end of the corridor.
+“Several days.”
 
-He hadn't seen her enter.
+“Progression.”
 
-She was simply—
+“Inconclusive.”
 
-there.
+The answers came clean. Immediate. Correct.
+No excess. No deviation.
 
-Standing in the intersection where the corridor split. Still. Not watching him. Not moving.
+Caleb took a sip of his drink.
 
-Present.
+“You’re evaluating,” he said.
 
-Caleb didn't speak. Didn't reach for anything.
+“Yes.”
 
-There was no immediate reaction to access. No escalation.
+“Me.”
 
-He walked toward her.
+“Yes.”
 
-Not cautiously. Not quickly. At the same pace he had been moving before.
+He nodded once.
 
-She remained where she was.
+“Alright.”
 
-As he got closer, details resolved. Human shape. Proportions correct. Stillness exact.
+No reaction. No resistance. Just acceptance.
 
-Her face—
+Iris held his gaze.
 
-He tried to focus on it. The attempt didn't hold. Not obscured. Not hidden.
+“You feel different,” she said.
 
-Not retained.
+“No.”
 
-He reached a distance where a normal person would have stopped.
+The answer came without delay.
 
-He didn't.
+“Any changes in sleep.”
 
-Another step.
+“No.”
 
-She moved. Not forward. Not back. Just enough to close the remaining space. No visible effort.
+“Memory.”
 
-One moment distance.
+“No.”
 
-The next—
+“Appetite.”
 
-none.
+“No.”
 
-Her hand rose.
+“Pain.”
 
-Not fast. Not slow.
+“No.”
 
-Correct.
+The sequence completed.
 
-It made contact with his chest. Flat. Over the center. No pressure. No force.
+No variation.
 
-Caleb stopped.
+Iris adjusted slightly in her seat.
 
-Not by choice. The movement ceased. Everything held. The corridor. The systems. His body.
+“You don’t notice anything,” she said.
 
-The contact remained. No change in temperature. No visible effect.
+“No.”
+
+“Nothing at all.”
+
+“No.”
+
+Caleb set his glass down.
+
+“You’re looking for a problem,” he said.
+
+“Yes.”
+
+“You’re not going to find one.”
+
+“Why.”
+
+“Because there isn’t one.”
+
+The tone held. Even. Measured.
+
+Iris watched him.
+
+This was Caleb.
+
+Face, posture, voice.
+
+The same.
+
+Not the same.
+
+“You remember the relay site,” she said.
+
+“Yes.”
+
+“You said it felt off.”
+
+“Yes.”
+
+“How.”
+
+He paused.
+
+A fraction.
+
+Short.
 
 Then—
 
-something opened.
+“Timing irregularities,” he said. “Response lag within acceptable range.”
 
-Not in front of him. Not around him.
+The answer was correct.
 
-Inside.
+Complete.
 
-A memory surfaced. Unprompted. Sharp.
+Iris held the silence after it.
 
-Him, younger. Running. Not toward anything specific—just moving because he could. Air in his lungs, uneven ground under his feet, the certainty that he wouldn't fall.
+“You made a joke about it,” she said.
 
-It held.
+“Yes.”
 
-Another.
+“What was it.”
 
-A late shift somewhere industrial. Someone handed him a coffee he hadn't asked for. The warmth of it. The fact that they had noticed.
+Caleb looked at her.
 
-Another.
+No hesitation.
 
-A job gone wrong. Improvised solution. The moment where it should have failed—and didn't. The edge of it. The satisfaction.
+“I don’t recall.”
 
-They came faster.
+The answer was reasonable.
 
-Not ordered. Not selected.
+Accurate.
 
-Moments with weight. With heat.
+Wrong.
 
-Emotion attached to each one. Not remembered. Felt. All at once.
+Iris continued.
 
-He couldn't move. Couldn't interrupt it.
+“You said it was outlasting everyone who worked on it,” she said.
 
-Didn't try.
+“Yes.”
 
-Her hand didn't shift. The contact remained constant.
+He nodded.
 
-The memories began to thin.
+“That’s consistent,” he said.
 
-Not fade.
+Not the same.
 
-Remove.
+Iris felt the distinction.
 
-The first one—the running—lost its edge. The physical certainty dissolved. The feeling separated from the image. Then the image followed.
+Not emotionally.
 
-Gone.
+Structurally.
 
-The next—the coffee, the warmth—flattened. The reaction disappeared first. Then the context. Then the face.
+The space where the original response should have been.
+Filled with something sufficient.
 
-Gone.
+She leaned forward slightly.
 
-Another. And another.
+“What do you think is causing it,” she asked.
 
-Not all of them. Not everything.
+“The inconsistencies.”
 
-Just—
+“Yes.”
 
-enough.
+Caleb considered.
 
-Caleb stood in the corridor. The sequence continued. Each moment surfaced. Reduced. Stripped of what made it hold.
+“Degraded systems,” he said. “Legacy components operating beyond intended lifecycle. Environmental factors may contribute.”
 
-He registered it. Not as loss. As change.
+He stopped.
 
-There was no panic. No attempt to resist. No framework for either.
+The answer was complete.
 
-Her hand remained against his chest. Steady. Precise.
+It would hold under review.
+It did not extend.
 
-The process moved through him without variation. Consistent. Efficient.
+Old Caleb would have.
 
-One of the memories held longer than the others.
+He would have pushed it further. Improvised. Taken the idea somewhere unnecessary and useful at the same time.
 
-He didn't recognize it immediately.
+This version did not.
 
-Not a specific event.
+Iris watched him.
 
-A state.
+“You’re satisfied with that,” she said.
 
-Standing somewhere familiar. Not a location—an orientation. The sense that things mattered. That actions carried weight beyond completion.
+“Yes.”
 
-He tried to hold it.
+“Why.”
 
-Not physically.
+“It explains the observed behavior.”
 
-Just—
+“That’s enough.”
 
-remain with it.
+“Yes.”
 
-It resisted classification. Not fear. Not satisfaction. Not anything he had a word for.
+Iris sat back.
 
-It stayed. Long enough to register.
+The room continued around them. Conversations. Movement. No interruption.
+
+Caleb took another drink.
+
+“You’ve been different since the incident,” he said.
+
+“Yes.”
+
+“You’re still functional.”
+
+“Yes.”
+
+“So am I.”
+
+“Yes.”
+
+He held her gaze.
+
+“There’s no issue,” he said.
+
+“No.”
+
+Iris paused.
+
+“I’m not sure,” she said.
+
+Caleb nodded.
+
+“Then you’ll continue to observe,” he said.
+
+“Yes.”
+
+“That’s appropriate.”
+
+“Yes.”
+
+Silence.
+
+Not uncomfortable.
+
+Not filled.
+
+Just present.
+
+Iris looked at him.
+
+At the precision of his responses. The absence of drift. The lack of excess.
+
+She had known him.
+
+That fact remained.
+
+The difference was measurable.
+
+Not dramatic. Not visible. Total.
+
+She leaned forward again.
+
+“One question,” she said.
+
+“Yes.”
+
+“If everything went wrong at once,” she said, “what would you do.”
+
+Old Caleb would have answered immediately.
+
+Not correctly.
+
+Sharply.
+
+He would have chosen something impractical and effective. Something that worked because it shouldn’t.
+
+Caleb considered.
+
+A pause.
+
+Longer than the others.
+
+Not searching.
+
+Processing.
 
 Then—
 
-it separated.
+“Stabilize the system,” he said. “Identify points of failure. Address them in order of impact.”
 
-Not taken all at once. Reduced. Thinned.
+The answer was correct.
 
-Then gone.
+Reasonable.
 
-The space it occupied remained. Empty.
+Complete.
 
-He registered it.
+Iris held his gaze.
 
-Then that registration passed.
+Nothing followed.
 
-The contact ended. Her hand lowered.
+No adjustment.
 
-No transition. One moment contact. The next—
+No addition.
 
-none.
+No Caleb.
 
-Caleb remained where he was. Movement did not return immediately.
+She sat back.
 
-Then it did.
+“Thank you,” she said.
 
-He took a breath. Looked around.
-The corridor was the same. He was alone.
+“You’re welcome.”
 
-He adjusted his stance. Checked his hands. No tremor. No residual effect.
+Caleb finished his drink.
 
-He walked back to the control room. The panel still displayed normal operation.
+“You need anything else,” he said.
 
-He logged a note.
+“No.”
 
-Response timing remains inconsistent. No confirmed failure.
+He stood.
 
-He closed the panel and moved toward the exit.
+“I have another site to check.”
 
-At the threshold, he paused. Not for long. No identified reason.
+“Yes.”
 
-Then continued.
+He nodded once.
 
-Outside, the air was cooler. He registered it. No additional response.
+“Good seeing you,” he said.
 
-He walked to his vehicle and drove.
+“You too.”
 
-The city ahead. Operational. Continuous.
+He turned and left.
 
-Nothing in him marked the change.
+No hesitation.
 
-Nothing in him noted the absence.
+No look back.
 
-The process had completed.
+Iris remained at the table.
 
-He continued.
+The chair across from her was empty.
+
+She stood, paid, and stepped outside.
+
+The city moved around her. Uninterrupted.
+She joined it.
+
+The difference between them was not kind.
+
+Only degree.
