@@ -73,6 +73,14 @@ All 12 docs in `series-bible/`:
 
 **Book 1 — The Absence: COMPLETE**
 
+**Book 1 — Full proofread/polish pass: COMPLETE (2026-04-04)**
+- Question mark convention enforced: Iris/Taken characters use periods on questions (flat affect), warm characters (Rourke, Kade, Lena, Leah) use question marks. Pre-Taking Caleb Ch11 intentionally uses periods as foreshadowing.
+- "Not X. Not Y. Z." pattern varied in densest stretch (Ch19-21)
+- Duplicate phrase ("She held the contradiction") fixed in Ch15
+- Fear-check formula trimmed from 5 to 2 full instances in Act III (Ch17 + Ch22 final); 3 middle instances varied
+- Ch19 tightened (~90 lines consolidated)
+- Ch7 As Written block reconciled with actual prose
+
 **Next up:** Book 2 Ch1 — Aftermath
 
 ## How to Review a Chapter
@@ -94,6 +102,7 @@ When user says a chapter is in `chapter_review.md`:
 
 ## Key Continuity Notes
 
+- **Question mark convention:** Iris and Taken characters use periods on dialogue questions (flat affect). Warm/emotional characters (Rourke, Kade, Lena, Leah, pre-Taking Caleb) use question marks. Exception: pre-Taking Caleb in Ch11 uses periods as deliberate foreshadowing of his Taking in Ch12.
 - Sister is **Lena Vale** (was originally "Mara" in early planning — all refs updated)
 - Ch3 victim's wife is **Leah** (renamed from Mara to avoid overlap)
 - Ch3 victim is **Joel**, case ref K-01

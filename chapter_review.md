@@ -10,11 +10,11 @@ The sign over the main entrance still said MERIDIAN NEUROLOGICAL RESEARCH, thoug
 Wind moved in off the water in long steady passes. It carried salt, wet metal, old rot from the shore below. The sky had the flat gray look it kept for days at a time in Lowport. Not rain yet. Close.
 She checked the job on her slate.
 MN-44-7
- On-site recovery
- Local extraction only
- No live network dependency
- Partial power reported
- No personnel expected
+On-site recovery
+Local extraction only
+No live network dependency
+Partial power reported
+No personnel expected
 Routine.
 The client field was still redacted. That happened often enough. A landlord. An insurer. A company paying to find out what had been left behind after everyone important had already gone home.
 She zipped the slate into the chest pocket of her jacket and ducked through the gap in the fence.
@@ -284,7 +284,6 @@ And each time the rest failed to arrive.
 By the time she pulled into the lot outside her building, the gap had settled in beside her like something already established.
 She turned off the engine and sat for a moment in the ticking quiet.
 Then she took the pack, left the photo where it was, and went inside.
-
 Chapter 2 — Caleb Ward
 The second site sat three blocks inland from the river, behind a row of low warehouses that had been built in stages and never finished to the same standard twice.
 Corrugated steel, patched brick, sections of poured concrete with mismatched aggregate. The loading yard held shallow puddles that reflected the gray sky in broken shapes. A forklift stood idle near the bay doors, one tire half deflated, its forks resting against the ground as if it had set something down and not picked it back up.
@@ -294,10 +293,10 @@ HARBOR DATA STORAGE — TEMPORARY FACILITY
 Temporary had been there long enough for the edges to curl.
 She checked the job on her slate.
 HD-12-3
- On-site recovery
- Partial network integrity
- Local backup priority
- Two-person access recommended
+On-site recovery
+Partial network integrity
+Local backup priority
+Two-person access recommended
 The second line had been the reason for the additional name on the assignment.
 Caleb Ward.
 She had worked with him before. Enough times that the pattern was familiar. He handled access, physical layout, and anything that required improvisation on site. She handled the systems. They did not need to coordinate much. The work separated cleanly.
@@ -310,7 +309,7 @@ His voice held the same casual tone she remembered. Slightly amused, even when n
 Iris nodded once and stepped inside.
 He pushed off the frame and fell in beside her without comment.
 “Power’s spotty,” he said as they walked. “Whole place is running off something they shouldn’t be trusting. Lights flicker every few seconds. If anything reboots, we start over.”
-“Local copies?” she asked.
+“Local copies,” she asked.
 “Mostly. Some of it tries to phone home, but whatever it’s calling doesn’t pick up.”
 “That’s fine.”
 “Yeah,” he said. “Usually is.”
@@ -516,7 +515,6 @@ She waited again, as if the response might arrive late.
 It did not.
 The light changed.
 She drove on.
-
 Chapter 3 — The First Case
 The address sat on the north side of the city, where the houses had been built in rows that followed the curve of the shoreline before turning inward toward older streets.
 Small yards. Low fences. Paint that had been refreshed unevenly over the years. The kind of place where things were maintained just enough to keep working.
@@ -524,9 +522,9 @@ Iris parked along the curb and shut off the engine.
 The house was one of several nearly identical structures on the block. Two stories. Narrow porch. A single window to the left of the front door with the blinds half drawn. Light inside, though the day did not require it.
 She checked the slate.
 Case Reference: K-01
- Source: Kade
- Note: “Came back different.”
- Flag: Possible Meridian adjacency
+Source: Kade
+Note: “Came back different.”
+Flag: Possible Meridian adjacency
 No additional detail.
 That was consistent with Kade. He sent what was needed to locate the problem. The rest was for observation.
 Iris stepped out of the van.
@@ -555,7 +553,7 @@ Leah moved closer to Joel without touching him.
 “He was gone for two days,” she said. “He said he was going to meet someone about work. He didn’t come back. His phone didn’t— it just stopped. And then he came home like nothing had happened.”
 Joel watched her while she spoke.
 Not with confusion. Not with concern. Just attention.
-“And?” Iris said.
+“And,” Iris said.
 Leah swallowed.
 “And he’s… he’s fine,” she said, the word landing wrong. “He says he’s fine. He is fine. He eats. He sleeps. He talks to me. He goes to work.”
 Joel nodded once, as if confirming a statement.
@@ -664,14 +662,14 @@ The room held its shape.
 Nothing in it was broken.
 Nothing in it had failed in a way that would register on a system.
 Leah returned after a moment.
-“Can you fix this,” she said.
+“Can you fix this?” she said.
 The question was direct.
 Iris looked at her.
 “I don’t know what this is yet,” she said.
 Leah nodded once, as if that answer had been expected.
 “Daniel said you would say that.”
 “I need to observe,” Iris said.
-“For how long.”
+“For how long?”
 “I don’t know.”
 Leah glanced at Joel.
 He met her eyes with the same steady attention.
@@ -687,7 +685,7 @@ Empty.
 Iris moved toward the door.
 Leah followed her out onto the porch.
 The air outside felt colder than when she had arrived.
-“Is he going to stay like this,” Leah asked.
+“Is he going to stay like this?” Leah asked.
 Iris paused.
 “I don’t have enough information,” she said.
 Leah nodded.
@@ -703,8 +701,8 @@ Inside the vehicle, she set her slate on the passenger seat and did not start th
 She closed her eyes for a moment.
 Joel’s voice replayed.
 I am fine.
- I know what is necessary.
- It is accurate.
+I know what is necessary.
+It is accurate.
 No strain. No conflict.
 Nothing missing from the sentence.
 Something missing from the person.
@@ -740,7 +738,6 @@ Silence on the line.
 She ended the call.
 The weight did not return as she drove.
 But she was aware of the place where it had been.
-
 Chapter 4 — Lila Mercer
 The building sat two blocks off the main road, set back behind a narrow strip of gravel and a row of low shrubs that had been trimmed into even lines and left that way.
 Three stories. Exterior siding replaced in sections. A security panel by the front door that still worked.
@@ -981,8 +978,8 @@ Hands on the wheel.
 Still.
 Lila’s voice held.
 I feel well.
- I am functioning normally.
- I hope you have a good day.
+I am functioning normally.
+I hope you have a good day.
 All correct.
 Iris started the engine.
 She did not write anything down.
@@ -996,7 +993,6 @@ She knew what category it belonged to.
 She did not have a name for it.
 She did not need one.
 She drove.
-
 Chapter 5 — Kade
 Kade’s office was on the second floor of a building that had been something else before. The exterior still carried the old signage—faded lettering half-removed, adhesive outlines left behind. Inside, it had been stripped down to function.
 No reception. No front desk.
@@ -1066,7 +1062,7 @@ Kade shifted his attention back to the desk. He moved the folder slightly, align
 “Don’t assume. It creates problems.”
 She nodded once.
 “They had multiple sites,” he continued. “Primary facility on the coast. Secondary storage. Offsite data mirrors. Some of it flagged for retrieval before closure.”
-“How many?”
+“How many.”
 He hesitated.
 “Enough.”
 “That’s not a number.”
@@ -1076,20 +1072,20 @@ He reached behind him, pulled one of the maps free from the wall, and set it fla
 Lowport. The coastline. Industrial zones marked in heavier lines.
 He tapped one location. Then another. Then a third.
 “These were all tied to Meridian,” he said. “Logistics, storage, support.”
-“Operational?”
+“Operational.”
 “Not directly.”
-“Then what?”
+“Then what.”
 “Overflow,” he said. “Redundancy. Things they didn’t want centralized.”
 She followed the spacing between the points. Not evenly distributed. Not clustered in a way that suggested efficiency.
 Spread.
-“Why separate them like this?” she asked.
+“Why separate them like this,” she asked.
 “Risk management.”
-“From what?”
+“From what.”
 He didn’t answer that immediately.
 “From themselves,” he said.
 The words landed flat. Not emphasized.
 Iris looked back at the map.
-“How many are still active?” she asked.
+“How many are still active,” she asked.
 “None.”
 “You’re sure.”
 “Yes.”
@@ -1115,7 +1111,7 @@ Some overlapping. Some not.
 He met her eyes again.
 “Behavioral anomalies.”
 The phrase was clean. Clinical.
-“Medical?” she asked.
+“Medical,” she asked.
 “Mostly.”
 “Diagnosed.”
 “Attempted.”
@@ -1155,17 +1151,17 @@ But he didn’t interrupt either.
 He leaned forward slightly, elbows on the desk.
 “That’s not evidence.”
 “No.”
-“Then what is it.”
+“Then what is it?”
 “Pattern recognition.”
 “That’s still not evidence.”
 “No.”
 He sat back again.
 “You’re drawing a line between Meridian and a set of unrelated behavioral cases,” he said.
 “They’re not unrelated.”
-“Based on what.”
+“Based on what?”
 “Proximity. Timing. Consistency.”
 He glanced at the map again.
-“Consistency how.”
+“Consistency how?”
 “The way they answer,” she said. “Not what they say. How it stops.”
 “Examples.”
 “I know what is necessary,” she said. “It was appropriate.”
@@ -1176,7 +1172,7 @@ Kade was still.
 “No,” he agreed.
 “They’re… constrained.”
 He considered that word.
-“Constrained how.”
+“Constrained how?”
 She tried to define it.
 “They’re correct,” she said. “But they don’t extend.”
 “Meaning.”
@@ -1204,7 +1200,7 @@ It felt correct.
 “I have the information I need,” she said.
 “That’s not how you used to work.”
 “No.”
-“Then how do you work now.”
+“Then how do you work now?”
 She considered the question.
 “More efficiently.”
 He held her gaze.
@@ -1214,7 +1210,7 @@ He moved back to the desk, picked up the original folder, and opened it fully th
 He slid it toward her.
 “There are six locations,” he said. “Confirmed Meridian-adjacent. Not the primary facility.”
 She looked down at the pages.
-“Data retrieval?” she asked.
+“Data retrieval,” she asked.
 “Some.”
 “What else.”
 “Verification,” he said. “Status. Anything left behind.”
@@ -1274,7 +1270,7 @@ She turned toward the door.
 She stopped.
 “Keep an eye on him,” he added. “If anything changes.”
 “It will,” she said.
-“How do you know.”
+“How do you know?”
 She thought about Joel’s voice. The way it ended exactly where it needed to.
 “It’s moving,” she said.
 He didn’t ask what she meant.
@@ -1288,7 +1284,6 @@ Concern. Hesitation. Something directed back into the room she was leaving.
 There was nothing there.
 She noted it.
 Then she left.
-
 Kade remained standing for a few seconds after the door closed.
 He didn’t move immediately.
 Then he reached for the map again. The newer one.
@@ -1306,7 +1301,6 @@ It didn’t come.
 He turned back to the map and pinned the marker back in place.
 Aligned with the others.
 Then he moved on.
-
 Chapter 6 — Rourke
 The building was newer than the surrounding block.
 Not new in the way things were designed to look new. New in the way they were replaced—cleaner materials, sharper edges, systems that worked without adjustment. The older structures around it had been patched, layered over time. This one had been inserted.
@@ -1353,7 +1347,7 @@ Rourke tapped again. Another window.
 Rourke’s eyes lifted from the screen.
 “You’re not part of any formal investigation,” she said.
 “No.”
-“Then why are you doing this.”
+“Then why are you doing this?”
 Iris considered the question.
 There were several possible answers. None of them complete.
 “I was at Meridian,” she said.
@@ -1364,9 +1358,9 @@ That landed.
 A small shift. Not in posture. In attention.
 “You were on-site,” Rourke said.
 “Yes.”
-“For what purpose.”
+“For what purpose?”
 “Data recovery.”
-“When.”
+“When?”
 Iris gave the date.
 Rourke’s fingers moved across the surface of the desk. Not typing. Pulling something up.
 A new window. Restricted access. She entered a credential manually.
@@ -1381,15 +1375,15 @@ She read for a few seconds.
 Rourke looked up again.
 “No incident report,” she said.
 “No.”
-“Why.”
+“Why?”
 “I didn’t log one.”
 “That doesn’t address it.”
 Iris held her gaze.
 “I don’t remember everything that happened inside,” she said.
 Rourke watched her. Longer this time.
-“How much don’t you remember.”
+“How much don’t you remember?”
 “Thirty-four minutes.”
-“From when.”
+“From when?”
 “Mid-entry. Before exit.”
 “You continued functioning after.”
 “Yes.”
@@ -1402,7 +1396,7 @@ Rourke watched her. Longer this time.
 Rourke leaned back slightly.
 “And now you’re connecting that to these cases,” she said.
 “Yes.”
-“On what basis.”
+“On what basis?”
 “Pattern.”
 “That’s not sufficient.”
 “No.”
@@ -1481,10 +1475,10 @@ Rourke looked up.
 “But you’re wrong about the cause.”
 “That’s your assessment.”
 “Yes.”
-“Based on what.”
+“Based on what?”
 Iris considered how to explain it.
 “They’re too consistent,” she said.
-“In what way.”
+“In what way?”
 “The way they answer,” Iris said. “Not what they say. How it stops.”
 Rourke studied her.
 “Clarify.”
@@ -1532,7 +1526,7 @@ Rourke studied her again.
 Iris didn’t respond.
 “Flattened affect,” Rourke continued. “Delayed response. Reduced emotional variance.”
 “Yes.”
-“Have you been evaluated.”
+“Have you been evaluated?”
 “No.”
 “You should be.”
 “No.”
@@ -1541,7 +1535,7 @@ Iris didn’t respond.
 Rourke held her gaze.
 “You’re not immune,” she said.
 “I know.”
-“Then why are you doing this.”
+“Then why are you doing this?”
 Iris considered the question again.
 “I was there,” she said.
 “That’s not sufficient.”
@@ -1588,7 +1582,6 @@ Iris nodded.
 She opened the door and stepped into the corridor.
 The air felt the same as before. Controlled. Even.
 Behind her, the door closed with a soft seal.
-
 She walked the length of the corridor without slowing.
 Past identical doors. Identical panels. Identical lighting.
 Everything in the building functioned exactly as designed.
@@ -1608,12 +1601,11 @@ There was nothing.
 She noted it.
 A simple internal check.
 Expected: frustration.
- Observed: none.
+Observed: none.
 She stepped off the curb and continued down the street.
 The building behind her remained clean, lit, and correct.
 Inside, the model held.
 Outside, something was moving.
-
 Chapter 7 — The Pattern
 The apartment was not designed for this.
 It had been adjusted.
@@ -1655,7 +1647,6 @@ She adjusted the timeline again.
 The path advanced.
 Earlier points held. Newer ones extended past them.
 Progression.
-
 She shifted to the transcript screen.
 Joel.
 Lila.
@@ -1674,7 +1665,6 @@ Question → Answer → Stop.
 Repeated across cases.
 Different words.
 Same shape.
-
 She stepped away from the table.
 Opened a line to Kade.
 It connected on the second attempt.
@@ -1690,14 +1680,14 @@ Audio only.
 “That’s still not saying much.”
 “They follow a path.”
 That held.
-“What kind of path.”
+“What kind of path?”
 “Geographic. Chronological.”
 “Everything is chronological.”
 “This is directional.”
 Silence.
 “Explain.”
 “The earlier cases cluster north,” she said. “Industrial edge. The later ones extend outward. Same vector.”
-“Vector to where.”
+“Vector to where?”
 “Out.”
 “That’s not a location.”
 “No.”
@@ -1710,17 +1700,17 @@ A breath on the line.
 “I do.”
 “That’s not what I asked.”
 “It’s accurate.”
-“What’s the mechanism.”
+“What’s the mechanism?”
 “I don’t know.”
-“Then what are you actually saying.”
+“Then what are you actually saying?”
 Iris looked at the map.
 “It’s not a condition,” she said.
 “Rourke would disagree.”
 “Yes.”
-“What is it, then.”
+“What is it, then?”
 She brought up the grid overlay.
 “The cases align with Meridian-era systems.”
-“What am I looking at.”
+“What am I looking at?”
 “Meridian-era systems.”
 “Yes.”
 Silence.
@@ -1730,7 +1720,7 @@ Silence.
 “They’re incomplete.”
 “You checked.”
 “No.”
-“Then how do you know.”
+“Then how do you know?”
 “I can see it.”
 “That’s not verification.”
 “No.”
@@ -1746,7 +1736,7 @@ Kade exhaled.
 “I didn’t.”
 “You’re sure about the direction.”
 “Yes.”
-“How sure.”
+“How sure?”
 “It doesn’t deviate.”
 Another pause.
 “Alright,” he said. “Send it.”
@@ -1756,7 +1746,6 @@ Another pause.
 “You’ve changed.”
 “Yes.”
 The line closed.
-
 The files transferred.
 Iris stood in front of the map.
 The path remained.
@@ -1774,11 +1763,10 @@ Didn’t resolve.
 Then it was gone.
 She noted it.
 Location: frontal.
- Duration: brief.
- Intensity: minimal.
+Duration: brief.
+Intensity: minimal.
 No pain.
 No interference.
-
 She looked at the map again.
 At the path.
 At the continuation.
@@ -1805,17 +1793,15 @@ Not solved.
 Not contained.
 Just visible.
 For now.
-
 ACT II - ESCALATION
 Chapter 8 — Following the Thread
-
 The first site was farther out than the others.
 Industrial perimeter. Edge of Lowport’s maintained grid. Buildings spaced wider here. Fewer active routes. Less oversight.
 Kade drove.
 Iris watched the alignment. They were following the path she had mapped the night before. Not exactly. Close enough.
 “You said this one fits,” Kade said.
 “Yes.”
-“How.”
+“How?”
 “Position. Timing.”
 “That’s it.”
 “Yes.”
@@ -1846,7 +1832,7 @@ Kade nodded.
 Kade walked deeper into the space. Measured. He stopped at the center of the room.
 Looked down.
 Nothing visible. No indication anything had occurred.
-“How long was he here,” Kade asked.
+“How long was he here?” Kade asked.
 “Unknown.”
 “Alone.”
 “Yes.”
@@ -1860,7 +1846,6 @@ Kade walked toward the far wall and ran his hand along the exposed conduit. Stop
 Didn’t say anything.
 Iris watched him. He had more to say.
 “Next site,” he said.
-
 The second location was closer to the coast. Older construction. Exterior maintained just enough to remain functional.
 “You’ve been here,” Iris said.
 “Yes.”
@@ -1870,7 +1855,7 @@ The second location was closer to the coast. Older construction. Exterior mainta
 “Transfer point,” he said. “Equipment.”
 “What kind.”
 Kade parked and turned off the engine.
-“Does it matter,” he said.
+“Does it matter?” he said.
 “Yes.”
 He looked at the building. Then away.
 “No,” he said.
@@ -1894,7 +1879,6 @@ He looked at the empty room again.
 He stopped. The rest didn’t come.
 Iris watched him decide not to finish it.
 She didn’t ask him to.
-
 The third site was smaller. Peripheral. Barely maintained. No access system. The door opened with pressure.
 Inside, the air was colder. Not controlled.
 “Case was recent,” Iris said.
@@ -1945,7 +1929,6 @@ It was continuing.
 She said nothing.
 Kade said nothing.
 The work continued.
-
 Chapter 9 — The City Feels It
 Lowport continued to function.
 Transit ran on schedule. Platforms filled and cleared in steady cycles. No visible disruption.
@@ -1954,8 +1937,8 @@ People moved with purpose. Efficient. Conversations occurred in short exchanges 
 She boarded with the others.
 The car was partially filled. Seats taken in practical distribution.
 A man across from her spoke into a handheld device.
- "Yes," he said. "That's fine."
- "Understood."
+"Yes," he said. "That's fine."
+"Understood."
 The call ended. He lowered the device and remained still for a moment longer than required. Then stood at the next stop and exited.
 At the next stop, two people collided lightly while entering.
 "Sorry," one said.
@@ -2024,7 +2007,6 @@ Or if it was her.
 She did not resolve it.
 She continued walking.
 The city did the same.
-
 Chapter 10 — Lena
 Lena chose the place.
 A small café off a residential street. Not crowded. Tables spaced close enough for conversation without carrying.
@@ -2107,13 +2089,13 @@ Iris met her eyes.
 “I still care.”
 The words came clean. No hesitation.
 Lena held the gaze.
-“Do you,” she asked quietly.
+“Do you?” she asked quietly.
 “Yes.”
-“How.”
+“How?”
 Iris didn’t answer immediately.
 “In the ways that matter,” she said.
 Lena studied her face, searching for something behind the words.
-“And what ways are those.”
+“And what ways are those?”
 Iris held the pause.
 “Showing up,” she said. “Staying in contact. Maintaining—” She stopped. Adjusted. “Not disappearing.”
 Lena didn’t move.
@@ -2183,7 +2165,6 @@ The chair across from her was empty.
 She stood, paid, and stepped outside.
 The city moved around her.
 She joined it.
-
 Chapter 11 — Caleb Shift
 The site was active.
 Outer zone. Industrial edge of Lowport where maintenance blurred into reconstruction. Equipment staged in ordered clusters. Crews distributed across marked sections. Movement constant, coordinated.
@@ -2220,7 +2201,7 @@ Caleb pushed off the rig and started walking. Iris matched his pace.
 “How.”
 He took a second.
 “Timing,” he said. “Stuff lags. Not enough to fail. Enough to notice.”
-“Consistent?”
+“Consistent.”
 “Yeah.”
 He kicked lightly at a cable run along the ground, not moving it—just checking its position.
 “Like the system’s thinking about it before it does anything,” he added.
@@ -2230,7 +2211,7 @@ The tone was correct.
 The spacing between them was slightly irregular.
 “How long,” she asked.
 “Couple days.”
-“Progressing?”
+“Progressing.”
 “Hard to tell.”
 He glanced at her.
 “You’re going to ask if it’s getting worse.”
@@ -2329,7 +2310,6 @@ Then turned and left the site.
 Nothing had happened.
 Nothing confirmed.
 The pattern continued.
-
 Chapter 12 — The Taking of Caleb Ward
 The site was quiet.
 End of shift. Most of the crew had cleared out. Systems powered down in stages, leaving only baseline operation—low lighting, minimal noise, a steady mechanical presence that didn't require attention.
@@ -2342,7 +2322,7 @@ The corridors were narrower in this section. Older construction. Reinforced wall
 He reached the control room at the far end.
 The panel was active.
 He stood in front of it, watching the readouts.
- Everything reported within acceptable range.
+Everything reported within acceptable range.
 Still—
 He waited.
 Not for anything specific.
@@ -2444,7 +2424,7 @@ none.
 Caleb remained where he was. Movement did not return immediately.
 Then it did.
 He took a breath. Looked around.
- The corridor was the same. He was alone.
+The corridor was the same. He was alone.
 He adjusted his stance. Checked his hands. No tremor. No residual effect.
 He walked back to the control room. The panel still displayed normal operation.
 He logged a note.
@@ -2459,7 +2439,6 @@ Nothing in him marked the change.
 Nothing in him noted the absence.
 The process had completed.
 He continued.
-
 Chapter 13 — After
 Caleb agreed to meet.
 No hesitation. No rescheduling. A time, a place, confirmed on first message.
@@ -2491,7 +2470,7 @@ Iris watched him.
 “Progression.”
 “Inconclusive.”
 The answers came clean. Immediate. Correct.
- No excess. No deviation.
+No excess. No deviation.
 Caleb took a sip of his drink.
 “You’re evaluating,” he said.
 “Yes.”
@@ -2571,7 +2550,7 @@ Caleb considered.
 He stopped.
 The answer was complete.
 It would hold under review.
- It did not extend.
+It did not extend.
 Old Caleb would have.
 He would have pushed it further. Improvised. Taken the idea somewhere unnecessary and useful at the same time.
 This version did not.
@@ -2656,7 +2635,6 @@ The city moved around her. Uninterrupted.
 She stood on the sidewalk where Caleb had stood a moment before.
 The difference between them was not kind.
 Only degree.
-
 Chapter 14 — The Weight
 Kade's office was active.
 More materials than before. Maps extended across the walls. Markings covered over prior markings. Additional sites flagged.
@@ -2669,7 +2647,7 @@ Kade studied her.
 Kade held her gaze.
 "You know what I’m asking."
 "I know."
-"What is he."
+"What is he?"
 Iris paused. Not searching. Choosing.
 "He has no observable impairment," she said. "Behavioral patterns are consistent. Responses appropriate."
 Kade's expression didn't change, waiting for an acceptable answer.
@@ -2696,7 +2674,7 @@ Kade let out a breath. Not frustration. Not fear. Calculation.
 "We need to get ahead of it," he said.
 "Yes."
 He turned back to her.
-"You still good to run point on this."
+"You still good to run point on this?"
 "Yes."
 Another pause. Short. Measured.
 "You don't seem—" he started, then stopped.
@@ -2738,7 +2716,7 @@ Something in the steadiness had shifted. Not cracked. Tightened.
 "Yes," she said.
 Iris nodded once.
 "Thank you," she said.
-"For what."
+"For what?"
 "Saying so."
 Rourke watched her leave. Didn't say anything else.
 Outside, the air was damp. Less controlled.
@@ -2771,7 +2749,7 @@ Kade watched her.
 "I know."
 Kade held the silence.
 Then—
-"Does it bother you," he asked.
+"Does it bother you?" he asked.
 Iris processed the question.
 "Yes," she said.
 The answer arrived without delay.
@@ -2813,7 +2791,6 @@ The recognition of Caleb remained. The absence remained. The lack of response re
 All of it — consistent.
 She moved to her desk. Opened the files.
 Continued.
-
 Chapter 15 — Deterioration
 Iris adjusted the map.
 Points marked. Movement established. Direction consistent.
@@ -2825,7 +2802,7 @@ She was certain of that.
 She searched for the entry.
 It wasn't there.
 She checked the timestamp filters. Re-ran the query.
- Same result. No additional case.
+Same result. No additional case.
 The gap remained.
 Iris paused.
 She could see it. Not visually. Positionally. Where the case should be. Where it had been.
@@ -2901,13 +2878,13 @@ Silence.
 Iris re-read the exchange.
 The words remained the same.
 But something shifted.
- Not the content. The order.
+Not the content. The order.
 The second message. It had not been second. It had come later. After—
 something else.
 Missing.
 She scrolled. Nothing between.
- She checked timestamps. Aligned. No gap.
-She held the contradiction.
+She checked timestamps. Aligned. No gap.
+She sat with it. Both versions present. Neither giving way.
 "He's mistaken," she said.
 Kade didn't respond immediately.
 "We'll talk later," he said.
@@ -2915,7 +2892,7 @@ The line closed.
 Iris remained where she was.
 The messages did not change. Her memory did not adjust.
 Both held.
- They did not align.
+They did not align.
 She closed the file.
 Back at her apartment, she opened a new document.
 She wrote:
@@ -2949,9 +2926,8 @@ Her understanding of it did not.
 Iris moved through the city.
 Working. Adjusting.
 Certain.
- Incorrect.
+Incorrect.
 Continuing.
-
 Chapter 16 — The Realization
 Iris rebuilt the map.
 Not from memory.
@@ -2986,7 +2962,7 @@ Studied the points.
 “More direct.”
 “Yes.”
 He didn’t look at her.
-“What changed.”
+“What changed?”
 Iris considered the question.
 “Verification,” she said.
 Kade nodded.
@@ -3004,7 +2980,7 @@ Then farther along the line.
 Kade followed.
 “You’ve said that before.”
 “Yes.”
-“What’s different.”
+“What’s different?”
 Iris held the map.
 Not visually.
 Positionally.
@@ -3021,9 +2997,9 @@ She indicated the path again.
 Kade’s eyes stayed on the map.
 “That’s a conclusion,” he said.
 “Yes.”
-“What’s the mechanism.”
+“What’s the mechanism?”
 “Contact.”
-“With what.”
+“With what?”
 Iris paused.
 She could feel the edge of it.
 Not memory.
@@ -3078,7 +3054,7 @@ Origin to edge.
 No deviation.
 No branching.
 She overlaid the case responses—language patterns, behavioral outputs, timing delays.
- All consistent. All aligned to the path.
+All consistent. All aligned to the path.
 Then—
 her own entries.
 The delay.
@@ -3088,7 +3064,7 @@ All of it—
 aligned.
 She didn’t say that part out loud.
 Kade spoke again.
-“If it’s one thing,” he said, “where is it now.”
+“If it’s one thing,” he said, “where is it now?”
 Iris looked at the edge of the map.
 The last confirmed point.
 Beyond it.
@@ -3124,7 +3100,7 @@ Kade looked at it.
 Then at her.
 “You’re sure.”
 “Yes.”
-“How sure.”
+“How sure?”
 Iris didn’t hesitate.
 “It doesn’t deviate.”
 Kade looked back at the map.
@@ -3167,10 +3143,8 @@ Iris turned off the display.
 The line disappeared.
 The room remained.
 The door had closed.
-
 ACT III - CONTACT
 Chapter 17 — Tracking
-
 Iris moved beyond the mapped edge.
 The last confirmed point held behind her.
 Everything ahead was inferred.
@@ -3209,7 +3183,7 @@ She moved again.
 Her device signaled.
 Kade.
 She answered.
-“Where are you,” he said.
+“Where are you?” he said.
 “Outer zone.”
 “Be specific.”
 Iris looked at the display.
@@ -3230,7 +3204,7 @@ Another pause.
 “That’s not what I’m saying.”
 “I know.”
 Kade exhaled.
-“Then what are you saying.”
+“Then what are you saying?”
 Iris considered the question.
 “Direction is consistent,” she said.
 “That’s not an answer.”
@@ -3238,7 +3212,7 @@ Iris considered the question.
 Silence.
 “You’re following it,” he said.
 “Yes.”
-“How.”
+“How?”
 Iris paused.
 Not searching.
 Verifying.
@@ -3266,7 +3240,7 @@ Then closed.
 Iris continued.
 The pressure increased.
 Not in intensity.
- In persistence.
+In persistence.
 It did not fade between steps.
 It held.
 Continuous.
@@ -3350,7 +3324,7 @@ She stepped again.
 Still no change.
 She had reached it.
 Or—
- it had reached her.
+it had reached her.
 There was something to find.
 Not a pattern.
 Not a cause.
@@ -3361,11 +3335,10 @@ Did not mark the location.
 Did not step back.
 She remained.
 The pressure held.
- The absence did.
+The absence did.
 She had followed it.
 She was here.
 She waited.
-
 Chapter 18 — The Deeper Zone
 The pressure did not recede.
 It held as Iris moved deeper.
@@ -3519,12 +3492,8 @@ She stood in the junction.
 No immediate need to move.
 No urgency.
 No pressure to continue.
-She checked for concern.
-Expected response.
-Appropriate to context.
-None.
-She noted the absence.
-But did not prioritize it.
+No concern arrived.
+She did not prioritize its absence.
 She remained.
 Time passed.
 Unmeasured.
@@ -3600,72 +3569,27 @@ Not heard.
 But—
 present.
 Iris continued.
-
 Chapter 19 — Closing Distance
 The pressure did not increase.
 It compressed.
 Not stronger.
 Closer.
 Iris moved forward.
-Each step required correction.
-Not of direction.
-Of motion.
-Her body slowed.
-Not resisted.
-Reduced.
-She adjusted her pace.
-Shorter steps.
-Measured.
-Intentional.
-The field held.
-No edge.
-No gradient.
-Only density.
-Sound diminished.
-Not absent.
-Muted.
-Contained.
-Her footsteps registered late.
-Impact.
-Then awareness.
-She continued.
-The corridor narrowed.
-Concrete walls.
-Low ceiling.
-No visible damage.
-No debris.
-Maintained by absence.
+Each step required correction — not of direction, of motion. Her body slowed. Reduced.
+Shorter steps. Measured. Intentional.
+The field held. No edge. No gradient. Only density.
+Sound diminished. Her footsteps registered late — impact, then awareness.
+The corridor narrowed. Concrete walls. Low ceiling. Maintained by absence.
 The pressure centered.
 Not around her.
 On her.
 Frontal.
 Exact.
-She stopped.
-Not by choice.
-Her body held position.
-No forward impulse.
-No urgency.
-She noted it.
-Delay: extended.
-Response: suppressed.
-She stepped.
-The motion completed.
-Late.
-She stepped again.
-The delay increased.
-Her peripheral vision reduced.
-Edges softened.
-Center held.
-Everything outside the path—
-irrelevant.
-She moved.
-The field did not change.
-She did.
-Processing narrowed.
-Input reduced.
-Selection automatic.
-Forward.
-Another step.
+She stopped. Not by choice. Her body held position without forward impulse, without urgency.
+Delay: extended. Response: suppressed.
+She forced a step. It completed late. Another. The delay increased.
+Her peripheral vision reduced. Edges softened. Center held. Everything outside the path — irrelevant.
+The field did not change. She did.
 Her device vibrated.
 She did not reach for it.
 The signal persisted.
@@ -3682,40 +3606,23 @@ full.
 Not occupied.
 Not empty.
 Held.
-Iris stopped at the threshold.
-The pressure stabilized.
-Maximum.
-No variation.
-She did not step inside.
-She didn’t need to.
+Iris stopped at the threshold. The pressure stabilized at maximum. No variation.
+She did not step inside. She didn’t need to.
 It was here.
 Not inferred.
 Not concluded.
 Known.
 Her breathing remained steady.
 Unchanged.
-She checked for fear.
-Expected response.
-Appropriate to context.
-None.
-She noted the absence.
+No fear. The space where it should have been — familiar now.
 The silence held.
 Not empty.
 Complete.
 As if everything that could produce sound—
 had already stopped.
-Iris stood at the edge of the room.
-The field did not push her forward.
-Did not pull her in.
-It held.
-Waiting.
-Or—
-finished.
-She stepped inside.
-The pressure did not change.
-There was no escalation.
-No reaction.
-Only confirmation.
+Iris stood at the edge.
+The field neither pushed nor pulled. It held. Waiting. Or finished.
+She stepped inside. No escalation. No reaction. Only confirmation.
 She was no longer approaching.
 She had arrived.
 Something shifted.
@@ -3730,7 +3637,6 @@ Before she saw.
 She turned.
 And then—
 she saw.
-
 Chapter 20 — Contact
 She saw her.
 Not fully.
@@ -3794,10 +3700,7 @@ Without transition.
 Without formation.
 Already there.
 Her eyes were on Iris.
-Not scanning.
-Not searching.
-Fixed.
-Complete.
+Fixed. Complete.
 Recognition.
 Immediate.
 Iris did not question it.
@@ -3809,10 +3712,7 @@ The woman tilted her head.
 A small movement.
 Measured.
 Exact.
-Assessment.
-Not curiosity.
-Not interest.
-Evaluation.
+Assessment. Evaluation. Something behind the gaze that sorted rather than observed.
 Iris remained where she was.
 No forward motion.
 No retreat.
@@ -3845,21 +3745,12 @@ No sound. No movement. Only presence.
 The woman’s gaze did not break.
 No blink.
 Sustained.
-Iris checked for fear.
-Expected response.
-Appropriate to context.
-None.
-She noted the absence.
+Fear did not come.
 But something else—
 present.
 Faint.
-Not emotional.
-Not physical.
-Recognition.
-Not of the figure.
-Not of the face.
-Of process.
-Of pattern.
+Recognition — deeper than the figure, deeper than the face.
+Of process. Of pattern.
 She had seen this before.
 Not externally.
 Internally.
@@ -3912,10 +3803,7 @@ Not an emotion.
 An adjustment.
 As if testing configuration.
 Iris held her position.
-The recognition sharpened.
-Not personal.
-Not relational.
-Structural.
+The recognition sharpened. Structural.
 She was looking at something that understood her.
 Not as a person.
 As a system.
@@ -3949,7 +3837,6 @@ And—
 what she was doing.
 Some of it—
 already inside her.
-
 Chapter 21 — Partial Loss
 The distance between them closed.
 Not fully.
@@ -4009,14 +3896,7 @@ No impact.
 Just—
 connection.
 The effect was immediate.
-Not pain.
-Not shock.
-A change.
-Something inside her—
-softened.
-Not removed.
-Not taken.
-Dissolved.
+Something inside her softened. Dissolved.
 Edges blurred.
 Definition lost.
 Iris held still.
@@ -4194,7 +4074,6 @@ Feeling the absence.
 Not what had been lost.
 Just—
 where it had been.
-
 Chapter 22 — Exit
 Iris stepped back.
 Willow did not follow.
@@ -4428,5 +4307,3 @@ Operating.
 Reduced.
 She waited.
 Nothing came.
-
-
