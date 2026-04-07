@@ -1284,6 +1284,9 @@ Concern. Hesitation. Something directed back into the room she was leaving.
 There was nothing there.
 She noted it.
 Then she left.
+
+***
+
 Kade remained standing for a few seconds after the door closed.
 He didn’t move immediately.
 Then he reached for the map again. The newer one.
@@ -1846,6 +1849,9 @@ Kade walked toward the far wall and ran his hand along the exposed conduit. Stop
 Didn’t say anything.
 Iris watched him. He had more to say.
 “Next site,” he said.
+
+***
+
 The second location was closer to the coast. Older construction. Exterior maintained just enough to remain functional.
 “You’ve been here,” Iris said.
 “Yes.”
@@ -1879,6 +1885,9 @@ He looked at the empty room again.
 He stopped. The rest didn’t come.
 Iris watched him decide not to finish it.
 She didn’t ask him to.
+
+***
+
 The third site was smaller. Peripheral. Barely maintained. No access system. The door opened with pressure.
 Inside, the air was colder. Not controlled.
 “Case was recent,” Iris said.
@@ -2684,6 +2693,9 @@ Kade shook his head slightly.
 "Yes."
 He returned to the maps.
 The conversation ended.
+
+***
+
 Iris went to Rourke.
 Rourke looked up when Iris entered. Didn't stand. Didn't gesture toward the chair.
 "You're here about the new cases," she said.
@@ -2719,6 +2731,9 @@ Iris nodded once.
 "For what?"
 "Saying so."
 Rourke watched her leave. Didn't say anything else.
+
+***
+
 Outside, the air was damp. Less controlled.
 Iris moved through the city. Same routes. Same timing.
 At a corner near one of the outer transit lines, two people stood talking.
@@ -2739,6 +2754,9 @@ Duration: longer than prior instances.
 Category: retrieval lag.
 Functional impact: none.
 She continued to the site.
+
+***
+
 Later, Kade spoke again. Different location. Same content.
 "We lost him," he said.
 "Yes."
@@ -2786,6 +2804,9 @@ she had forgotten to continue.
 She could not determine which.
 The question remained. Unresolved.
 Iris resumed walking.
+
+***
+
 Back at the apartment, the space remained unchanged.
 The recognition of Caleb remained. The absence remained. The lack of response remained.
 All of it — consistent.
@@ -2816,6 +2837,9 @@ it had not existed.
 She selected the first.
 Marked the gap as filled.
 Continued.
+
+***
+
 The next site was inactive. No access response. No internal power. No indication of recent use.
 Iris stood at the entrance.
 She had been here before. Recently. She was certain of that.
@@ -2827,6 +2851,9 @@ She stopped. Recalibrated.
 The memory did not adjust.
 She marked the site as previously visited. Logged observations based on recall.
 Moved on.
+
+***
+
 Kade called.
 "You went to the south corridor site," he said.
 "Yes."
@@ -2855,6 +2882,9 @@ That's not what you said earlier.
 She searched for it. No record.
 She held the certainty. She had not.
 She moved on.
+
+***
+
 At the next location, the contact didn't answer.
 Iris waited. Three minutes. Then five.
 She checked the message thread. Her last message was direct.
@@ -2894,6 +2924,9 @@ The messages did not change. Her memory did not adjust.
 Both held.
 They did not align.
 She closed the file.
+
+***
+
 Back at her apartment, she opened a new document.
 She wrote:
 Do not trust sequence.
