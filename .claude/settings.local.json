@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR>=1304 && NR<=1608' C:/Users/kriss/Projects/weepingwillow/chapter_review.md)",
+      "Bash(xxd C:/Users/kriss/Projects/weepingwillow/chapter_review.md)",
+      "Bash(node format-book-v2.js chapter_review.md WeepingWillow_TheAbsence_v2.docx)",
+      "Bash(cp WeepingWillow_TheAbsence_v2.docx WeepingWillow_TheAbsence_v2.zip)",
+      "Bash(mkdir -p docx_inspect)",
+      "Bash(powershell -Command \"Expand-Archive -Force -Path WeepingWillow_TheAbsence_v2.zip -DestinationPath docx_inspect\")",
+      "Bash(node -e \"console.log\\(require\\('docx/package.json'\\).version\\)\")",
+      "Bash(node -e ':*)",
+      "Bash(cp WeepingWillow_TheAbsence_v2.docx verify.zip)",
+      "Bash(powershell -Command \"Remove-Item -Recurse -Force docx_verify -ErrorAction SilentlyContinue; Expand-Archive -Force -Path verify.zip -DestinationPath docx_verify\")",
+      "Bash(ls docx_verify/word/header* docx_verify/word/footer*)",
+      "Bash(rm:*)",
+      "Bash(node format-book-v2.js chapter_review.md WeepingWillow_TheAbsence_v2b.docx)",
+      "Bash(node:*)"
+    ]
+  }
+}
