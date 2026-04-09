@@ -234,7 +234,7 @@ When she stood, she had to wait for the room to settle.
 No dizziness. Just a brief uncertainty about where the nearest aisle began.
 Then it passed.
 She slung the pack over one shoulder and walked to the doors.
-The hallway beyond looked unchanged. Pale paint. dim fixtures. The freight elevator still half open around darkness. The nurses’ station empty. Her own boot prints faint in the dust where there had been none when she entered.
+The hallway beyond looked unchanged. Pale paint. Dim fixtures. The freight elevator still half open around darkness. The nurses’ station empty. Her own boot prints faint in the dust where there had been none when she entered.
 She went back the way she had come.
 At the stairwell landing she stopped and checked the time again.
 14:47.
@@ -767,7 +767,7 @@ The apartment was organized.
 Everything was simply where it should be.
 Shoes placed evenly near the door. Surfaces clear. No objects out of alignment. No signs of interruption or abandonment.
 A small table near the window. Two chairs. A cup set near one edge.
-“Would you like something to drink?” Lila asked.
+“Would you like something to drink.” Lila asked.
 “No, thank you.”
 Lila moved to the table and sat.
 Iris remained standing for a moment, then took the chair across from her.
@@ -1695,7 +1695,7 @@ Silence.
 “That’s not a location.”
 “No.”
 A breath on the line.
-“You’re saying it’s moving.”
+“You’re saying it’s moving?”
 “Yes.”
 “People move.”
 “This isn’t people.”
@@ -1721,7 +1721,7 @@ Silence.
 “Partially.”
 “That’s what the reports say.”
 “They’re incomplete.”
-“You checked.”
+“You checked?”
 “No.”
 “Then how do you know?”
 “I can see it.”
@@ -1737,7 +1737,7 @@ Kade exhaled.
 “Yes.”
 “Don’t clean it.”
 “I didn’t.”
-“You’re sure about the direction.”
+“You’re sure about the direction?”
 “Yes.”
 “How sure?”
 “It doesn’t deviate.”
@@ -1891,7 +1891,7 @@ She didn’t ask him to.
 The third site was smaller. Peripheral. Barely maintained. No access system. The door opened with pressure.
 Inside, the air was colder. Not controlled.
 “Case was recent,” Iris said.
-“How recent.”
+“How recent?”
 “Two days.”
 Kade nodded.
 The room was empty. No visible distinction from the others.
@@ -1908,9 +1908,9 @@ Then it was gone.
 She stepped back.
 “Nothing,” she said.
 Kade watched her for a moment.
-“You felt something.”
+“You felt something?”
 “Yes.”
-“What.”
+“What?”
 “I don’t know.”
 He didn’t push further.
 Outside, the wind moved off the water.
@@ -2191,13 +2191,13 @@ Then a grin.
 He dismissed the other workers with a quick gesture. They moved off without question.
 “You tracking something,” he asked.
 “Yes.”
-“Here?”
+“Here.”
 “Yes.”
 Caleb glanced around, taking in the site as if seeing it differently for the first time.
-“Anything I should be worried about?”
+“Anything I should be worried about.”
 “No.”
 He studied her face for a second.
-“You sure about that?”
+“You sure about that.”
 “Yes.”
 A small pause.
 “Alright,” he said.
@@ -2260,7 +2260,7 @@ He nodded, satisfied with that.
 They stood in silence for a few seconds.
 Not uncomfortable.
 Caleb shifted his weight.
-“You want me to walk you through the rest of it?” he asked.
+“You want me to walk you through the rest of it.” He asked.
 “Yes.”
 They moved through the site.
 He explained the layout. The flow. Where things should be. Where they weren’t.
@@ -2287,7 +2287,7 @@ He nodded.
 Silence.
 Wind moved across the open section, carrying dust and a faint metallic smell.
 Caleb checked his device.
-“I’ve got another pass to do,” he said. “You need anything else?”
+“I’ve got another pass to do,” he said. “You need anything else.”
 “No.”
 He looked at her again.
 Another pause.
@@ -3131,7 +3131,7 @@ Only the map.
 And the line.
 Kade looked at it.
 Then at her.
-“You’re sure.”
+“You’re sure?”
 “Yes.”
 “How sure?”
 Iris didn’t hesitate.
@@ -3642,8 +3642,6 @@ Held.
 Iris stopped at the threshold. The pressure stabilized at maximum. No variation.
 She did not step inside. She didn’t need to.
 It was here.
-Not inferred.
-Not concluded.
 Known.
 Her breathing remained steady.
 Unchanged.
@@ -4136,9 +4134,9 @@ She moved.
 One step.
 Then another.
 Each one easier than the last.
-The delay reduced.
-Not removed.
-Reduced.
+The delay loosened.
+Still present.
+Less.
 The corridor received her.
 Narrow.
 Contained.
@@ -4312,11 +4310,12 @@ A narrowing.
 A simplification.
 She was closer.
 To Willow.
-Than anyone else.
+Than anyone else alive.
 That was true.
 She was also—
 further from herself.
 That was also true.
+She did not know which of those should frighten her.
 She evaluated both.
 No prioritization.
 No weighting.

@@ -81,6 +81,18 @@ All 12 docs in `series-bible/`:
 - Ch19 tightened (~90 lines consolidated)
 - Ch7 As Written block reconciled with actual prose
 
+**Book 1 — Deep audit pass: COMPLETE (2026-04-08)**
+- 1 typo fixed (Ch1 "dim" → "Dim")
+- Lila (Ch4) question mark corrected to period (Taken convention)
+- Pre-Taking Caleb Ch11: 5 remaining question marks converted to periods (foreshadowing)
+- Kade question marks fixed in Ch7 (3), Ch8 (3), Ch16 (1) — warm character convention
+- Ch19 triplet density reduced: removed "Not inferred. Not concluded." (two full triplets within 6 lines → one)
+- Ch22 duplicate phrasing varied: "The delay reduced. / Not removed. / Reduced." (identical to Ch21) → "The delay loosened. / Still present. / Less."
+- Ch22 restored "alive" in "closer to Willow than anyone else alive" per brief
+- Ch22 added missing brief beat: "She did not know which of those should frighten her."
+- As Written blocks corrected: Ch20 head-tilt quote, Ch21 phantom negations removed, Ch19 device vibration attribution clarified, Ch22 updated to match new prose
+- Individual chapter files saved in `chapters/` folder
+
 **Next up:** Book 2 Ch1 — Aftermath
 
 ## How to Review a Chapter
