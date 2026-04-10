@@ -93,7 +93,18 @@ All 12 docs in `series-bible/`:
 - As Written blocks corrected: Ch20 head-tilt quote, Ch21 phantom negations removed, Ch19 device vibration attribution clarified, Ch22 updated to match new prose
 - Individual chapter files saved in `chapters/` folder
 
-**Next up:** Book 2 Ch1 — Aftermath
+**Book 1 — Chapter file review pass: IN PROGRESS (2026-04-09)**
+Reviewing individual chapter files against briefs, audit notes, and conventions. Fixes applied to both `chapters/` files and `chapter_review.md`.
+- Punctuation convention refined: full-sentence questions now use question marks for all characters (including flat-affect); short/tonal probes ("How." / "Why." / "Pain.") keep periods. Dialogue tags use "said" not "asked" for flat-affect characters.
+- Device/terminal readouts reformatted: inline with colon + italic, not stacked on separate lines
+- Ch1: continuity fix ("drove out through the gap in the fence" → "pulled out onto the road" — van parked outside perimeter), scene break added, 5 device readouts inlined
+- Ch2: job spec inlined, scene break added, "Local copies," she asked → she said
+- Ch3: case file inlined, scene break added, 6 "asked"→"said" fixes, 9 full-sentence questions got question marks, Kade "What."→"What?"
+- Ch4: 30 punctuation fixes (full-sentence questions + asked→said + Lila "Yes?"→"Yes."), no scene break needed
+- Ch5: 2 full-sentence questions got question marks, 1 split-dialogue question mark, 2 asked→said fixes
+- Chapters reviewed so far: Ch1–Ch5
+
+**Next up:** Ch6 review, then continue through Ch22. Then Book 2 Ch1 — Aftermath
 
 ## How to Review a Chapter
 

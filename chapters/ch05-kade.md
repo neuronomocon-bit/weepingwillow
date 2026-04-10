@@ -83,14 +83,14 @@ He tapped one location. Then another. Then a third.
 “Overflow,” he said. “Redundancy. Things they didn’t want centralized.”
 She followed the spacing between the points. Not evenly distributed. Not clustered in a way that suggested efficiency.
 Spread.
-“Why separate them like this,” she asked.
+“Why separate them like this?” she said.
 “Risk management.”
 “From what.”
 He didn’t answer that immediately.
 “From themselves,” he said.
 The words landed flat. Not emphasized.
 Iris looked back at the map.
-“How many are still active,” she asked.
+“How many are still active?” she said.
 “None.”
 “You’re sure.”
 “Yes.”
@@ -103,7 +103,7 @@ Iris looked back at the map.
 She waited.
 He didn’t continue.
 She looked at the markers again.
-“Then why are we here,” she said, “if everything is inactive.”
+“Then why are we here,” she said, “if everything is inactive?”
 He didn’t respond right away.
 Instead, he stood, walked back to the wall, and pulled down a second map. This one had fewer markings. Newer paper.
 He placed it over the first.
@@ -116,7 +116,7 @@ Some overlapping. Some not.
 He met her eyes again.
 “Behavioral anomalies.”
 The phrase was clean. Clinical.
-“Medical,” she asked.
+“Medical,” she said.
 “Mostly.”
 “Diagnosed.”
 “Attempted.”
@@ -215,7 +215,7 @@ He moved back to the desk, picked up the original folder, and opened it fully th
 He slid it toward her.
 “There are six locations,” he said. “Confirmed Meridian-adjacent. Not the primary facility.”
 She looked down at the pages.
-“Data retrieval,” she asked.
+“Data retrieval,” she said.
 “Some.”
 “What else.”
 “Verification,” he said. “Status. Anything left behind.”

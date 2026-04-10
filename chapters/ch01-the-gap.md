@@ -5,13 +5,7 @@ Iris stood outside the opening and looked at the facility beyond.
 Meridian Neurological sat low against the coast, all concrete and narrow glass, more bunker than clinic. The building had been designed to keep things in or out. It was hard to tell which. Time had reduced the difference. Rust marked the seams. Salt had crusted in the corners of the windows. A section of exterior paneling near the west side had peeled back and stayed there, exposing insulation gone dark with damp.
 The sign over the main entrance still said MERIDIAN NEUROLOGICAL RESEARCH, though the last letters had faded enough that the word looked incomplete unless she stared at it.
 Wind moved in off the water in long steady passes. It carried salt, wet metal, old rot from the shore below. The sky had the flat gray look it kept for days at a time in Lowport. Not rain yet. Close.
-She checked the job on her slate.
-MN-44-7
-On-site recovery
-Local extraction only
-No live network dependency
-Partial power reported
-No personnel expected
+She checked the job on her slate: *MN-44-7. On-site recovery. Local extraction only. No live network dependency. Partial power reported. No personnel expected.*
 Routine.
 The client field was still redacted. That happened often enough. A landlord. An insurer. A company paying to find out what had been left behind after everyone important had already gone home.
 She zipped the slate into the chest pocket of her jacket and ducked through the gap in the fence.
@@ -142,8 +136,7 @@ The wall seemed farther away than it should have.
 She stopped.
 Looked forward again.
 The terminal light remained fixed in the distance, small and green.
-Her slate vibrated once in her pocket. An automated status ping from the extraction kit. She took it out.
-Transfer stalled. Link unstable.
+Her slate vibrated once in her pocket. An automated status ping from the extraction kit. She took it out: *Transfer stalled. Link unstable.*
 She frowned, turned back toward the wall, then stopped again.
 The air had changed.
 The colder patch was no longer behind her. It was beside her.
@@ -211,12 +204,10 @@ She was on one knee beside her open pack at the near end of the archive room.
 The portable terminal was folded halfway shut on the floor.
 One glove was off.
 Her wrist ached where skin met sleeve.
-She looked at the terminal clock.
-14:41.
+She looked at the terminal clock: *14:41.*
 She stared at it longer than she needed to.
 The last time she had looked, the transfer had been at 53 percent.
-Now the status line showed complete.
-All requested clusters recovered. Integrity check passed.
+Now the status line showed complete: *All requested clusters recovered. Integrity check passed.*
 She looked around the room.
 Racks. Lights. Dust. Open doors to the hall.
 Nothing else.
@@ -233,8 +224,7 @@ Then it passed.
 She slung the pack over one shoulder and walked to the doors.
 The hallway beyond looked unchanged. Pale paint. Dim fixtures. The freight elevator still half open around darkness. The nurses’ station empty. Her own boot prints faint in the dust where there had been none when she entered.
 She went back the way she had come.
-At the stairwell landing she stopped and checked the time again.
-14:47.
+At the stairwell landing she stopped and checked the time again: *14:47.*
 She had been inside forty minutes.
 That seemed wrong.
 Not impossible. Just wrong.
@@ -250,7 +240,10 @@ She could name that much.
 Not a vague feeling. Not fatigue. Not distraction. A clean missing section where continuity should have been. She remembered entering. She remembered the first transfers. She remembered kneeling by the pack with the job complete.
 Between those points, the line did not hold.
 She started the engine.
-The heater came on with a dry mechanical smell. Wipers dragged once across a windshield not yet wet enough to justify them. She turned them off, put the van in gear, and drove out through the gap in the fence.
+The heater came on with a dry mechanical smell. Wipers dragged once across a windshield not yet wet enough to justify them. She turned them off, put the van in gear, and pulled out onto the road.
+
+***
+
 The road from Meridian back toward Lowport followed the coast for a while before turning inland through warehouses and utility yards. The water stayed visible in broken sections between storage tanks and crane arms and stretches of scrub grass flattened by wind.
 She drove on habit.
 Signals. Turns. Speed adjustments. A truck merging badly ahead of her. A crossing light stuck on red though no train came. The city gathering slowly around the industrial edge of it.

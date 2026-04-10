@@ -253,7 +253,7 @@ She could name that much.
 Not a vague feeling. Not fatigue. Not distraction. A clean missing section where continuity should have been. She remembered entering. She remembered the first transfers. She remembered kneeling by the pack with the job complete.
 Between those points, the line did not hold.
 She started the engine.
-The heater came on with a dry mechanical smell. Wipers dragged once across a windshield not yet wet enough to justify them. She turned them off, put the van in gear, and drove out through the gap in the fence.
+The heater came on with a dry mechanical smell. Wipers dragged once across a windshield not yet wet enough to justify them. She turned them off, put the van in gear, and pulled out onto the road.
 The road from Meridian back toward Lowport followed the coast for a while before turning inland through warehouses and utility yards. The water stayed visible in broken sections between storage tanks and crane arms and stretches of scrub grass flattened by wind.
 She drove on habit.
 Signals. Turns. Speed adjustments. A truck merging badly ahead of her. A crossing light stuck on red though no train came. The city gathering slowly around the industrial edge of it.
@@ -309,7 +309,7 @@ His voice held the same casual tone she remembered. Slightly amused, even when n
 Iris nodded once and stepped inside.
 He pushed off the frame and fell in beside her without comment.
 “Power’s spotty,” he said as they walked. “Whole place is running off something they shouldn’t be trusting. Lights flicker every few seconds. If anything reboots, we start over.”
-“Local copies,” she asked.
+“Local copies,” she said.
 “Mostly. Some of it tries to phone home, but whatever it’s calling doesn’t pick up.”
 “That’s fine.”
 “Yeah,” he said. “Usually is.”
@@ -548,7 +548,7 @@ Joel nodded.
 His voice was clear. Level. Not strained. Not weak.
 Normal.
 Iris stepped into the room.
-“Can you tell me what happened,” she said.
+“Can you tell me what happened?” she said.
 Leah moved closer to Joel without touching him.
 “He was gone for two days,” she said. “He said he was going to meet someone about work. He didn’t come back. His phone didn’t— it just stopped. And then he came home like nothing had happened.”
 Joel watched her while she spoke.
@@ -559,12 +559,12 @@ Leah swallowed.
 Joel nodded once, as if confirming a statement.
 “I am fine,” he said.
 Iris looked at him.
-“Do you remember where you were,” she asked.
+“Do you remember where you were?” she said.
 “Yes,” Joel said.
 “Where.”
 “I met someone about a contract. We spoke. I returned home.”
 His tone remained steady. The words were appropriate. Structured correctly. No hesitation.
-“Where did you meet,” Iris asked.
+“Where did you meet?” Iris said.
 “A building near the coast.”
 “Do you know the address.”
 “No.”
@@ -578,14 +578,14 @@ Iris stepped closer.
 Joel’s posture was relaxed. Hands resting loosely on his knees. No tension in the shoulders. No visible fatigue.
 She watched his face.
 Blink rate normal. Eye movement steady. No delay in tracking.
-“Can you describe the person you met,” she said.
+“Can you describe the person you met?” she said.
 Joel considered this for a fraction of a second.
 “They were there,” he said.
-“What did they look like.”
+“What did they look like?”
 “I do not know.”
 “You spoke with them.”
 “Yes.”
-“And you don’t know what they looked like.”
+“And you don’t know what they looked like?”
 “No.”
 Leah let out a small breath that caught halfway.
 “Do you hear that?” she said. “Do you hear how that sounds?”
@@ -593,7 +593,7 @@ Joel looked at her again.
 “It is accurate,” he said.
 Leah pressed her lips together.
 Iris shifted her focus back to Joel.
-“Do you feel any different,” she asked.
+“Do you feel any different?” she said.
 “No.”
 “Any changes in sleep. Appetite. Focus.”
 “No.”
@@ -615,7 +615,7 @@ Micro-adjustments. Unconscious shifts in posture. The subtle unevenness that cam
 He was still.
 Not rigid. Not controlled.
 Just without excess.
-“Can you tell me about your day,” Iris said.
+“Can you tell me about your day?” Iris said.
 Joel nodded.
 “I woke at six,” he said. “I ate breakfast. I left for work at seven. I returned at five. We ate dinner.”
 He paused.
@@ -624,7 +624,7 @@ The sequence was complete.
 Leah shook her head again, slower this time.
 “He used to—” she stopped. “He would talk. He would tell me things. Not like that.”
 Joel looked at her.
-“What would you like me to add,” he asked.
+“What would you like me to add?” he said.
 The question was sincere.
 Leah didn’t answer.
 Iris watched him.
@@ -645,7 +645,7 @@ She stopped at the counter, hands resting on the surface.
 Joel watched her go.
 His expression did not change.
 Iris stepped closer.
-“Do you feel concern for her,” she asked quietly.
+“Do you feel concern for her?” she said quietly.
 Joel followed her gaze.
 “She is distressed,” he said.
 “Yes.”
@@ -655,7 +655,7 @@ Iris felt it land without weight.
 She reached out and took his wrist.
 His skin was warm. Pulse steady. No resistance to the contact.
 Joel looked down at her hand, then back at her face.
-“Is that required,” he asked.
+“Is that required?” he said.
 “No.”
 She released him.
 The room held its shape.
@@ -730,7 +730,7 @@ At the end of the block, she reached for the slate and opened a channel.
 “Your read,” Kade said.
 Iris looked at the road ahead.
 “Something has been removed,” she said.
-“What.”
+“What?”
 “I don’t know.”
 Silence on the line.
 “Send me everything,” Kade said.
@@ -744,7 +744,7 @@ Three stories. Exterior siding replaced in sections. A security panel by the fro
 Iris pressed the call button.
 A pause.
 Then:
-“Yes?”
+“Yes.”
 The voice came through clean. No distortion.
 “Iris Vale,” she said. “You agreed to a visit.”
 Another pause. Shorter.
@@ -767,7 +767,7 @@ The apartment was organized.
 Everything was simply where it should be.
 Shoes placed evenly near the door. Surfaces clear. No objects out of alignment. No signs of interruption or abandonment.
 A small table near the window. Two chairs. A cup set near one edge.
-“Would you like something to drink.” Lila asked.
+“Would you like something to drink?” Lila said.
 “No, thank you.”
 Lila moved to the table and sat.
 Iris remained standing for a moment, then took the chair across from her.
@@ -779,30 +779,30 @@ Her tone was level. Not flat. Not warm.
 Correct.
 Iris watched her.
 Blink rate normal. Eye contact steady. No visible hesitation.
-“Can you tell me what happened,” Iris said.
+“Can you tell me what happened?” Iris said.
 Lila nodded once.
 “I went to a location,” she said. “I met someone. We spoke. I left.”
 “Where.”
 “I don’t know the address.”
-“Do you remember how you got there.”
+“Do you remember how you got there?”
 “Yes.”
 “How.”
 “I traveled.”
 The answer held.
 No attempt to clarify.
-“Do you remember the person you met,” Iris asked.
+“Do you remember the person you met?” Iris said.
 “Yes.”
-“What did they look like.”
+“What did they look like?”
 Lila paused.
 Not searching. Not struggling.
 Just a pause.
 “I don’t have that information,” she said.
 “You spoke with them.”
 “Yes.”
-“And you don’t know what they looked like.”
+“And you don’t know what they looked like?”
 “No.”
 Iris nodded once.
-“Do you feel any different since then,” she asked.
+“Do you feel any different since then?” she said.
 “No.”
 “Any changes in memory, sleep, appetite.”
 “No.”
@@ -813,21 +813,21 @@ Iris let the silence settle.
 Lila waited.
 Not impatient. Not expectant.
 Present.
-“Can you tell me about your day,” Iris said.
+“Can you tell me about your day?” Iris said.
 Lila nodded again.
 “I woke at seven,” she said. “I ate breakfast. I cleaned the apartment. I went for a walk. I returned. I prepared food. I am here.”
 The sequence was complete.
 No additions.
-“Did anything stand out,” Iris asked. “Anything unusual.”
+“Did anything stand out?” Iris said. “Anything unusual.”
 “No.”
 Iris looked at the cup on the table.
-“Were you using that,” she asked.
+“Were you using that?” she said.
 “Yes.”
-“What were you drinking.”
+“What were you drinking?”
 “Tea.”
-“Do you like tea.”
+“Do you like tea?”
 “Yes.”
-“What do you like about it.”
+“What do you like about it?”
 Lila looked at the cup.
 Then back at Iris.
 “It is appropriate,” she said.
@@ -835,23 +835,23 @@ The sentence landed and remained.
 Iris felt something in her hands.
 A small shift. Not visible.
 She placed her palms flat against her legs.
-“Do you have family,” Iris said.
+“Do you have family?” Iris said.
 “Yes.”
-“Do you speak with them.”
+“Do you speak with them?”
 “Yes.”
-“When was the last time.”
+“When was the last time?”
 “Yesterday.”
-“What did you talk about.”
+“What did you talk about?”
 “We exchanged updates.”
 “What kind of updates.”
 “Daily activity.”
-“Did anything in that conversation matter to you.”
+“Did anything in that conversation matter to you?”
 Lila considered this.
 “I do not have that information,” she said.
 The words were not deflective.
 They were exact.
 Iris nodded.
-“Can you describe how you feel right now,” she asked.
+“Can you describe how you feel right now?” she said.
 “I feel well,” Lila said.
 “How.”
 “I am not in pain. I am functioning normally.”
@@ -869,14 +869,14 @@ Even. Controlled.
 Too controlled.
 She let it go.
 It did not change.
-“Do you remember being upset,” Iris said.
+“Do you remember being upset?” Iris said.
 “Yes.”
 “When.”
 “Before.”
 “About what.”
 Lila paused again.
 “I don’t have that information,” she said.
-“Do you remember what that felt like.”
+“Do you remember what that felt like?”
 “No.”
 The answer came clean.
 Iris felt it this time.
@@ -887,7 +887,7 @@ She looked down at her hands.
 No visible change.
 She flexed her fingers once.
 The sensation remained.
-“Do you miss it,” Iris asked.
+“Do you miss it?” Iris said.
 Lila’s head tilted slightly.
 “Miss what.”
 “Being upset.”
@@ -897,13 +897,13 @@ Lila considered the question.
 “I am functioning,” she said.
 The answer was complete.
 Iris nodded.
-“Do you want to recover,” Iris asked.
+“Do you want to recover?” Iris said.
 “Yes.”
-“What does that mean to you.”
+“What does that mean to you?”
 “To return to a previous state of function.”
-“What was that state.”
+“What was that state?”
 “I do not have a precise comparison.”
-“Do you feel concern for other people,” she asked.
+“Do you feel concern for other people?” she said.
 “Yes.”
 “How.”
 “I respond when required.”
@@ -911,7 +911,7 @@ The phrasing held.
 “I respond when required.”
 Iris repeated it once in her head.
 No variation.
-“Do you feel concern for me,” she said.
+“Do you feel concern for me?” she said.
 “Yes.”
 “How.”
 “You are here,” Lila said. “You have questions. I am answering them.”
@@ -920,14 +920,14 @@ There was no resistance in it.
 No deflection.
 No attempt to read Iris back.
 Just attention.
-"Do you feel like anything is missing," Iris asked.
+"Do you feel like anything is missing?" Iris said.
 "No."
 The tightening in her arms spread slightly, up toward her shoulders.
 Not pain.
 Recognition.
 She stood.
 Lila stood with her.
-“Is there anything else you need,” Lila asked.
+“Is there anything else you need?” Lila said.
 “No.”
 “I can provide more information if necessary.”
 “I’ll let you know.”
@@ -1078,14 +1078,14 @@ He tapped one location. Then another. Then a third.
 “Overflow,” he said. “Redundancy. Things they didn’t want centralized.”
 She followed the spacing between the points. Not evenly distributed. Not clustered in a way that suggested efficiency.
 Spread.
-“Why separate them like this,” she asked.
+“Why separate them like this?” she said.
 “Risk management.”
 “From what.”
 He didn’t answer that immediately.
 “From themselves,” he said.
 The words landed flat. Not emphasized.
 Iris looked back at the map.
-“How many are still active,” she asked.
+“How many are still active?” she said.
 “None.”
 “You’re sure.”
 “Yes.”
@@ -1098,7 +1098,7 @@ Iris looked back at the map.
 She waited.
 He didn’t continue.
 She looked at the markers again.
-“Then why are we here,” she said, “if everything is inactive.”
+“Then why are we here,” she said, “if everything is inactive?”
 He didn’t respond right away.
 Instead, he stood, walked back to the wall, and pulled down a second map. This one had fewer markings. Newer paper.
 He placed it over the first.
@@ -1111,7 +1111,7 @@ Some overlapping. Some not.
 He met her eyes again.
 “Behavioral anomalies.”
 The phrase was clean. Clinical.
-“Medical,” she asked.
+“Medical,” she said.
 “Mostly.”
 “Diagnosed.”
 “Attempted.”
@@ -1210,7 +1210,7 @@ He moved back to the desk, picked up the original folder, and opened it fully th
 He slid it toward her.
 “There are six locations,” he said. “Confirmed Meridian-adjacent. Not the primary facility.”
 She looked down at the pages.
-“Data retrieval,” she asked.
+“Data retrieval,” she said.
 “Some.”
 “What else.”
 “Verification,” he said. “Status. Anything left behind.”

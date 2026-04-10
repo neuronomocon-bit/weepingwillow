@@ -5,12 +5,7 @@ Iris parked along the curb and killed the engine.
 The building in front of her had once been a small distribution center. The signage had been removed, leaving a cleaner rectangle on the wall where it had been. A newer placard had been bolted over it, cheap plastic, printed lettering:
 HARBOR DATA STORAGE — TEMPORARY FACILITY
 Temporary had been there long enough for the edges to curl.
-She checked the job on her slate.
-HD-12-3
-On-site recovery
-Partial network integrity
-Local backup priority
-Two-person access recommended
+She checked the job on her slate: *HD-12-3. On-site recovery. Partial network integrity. Local backup priority. Two-person access recommended.*
 The second line had been the reason for the additional name on the assignment.
 Caleb Ward.
 She had worked with him before. Enough times that the pattern was familiar. He handled access, physical layout, and anything that required improvisation on site. She handled the systems. They did not need to coordinate much. The work separated cleanly.
@@ -23,7 +18,7 @@ His voice held the same casual tone she remembered. Slightly amused, even when n
 Iris nodded once and stepped inside.
 He pushed off the frame and fell in beside her without comment.
 “Power’s spotty,” he said as they walked. “Whole place is running off something they shouldn’t be trusting. Lights flicker every few seconds. If anything reboots, we start over.”
-“Local copies,” she asked.
+“Local copies,” she said.
 “Mostly. Some of it tries to phone home, but whatever it’s calling doesn’t pick up.”
 “That’s fine.”
 “Yeah,” he said. “Usually is.”
@@ -160,6 +155,9 @@ She paused.
 “Brief,” she said.
 He grinned.
 “Diner around the corner. It qualifies.”
+
+***
+
 They walked without talking. The streets here were narrow, built for trucks that no longer ran regularly. A few shops remained open. A parts supplier. A small machine repair place. A diner with a hand-painted sign and a window that fogged at the edges even when the door stayed closed.
 They went in.
 The interior was narrow and long, counter on one side, booths on the other. The air smelled like coffee, grease, and something sweet that had been baked earlier and was no longer warm.

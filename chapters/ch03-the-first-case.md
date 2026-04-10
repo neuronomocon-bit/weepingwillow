@@ -3,11 +3,7 @@ The address sat on the north side of the city, where the houses had been built i
 Small yards. Low fences. Paint that had been refreshed unevenly over the years. The kind of place where things were maintained just enough to keep working.
 Iris parked along the curb and shut off the engine.
 The house was one of several nearly identical structures on the block. Two stories. Narrow porch. A single window to the left of the front door with the blinds half drawn. Light inside, though the day did not require it.
-She checked the slate.
-Case Reference: K-01
-Source: Kade
-Note: “Came back different.”
-Flag: Possible Meridian adjacency
+She checked the slate: *Case Reference: K-01. Source: Kade. Note: “Came back different.” Flag: Possible Meridian adjacency.*
 No additional detail.
 That was consistent with Kade. He sent what was needed to locate the problem. The rest was for observation.
 Iris stepped out of the van.
@@ -31,7 +27,7 @@ Joel nodded.
 His voice was clear. Level. Not strained. Not weak.
 Normal.
 Iris stepped into the room.
-“Can you tell me what happened,” she said.
+“Can you tell me what happened?” she said.
 Leah moved closer to Joel without touching him.
 “He was gone for two days,” she said. “He said he was going to meet someone about work. He didn’t come back. His phone didn’t— it just stopped. And then he came home like nothing had happened.”
 Joel watched her while she spoke.
@@ -42,12 +38,12 @@ Leah swallowed.
 Joel nodded once, as if confirming a statement.
 “I am fine,” he said.
 Iris looked at him.
-“Do you remember where you were,” she asked.
+“Do you remember where you were?” she said.
 “Yes,” Joel said.
 “Where.”
 “I met someone about a contract. We spoke. I returned home.”
 His tone remained steady. The words were appropriate. Structured correctly. No hesitation.
-“Where did you meet,” Iris asked.
+“Where did you meet?” Iris said.
 “A building near the coast.”
 “Do you know the address.”
 “No.”
@@ -61,14 +57,14 @@ Iris stepped closer.
 Joel’s posture was relaxed. Hands resting loosely on his knees. No tension in the shoulders. No visible fatigue.
 She watched his face.
 Blink rate normal. Eye movement steady. No delay in tracking.
-“Can you describe the person you met,” she said.
+“Can you describe the person you met?” she said.
 Joel considered this for a fraction of a second.
 “They were there,” he said.
-“What did they look like.”
+“What did they look like?”
 “I do not know.”
 “You spoke with them.”
 “Yes.”
-“And you don’t know what they looked like.”
+“And you don’t know what they looked like?”
 “No.”
 Leah let out a small breath that caught halfway.
 “Do you hear that?” she said. “Do you hear how that sounds?”
@@ -76,7 +72,7 @@ Joel looked at her again.
 “It is accurate,” he said.
 Leah pressed her lips together.
 Iris shifted her focus back to Joel.
-“Do you feel any different,” she asked.
+“Do you feel any different?” she said.
 “No.”
 “Any changes in sleep. Appetite. Focus.”
 “No.”
@@ -98,7 +94,7 @@ Micro-adjustments. Unconscious shifts in posture. The subtle unevenness that cam
 He was still.
 Not rigid. Not controlled.
 Just without excess.
-“Can you tell me about your day,” Iris said.
+“Can you tell me about your day?” Iris said.
 Joel nodded.
 “I woke at six,” he said. “I ate breakfast. I left for work at seven. I returned at five. We ate dinner.”
 He paused.
@@ -107,7 +103,7 @@ The sequence was complete.
 Leah shook her head again, slower this time.
 “He used to—” she stopped. “He would talk. He would tell me things. Not like that.”
 Joel looked at her.
-“What would you like me to add,” he asked.
+“What would you like me to add?” he said.
 The question was sincere.
 Leah didn’t answer.
 Iris watched him.
@@ -128,7 +124,7 @@ She stopped at the counter, hands resting on the surface.
 Joel watched her go.
 His expression did not change.
 Iris stepped closer.
-“Do you feel concern for her,” she asked quietly.
+“Do you feel concern for her?” she said quietly.
 Joel followed her gaze.
 “She is distressed,” he said.
 “Yes.”
@@ -138,7 +134,7 @@ Iris felt it land without weight.
 She reached out and took his wrist.
 His skin was warm. Pulse steady. No resistance to the contact.
 Joel looked down at her hand, then back at her face.
-“Is that required,” he asked.
+“Is that required?” he said.
 “No.”
 She released him.
 The room held its shape.
@@ -204,6 +200,9 @@ Then it eased.
 Iris sat with her hands on the wheel.
 The feeling did not return.
 She put the van in gear and pulled away from the curb.
+
+***
+
 At the end of the block, she reached for the slate and opened a channel.
 “Kade,” she said.
 “Go,” his voice returned.
@@ -213,7 +212,7 @@ At the end of the block, she reached for the slate and opened a channel.
 “Your read,” Kade said.
 Iris looked at the road ahead.
 “Something has been removed,” she said.
-“What.”
+“What?”
 “I don’t know.”
 Silence on the line.
 “Send me everything,” Kade said.
