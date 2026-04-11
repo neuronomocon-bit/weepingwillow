@@ -117,14 +117,14 @@ Rourke expanded a chart. Graphs of response times. Emotional markers. Neural ima
 “We’re seeing consistent patterns,” she said. “Reduced affective response. Lower emotional variance. Stable cognitive function.”
 “Stable,” Iris said.
 “Yes.”
-“Then why are they being flagged.”
+“Then why are they being flagged?”
 “Because the change is abrupt,” Rourke said. “Not progressive. Not explained by baseline history.”
 “So something caused it.”
 “Yes.”
 “And you don’t know what.”
 “Not yet.”
 Iris looked back at the case list.
-“Do they all have contact events,” she asked.
+“Do they all have contact events?” she said.
 “Define contact.”
 “An interaction. A specific point where something changes.”
 Rourke shook her head slightly.
@@ -159,7 +159,7 @@ She leaned forward slightly, hands resting flat on the desk.
 The silence settled between them.
 Rourke shifted her focus back to the screen.
 “These cases respond to treatment variably,” she said. “Some stabilize. Some regress. Some remain unchanged.”
-“Do any recover fully,” Iris asked.
+“Do any recover fully?” Iris said.
 Rourke paused.
 “No,” she said.
 “Then it’s not treatment.”
@@ -196,7 +196,7 @@ Rourke leaned back again.
 “How.”
 “With more data.”
 Iris looked at the screen again.
-“How many more,” she asked.
+“How many more?” she said.
 Rourke didn’t answer that.
 Instead, she minimized the case list and pulled up another file.
 Neural imaging.
@@ -248,7 +248,7 @@ Rourke didn’t respond.
 Instead, she reached to the side and pulled a thin tablet from the desk. She slid it across to Iris.
 “Because you’re already involved,” Rourke said. “And I’d rather you work from something structured than invent the rest.”
 Iris looked at it but didn’t pick it up.
-“Why,” she asked.
+“Why.”
 “Because you’re going to continue whether I agree with it or not.”
 “Yes.”
 “But this doesn’t mean I agree with your conclusion.”

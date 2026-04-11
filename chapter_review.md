@@ -1423,14 +1423,14 @@ Rourke expanded a chart. Graphs of response times. Emotional markers. Neural ima
 “We’re seeing consistent patterns,” she said. “Reduced affective response. Lower emotional variance. Stable cognitive function.”
 “Stable,” Iris said.
 “Yes.”
-“Then why are they being flagged.”
+“Then why are they being flagged?”
 “Because the change is abrupt,” Rourke said. “Not progressive. Not explained by baseline history.”
 “So something caused it.”
 “Yes.”
 “And you don’t know what.”
 “Not yet.”
 Iris looked back at the case list.
-“Do they all have contact events,” she asked.
+“Do they all have contact events?” she said.
 “Define contact.”
 “An interaction. A specific point where something changes.”
 Rourke shook her head slightly.
@@ -1465,7 +1465,7 @@ She leaned forward slightly, hands resting flat on the desk.
 The silence settled between them.
 Rourke shifted her focus back to the screen.
 “These cases respond to treatment variably,” she said. “Some stabilize. Some regress. Some remain unchanged.”
-“Do any recover fully,” Iris asked.
+“Do any recover fully?” Iris said.
 Rourke paused.
 “No,” she said.
 “Then it’s not treatment.”
@@ -1502,7 +1502,7 @@ Rourke leaned back again.
 “How.”
 “With more data.”
 Iris looked at the screen again.
-“How many more,” she asked.
+“How many more?” she said.
 Rourke didn’t answer that.
 Instead, she minimized the case list and pulled up another file.
 Neural imaging.
@@ -1554,7 +1554,7 @@ Rourke didn’t respond.
 Instead, she reached to the side and pulled a thin tablet from the desk. She slid it across to Iris.
 “Because you’re already involved,” Rourke said. “And I’d rather you work from something structured than invent the rest.”
 Iris looked at it but didn’t pick it up.
-“Why,” she asked.
+“Why.”
 “Because you’re going to continue whether I agree with it or not.”
 “Yes.”
 “But this doesn’t mean I agree with your conclusion.”
@@ -1713,7 +1713,7 @@ Iris looked at the map.
 “What is it, then?”
 She brought up the grid overlay.
 “The cases align with Meridian-era systems.”
-“What am I looking at?”
+“What are you seeing?”
 “Meridian-era systems.”
 “Yes.”
 Silence.
@@ -1813,7 +1813,7 @@ The building was sealed. Not abandoned—closed. Entry panel still powered. Acce
 Kade stepped out first. He didn’t go to the door immediately. He looked at the building longer than necessary.
 “You recognize it,” Iris said.
 “Yes.”
-“What is it.”
+“What is it?”
 “Was a relay point.”
 “For what.”
 He didn’t answer right away.
@@ -1837,7 +1837,7 @@ Looked down.
 Nothing visible. No indication anything had occurred.
 “How long was he here?” Kade asked.
 “Unknown.”
-“Alone.”
+“Alone?”
 “Yes.”
 He turned, scanning the walls. The conduits. The empty mounts.
 Something in his attention shifted.
@@ -1857,7 +1857,7 @@ The second location was closer to the coast. Older construction. Exterior mainta
 “Yes.”
 “For Meridian.”
 “Yes.”
-“What was it.”
+“What was it?”
 “Transfer point,” he said. “Equipment.”
 “What kind.”
 Kade parked and turned off the engine.
@@ -1902,7 +1902,7 @@ A shift.
 She didn’t move.
 “Something,” she said.
 Kade looked at her.
-“What.”
+“What?”
 The sensation didn’t increase. Didn’t resolve.
 Then it was gone.
 She stepped back.
@@ -1964,7 +1964,7 @@ She opened one of the newer files. Rourke's language had shifted. Fewer qualifie
 Iris closed the file.
 She crossed into an older residential block. Familiar layout. She had been here before.
 A group stood outside a building entrance. Three people. Conversation in progress.
-"Did you call them," one asked.
+"Did you call them," one said.
 "Yes."
 "What did they say."
 "They're sending someone."
@@ -2189,7 +2189,7 @@ Then a grin.
 “You’re assigned to this site,” she said.
 “Yeah. Rotating through a few of them.” He nodded toward the rig. “This one’s been acting up.”
 He dismissed the other workers with a quick gesture. They moved off without question.
-“You tracking something,” he asked.
+“You tracking something,” he said.
 “Yes.”
 “Here.”
 “Yes.”
@@ -2218,7 +2218,7 @@ Iris watched him as he spoke.
 The words were correct.
 The tone was correct.
 The spacing between them was slightly irregular.
-“How long,” she asked.
+“How long,” she said.
 “Couple days.”
 “Progressing.”
 “Hard to tell.”
@@ -2252,7 +2252,7 @@ Then smiled again.
 “Fair enough.”
 The smile stayed a moment too long.
 Then dropped.
-“You been out here before,” he asked.
+“You been out here before,” he said.
 “Yes.”
 “Feels different, doesn’t it.”
 “Yes.”
@@ -2260,7 +2260,7 @@ He nodded, satisfied with that.
 They stood in silence for a few seconds.
 Not uncomfortable.
 Caleb shifted his weight.
-“You want me to walk you through the rest of it.” He asked.
+“You want me to walk you through the rest of it.”
 “Yes.”
 They moved through the site.
 He explained the layout. The flow. Where things should be. Where they weren’t.
@@ -2436,8 +2436,7 @@ He took a breath. Looked around.
 The corridor was the same. He was alone.
 He adjusted his stance. Checked his hands. No tremor. No residual effect.
 He walked back to the control room. The panel still displayed normal operation.
-He logged a note.
-Response timing remains inconsistent. No confirmed failure.
+He logged a note: *Response timing remains inconsistent. No confirmed failure.*
 He closed the panel and moved toward the exit.
 At the threshold, he paused. Not for long. No identified reason.
 Then continued.
@@ -2534,7 +2533,7 @@ Complete.
 Iris held the silence after it.
 “You made a joke about it,” she said.
 “Yes.”
-“What was it.”
+“What was it?”
 Caleb looked at her.
 No hesitation.
 “I don’t recall.”
@@ -2551,7 +2550,7 @@ Iris felt the distinction.
 Not emotionally.
 The space where the original response should have been filled with something sufficient.
 She leaned forward slightly.
-“What do you think is causing it,” she asked.
+“What do you think is causing it?” she said.
 “The inconsistencies.”
 “Yes.”
 Caleb considered.
@@ -2592,7 +2591,7 @@ Caleb nodded.
 Silence.
 Not uncomfortable.
 Not filled.
-Just present.
+Functional.
 Iris looked at him.
 At the precision of his responses. The absence of drift. The lack of excess.
 She had known him.
@@ -2602,7 +2601,7 @@ Not dramatic. Not visible. Total.
 She leaned forward again.
 “One question,” she said.
 “Yes.”
-“If everything went wrong at once,” she said, “what would you do.”
+“If everything went wrong at once,” she said, “what would you do?”
 Old Caleb would have answered immediately.
 Not correctly.
 Sharply.
@@ -2626,7 +2625,7 @@ She sat back.
 “Thank you,” she said.
 “You’re welcome.”
 Caleb finished his drink.
-“You need anything else,” he said.
+“You need anything else?” he said.
 “No.”
 He stood.
 “I have another site to check.”
@@ -2642,8 +2641,8 @@ The chair across from her was empty.
 She stood, paid, and stepped outside.
 The city moved around her. Uninterrupted.
 She stood on the sidewalk where Caleb had stood a moment before.
-The difference between them was not kind.
-Only degree.
+The difference between them was not direction.
+Only distance.
 Chapter 14 — The Weight
 Kade's office was active.
 More materials than before. Maps extended across the walls. Markings covered over prior markings. Additional sites flagged.
@@ -3059,7 +3058,7 @@ She held the statement.
 Kade looked back at the map.
 “Alright,” he said. “You felt something.”
 “Yes.”
-“And that makes this one thing.”
+“And that makes this one thing?”
 “Yes.”
 Kade exhaled.
 Slow.
@@ -3114,7 +3113,7 @@ She held it.
 Kade watched her.
 “You see something,” he said.
 “Yes.”
-“Where.”
+“Where?”
 Iris didn’t answer immediately.
 She could feel it.
 Not physically.
@@ -3358,10 +3357,9 @@ Still no change.
 She had reached it.
 Or—
 it had reached her.
-There was something to find.
-Not a pattern.
-Not a cause.
-Something.
+Not theory now.
+Not inference.
+Proximity.
 She was within range.
 Iris did not call Kade.
 Did not mark the location.

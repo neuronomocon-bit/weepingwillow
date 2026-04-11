@@ -14,7 +14,7 @@ The building was sealed. Not abandoned—closed. Entry panel still powered. Acce
 Kade stepped out first. He didn’t go to the door immediately. He looked at the building longer than necessary.
 “You recognize it,” Iris said.
 “Yes.”
-“What is it.”
+“What is it?”
 “Was a relay point.”
 “For what.”
 He didn’t answer right away.
@@ -38,7 +38,7 @@ Looked down.
 Nothing visible. No indication anything had occurred.
 “How long was he here?” Kade asked.
 “Unknown.”
-“Alone.”
+“Alone?”
 “Yes.”
 He turned, scanning the walls. The conduits. The empty mounts.
 Something in his attention shifted.
@@ -58,7 +58,7 @@ The second location was closer to the coast. Older construction. Exterior mainta
 “Yes.”
 “For Meridian.”
 “Yes.”
-“What was it.”
+“What was it?”
 “Transfer point,” he said. “Equipment.”
 “What kind.”
 Kade parked and turned off the engine.
@@ -103,7 +103,7 @@ A shift.
 She didn’t move.
 “Something,” she said.
 Kade looked at her.
-“What.”
+“What?”
 The sensation didn’t increase. Didn’t resolve.
 Then it was gone.
 She stepped back.

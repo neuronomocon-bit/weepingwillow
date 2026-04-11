@@ -96,7 +96,7 @@ She held the statement.
 Kade looked back at the map.
 “Alright,” he said. “You felt something.”
 “Yes.”
-“And that makes this one thing.”
+“And that makes this one thing?”
 “Yes.”
 Kade exhaled.
 Slow.
@@ -151,7 +151,7 @@ She held it.
 Kade watched her.
 “You see something,” he said.
 “Yes.”
-“Where.”
+“Where?”
 Iris didn’t answer immediately.
 She could feel it.
 Not physically.
@@ -213,4 +213,3 @@ Iris turned off the display.
 The line disappeared.
 The room remained.
 The door had closed.
-ACT III - CONTACT

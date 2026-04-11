@@ -102,7 +102,7 @@ Iris looked at the map.
 “What is it, then?”
 She brought up the grid overlay.
 “The cases align with Meridian-era systems.”
-“What am I looking at?”
+“What are you seeing?”
 “Meridian-era systems.”
 “Yes.”
 Silence.
@@ -185,4 +185,3 @@ Not solved.
 Not contained.
 Just visible.
 For now.
-ACT II - ESCALATION

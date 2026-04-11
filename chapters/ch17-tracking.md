@@ -179,10 +179,9 @@ Still no change.
 She had reached it.
 Or—
 it had reached her.
-There was something to find.
-Not a pattern.
-Not a cause.
-Something.
+Not theory now.
+Not inference.
+Proximity.
 She was within range.
 Iris did not call Kade.
 Did not mark the location.

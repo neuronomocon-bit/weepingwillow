@@ -84,7 +84,7 @@ Complete.
 Iris held the silence after it.
 “You made a joke about it,” she said.
 “Yes.”
-“What was it.”
+“What was it?”
 Caleb looked at her.
 No hesitation.
 “I don’t recall.”
@@ -101,7 +101,7 @@ Iris felt the distinction.
 Not emotionally.
 The space where the original response should have been filled with something sufficient.
 She leaned forward slightly.
-“What do you think is causing it,” she asked.
+“What do you think is causing it?” she said.
 “The inconsistencies.”
 “Yes.”
 Caleb considered.
@@ -142,7 +142,7 @@ Caleb nodded.
 Silence.
 Not uncomfortable.
 Not filled.
-Just present.
+Functional.
 Iris looked at him.
 At the precision of his responses. The absence of drift. The lack of excess.
 She had known him.
@@ -152,7 +152,7 @@ Not dramatic. Not visible. Total.
 She leaned forward again.
 “One question,” she said.
 “Yes.”
-“If everything went wrong at once,” she said, “what would you do.”
+“If everything went wrong at once,” she said, “what would you do?”
 Old Caleb would have answered immediately.
 Not correctly.
 Sharply.
@@ -176,7 +176,7 @@ She sat back.
 “Thank you,” she said.
 “You’re welcome.”
 Caleb finished his drink.
-“You need anything else,” he said.
+“You need anything else?” he said.
 “No.”
 He stood.
 “I have another site to check.”
@@ -192,5 +192,5 @@ The chair across from her was empty.
 She stood, paid, and stepped outside.
 The city moved around her. Uninterrupted.
 She stood on the sidewalk where Caleb had stood a moment before.
-The difference between them was not kind.
-Only degree.
+The difference between them was not direction.
+Only distance.

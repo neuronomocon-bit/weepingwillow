@@ -93,7 +93,7 @@ All 12 docs in `series-bible/`:
 - As Written blocks corrected: Ch20 head-tilt quote, Ch21 phantom negations removed, Ch19 device vibration attribution clarified, Ch22 updated to match new prose
 - Individual chapter files saved in `chapters/` folder
 
-**Book 1 — Chapter file review pass: IN PROGRESS (2026-04-09)**
+**Book 1 — Chapter file review pass: COMPLETE (2026-04-10)**
 Reviewing individual chapter files against briefs, audit notes, and conventions. Fixes applied to both `chapters/` files and `chapter_review.md`.
 - Punctuation convention refined: full-sentence questions now use question marks for all characters (including flat-affect); short/tonal probes ("How." / "Why." / "Pain.") keep periods. Dialogue tags use "said" not "asked" for flat-affect characters.
 - Device/terminal readouts reformatted: inline with colon + italic, not stacked on separate lines
@@ -102,9 +102,26 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 - Ch3: case file inlined, scene break added, 6 "asked"→"said" fixes, 9 full-sentence questions got question marks, Kade "What."→"What?"
 - Ch4: 30 punctuation fixes (full-sentence questions + asked→said + Lila "Yes?"→"Yes."), no scene break needed
 - Ch5: 2 full-sentence questions got question marks, 1 split-dialogue question mark, 2 asked→said fixes
-- Chapters reviewed so far: Ch1–Ch5
+- Ch6: 3 full-sentence questions got question marks, 3 asked→said fixes, 1 short/tonal tag removed ("Why," she asked. → "Why.")
+- Ch7: "What am I looking at?"→"What are you seeing?" (audio-only call fix), removed ACT II header from chapter file
+- Ch8: 2 Iris full-sentence questions got question marks ("What is it?" "What was it?"), 2 Kade questions got question marks ("Alone?" "What?")
+- Ch9: 1 fix — "one asked"→"one said" (unnamed flat character). Flat periods on ambient dialogue left intentionally (city-flattening effect)
+- Ch10: clean — no fixes needed
+- Ch11: 3 asked→said fixes (2 pre-Taking Caleb foreshadowing, 1 Iris), removed malformed "He asked." tag
+- Ch12: 1 fix — device readout inlined (Caleb's post-Taking log note)
+- Ch13: 3 full-sentence questions got question marks, 1 asked→said, "Just present."→"Functional." (avoided Ch10 repetition)
+- Ch14: clean — no fixes needed
+- Ch15: clean — no fixes needed
+- Ch16: 2 Kade questions got question marks ("And that makes this one thing?" "Where?"), removed ACT III header from chapter file
+- Ch17: varied "There was something to find" refrain (repeated from Ch16) → "Not theory now. Not inference. Proximity."
+- Ch18: clean — no fixes needed (no dialogue in chapter)
+- Ch19: clean — no fixes needed (no dialogue in chapter)
+- Ch20: clean — no fixes needed (no dialogue in chapter)
+- Ch21: clean — no fixes needed (no dialogue in chapter)
+- Ch22: clean — no fixes needed (no dialogue in chapter)
+- Chapters reviewed so far: Ch1–Ch22 — **CHAPTER FILE REVIEW PASS COMPLETE**
 
-**Next up:** Ch6 review, then continue through Ch22. Then Book 2 Ch1 — Aftermath
+**Next up:** Book 2 Ch1 — Aftermath
 
 ## How to Review a Chapter
 
@@ -180,7 +197,7 @@ When user says a chapter is in `chapter_review.md`:
 - Ch13 Post-Taking Caleb: answers clean, immediate, correct — no excess, no deviation, just acceptance
 - Ch13 Joke test: "I don't recall" → when prompted, "That's consistent" — not the same as the original, filled with something sufficient
 - Ch13 Key test: "If everything went wrong at once" — old Caleb would improvise, this Caleb gives textbook crisis management
-- Ch13 "The difference between them was not kind. Only degree."
+- Ch13 "The difference between them was not direction. Only distance."
 - Ch14 Rourke scene: 63 new cases, no recoveries, says "No" faster than before. "You used to elaborate" / "The data doesn't require elaboration." Steadiness tightened, not cracked.
 - Ch14 Retrieval lag: site address delayed 3-4 seconds. "Duration: longer than prior instances. Category: retrieval lag."
 - Ch14 Performing grief: Kade asks "Does it bother you" — Iris says "Yes" with correct tone, no internal state. "She had not been describing a condition. She had been answering."

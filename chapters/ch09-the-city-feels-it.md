@@ -24,7 +24,7 @@ She opened one of the newer files. Rourke's language had shifted. Fewer qualifie
 Iris closed the file.
 She crossed into an older residential block. Familiar layout. She had been here before.
 A group stood outside a building entrance. Three people. Conversation in progress.
-"Did you call them," one asked.
+"Did you call them," one said.
 "Yes."
 "What did they say."
 "They're sending someone."

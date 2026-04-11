@@ -13,7 +13,7 @@ Then a grin.
 “You’re assigned to this site,” she said.
 “Yeah. Rotating through a few of them.” He nodded toward the rig. “This one’s been acting up.”
 He dismissed the other workers with a quick gesture. They moved off without question.
-“You tracking something,” he asked.
+“You tracking something,” he said.
 “Yes.”
 “Here.”
 “Yes.”
@@ -42,7 +42,7 @@ Iris watched him as he spoke.
 The words were correct.
 The tone was correct.
 The spacing between them was slightly irregular.
-“How long,” she asked.
+“How long,” she said.
 “Couple days.”
 “Progressing.”
 “Hard to tell.”
@@ -76,7 +76,7 @@ Then smiled again.
 “Fair enough.”
 The smile stayed a moment too long.
 Then dropped.
-“You been out here before,” he asked.
+“You been out here before,” he said.
 “Yes.”
 “Feels different, doesn’t it.”
 “Yes.”
@@ -84,7 +84,7 @@ He nodded, satisfied with that.
 They stood in silence for a few seconds.
 Not uncomfortable.
 Caleb shifted his weight.
-“You want me to walk you through the rest of it.” He asked.
+“You want me to walk you through the rest of it.”
 “Yes.”
 They moved through the site.
 He explained the layout. The flow. Where things should be. Where they weren’t.

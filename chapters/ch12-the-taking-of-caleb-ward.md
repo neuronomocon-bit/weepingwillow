@@ -115,8 +115,7 @@ He took a breath. Looked around.
 The corridor was the same. He was alone.
 He adjusted his stance. Checked his hands. No tremor. No residual effect.
 He walked back to the control room. The panel still displayed normal operation.
-He logged a note.
-Response timing remains inconsistent. No confirmed failure.
+He logged a note: *Response timing remains inconsistent. No confirmed failure.*
 He closed the panel and moved toward the exit.
 At the threshold, he paused. Not for long. No identified reason.
 Then continued.
