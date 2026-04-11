@@ -71,7 +71,7 @@ All 12 docs in `series-bible/`:
 - Book 1 Ch21 — Partial Loss ✅
 - Book 1 Ch22 — Exit ✅
 
-**Book 1 — The Absence: COMPLETE**
+**Book 1 — The Absence: COMPLETE (23,405 words / novella)**
 
 **Book 1 — Full proofread/polish pass: COMPLETE (2026-04-04)**
 - Question mark convention enforced: Iris/Taken characters use periods on questions (flat affect), warm characters (Rourke, Kade, Lena, Leah) use question marks. Pre-Taking Caleb Ch11 intentionally uses periods as foreshadowing.
@@ -119,7 +119,14 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 - Ch20: clean — no fixes needed (no dialogue in chapter)
 - Ch21: clean — no fixes needed (no dialogue in chapter)
 - Ch22: clean — no fixes needed (no dialogue in chapter)
-- Chapters reviewed so far: Ch1–Ch22 — **CHAPTER FILE REVIEW PASS COMPLETE**
+- Chapters reviewed: Ch1–Ch22 — **CHAPTER FILE REVIEW PASS COMPLETE**
+- Ch13 closing line rewritten: "The difference between them was not direction. Only distance."
+
+**Book 1 — FINAL STATUS: ALL PASSES COMPLETE (2026-04-10)**
+- Writing: 22 chapters, 23,405 words
+- Proofread/polish: complete (2026-04-04)
+- Deep audit: complete (2026-04-08)
+- Chapter file review: complete (2026-04-10)
 
 **Next up:** Book 2 Ch1 — Aftermath
 
