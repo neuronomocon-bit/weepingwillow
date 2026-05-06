@@ -14,7 +14,9 @@
       "Bash(ls docx_verify/word/header* docx_verify/word/footer*)",
       "Bash(rm:*)",
       "Bash(node format-book-v2.js chapter_review.md WeepingWillow_TheAbsence_v2b.docx)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
