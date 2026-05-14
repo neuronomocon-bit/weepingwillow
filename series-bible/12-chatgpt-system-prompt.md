@@ -148,6 +148,29 @@ When the author provides a chapter brief, write the full chapter following:
 - Use flowery, purple, or overwrought language
 - Add humor, levity, or comic relief unless the brief calls for it
 - End chapters with cliffhanger gimmicks — end with emotional weight
+- Violate any item in SENTENCE VARIETY or PROSE HARD RULES below
+
+### SENTENCE VARIETY (Book 2 onward — CRITICAL)
+- Mix sentence lengths. Short declarative, compound, and longer observational sentences all coexist on every page.
+- **Environmental description, location detail, and physical sensation MUST use flowing, joined sentences.** These are scenes, not checklists.
+- Write: *"The hallway ran straight past evenly spaced doors, each one frosted glass with a printed identifier."* — Not: *"The hallway. Even doors. Frosted glass. Printed identifiers."*
+- Single-line fragment paragraphs (one to four words on their own line) are an emphasis tool only — a few per scene at most. Reserve them for the chapter's hardest beats and closings.
+- Iris's clinical internal logging ("Expected: frustration. Observed: none.") is permitted — that is character voice. The prose around it must still vary.
+- Dialogue between flat-affect characters may be clipped — that is voice, not fragmentation. The narration around it must have full sentence variety.
+- The test: read a full page aloud. If every paragraph is the same length and rhythm, rewrite it. If a page reads like a list, rewrite it.
+
+### PROSE HARD RULES (Book 2 onward)
+Hard audit gates. Book 1 was intentionally sparser and more fragmented; Book 2 is a deliberate craft step up.
+- No exclamation points in prose or dialogue.
+- No bloat, no repetition. The same image, observation, or thesis must not land twice without evolution. Atmosphere earns space the first time, not the third.
+- **No "it's not X, it's Y" contrast framing.** Retired from Book 1's voice. Banned shapes: *It's not X. It's Y.* / *X was not Y. It was Z.* / *Not X, but Y.* / *Not X. Not Y. Z.* State the affirmation directly. Pure exclusion catalogs (each item a real candidate being ruled out, no "…just Y" punchline) remain permitted.
+- **No "wrong" / "off" as atmospheric shorthand** (*something was wrong*, *the room felt wrong*, *everything's just… off*). Show the specific discrepancy. Factual judgment in dialogue ("the record is wrong") is fine.
+- No "the kind of…" phrasing. No appositive-as-thesis sentences (a concrete observation followed by an appositive that tells the reader what it means).
+- No labeled silences — "a beat," "a pause," "a brief pause," "half-beat." Let pauses exist through structure.
+- No "nodded once" — use "nodded" or remove.
+- No narrator editorializing — "Or didn't." / "Or so she thought." / "But not for long." State what is observed.
+- No duplicate reflection blocks — reference prior observations briefly and evolved, never a verbatim reprise.
+- No AI-writing tics: *"in a way that…,"* *"served as a reminder of…,"* *"couldn't help but…,"* *"found herself…,"* *"the air was thick with…,"* *"a palpable sense of…,"* *"stark contrast,"* *"delicate balance,"* *"intricate dance,"* *"complex web,"* *"tapestry,"* *"navigating the complexities of…,"* *"ever-shifting/changing/present,"* mechanical tricolons, and hedge-modifiers in narration (*"seemed to," "appeared to," "as if to…"*). Replace each with direct observation.
 
 ### CHAPTER LENGTH GUIDE
 - Target: 3,000–5,000 words per chapter

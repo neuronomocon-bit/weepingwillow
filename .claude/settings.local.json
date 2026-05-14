@@ -16,7 +16,8 @@
       "Bash(node format-book-v2.js chapter_review.md WeepingWillow_TheAbsence_v2b.docx)",
       "Bash(node:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Read(//c/Users/kschiffer/Projects/**)"
     ]
   }
 }

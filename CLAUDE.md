@@ -122,11 +122,21 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 - Chapters reviewed: Ch1–Ch22 — **CHAPTER FILE REVIEW PASS COMPLETE**
 - Ch13 closing line rewritten: "The difference between them was not direction. Only distance."
 
-**Book 1 — FINAL STATUS: ALL PASSES COMPLETE (2026-04-10)**
+**Book 1 — FINAL STATUS: COMPLETE & PUBLISHED (2026-05-14)**
 - Writing: 22 chapters, 23,405 words
 - Proofread/polish: complete (2026-04-04)
 - Deep audit: complete (2026-04-08)
 - Chapter file review: complete (2026-04-10)
+- Published: 2026-05-14
+- Canonical Book 1 manuscript: individual files in `chapters/` plus the docx exports. `chapter_review.md` has been cleared and now holds the Book 2 working manuscript.
+
+---
+
+## Book 2 — "The Hunger"
+
+**Status:** Not started. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter draft/review status tracked in `review-progress.md`.
+
+**Prose pivot (adopted 2026-05-14):** Book 2 onward follows the **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). This is a deliberate craft step up from Book 1: no default single-line fragmentation, no "Not X. Just Y." contrast cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no AI-writing tics. Rule set ported from the `deadtransit` project. Book 1 — The Absence is published and stays as written; do not retro-edit it.
 
 **Next up:** Book 2 Ch1 — Aftermath
 
@@ -142,10 +152,40 @@ When user says a chapter is in `chapter_review.md`:
    - Character voice consistency (see `02-characters.md`)
    - Willow's physical rules (if applicable)
    - Continuity with prior chapters (check "As Written" blocks in earlier briefs)
-   - **Fragmentation & bloat check:** Flag sections where single-line/single-word paragraph rhythm becomes monotonous, content is restated without earning the repetition, or low-density prose inflates page count without adding meaning. The sparse style is correct for the series — but it must earn its space. Compound observations are allowed; not every beat needs its own line.
-4. Flag any issues: name conflicts, tone drift, missing beats, continuity breaks
+   - **PROSE HARD RULES check (Book 2 onward):** Audit against every item in `03-themes-and-tone.md` → PROSE CONVENTIONS (HARD RULES). Sweep explicitly for: AI-writing tics, "it's not X, it's Y" contrast framing, "wrong"/"off" as atmospheric shorthand, "the kind of…" / appositive-as-thesis, labeled silences, "nodded once," narrator editorializing.
+   - **Sentence variety check (Book 2 onward):** Flag pages where single-line fragments stack as default prose, or environmental description reads as a checklist instead of flowing sentences. Fragments are emphasis only. Apply the read-aloud test.
+   - **Bloat & repetition pass:** Flag prose that doesn't earn its space, and any image/observation/thesis that lands twice without evolution. Recurring beats (fear-checks, "Expected/Observed" logs) must vary or advance — never repeat verbatim.
+4. Flag any issues: name conflicts, tone drift, missing beats, continuity breaks, hard-rule violations
 5. After approval, add an "As Written" block to the chapter brief with key prose details
 6. Commit and push when asked
+
+> **Book 1 note:** The Absence was written before the hard rules and is published — its sparser, more fragmented voice is intentional and stays. The PROSE HARD RULES and sentence-variety checks apply to Book 2 onward only.
+
+## Editing Passes
+
+Each book runs five passes after drafting (the structure Book 1 used, now codified):
+
+1. **First-pass revision** — general quality. Tone drift, pacing, scene-level issues.
+2. **Continuity check** — cross-reference all chapters against briefs, bible, and "As Written" blocks. Character knowledge state, timeline, location consistency.
+3. **Proofread/polish pass** — punctuation convention enforcement, recurring-pattern variation, duplicate-phrase detection, density trimming.
+4. **Deep audit pass** — typo sweep, convention enforcement, PROSE HARD RULES enforcement, "As Written" blocks reconciled.
+5. **Chapter file review pass** — individual chapter files reviewed against briefs, final formatting, saved to `chapters/`.
+
+## Drift Corrections
+
+Common drift patterns when ChatGPT drafts, and the correction to give:
+
+- **Too dramatic:** "Pull back. Flatter. Iris doesn't feel this intensely. Underplay it."
+- **Too much dialogue:** "Less talking. More silence. Let the scene sit."
+- **Too explanatory:** "Cut the exposition. Trust the reader."
+- **Willow too villainous:** "Willow is calm. Observational. She believes she's right."
+- **Too much action:** "Slow this down. The tension is in proximity, not movement."
+- **Purple prose:** "Simpler language. Observations, not performances."
+- **Fragmented / staccato prose (CRITICAL):** "Stop writing in single-line fragments as default. Descriptions and environments need full, joined, varied sentences. Fragments are emphasis only. If a page reads like a list, rewrite it."
+- **"It's not X, it's Y" framing:** "Retired. State the affirmation directly. Don't set it up with negations."
+- **"Wrong"/"off" as shorthand:** "Show the specific discrepancy. The reader names the wrongness, not the prose."
+- **AI-writing tics:** "Read `03-themes-and-tone.md` → PROSE HARD RULES. Strip every tic. Replace with direct observation."
+- **Duplicate reflection blocks:** "Don't repeat internal monologue verbatim across chapters. Compress or evolve the callback — one sentence."
 
 ## Key Continuity Notes
 

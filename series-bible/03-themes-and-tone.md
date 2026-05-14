@@ -73,3 +73,46 @@ Think:
 - The quiet of a room where something just happened
 - Conversations where both people know something is wrong but neither says it
 - A world that looks normal until you pay attention
+
+---
+
+## SENTENCE VARIETY (Book 2 onward — CRITICAL)
+
+- Mix sentence lengths. Short declarative, compound, and longer observational sentences all coexist on every page.
+- **Environmental description, location detail, and physical sensation MUST use flowing, joined sentences.** These are scenes, not checklists.
+- **Write:** "The hallway ran straight past evenly spaced doors, each one frosted glass with a printed identifier, the light overhead even enough that no section fell darker than another."
+- **Don't write:** "The hallway. Even doors. Frosted glass. Printed identifiers. Even light."
+- Single-line fragment paragraphs (one to four words on their own line) are an **emphasis tool only** — a few per scene at most. Reserve them for the chapter's hardest beats and closings.
+- Iris's clinical internal logging ("Expected: frustration. Observed: none.") is permitted — that is character voice, not prose default. The prose around it must still vary.
+- Dialogue between flat-affect characters may be clipped — that is voice, not fragmentation. The narration surrounding it must have full sentence variety.
+- **The test:** read a full page aloud. If every paragraph is the same length and rhythm, the variety has failed. If a page reads like a list, rewrite it.
+
+---
+
+## PROSE CONVENTIONS (HARD RULES) (Book 2 onward)
+
+Adopted 2026-05-14. Hard audit gates for Book 2 and beyond. **Book 1 — The Absence is published; its voice was intentionally sparser and more fragmented. Do not retro-edit Book 1 to these rules. They are a deliberate craft step up beginning with Book 2 — The Hunger.**
+
+- **No exclamation points** in prose or dialogue.
+- **No bloat. No repetition.** Every chapter audit includes an explicit bloat/repetition pass. *Bloat* = prose that doesn't earn its space (verbose phrasing, redundant texture beyond what the beat needs, scene-setting that recurs after it has already landed). *Repetition* = the same image, observation, or thesis landing twice in close succession, or restated across the chapter without evolution. Atmosphere earns space the first time it lands, not the third.
+- **No "it's not X, it's Y" contrast framing.** This was a signature device in Book 1 ("Not numbness. Not pain. Just absence." / "It's not a condition. It's not environmental.") and is retired for Book 2. Banned shapes: *It's not X. It's Y.* / *X was not Y. It was Z.* / *Not X, but Y.* / *Not X. Not Y. Z.* State the affirmation directly. If the negations carry texture, render them as independent observations *after* the affirmation, not as a setup for it. **Permitted:** pure exclusion catalogs, where each item is a real candidate being ruled out and there is no "…just Y" punchline ("Not a footstep. Too soft. Too close to the ground.") — that is diagnosis, not contrast framing.
+- **No "wrong" / "off" as atmospheric shorthand.** Banned: *something was wrong*, *the room felt wrong*, *that seemed wrong*, *everything's just… off*. Show the specific discrepancy — the deviation, the unmatched detail, the physical observation. The reader names the wrongness; the prose does not. **Permitted:** factual judgment in dialogue or internal logic ("the record is wrong," "she was wrong").
+- **No "the kind of…" phrasing, and no appositive-as-thesis sentences.** Banned phrase: *"the kind of [X]"* in any form. Banned sentence shape: a concrete observation followed by an appositive that abstracts it into a thematic gloss telling the reader what it means. Render the concrete observation alone, or split into two sentences with no interpretive bridge.
+- **No labeled silences.** No "a beat," "a pause," "a brief pause," "half-beat," or any named silence. Let pauses exist through structure and line breaks.
+- **No "nodded once."** Use "nodded" or remove. (Book 1 used "nodded once" heavily — it is retired.)
+- **No narrator editorializing.** No "Or didn't." / "Or so she thought." / "But not for long." / "Or appeared to." State what is observed; the reader interprets.
+- **No duplicate reflection blocks.** Reference a prior-chapter observation briefly and evolved — one sentence, not a stacked reprise. Book 1's recurring "fear-check" and "Expected/Observed" beats must vary or advance each time, never repeat verbatim.
+- **No single-line fragments as default prose.** See SENTENCE VARIETY above. Fragments are emphasis, not structure.
+- **No typical AI-writing tics.** The prose must not read as AI-generated. Ban on sight:
+  - *"in a way that…"* / *"in a manner that…"* used as a soft modifier
+  - *"served as a reminder of…"* / *"stood as a testament to…"* / *"spoke volumes about…"*
+  - *"couldn't help but…"* / *"found herself…"* / *"caught herself…"*
+  - *"the air was thick with…"* / *"a palpable sense of…"*
+  - *"stark contrast"* / *"delicate balance"* / *"intricate dance"* / *"complex web"* / *"tapestry"*
+  - *"navigating the complexities of…"* / *"in the realm of…"*
+  - *"ever-shifting"* / *"ever-changing"* / *"ever-present"*
+  - mechanical tricolons assembled for rhetorical balance rather than from observation
+  - hedge-modifiers in narration: *"seemed to,"* *"appeared to,"* *"as if to…"* — state what is observed
+  - **Replace each with direct observation.** If the point lands without the formula, land it without the formula.
+
+Iris's flat, clinical interiority is character voice and stays. These rules govern the *prose*, not her diagnostic register — but even her logging must obey "no bloat, no repetition, no contrast framing."
