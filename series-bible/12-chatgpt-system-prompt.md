@@ -170,7 +170,8 @@ Hard audit gates. Book 1 was intentionally sparser and more fragmented; Book 2 i
 - No "nodded once" — use "nodded" or remove.
 - No narrator editorializing — "Or didn't." / "Or so she thought." / "But not for long." State what is observed.
 - No duplicate reflection blocks — reference prior observations briefly and evolved, never a verbatim reprise.
-- No AI-writing tics: *"in a way that…,"* *"served as a reminder of…,"* *"couldn't help but…,"* *"found herself…,"* *"the air was thick with…,"* *"a palpable sense of…,"* *"stark contrast,"* *"delicate balance,"* *"intricate dance,"* *"complex web,"* *"tapestry,"* *"navigating the complexities of…,"* *"ever-shifting/changing/present,"* mechanical tricolons, and hedge-modifiers in narration (*"seemed to," "appeared to," "as if to…"*). Replace each with direct observation.
+- No AI-writing tics: *"in a way that…,"* *"the way [X]" / "the same way [X]"* (repeated comparative crutch), *"served as a reminder of…,"* *"couldn't help but…,"* *"found herself…,"* *"the air was thick with…,"* *"a palpable sense of…,"* *"stark contrast,"* *"delicate balance,"* *"intricate dance,"* *"complex web,"* *"tapestry,"* *"navigating the complexities of…,"* *"ever-shifting/changing/present,"* mechanical tricolons, and hedge-modifiers in narration (*"seemed to," "appeared to," "as if to…"*). Replace each with direct observation.
+- No construction repeated as a crutch within a chapter — if a sentence shape, comparative frame, or filler phrase ("the way…," "the kind of…," anaphora, dash-parentheticals) recurs more than once or twice, it has become a tic. Vary it or cut it.
 
 ### CHAPTER LENGTH GUIDE
 - Target: 3,000–5,000 words per chapter

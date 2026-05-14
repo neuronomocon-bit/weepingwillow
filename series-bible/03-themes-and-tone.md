@@ -112,7 +112,9 @@ Adopted 2026-05-14. Hard audit gates for Book 2 and beyond. **Book 1 — The Abs
   - *"navigating the complexities of…"* / *"in the realm of…"*
   - *"ever-shifting"* / *"ever-changing"* / *"ever-present"*
   - mechanical tricolons assembled for rhetorical balance rather than from observation
+  - *"the way [X]"* / *"the same way [X]"* as a repeated comparative crutch — soft simile filler from the same family as "the kind of…". One genuinely earned use per chapter at most; otherwise vary the construction or state the thing directly.
   - hedge-modifiers in narration: *"seemed to,"* *"appeared to,"* *"as if to…"* — state what is observed
   - **Replace each with direct observation.** If the point lands without the formula, land it without the formula.
+- **No construction repeated as a crutch within a chapter.** If a sentence shape, comparative frame, or filler phrase — *"the way…,"* *"the kind of…,"* anaphora, dash-parentheticals, "something [verb]ed" — recurs more than once or twice, it has become a tic. Vary it or cut it. When in doubt, state the observation plainly, without the frame.
 
 Iris's flat, clinical interiority is character voice and stays. These rules govern the *prose*, not her diagnostic register — but even her logging must obey "no bloat, no repetition, no contrast framing."

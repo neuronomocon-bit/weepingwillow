@@ -2,7 +2,7 @@
 
 Started: 2026-05-14
 
-Tracking each chapter of Book 2 from draft through review. ChatGPT drafts prose from the briefs in `series-bible/08-book2-chapter-briefs.md`; chapters are dropped into `chapter_review.md` for audit. After approval, an "As Written" block is added to the brief and a clean copy is saved to `chapters/`.
+Tracking each chapter of Book 2 from draft through review. Claude drafts each chapter from the briefs in `series-bible/08-book2-chapter-briefs.md` into `chapter_review.md`; the author proofreads/edits. After approval, an "As Written" block is added to the brief and the final is saved to `chapters-book2/`.
 
 Book 1 — "The Absence" is complete and published (2026-05-14). Its review history is preserved in CLAUDE.md and git.
 
@@ -32,7 +32,7 @@ Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** s
 | Ch | Title | Draft | Review | Notes |
 |----|-------|-------|--------|-------|
 | **ACT I — SPREAD** | | | | |
-| 1 | Aftermath | — | — | |
+| 1 | Aftermath | DONE | — | Drafted by Claude; in chapter_review.md, awaiting author proofread |
 | 2 | Pattern Shift | — | — | |
 | 3 | Rourke Doubts | — | — | |
 | 4 | Kade's Files | — | — | |

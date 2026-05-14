@@ -11,9 +11,9 @@ Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for futur
 
 ## Workflow
 
-- **Claude** handles: planning, scaffolding, series bible, chapter review/audit, continuity tracking
-- **ChatGPT** handles: prose writing, using the system prompt in `series-bible/12-chatgpt-system-prompt.md`
-- **Review process:** User drops chapters into `chapter_review.md` for Claude to audit
+- **Claude** handles: planning, scaffolding, series bible, chapter drafting (Book 2 onward), chapter review/audit, continuity tracking
+- **Book 1** prose was drafted by ChatGPT. As of Book 2 (2026-05-14), ChatGPT was dropped — it could not reliably hold the prose hard rules — and **Claude drafts the chapters directly.** `series-bible/12-chatgpt-system-prompt.md` is retained as a consolidated rules reference.
+- **Process:** Claude drafts a chapter into `chapter_review.md` → author proofreads/edits → on approval the final is saved to `chapters-book2/` and an "As Written" block is added to the brief.
 
 ## Series Bible (COMPLETE)
 
@@ -134,11 +134,11 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 ## Book 2 — "The Hunger"
 
-**Status:** Not started. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter draft/review status tracked in `review-progress.md`.
+**Status:** Drafting. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter draft/review status tracked in `review-progress.md`. Approved chapter files saved to `chapters-book2/`.
 
-**Prose pivot (adopted 2026-05-14):** Book 2 onward follows the **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). This is a deliberate craft step up from Book 1: no default single-line fragmentation, no "Not X. Just Y." contrast cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no AI-writing tics. Rule set ported from the `deadtransit` project. Book 1 — The Absence is published and stays as written; do not retro-edit it.
+**Prose pivot (adopted 2026-05-14):** Book 2 onward follows the **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). This is a deliberate craft step up from Book 1: no default single-line fragmentation, no "Not X. Just Y." contrast cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no AI-writing tics, no repeated comparative crutches ("the way…"). Rule set ported from the `deadtransit` project. Book 1 — The Absence is published and stays as written; do not retro-edit it.
 
-**Next up:** Book 2 Ch1 — Aftermath
+**Current state:** Ch1 — Aftermath drafted by Claude, in `chapter_review.md`, awaiting author proofread. Next: author proofreads Ch1 → on approval, save to `chapters-book2/01-aftermath.md` + add As Written block → draft Ch2 — Pattern Shift.
 
 ## How to Review a Chapter
 
