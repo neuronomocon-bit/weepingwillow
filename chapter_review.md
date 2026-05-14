@@ -4,7 +4,7 @@ ACT I — SPREAD
 
 Chapter 1 — Aftermath
 
-The apartment had organized itself around the work again, as it had the first time, except now a second layer sat over the first. The screens still covered the table — the case map, the timeline, the interview fragments she had stopped trying to keep synchronized. What had changed was the walls. Index cards now ran along the frame of the door, paper was clipped to the edge of the table, and a short list hung beside the light switch in handwriting she recognized as hers because it could not have belonged to anyone else.
+The apartment had organized itself around the work again, as it had the first time, except now a second layer sat over the first. The screens still covered the table: the case map, the timeline, the interview fragments she had stopped trying to keep synchronized. What had changed was the walls. Index cards now ran along the frame of the door, paper was clipped to the edge of the table, and a short list hung beside the light switch in handwriting she recognized as hers because it could not have belonged to anyone else.
 
 She read the list every morning. She had written it so that she would.
 
@@ -22,7 +22,7 @@ She opened it.
 
 The most recent was from yesterday. *Call me when you can.* Four days before that: *I'm not angry. I just want to know you're okay.* Behind it a longer message she had read once and closed, and others behind that, stacked back through the weeks to the night she had sat in the café and not answered the first.
 
-She read yesterday's again. She understood it completely — the request, the restraint in it, the effort Lena had spent keeping the restraint in place. She checked for the thing that should have moved in response. The place where it belonged was smooth. She had stopped expecting otherwise. She noted the absence, because noting it was the part of the process still available to her, and she closed the thread.
+She read yesterday's again. She understood it completely: the request, the restraint in it, the effort Lena had spent keeping the restraint in place. She checked for the thing that should have moved in response. The place where it belonged was smooth. She had stopped expecting otherwise. She noted the absence, because noting it was the part of the process still available to her, and she closed the thread.
 
 She did not reply.
 
@@ -34,7 +34,7 @@ An index card, pinned at eye height where she would pass it on her way out, in h
 
 She stood in front of it. She did not remember writing it.
 
-She turned the card over and found a date on the back, in the same hand — last night's. She had written it after the list, then. After the map, after whatever the evening had been. She tried to reconstruct the evening and got its shape without its content: the table, the screens on, and at some point a decision that Caleb mattered enough to fix in writing. The decision was hers. The reasoning behind it had not stayed.
+She turned the card over and found a date on the back, in the same hand. It was last night's. She had written it after the list, then. After the map, after whatever the evening had been. She tried to reconstruct the evening and got its shape without its content: the table, the screens on, and at some point a decision that Caleb mattered enough to fix in writing. The decision was hers. The reasoning behind it had not stayed.
 
 She reduced it to two possibilities, because reduction was the method she still trusted. Either the note was sound and she had lost the path back to it. Or the note was a product of the same erosion that had made her write it down, and following it meant following an error.
 
@@ -48,7 +48,7 @@ The van started on the second try. She drove inland, away from the harbor, throu
 
 It was quieter than she remembered, though she held that observation loosely now. The quiet might be the city. It might be her. Three weeks ago she had decided she could no longer reliably tell the difference, and nothing since had given her cause to revise it.
 
-At a crossing near the rail line she reached for the next turn and it did not arrive. The route was there — she could feel where the turn sat, waiting — but the instruction to take it came three seconds behind the moment she needed it. She made the turn late, after the car behind her had already adjusted. She logged it: longer than the delays from before the outer zone, the same category, no functional cost yet. The list of these was getting longer. She kept it because keeping it was still possible.
+At a crossing near the rail line she reached for the next turn and it did not arrive. The route was there. She could feel where the turn sat, waiting. The instruction to take it came three seconds behind the moment she needed it. She made the turn late, after the car behind her had already adjusted. She logged it: longer than the delays from before the outer zone, the same category, no functional cost yet. The list of these was getting longer. She kept it because keeping it was still possible.
 
 Caleb's building was a converted block near the outer maintenance yards, three stories, the entry code unchanged from her last visit. He answered on the first knock.
 
@@ -74,7 +74,7 @@ He sat. She took the chair across from him and ran the assessment she had used o
 
 "Yes."
 
-He took it without friction, as he took everything now, and she watched that and found the assessment already finished. He was stable. Whatever the note had wanted her to confirm, this was it: three weeks on, Caleb had settled at the level Willow had left him — no further loss, no recovery — and from the outside the settling looked like a man who had simply become calm.
+He took it without friction, as he took everything now, and she watched that and found the assessment already finished. He was stable. Whatever the note had wanted her to confirm, this was it: three weeks on, Caleb had settled at the level Willow had left him. No further loss, no recovery. From the outside, the settling looked like a man who had simply become calm.
 
 "How are you doing?" he said.
 
@@ -86,7 +86,7 @@ The question was placed correctly. It arrived at the point in the visit where it
 
 She stayed a few minutes more. Leaving at once would have been data she did not want to hand him, though she was no longer certain that distinction still meant anything to him. When she stood, he stood with her.
 
-"Good seeing you," he said at the door — the words he had used last time, and a hundred times before the change, when they had meant something specific and unrepeated at each use. Now they were a fixed unit. He would say them to the next person in the same shape.
+"Good seeing you," he said at the door. They were the words he had used last time, and a hundred times before the change, when they had meant something specific and unrepeated at each use. Now they were a fixed unit. He would say them to the next person in the same shape.
 
 "You too," she said. She meant it as little as he did. She noted that, and said it anyway.
 

@@ -10,7 +10,7 @@ Book 1 — "The Absence" is complete and published (2026-05-14). Its review hist
 
 Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`) — adopted 2026-05-14, ported from the `deadtransit` project. These are hard audit gates and supersede Book 1's looser handling of the same patterns.
 
-1. **PROSE HARD RULES (Book 2 onward):** No AI-writing tics; no "it's not X, it's Y" contrast framing (Book 1's "Not X. Just Y." cadence is retired); no "wrong"/"off" as atmospheric shorthand; no "the kind of…" / appositive-as-thesis; no labeled silences; no "nodded once"; no narrator editorializing; no duplicate reflection blocks; no exclamation points; no bloat/repetition. Full list in `03-themes-and-tone.md`.
+1. **PROSE HARD RULES (Book 2 onward):** No AI-writing tics; no "it's not X, it's Y" contrast framing (Book 1's "Not X. Just Y." cadence is retired); no "wrong"/"off" as atmospheric shorthand; no "the kind of…" / appositive-as-thesis; no labeled silences; no "nodded once"; no narrator editorializing; no duplicate reflection blocks; no exclamation points; no em dashes; no repeated comparative crutches ("the way…"); no bloat/repetition. Full list in `03-themes-and-tone.md`.
 
 2. **Sentence variety:** Single-line fragments are emphasis only — not default prose. Environmental description must flow. Apply the read-aloud test.
 

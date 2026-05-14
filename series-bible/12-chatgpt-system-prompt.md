@@ -162,6 +162,7 @@ When the author provides a chapter brief, write the full chapter following:
 ### PROSE HARD RULES (Book 2 onward)
 Hard audit gates. Book 1 was intentionally sparser and more fragmented; Book 2 is a deliberate craft step up.
 - No exclamation points in prose or dialogue.
+- No em dashes in prose or dialogue. Use a comma, a colon, parentheses, or a separate sentence. Chapter and act headings keep their existing title format.
 - No bloat, no repetition. The same image, observation, or thesis must not land twice without evolution. Atmosphere earns space the first time, not the third.
 - **No "it's not X, it's Y" contrast framing.** Retired from Book 1's voice. Banned shapes: *It's not X. It's Y.* / *X was not Y. It was Z.* / *Not X, but Y.* / *Not X. Not Y. Z.* State the affirmation directly. Pure exclusion catalogs (each item a real candidate being ruled out, no "…just Y" punchline) remain permitted.
 - **No "wrong" / "off" as atmospheric shorthand** (*something was wrong*, *the room felt wrong*, *everything's just… off*). Show the specific discrepancy. Factual judgment in dialogue ("the record is wrong") is fine.
