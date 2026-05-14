@@ -14,6 +14,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **Conflict:** Iris is more unstable than before. The partial loss from her second encounter with Willow has compounded — emotional delays are longer, gaps wider. She compensates with routines, notes, external systems. She visits Caleb. He is functional, cooperative, pleasant. And clearly wrong. He asks how she's doing. The question is correct. The concern behind it is absent.
 **Outcome:** Iris is still investigating. Still moving. But the instrument doing the measuring is now visibly damaged.
 **Emotional Beat:** Iris reads a note she left herself the night before. She doesn't remember writing it. The handwriting is hers. The reasoning is hers. She follows the instruction anyway, because she has nothing better to trust.
+**Continuity pickup:** Book 1 closed on Iris reading a message from Lena and not replying. Ch1 should land that thread explicitly — the unanswered message (and any that have accumulated in the weeks since) still sits on her device. Iris registers it, understands it, does not act. This seeds Lena's harder return in Ch8.
 
 ---
 
@@ -126,6 +127,7 @@ Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 **Conflict:** Kade's Meridian files yield a thread — a communication channel, a forwarding address, a data cache Virek left behind. The information is fragmented, partially corrupted, possibly intentionally obscured. Iris recovers what she can (this is her professional skillset — data retrieval). What emerges: Virek is alive. He's been hiding. And he left breadcrumbs because he wanted to be found — by the right person.
 **Outcome:** Partial location data. Enough to pursue. Not enough to find him immediately.
 **Emotional Beat:** Iris reads Virek's fragmented notes. His language is careful, precise, and afraid. She recognizes something in his tone — the voice of someone who knows something terrible and can't decide whether telling would make it better or worse.
+**Continuity note:** This is Dr. Simon Virek's first appearance in the series — he is never named in Book 1. Introduce him fresh: the name surfaces from the Meridian files, not from Kade's memory or any prior reference. Kade was logistics, not research — he does not recognize Virek personally. To Iris, Kade, and the reader, "Virek" is new information recovered from the data, not a known quantity.
 
 ---
 

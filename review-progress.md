@@ -8,20 +8,24 @@ Book 1 — "The Absence" is complete and published (2026-05-14). Its review hist
 
 ## Conventions Being Enforced
 
-Carried over from Book 1's final (refined) conventions:
+Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`) — adopted 2026-05-14, ported from the `deadtransit` project. These are hard audit gates and supersede Book 1's looser handling of the same patterns.
 
-1. **Punctuation:**
+1. **PROSE HARD RULES (Book 2 onward):** No AI-writing tics; no "it's not X, it's Y" contrast framing (Book 1's "Not X. Just Y." cadence is retired); no "wrong"/"off" as atmospheric shorthand; no "the kind of…" / appositive-as-thesis; no labeled silences; no "nodded once"; no narrator editorializing; no duplicate reflection blocks; no exclamation points; no bloat/repetition. Full list in `03-themes-and-tone.md`.
+
+2. **Sentence variety:** Single-line fragments are emphasis only — not default prose. Environmental description must flow. Apply the read-aloud test.
+
+3. **Punctuation:**
    - Full-sentence questions use question marks for ALL characters, including flat-affect (Iris, Taken)
    - Short/tonal probes keep periods: "How." / "Why." / "Pain." / "Where."
    - Dialogue tags: "said" not "asked" for flat-affect characters
    - Warm characters (Kade, Rourke, Lena, Leah) use question marks
    - **Willow's speech (Book 2):** complete sentences — careful, precise, almost gentle. Evolved past Book 1's fragments. Never theatrical or villainous.
 
-2. **Device/terminal readouts:** inline with colon + italic, not stacked on separate lines
+4. **Device/terminal readouts:** inline with colon + italic, not stacked on separate lines
 
-3. **Scene breaks (`***`)** where scene/location transitions occur
+5. **Scene breaks (`***`)** where scene/location transitions occur
 
-4. **Standard audit checks:** brief compliance (POV, location, goal, conflict, outcome, emotional beat), tone (`03-themes-and-tone.md`), character voice (`02-characters.md`), continuity (incl. Book 1 "As Written" blocks), fragmentation/bloat, "Not X" pattern density, fear-check formula usage
+6. **Standard audit checks:** brief compliance (POV, location, goal, conflict, outcome, emotional beat), tone (`03-themes-and-tone.md`), character voice (`02-characters.md`), continuity (incl. Book 1 "As Written" blocks), bloat/repetition pass, sentence-variety check, PROSE HARD RULES sweep
 
 ## Chapter Status
 

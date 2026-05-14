@@ -53,7 +53,7 @@ Willow is no longer instinctive. She is choosing. She targets specific individua
 
 ## STRUCTURE
 
-### ACT I — PATTERNS (Chapters 1–7)
+### ACT I — SPREAD (Chapters 1–7)
 **Purpose:** Establish Willow's new behavior. Show the spread. Reintroduce Iris in her worsened state.
 
 **Key Beats:**
@@ -65,9 +65,11 @@ Willow is no longer instinctive. She is choosing. She targets specific individua
 - Lena re-enters, pushing harder on Iris
 - Rourke's public statements are less confident
 
-**Act I Turn:** Willow makes a choice the old Willow wouldn't have — she bypasses an easy target in favor of a specific individual. She's hunting, not grazing.
+**Act I central escalation (Ch5 — The Choice):** Willow makes a choice the old Willow wouldn't have — she bypasses an easy target in favor of a specific individual. She's hunting, not grazing. This confirms the premise shift but is not the act turn.
 
-### ACT II — THE HUNGER (Chapters 8–16)
+**Act I Turn (Ch7 — Iris Slip):** Iris loses a specific, identifiable piece of herself and begins a running inventory of her own erosion. She names it: this is no longer only Willow's spread — her own collapse is accelerating alongside it. The act turns on Iris's recognition of her own decline, mirroring Book 1's Ch7 turn.
+
+### ACT II — TARGETING (Chapters 8–16)
 **Purpose:** Willow targets Lena. The origin is revealed. Iris breaks further.
 
 **Key Beats (Pre-Midpoint):**
@@ -87,7 +89,7 @@ Willow is no longer instinctive. She is choosing. She targets specific individua
 
 **Act II Turn:** Iris realizes Willow targeted Lena deliberately — not because Lena was convenient, but because Willow understands the connection. Willow is using what she took from Iris to identify what matters.
 
-### ACT III — THE CHOICE (Chapters 17–22)
+### ACT III — PURSUIT (Chapters 17–22)
 **Purpose:** Direct confrontation. Willow could finish Iris. She doesn't.
 
 **Key Beats:**
