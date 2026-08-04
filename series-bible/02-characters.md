@@ -462,6 +462,20 @@ Night rotation. Goes into the lab for a routine check and makes contact. Comes o
 
 **The first Taken person in the world.** He never knows. His supervisor notices two days later that he has stopped being difficult about the things he was always difficult about — the first observation of the effect from the outside by anyone, anywhere. Pell does not appear in Books 1 or 3. He is a name in a file.
 
+### TERRI ROTH (Reception / Intake — Ch1, 3, 6, 8, 15)
+Runs the front desk at Meridian. Reading glasses up in her hair, two screens angled away from the counter, dry and quick and good at her job. She has worked there since before the clinical wing was finished.
+
+**Function:** the ordinary institutional life of the building. Meridian has to read as a real workplace with real people in it, because the horror depends on nobody in it doing anything wrong. Terri is the load-bearing proof of that.
+
+**Her arc, such as it is:**
+- **Ch1** — books Willow in. Gets a real laugh out of her inside ninety seconds.
+- **Ch3** — knows Willow by name by the fourth week. Twelve weeks of a person being seen by an institution that is helping her.
+- **Ch6** — has the closure paperwork ready when Marin comes in, and says something ordinary and kind. **The last time anyone in that building treats Marin as a bereaved sister rather than a colleague.**
+- **Ch8** — mentions, without any suspicion at all, that Marin's car was in the lot early again. This is how the reader clocks the frequency of the visits while Marin is still telling herself they are nothing.
+- **Ch15** — clearing out her own desk during the decommissioning. Asks Marin whether there is anything going at the other sites. She loses her job to a funding failure, which is exactly what she is told and exactly what happened.
+
+**Critical:** she never learns anything, never suspects anything, and is never used to deliver information. She does not appear in Books 1 or 3. She is a person who worked at a place.
+
 ### DR. RAMAN (Program Director — Ch4, Ch13)
 Runs the Meridian program. Competent, busy, and **correct** in every scene. When Virek escalates, Raman's answer is a good answer: the funding failed, the site is consolidating, everything in the substrate is scheduled for termination in six months.
 

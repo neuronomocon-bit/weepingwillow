@@ -218,7 +218,7 @@ The spine.
 | Ch | Beat |
 |----|------|
 | B2 14 | A supervisor notices a technician has stopped being difficult about things he was always difficult about. The first outside observation in the world. |
-| B2 15 | The shutdown is recorded as a funding failure, which it genuinely also is. |
+| B2 15 | The shutdown is recorded as a funding failure, which it genuinely also is. Terri Roth clears her desk and asks about openings at the other sites. She is told the truth, and the truth explains nothing. |
 | B2 19 | Eighteen months of small takings across Lowport. A diffuse affected population exists before Book 1 opens, which is why Rourke already has a case category by B1 Ch6. |
 | B1 3 | First case. Written off as behavioral anomaly. |
 | B1 6 | Rourke's framework: treatable. |

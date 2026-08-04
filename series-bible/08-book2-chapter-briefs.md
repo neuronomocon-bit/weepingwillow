@@ -221,6 +221,8 @@ This is where the reader learns what the flush cycle is, what the integration li
 
 **Emotional Beat:** After the fourth session Willow says the thing is still there, she just cannot find the handle on it anymore. She means it as good news. She is not wrong. Marin writes it down as an outcome measure.
 
+**Terri:** by the fourth week she knows Willow by name and has a running thing with her at the desk. Twelve weeks of a person being seen, weekly, by an institution that is helping her. Keep it to a few lines, and keep it warm.
+
 **Craft:** Virek stays late to re-run the decay curve, and it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose.** This is a Tuesday.
 
 ---
@@ -279,6 +281,10 @@ It is complete. Every emotional structure her sister had before the program touc
 
 **Outcome:** Marin signs the form. She does not purge the baseline, which was not hers to purge, which is technically true, and she notices herself constructing the technicality while she is still standing there.
 
+**Terri:** she has the closure paperwork ready when Marin comes in, because she saw it in the queue and pulled it so Marin would not have to ask for it. She says something ordinary and kind and does not make a performance of it.
+
+**This is the last time anyone in that building treats Marin as a bereaved sister rather than as a colleague.** Everything after this chapter, she is there as staff. Place the exchange before the archive, so the reader has it in hand when she opens the baseline.
+
 **Emotional Beat (ACT I TURN):** She logs out, goes home, and does nothing about it for eleven days. The chapter ends on the eleven days.
 
 **The turn is not an action.** It is that she now knows the file exists, and knowing is already irreversible.
@@ -321,7 +327,11 @@ Then she loads it into the substrate, sandboxed, read-only, because the substrat
 
 **Outcome:** The map is running on the substrate. Nothing is being written and nothing is being integrated, and Marin tells herself the distinction matters. At this point it still does.
 
-**Emotional Beat:** She realizes she has started scheduling around it. She has moved a meeting. She notes this the way she would note a patient's compensatory behavior, files it correctly under a heading she has used a hundred times, and goes back that night.
+**Terri:** somewhere in the middle of the chapter she mentions, in passing and with no suspicion whatsoever, that Marin's car was in the lot early again. Or still there late. She means it as small talk and it is small talk.
+
+**This is how the reader clocks the frequency** while Marin is still telling herself the visits are nothing. Marin's reply should be true and complete and answer a different question than the one she was asked. One exchange, then move on.
+
+**Emotional Beat:** She realizes she has started scheduling around it. She has moved a meeting. She notes this as she would note a patient's compensatory behavior, files it correctly under a heading she has used a hundred times, and goes back that night.
 
 ---
 
@@ -466,6 +476,10 @@ Marin works the shutdown competently and spends it managing exactly one thing: k
 **Emotional Beat:** A logistics coordinator, young and tired and polite, asks her twice whether a particular row of crates is going to secondary or to the mirror site, because the manifest is ambiguous and he does not want to get it wrong. She tells him secondary. He writes it down and moves them. He does not ask what is in them.
 
 The reader will meet him again in Book 1, carrying this, and in Book 3 saying he moved boxes to locations he did not ask about.
+
+**Terri:** clearing out her own desk. The reading glasses, the two screens, six years of a drawer. She asks Marin whether there is anything going at the other sites, because she has a mortgage and the reference will be good and this is the practical question a person asks.
+
+**She loses her job to a funding failure, which is exactly what she was told and exactly what happened.** That is why the cover holds: there is nothing to cover. Marin says she will ask around. She means it. **Terri never learns anything, and the chapter must not hint that she nearly does.**
 
 **Continuity:** Multiple sites spread deliberately (B1 Ch5), relay points and transfer points (B1 Ch8), and access credentials that are never formally revoked because a dissolving company does not close loops.
 
