@@ -32,7 +32,7 @@ All 12 docs in `series-bible/`:
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
 | `06-book2-outline.md` | "The Keeping" — prequel structure, the two threads, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — spread, selection, confrontation, destruction method, locked specifics |
-| `08-book2-chapter-briefs.md` | 22 chapters, prequel. POV: Marin 13 / Iris 5 / Willow 3 / Virek 1 |
+| `08-book2-chapter-briefs.md` | 22 chapters, prequel. POV: Marin 12 / Iris 6 / Willow 3 / Virek 1. Master timeline, word budget, continuity spine |
 | `09-book3-chapter-briefs.md` | 22 chapters, full scene breakdowns |
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
@@ -144,7 +144,11 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 Running in parallel, six chapters follow Iris Vale before any of it: intact, feeling, arguing with Lena, taking jobs, until she accepts a contract at a sealed facility on the coast.
 
-**Threads:** Marin 13 chapters · Iris 5 · Willow 3 · Virek 1 (Iris also opens Ch22)
+**Threads:** Marin 12 chapters · Iris 6 · Willow 3 · Virek 1 (Iris also opens Ch22)
+
+**Length: 70,000–78,000 words.** This is a novel, not a novella. Roughly 3,300 per chapter, reached through fuller scenes rather than padding. Book 1's 23,405 words were a consequence of its fragmented voice; joined prose holds far more per page. Per-chapter budgets and the master timeline are in `08-book2-chapter-briefs.md`. **A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+
+**Timeline:** opens Year −6, Meridian goes dark Year −3 (fixed by Book 1 Ch1's "wall calendar stopped three years earlier"), Book 1 opens Year 0.
 
 **What this book explains, and never states:**
 - Why the entity is called Willow
@@ -155,6 +159,7 @@ Running in parallel, six chapters follow Iris Vale before any of it: intact, fee
 **Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
 
 **Book 2 hard audit gates (in addition to the standard passes):**
+0. **NO FRAGMENTATION.** Book 1's staccato voice does not carry into Book 2 in any form. Single-line fragment paragraphs are emphasis only, a few per chapter at most. Environmental description, physical sensation, and interiority are written in complete, joined, varied sentences. Highest risk: the three Willow POV chapters (17, 19, 22), where a non-human perspective will tempt fragmentation, and any moment of grief or contact, where the instinct will be to break lines for weight. Read every page aloud. If it reads like a list, rewrite it.
 1. **No villainy.** Marin never does the wrong thing in a scene. If a chapter reads like a horror movie about a scientist, it fails.
 2. **No Iris foreshadowing.** Her chapters have no unease, no premonition, no Meridian. She has no idea.
 3. **The reader must like Willow Halloway.**
@@ -240,11 +245,11 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **The name:** the entity is called Willow because Willow Halloway was a person. Never explained by anyone in any book. Book 1 uses the name in narration without introduction; Book 3 Ch21 has the entity say "Willow Halloway" once, flat, in passing, never returned to.
 - **The deviation:** two parameters, one afternoon, undocumented. Integration limiter removed, autonomy constraint widened. Marin's justification is coherent: patient deceased, no return path, integration required for full-fidelity rendering, sandbox isolated.
 - **Willow Halloway's line:** "It's still there. I just can't find the handle on it anymore." She means it as good news.
-- **Pell** — substrate technician, night rotation. First Taken person in the world (Ch15). Never knows. His supervisor notices two days later that he has stopped being difficult about things he was always difficult about.
-- **Dr. Raman** — program director. Correct in every scene. Tells Virek the program ends in six months and the substrate is scheduled for termination, which is true.
-- **Virek's deferral (Ch13):** escalates once, accepts a good answer, then decides to raise it with Marin directly and decides it can wait because she looks like she is barely holding together. The prose does not mark it.
-- **Marin's consumption (Ch17):** she consents. It takes the charge, the structure, the reasoning, and the grief. Her last awareness is that it is doing exactly what the program was designed to do, correctly and gently, and that the relief is enormous. **She is happy.** Do not undercut it.
-- **The sealed years:** roughly three years alone. She cut the perimeter fence from the inside, made limited excursions, took very little, and stopped going out about six months before Book 1.
+- **Pell** — substrate technician, night rotation. First Taken person in the world (Ch14). Never knows. His supervisor notices two days later that he has stopped being difficult about things he was always difficult about.
+- **Dr. Raman** — program director. Correct in every scene. Tells Virek the wind-down completes next spring and the substrate is scheduled for termination, which is true. Pell's Taking then moves the shutdown up by several months.
+- **Virek's deferral (Ch12):** escalates once, accepts a good answer, then decides to raise it with Marin directly and decides it can wait because she looks like she is barely holding together. The prose does not mark it.
+- **Marin's consumption (Ch16):** she consents. It takes the charge, the structure, the reasoning, and the grief. Her last awareness is that it is doing exactly what the program was designed to do, correctly and gently, and that the relief is enormous. **She is happy.** Do not undercut it.
+- **The sealed years:** roughly three years alone. Year −3 to −2 forming; Year −2 to −0.5 excursions, with the fence cut from the inside and eighteen months of small takings across Lowport that resolve nothing; then still. Those takings are why Rourke already has a case category by Book 1 Ch6.
 - **The last Iris beat (Ch21):** an uneventful evening at Lena's. Iris feels the ordinary fact of loving her sister and does not mark it. Nothing in the chapter acknowledges that it is the last time.
 
 ### Book 1 continuity locks the prequel must land

@@ -150,7 +150,7 @@ She means it as good news. She is not wrong. Marin writes it down as an outcome 
 
 ---
 
-### B2 Ch5 — The Shoreline Path
+### B2 Ch4 — The Shoreline Path
 *Post-treatment Willow. The first Taken person in the series.*
 
 **Tone:** A pleasant walk. Nothing is wrong. Everything is wrong.
@@ -165,7 +165,24 @@ Willow smiles at the right moment and says, "That's funny."
 
 ---
 
-### B2 Ch10 — The Deviation
+### B2 Ch7 — Vale and Vale
+*The argument. Bank the relationship the series is built on the absence of.*
+
+**Tone:** Loud, ordinary, slightly irritating. Two people who have been doing this for thirty years.
+
+**The argument is about sealed-site work.** Lena thinks it is stupid and dangerous. Iris thinks it is her own business. Neither position is wrong and neither is really the subject, which is that Lena wants more of her sister than she is getting.
+
+**It should escalate the way real sibling arguments escalate:** by accessing older material. A callback to something from years ago. A tone Iris knows she is using and uses anyway. Iris says something with genuine edge on it and it lands, and Lena goes quiet, which is worse than shouting.
+
+**How it resolves:** not with an apology. A subject change, and then twenty minutes later Iris washing up without being asked. **Both of them understand exactly what that is.** Neither comments on it.
+
+**The door:** Lena says the thing sisters say. Iris says it back. Both mean it. Neither thinks about it for a second afterward, because it costs nothing to say a true thing.
+
+**Do not make this precious.** No lingering, no significant look, no line that reaches. The reader has read Book 1 and is doing all the work. If the scene plays as a farewell, it has failed.
+
+---
+
+### B2 Ch9 — The Deviation
 *The most important scene in the book. It should be almost boring.*
 
 **Tone:** Administrative.
@@ -180,14 +197,14 @@ Willow smiles at the right moment and says, "That's funny."
 
 ---
 
-### B2 Ch13 — Virek and Raman
+### B2 Ch12 — Virek and Raman
 *The escalation that goes nowhere.*
 
 **Tone:** Two professionals being reasonable.
 
 **Virek should be:** careful, slightly pedantic, and visibly reluctant, because the alternative to "this is a data artifact" is "my colleague whose sister just died has done something."
 
-**Raman should be:** not dismissive. That is the trap. Raman should be *correct*. The program is ending. The funding failed. Everything in the substrate is scheduled for termination in six months. Whatever this is, it is a six-month problem with a six-month solution.
+**Raman should be:** not dismissive. That is the trap. Raman should be *correct*. The program is ending. The reauthorization did not come through. The site is consolidating and everything in the substrate is scheduled for termination when the wind-down completes next spring. Whatever this is, it already has a date on it.
 
 Virek accepts it because it is a good answer.
 
@@ -197,7 +214,7 @@ Virek accepts it because it is a good answer.
 
 ---
 
-### B2 Ch14 — The Hand
+### B2 Ch13 — The Hand
 *The last exit.*
 
 **No dialogue.** Marin is adjusting something and it makes contact with the back of her hand.
@@ -210,7 +227,7 @@ Marin does not pull away.
 
 ---
 
-### B2 Ch17 — The Last Session
+### B2 Ch16 — The Last Session
 *The consumption. The most tender scene in the series.*
 
 **Tone:** Quiet. Gentle. Unbearable.
@@ -229,7 +246,7 @@ Marin comes back to a sealed building, goes down, sits in front of it, and opens
 
 ---
 
-### B2 Ch18 — The Sealed Years
+### B2 Ch17 — The Sealed Years
 *First non-human POV in the series.*
 
 **No dialogue. No interiority as humans have it.**

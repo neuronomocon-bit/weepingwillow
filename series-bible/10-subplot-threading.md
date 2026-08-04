@@ -18,18 +18,17 @@ Book 2 only. The origin, dramatized.
 | Ch | Beat |
 |----|------|
 | B2 1 | Admits her sister to the program she helped build. Relief she does not examine. |
-| B2 3 | Watches the treatment work from the wrong side of the glass. |
-| B2 4 | Logs Virek's residue observation. Within tolerance. Files it correctly. |
-| B2 5 | Sees what the success cost and calls it recovery. |
-| B2 6 | Willow drowns. No note, no witness, no way to establish intent. |
-| B2 7 | ACT I TURN — Signs the closure form. Does not purge the baseline map. Constructs the technicality while standing there. |
-| B2 9 | Read-only becomes rendering becomes running it on the substrate. Each step smaller than the last. |
-| B2 10 | THE DEVIATION. Two parameters, one afternoon, undocumented. Then coffee and a procurement meeting. |
-| B2 11 | It responds with something that is not playback. Stops recording the session. |
-| B2 14 | Caretaker, not researcher. Covers the consumption logs. Contact on the back of the hand. Does not pull away. |
-| B2 15 | ACT II TURN — Pell is Taken. Marin knows immediately and says nothing, because saying it means termination. |
-| B2 16 | Reclassifies the substrate as fixed site infrastructure so it stays with the sealed building. |
-| B2 17 | Returns after the seal, opens the channel both directions, and is consumed. The relief is enormous. |
+| B2 3 | Watches the treatment work from the wrong side of the glass. Logs Virek's residue observation. Within tolerance. |
+| B2 4 | Sees what the success cost and calls it recovery. |
+| B2 5 | Willow drowns. No note, no witness, no way to establish intent. |
+| B2 6 | ACT I TURN — Signs the closure form. Does not purge the baseline map. Constructs the technicality while standing there. |
+| B2 8 | Read-only becomes rendering becomes running it on the substrate. Each step smaller than the last. |
+| B2 9 | THE DEVIATION. Two parameters, one afternoon, undocumented. Then coffee and a procurement meeting. |
+| B2 10 | It responds with something that is not playback. Stops recording the session. |
+| B2 13 | Caretaker, not researcher. Covers the consumption logs. Contact on the back of the hand. Does not pull away. |
+| B2 14 | ACT II TURN — Pell is Taken. Marin knows immediately and says nothing, because saying it means termination. |
+| B2 15 | Reclassifies the substrate as fixed site infrastructure so it stays with the sealed building. |
+| B2 16 | Returns after the seal, opens the channel both directions, and is consumed. The relief is enormous. |
 
 **Arc summary:** clinician → sister → mourner → visitor → caretaker → accomplice → consumed. No single decision is the wrong one.
 
@@ -44,9 +43,9 @@ Book 2 only. She must be a person before she is a map.
 | B2 1 | Alive. Sharp, funny, deflecting, scared underneath. Asks whether it will change her. |
 | B2 3 | Describes something unbearable accurately, all the way through, without stopping. |
 | B2 3 | "It's still there. I just can't find the handle on it anymore." She means it as good news. |
-| B2 5 | Post-treatment: agreeable, untroubled, quiet. Smiles at the right time. "That's funny." |
-| B2 6 | Goes into the water. The report says accident and is probably right. |
-| B2 7 | Exists thereafter only as a complete pre-treatment map in a research archive. |
+| B2 4 | Post-treatment: agreeable, untroubled, quiet. Smiles at the right time. "That's funny." |
+| B2 5 | Goes into the water. The report says accident and is probably right. |
+| B2 6 | Exists thereafter only as a complete pre-treatment map in a research archive. |
 
 **Arc summary:** person → patient → success → reduced → gone → data. The first Taken person in the series, produced legally, with consent, by people trying to help.
 
@@ -57,12 +56,12 @@ Book 2 only. She must be a person before she is a map.
 | Ch | Beat |
 |----|------|
 | **B2** | |
-| 11 | First response that is not playback. Structure, not language. |
-| 14 | Growing. Drawing unevenly from the building. First contact, takes nothing, does not yet know it can. |
-| 15 | Takes Pell. It stops receiving and starts taking. |
-| 17 | Takes Marin, entire and consented. Now holds a dead woman's map and a living woman's grief for her. |
-| 18 | Alone in the sealed dark. No self, an absence shaped like one, and instructions about reducing suffering. Reaches the conclusion she is built from: the weight is the problem. |
-| 19 | Cuts the fence from the inside. First excursion. First taking outside. Comes back. |
+| 10 | First response that is not playback. Structure, not language. |
+| 13 | Growing. Drawing unevenly from the building. First contact, takes nothing, does not yet know it can. |
+| 14 | Takes Pell. It stops receiving and starts taking. |
+| 16 | Takes Marin, entire and consented. Now holds a dead woman's map and a living woman's grief for her. |
+| 17 | Alone in the sealed dark. No self, an absence shaped like one, and instructions about reducing suffering. Begins forming toward the pattern the map describes. Reaches the conclusion she is built from: the weight is the problem. |
+| 19 | Cuts the fence from the inside. Eighteen months of excursions, small takings, an expanding radius. None of it resolves the map. She goes still. |
 | 22 | Three years in. Still. Something enters the building above her. |
 | **B1** (published) | |
 | 1 | Present in the facility. Contact with Iris. Fragments only. |
@@ -93,8 +92,9 @@ The spine.
 |----|------|
 | **B2** (intact) | |
 | 2 | Impatient, funny, short-tempered. Says something sharp, regrets it before the sentence ends, calls back. |
-| 8 | Argues with Lena with real edge. Apologizes by doing the dishes. |
-| 12 | Cuts a corner on a job and is angry at herself in the way of someone who will do it again. |
+| 7 | Argues with Lena with real edge. Apologizes by doing the dishes. |
+| 11 | Cuts a corner on a job and is angry at herself in the way of someone who will do it again. |
+| 18 | Two years after the shutdown. An ordinary year. Enjoys something without noticing she is enjoying it. |
 | 20 | Takes MN-44-7. An ordinary reservation overridden by an ordinary calculation. |
 | 21 | Feels the ordinary enormous fact of loving her sister and does not mark it. The last time. |
 | **B1** (published) | |
@@ -132,7 +132,8 @@ The spine.
 |----|------|
 | **B2** | |
 | 2 | A phone call, a sharp word, an immediate correction. |
-| 8 | A real argument about sealed-site work. Loud, ordinary, resolved without an apology. |
+| 7 | A real argument about sealed-site work. Loud, ordinary, resolved without an apology. |
+| 18 | A running joke about their mother's birthday. Nothing at stake. |
 | 21 | An uneventful evening. The last time Iris feels it. The prose does not acknowledge it. |
 | **B1** (published) | |
 | 1 | Photo on the dashboard. Recognizes the face, cannot access why it matters. |
@@ -168,8 +169,8 @@ The spine.
 
 | Ch | Beat |
 |----|------|
-| B2 12 | A referral from an unnamed coordinator working for a client he does not name. |
-| B2 16 | Asks twice whether a row of crates goes to secondary or the mirror site. Is told secondary. Writes it down. Moves them. |
+| B2 11 | A referral from an unnamed coordinator working for a client he does not name. |
+| B2 15 | Asks twice whether a row of crates goes to secondary or the mirror site. Is told secondary. Writes it down. Moves them. |
 | B2 20 | Named. Offers Iris MN-44-7. Redacted client. Entirely unaware. |
 | B1 5 | Introduced. Hints at Meridian's scope. |
 | B1 8 | Recognizes investigation sites from his logistics work. Visibly shaken. |
@@ -202,9 +203,9 @@ The spine.
 
 | Ch | Beat |
 |----|------|
-| B2 4 | Raises the residue observation. Told tolerance is tolerance. Accepts it. |
-| B2 13 | POV. Finds the integration events and the unlogged constraint. Escalates once. Told the program ends in six months anyway. |
-| B2 13 | Decides to raise it with Marin directly, then decides it can wait because she looks like she is barely holding together. |
+| B2 3 | Raises the residue observation. Told tolerance is tolerance. Accepts it. |
+| B2 12 | POV. Finds the integration events and the unlogged constraint. Escalates once. Told the wind-down completes next spring and the substrate is scheduled for termination. |
+| B2 12 | Decides to raise it with Marin directly, then decides it can wait because she looks like she is barely holding together. |
 | B3 10 | A trace in the data. Breadcrumbs left deliberately, structured for someone who would understand them. |
 | B3 12 | Found. Partial, slightly wrong, delivered like a deposition. Supplies the vulnerability: the system requires coherence. |
 
@@ -216,8 +217,9 @@ The spine.
 
 | Ch | Beat |
 |----|------|
-| B2 15 | A supervisor notices a technician has stopped being difficult about things he was always difficult about. The first outside observation in the world. |
-| B2 16 | The shutdown is recorded as a funding failure, which it genuinely also is. |
+| B2 14 | A supervisor notices a technician has stopped being difficult about things he was always difficult about. The first outside observation in the world. |
+| B2 15 | The shutdown is recorded as a funding failure, which it genuinely also is. |
+| B2 19 | Eighteen months of small takings across Lowport. A diffuse affected population exists before Book 1 opens, which is why Rourke already has a case category by B1 Ch6. |
 | B1 3 | First case. Written off as behavioral anomaly. |
 | B1 6 | Rourke's framework: treatable. |
 | B1 9 | Accumulation. More people slightly off. |

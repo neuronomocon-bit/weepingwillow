@@ -36,36 +36,46 @@ Checked on every chapter of this book in addition to the standard passes:
 - **Nobody explains the name.** Not once, in any chapter, by anyone.
 - **Continuity locks from published Book 1** (see the table in `06-book2-outline.md`): the cut fence, the dust routes, the uneven power draw, the three-year calendar, MN-44-7, the side door bolt, Kade's live access codes.
 
+## Length Target
+
+**70,000–78,000 words. This is a novel, not a novella.**
+
+Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book 2 targets roughly 3,300 per chapter and gets there through fuller scenes: flowing environmental description, dialogue with real back-and-forth, scenes that play out instead of being summarized. Not padding, and not restated observations.
+
+**A chapter that comes in under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+
 ## Chapter Status
 
-| Ch | Title | POV | Draft | Review | Notes |
-|----|-------|-----|-------|--------|-------|
-| **ACT I — THE PROGRAM** | | | | | |
-| 1 | Intake | Marin | — | — | |
-| 2 | Recovery | Iris | — | — | Iris intact |
-| 3 | Sessions | Marin | — | — | |
-| 4 | Baseline | Marin/Virek | — | — | |
-| 5 | Calm | Marin | — | — | First Taken person, produced legally |
-| 6 | The Water | Marin | — | — | |
-| 7 | Closure (ACT I TURN) | Marin | — | — | |
-| **ACT II — THE DEVIATION** | | | | | |
-| 8 | Vale and Vale | Iris | — | — | Iris + Lena |
-| 9 | Read-Only | Marin | — | — | |
-| 10 | The Limiter | Marin | — | — | Must be almost boring |
-| 11 | Response | Marin | — | — | |
-| 12 | Sealed Site | Iris | — | — | Kade referral, unnamed |
-| 13 | What Virek Saw | Virek | — | — | Only Virek POV in the series |
-| 14 | Growth | Marin | — | — | The hand. The last exit. |
-| 15 | It Stops Receiving (ACT II TURN) | Marin | — | — | Pell |
-| **ACT III — WHAT REMAINED** | | | | | |
-| 16 | Shutdown | Marin | — | — | Kade at the edges |
-| 17 | The Last Session | Marin | — | — | Consumption. She is happy. |
-| 18 | The Sealed Years | Willow | — | — | First non-human POV |
-| 19 | Out and Back | Willow | — | — | Cuts the fence |
-| 20 | MN-44-7 | Iris | — | — | Kade named |
-| 21 | The Night Before | Iris | — | — | The last time she feels it |
-| 22 | The Bolt (ENDING) | Willow/Iris | — | — | Handshake with B1 Ch1 |
+| Ch | Title | POV | When | Words | Draft | Review |
+|----|-------|-----|------|-------|-------|--------|
+| **ACT I — THE PROGRAM** | | | | **23,400** | | |
+| 1 | Intake | Marin | Yr −6 | 3,800 | — | — |
+| 2 | Recovery | Iris | Yr −6 | 3,200 | — | — |
+| 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
+| 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
+| 5 | The Water | Marin | Yr −5.2 | 3,200 | — | — |
+| 6 | Closure (ACT I TURN) | Marin | Yr −5.1 | 3,000 | — | — |
+| 7 | Vale and Vale | Iris | Yr −5 | 3,400 | — | — |
+| **ACT II — THE DEVIATION** | | | | **26,200** | | |
+| 8 | Read-Only | Marin | Yr −5 to −4.6 | 3,200 | — | — |
+| 9 | The Limiter | Marin | Yr −4.6 | 2,800 | — | — |
+| 10 | Response | Marin | Yr −4.5 | 3,400 | — | — |
+| 11 | Sealed Site | Iris | Yr −4.2 | 3,200 | — | — |
+| 12 | What Virek Saw | Virek | Yr −3.9 | 3,000 | — | — |
+| 13 | Growth | Marin | Yr −3.7 to −3.4 | 3,400 | — | — |
+| 14 | It Stops Receiving (ACT II TURN) | Marin | Yr −3.4 | 3,600 | — | — |
+| 15 | Shutdown | Marin | Yr −3.1 | 3,600 | — | — |
+| **ACT III — WHAT REMAINED** | | | | **22,200** | | |
+| 16 | The Last Session | Marin | Yr −3 | 4,200 | — | — |
+| 17 | The Sealed Years | Willow | Yr −3 to −2 | 2,800 | — | — |
+| 18 | Ordinary Time | Iris | Yr −2 | 3,200 | — | — |
+| 19 | Out and Back | Willow | Yr −2 to −0.5 | 3,400 | — | — |
+| 20 | MN-44-7 | Iris | Yr 0, −3 days | 2,800 | — | — |
+| 21 | The Night Before | Iris | Yr 0, −1 day | 3,600 | — | — |
+| 22 | The Bolt (ENDING) | Willow/Iris | Yr 0, morning | 2,200 | — | — |
 
 Legend: `—` not started · `WIP` in progress · `DONE` complete
 
-**POV totals:** Marin 13 · Iris 5 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
+**POV totals:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
+
+**Timeline anchor:** Meridian goes dark at Year −3, fixed by Book 1 Ch1's "wall calendar stopped three years earlier." Book 1 opens at Year 0.

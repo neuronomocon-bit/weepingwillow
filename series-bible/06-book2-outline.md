@@ -1,6 +1,8 @@
 # BOOK 2 — "THE KEEPING" — OUTLINE
 
-**Prequel.** Set roughly four years before Book 1 and ending one beat before Book 1, Chapter 1.
+**Prequel.** Opens roughly six years before Book 1 and ends one beat before Book 1, Chapter 1.
+
+Anchored to the published detail in Book 1 Ch1, a wall calendar "stopped three years earlier": Meridian goes dark at Year −3, and Book 1 opens at Year 0. Full timeline in `08-book2-chapter-briefs.md`.
 
 ---
 
@@ -28,30 +30,36 @@ Book 1 never explains three things. This book explains all of them, and the expl
 
 ## THE THREADS
 
-**Chapter allocation:** Marin 13 · Iris 5 · Willow 3 · Virek 1 = 22
-Iris also opens Ch22 with a short section before it hands to Willow, so she is present in 6 chapters.
+**Chapter allocation:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22
+Iris also opens Ch22 with a short section before it hands to Willow, so she is present in 7 chapters.
 
-### Thread A — Marin (13 chapters)
+**Target length: 70,000–78,000 words**, roughly 3,300 per chapter. This is a novel. Book 1's 23,405 words were a consequence of its fragmented voice; joined prose holds far more per page. Per-chapter budgets and the master timeline are in `08-book2-chapter-briefs.md`.
 
-The origin. Spans roughly one year, from Willow's intake to the shutdown.
+### Thread A — Marin (12 chapters)
+
+The origin. Spans roughly three years, from Willow's intake to the shutdown.
 
 Marin is not a villain and not reckless. She is competent, careful, and grieving. Every step she takes is small and defensible on its own terms. The horror is that no single decision is the wrong one.
 
 **Her arc:** clinician → sister → mourner → the person who cannot stop reaching → consumed.
 
-### Thread B — Iris (5 chapters, plus the opening of Ch22)
+### Thread B — Iris (6 chapters, plus the opening of Ch22)
 
 Iris Vale before the incident. This is the only place in the series the reader sees her intact.
 
 She is sharper here. Reactive. Protective of Lena to the point of friction. She feels things immediately and completely, and the reader should register how ordinary that is before it is removed. Her thread has no mystery and no investigation. It is a life, running in parallel, moving toward a job number.
 
-**Her arc:** whole → working → contracted → at the fence.
+**Her arc:** whole → working → still whole → contracted → at the fence.
+
+**Pacing:** Ch2, 7 and 11 run alongside Marin's descent. Then Iris is absent for six chapters while the deviation plays out and Marin ends. She returns in Ch18, two years after the shutdown, having had an ordinary year, and the reader meets her again knowing exactly what is sealed in the building. Her last three chapters carry the clock that Marin's thread used to hold.
 
 **Critical:** Iris must not sense anything. No foreshadowing, no unease, no dread. She has no idea. The dramatic irony belongs entirely to the reader.
 
 ### Thread C — Willow (3 chapters)
 
-Short, strange, non-Iris POV. Covers the three sealed years between Meridian going dark and Book 1 opening. These chapters are the bridge across the gap and should feel unlike anything else in the series: a new thing alone in a dark building, learning what it is by process of elimination.
+Short, strange, non-human POV, covering the sealed years between Meridian going dark and Book 1 opening. These chapters bridge the three-year gap and should feel unlike anything else in the series: a new thing alone in a dark building, learning what it is by process of elimination.
+
+**They are not an excuse to fragment.** Complete, joined, varied sentences throughout. The strangeness comes from the perspective, not the punctuation.
 
 ---
 
@@ -104,7 +112,9 @@ Short, strange, non-Iris POV. Covers the three sealed years between Meridian goi
 - Willow post-treatment: peaceful, functional, and less. Marin sees it. Marin calls it recovery.
 - Willow drowns
 
-**ACT I TURN (Ch7):** After the funeral, Marin accesses the archive for routine closure and finds the complete pre-treatment map still resident in the system. The only intact copy of her sister who could still feel is inside the machine. She does nothing with it. She simply knows it is there, and the book turns on the fact that she now knows.
+**ACT I TURN (Ch6):** Marin runs deceased-patient closure and finds the complete pre-treatment map still resident in the system, because the baseline is research data and research data is kept. The only intact copy of her sister who could still feel is inside the machine. She does nothing with it. She simply knows it is there, and the book turns on the fact that she now knows.
+
+Act I then closes on Ch7, an Iris chapter: a loud, ordinary argument with Lena over dinner. The contrast is the point.
 
 ### ACT II — THE DEVIATION (Chapters 8–15)
 **Purpose:** The descent. Small steps, each defensible.
@@ -119,18 +129,20 @@ Short, strange, non-Iris POV. Covers the three sealed years between Meridian goi
 - The substrate begins growing in a way nothing was designed to grow
 - Marin is now managing something rather than studying it, and still calling it "her"
 
-**ACT II TURN (Ch15):** It stops receiving and starts taking. The first incident is a technician, contact, and loss. Meridian begins to shut down for reasons the paperwork records as funding. Marin understands exactly what she has done and does not say it.
+**ACT II TURN (Ch14):** It stops receiving and starts taking. The first incident is a technician, contact, and loss. Meridian moves the shutdown up for reasons the paperwork records as funding. Marin understands exactly what she has done and does not say it, because saying it means termination.
+
+Act II then closes on Ch15, the decommissioning: crates, manifests, and a young logistics coordinator asking twice about an ambiguous line.
 
 ### ACT III — WHAT REMAINED (Chapters 16–22)
 **Purpose:** The consumption, the sealed years, and the handshake.
 
-**Key beats:**
-- The shutdown: crates, contractors, NDAs, a building being emptied around the thing that is still in it
-- Marin stays behind and goes down to it deliberately
-- The consumption. She is not attacked. She reaches for it because she believes her sister is in there, and in a sense she is right. This is the most tender scene in the series and the most horrifying, and those are the same fact.
-- The building goes dark with her inside it
-- Three years alone: Willow learning the building, learning what she is by what she is not, cutting the fence, going out once, coming back
-- Iris takes the job
+**Key beats, in order:**
+- **Ch16.** Marin comes back after the seal and goes down deliberately. The consumption. She is not attacked; she reaches for it because she believes her sister is in there, and in a sense she is right. The most tender scene in the series and the most horrifying, and those are the same fact. She is happy, and the prose does not undercut it. Longest chapter in the book.
+- **Ch17.** Willow alone in the dark. Learning the building, learning what she is by what she is not, and beginning to form toward the pattern the map describes.
+- **Ch18.** Iris, two years later, having an ordinary year. The chapter's entire engine is the reader's knowledge and none of it is Iris's.
+- **Ch19.** Eighteen months of excursions. The fence cut from the inside, small takings across Lowport, none of it resolving the map. Then she goes still.
+- **Ch20.** Kade offers MN-44-7. Iris takes it.
+- **Ch21.** The night before. The last time she feels it, unmarked by anyone including the prose.
 
 **ENDING (Ch22):** Willow in the archive, three years into the dark. Something moves at the perimeter. A bolt clicks back somewhere above her, louder than it should be.
 
