@@ -1,12 +1,12 @@
 Chapter 1 — Intake
 
-The fog had not lifted by ten, and the coast road ran close enough to the water that Marin drove the last mile with the wipers on intermittent, clearing salt rather than rain. Willow had her feet up on the dash, which she knew Marin hated, and had known for about twenty-five years.
+The fog had not lifted by ten, and the coast road ran close enough to the water that Marin drove the last mile with the wipers on intermittent, clearing salt rather than rain. Willow had her feet up on the dash, which she had known Marin hated for about twenty-five years.
 
 "You could put those down."
 
 "I could." She did not.
 
-North of the container terminal the road gave up on the town entirely. There were nine miles of it out to the site, past the tank farm and the two dead marinas and a stretch where the guardrail had been replaced in sections by three different contractors in three different colors of galvanizing. After that there was nothing but scrub brush and the drop to the water on the right. Gulls stood along the rail in the fog with their backs to the traffic. Marin had driven it four hundred times and could still not have said where the town officially stopped.
+North of the container terminal the road gave up on the town entirely. There were nine miles of it out to the site, past the tank farm and the two dead marinas and a stretch where the guardrail had been replaced in sections by three different contractors, in three different colors of galvanizing. After that there was nothing but scrub brush and the drop to the water on the right. Gulls stood along the rail in the fog with their backs to the traffic. Marin had driven it four hundred times and still could not have said where the town officially stopped.
 
 The site came up on the left without announcing itself: a low concrete building set back from the road behind a chain fence, three stories at its tallest point and mostly one, laid out along the bluff so that the long face of it took the weather off the water. Meridian had bought it as a shell. Somebody had made cable there once, or fittings. Marin had never gotten a straight answer. Whatever it had been, it had left behind a floor plan that resisted every attempt to make it feel like a clinic. Salt had already gotten into the newer window seams on the seaward side. The sign over the main entrance was recent enough to still be legible. Everything under it had been patched.
 
@@ -22,7 +22,7 @@ Willow looked at it for a while as they came up the access road.
 
 "Oh good."
 
-The lot had been laid out for a workforce four times the size of the one that used it. Marin parked in the second row, where she always parked, turned the engine off, and sat for a second with her hands still on the wheel. The fog was thick enough that the far end of the building was barely visible. Beside her, Willow had gone quiet, and Marin had learned some years ago not to question it.
+The lot had been laid out for a workforce four times the size of the one that used it. Marin took her usual space in the second row, turned the engine off, and sat for a moment with her hands still on the wheel. The fog was thick enough that the far end of the building was barely visible. Beside her, Willow had gone quiet, and Marin had learned some years ago not to question it.
 
 "You can say if you want to go home," Marin said.
 
@@ -34,7 +34,7 @@ The lot had been laid out for a workforce four times the size of the one that us
 
 ***
 
-Inside was an improvement from the outside of the building. The entrance corridor had been finished properly, wide and evenly lit, with a floor that took a shine and a row of frosted panels along one side that let a gray suggestion of the weather in without letting anyone see the parking lot. It smelled of nothing much, which had been expensive. Marin had sat in three separate meetings about the smell.
+Inside was an improvement on the outside. The entrance corridor had been finished properly, wide and evenly lit, with a floor that took a shine and a row of frosted panels along one side that let a gray suggestion of the weather in without letting anyone see the parking lot. It smelled of nothing much, which had been expensive. Marin had sat in three separate meetings about the smell.
 
 Terri Roth was on the desk, as she was most mornings, with her reading glasses up in her hair and two screens angled where nobody standing at the counter could read them.
 
@@ -62,17 +62,17 @@ Terri smiled at that and turned a tablet around on the counter. Marin watched he
 
 Willow laughed, properly, the short surprised one. Marin felt the morning get about ten percent easier.
 
-They went through to the intake suite, which was two doors down and had been built out of what the original plans still called a supervisor's office. It had a table rather than a desk, and four chairs, and a window that showed the water when the fog allowed. The room had been designed by people who thought carefully about how to make a room not feel like an interview. It worked on almost everyone. It had never once worked on Willow, who sat down in it, looked around, and said, "This is a room for bad news."
+They went through to the intake suite, which was two doors down and had been built out of what the original plans still called a supervisor's office. It had a table rather than a desk, four chairs, and a window that showed the water when the fog allowed. The room had been designed by people who thought carefully about how to keep a room from feeling like an interview. It worked on almost everyone. It had never once worked on Willow, who sat down in it, looked around, and said, "This is a room for bad news."
 
 "It's a room for paperwork."
 
 "That's what I said."
 
-Marin took the chair across from her instead of the one beside her, because beside her was a clinical position and she was not here as a clinician. She had thought about this for longer than she was going to admit to anybody.
+Marin took the chair across from her instead of the one alongside, because sitting beside a patient was a clinical position and she was not there as a clinician. She had thought about this for longer than she was going to admit to anybody.
 
 ***
 
-The consent package ran to eleven pages. Terri had left it on the table in hard copy as well as on the tablet, because a proportion of people signed better on paper, and Willow went straight for the paper, which Marin could have predicted.
+The consent package ran to eleven pages. Terri had left it on the table in hard copy as well as on the tablet, because a proportion of people signed better on paper. Willow went straight for the paper, which Marin could have predicted.
 
 "Do I have to read all of it?"
 
@@ -90,9 +90,9 @@ Willow turned to the second page and started reading aloud in a voice, a deep fl
 
 "It means the feeling attached to it."
 
-"I know what it means, Marin, I'm asking who let them say it like that." She went on down the page, still in the voice, and then dropped out of the voice halfway through a sentence about session frequency and read the rest of it silently.
+"I know what it means, Marin, I'm asking who let them say it like that." She went on down the page, still in it, then dropped out halfway through a sentence about session frequency and read the rest silently.
 
-Page three was the schedule. Twelve sessions, weekly, with a review at six. Willow read it twice and asked what happened at the review. Marin told her: the treating team looked at the outcome measures and decided with her whether to continue. Willow said that "with her" was doing a lot of work in that sentence. It was, Marin said, and offered to get it in writing. Willow said no. She'd take it.
+Page three was the schedule. Twelve sessions, weekly, with a review at six. Willow read it twice and asked what happened at the review. Marin told her: the treating team looked at the outcome measures and decided with her whether to continue. Willow said that "with her" was doing a lot of work in that sentence. It was, Marin said. She offered to get it in writing. Willow said no. She'd take it.
 
 Page four was the medication history. It ran to two columns and asked for dates.
 
@@ -100,7 +100,7 @@ Page four was the medication history. It ran to two columns and asked for dates.
 
 "You don't have to. Terri already has most of it from the referral."
 
-"Then why is it here."
+"Then why is it here?"
 
 "Because you have to confirm it."
 
@@ -112,9 +112,9 @@ There were things she knew about her sister that were not on that page, and thin
 
 ***
 
-The rest went quickly, because most of it was procedural: identity confirmation, data handling, the withdrawal clause, contact preferences, next of kin. Willow put Marin down for next of kin and then held the pen over the box for a second afterward as though the ink might be talked out of it.
+The rest went quickly, because most of it was procedural: identity confirmation, data handling, the withdrawal clause, contact preferences, next of kin. Willow put Marin down for next of kin, then held the pen over the box a second longer, as though the entry might still be negotiable.
 
-The program had started as a veterans' cohort. It opened up two years ago, when the results held and the second-year data survived review. Willow had come in through the expansion, on a referral from a practice in town. There was a line about that on the form as well. She read it and did not comment.
+The program had started as a veterans' cohort. It had opened up two years earlier, when the results held and the second-year data survived review. Willow had come in through the expansion, on a referral from a practice in town. There was a line about that on the form as well. She read it and did not comment.
 
 Then she got to the page about where the data went, and she put the pen down.
 
@@ -150,7 +150,7 @@ Willow made a small dismissive noise and signed the page. That was that.
 
 ***
 
-The window that showed the water had gone completely white. Somewhere below the bluff the swell was working at the rocks, and it came up through the floor more than through the air, a low irregular knock that everybody who worked there stopped hearing inside a week.
+The window had gone completely white. Somewhere below the bluff the swell was working at the rocks, and the sound came up through the floor more than through the air, a low irregular knock that everybody who worked there stopped hearing inside a week.
 
 Willow got to the last page and did not sign it. She squared it up with the edge of the table instead, then squared the whole stack. Then she said, without looking up:
 
@@ -174,7 +174,7 @@ Willow was listening. She had gone still, and she stayed still, and she did not 
 
 "And I'll still know it was bad."
 
-"You'll know exactly how bad. You'll be able to say so out loud, at a normal volume, in a room with people in it. You just won't be back inside it."
+"You'll know exactly how bad. You'll be able to say so out loud, at a normal volume, in a room full of people. You just won't be back inside it."
 
 Willow turned the pen over once and set it down parallel to the edge of the page.
 
@@ -198,7 +198,7 @@ Willow looked at her.
 
 "I wrote it. The committee took it out."
 
-"Of course they did." Willow picked the pen back up and turned to the last page. Then she stopped again, with the pen an inch off the paper. When she spoke it was in a different register, quick and light, so that it could be taken as a joke if she needed it to be.
+"Of course they did." Willow took the pen up again and turned to the last page. Then she stopped again, with the pen an inch off the paper. When she spoke it was in a different register, quick and light, so that it could be taken as a joke if she needed it to be.
 
 "What if I don't like who's left."
 
@@ -208,7 +208,7 @@ Willow looked at her.
 
 "It's the only one that's true, and you'd have known if I'd made a better one up."
 
-Willow signed her name. She had a terrible signature, a long collapsing scrawl with the two Ls in it going up like a fever chart, and she had never fixed it because she thought fixing it was for people who cared about being taken seriously.
+Willow signed her name. She had a terrible signature, a long collapsing scrawl with the Ls going up like a fever chart, and she had never fixed it because she thought fixing it was for people who cared about being taken seriously.
 
 She put the pen down and pushed the stack across the table.
 
@@ -216,7 +216,7 @@ She put the pen down and pushed the stack across the table.
 
 ***
 
-The mapping suite was at the end of the corridor that ran the length of the clinical wing. Marin walked her down. The corridor was long and even, with doors at regular intervals, each one with a frosted panel beside it and a printed identifier at chest height. The overhead light held steady from one end to the other, so that no section of it fell darker than any other. That had been specified on purpose. People walking somewhere frightening should not have to walk through a shadow to get there.
+The mapping suite was at the end of the corridor that ran the length of the clinical wing. Marin walked her down. The corridor was long and even, with doors at regular intervals, each one with a frosted panel beside it and a printed identifier at chest height. The overhead light held steady from one end to the other, so that no stretch of it fell darker than the rest. That had been specified on purpose. People walking somewhere frightening should not have to walk through a shadow to get there.
 
 They passed the nurses' station, where a woman Marin knew by sight was restocking a drawer. They passed the freight elevator, and then the stairwell. The stairwell went down as well as up. Marin did not think about the down until they were past it, and then only in a filing sense. The substrate work was on that level. Virek would be down there now, doing something meticulous and unhurried with a decay curve. There was no reason to take her sister that way.
 
@@ -228,7 +228,7 @@ They passed the nurses' station, where a woman Marin knew by sight was restockin
 
 "I have a two o'clock."
 
-"You're a bad liar and you've always been a bad liar, and the tell is that you get more specific." Willow bumped her shoulder into Marin's arm as they walked, once, the same as she had done in school corridors. "Two o'clock. Very good. What's it about?"
+"You're a bad liar and you've always been a bad liar, and the tell is that you get more specific." Willow bumped her shoulder once into Marin's arm as they walked, the same as she had done in school corridors. "Two o'clock. Very good. What's it about?"
 
 "Procurement."
 
@@ -244,7 +244,7 @@ The mapping suite had a technician waiting, a chair that reclined a little too f
 
 "So is a dentist's light."
 
-"That is not the reassurance you think it is." But she went in. She put her bag on the floor by the chair and shook the technician's hand, and then asked him whether he had ever dropped it on anyone. He said not yet. She said that was the correct answer.
+"That is not the reassurance you think it is." But she went in. She put her bag on the floor by the chair and shook the technician's hand, and then asked him whether he had ever dropped the arm on anyone. He said not yet. She said that was the correct answer.
 
 Marin stood in the doorway. That was as far as she was going.
 
@@ -270,7 +270,7 @@ She got as far as the stairwell and stopped with one hand on the rail. A porter 
 
 What she felt, and she identified it accurately because identifying things accurately was the whole of her training and most of her personality, was relief. It sat in her chest like something set down, clean and specific and enormous. She had driven up the coast road that morning carrying dread, and had assumed that the best available outcome for the day was hope. Relief had not been on the list.
 
-She had been carrying her sister for nine years. Not metaphorically: the phone at two in the morning, the drives, the third job in two years and then the fourth, the apartment above the laundromat that Willow had never left because leaving would have required one clear month in which nothing went wrong, the birthdays that had to be checked in advance for whether they were survivable. Marin had built a whole second life out of load-bearing. She had gotten so used to the weight that she could only feel it on the rare mornings when it lifted. It had not lifted in a long time. It had lifted now, because at the end of that corridor a technician with good hands was taking a baseline, and after the baseline there would be twelve sessions and a review at six. For the first time since it started, somebody else was going to hold it.
+She had been carrying her sister for nine years. Not metaphorically: the phone at two in the morning, the drives, the third job in two years and then the fourth, the apartment above the laundromat that Willow had never left because leaving would have required one clear month in which nothing went wrong, the birthdays that had to be checked in advance for whether they were survivable. Marin had built a whole second life out of load-bearing. She had gotten so used to the weight that she could only feel it on the rare mornings when it lifted. It had not lifted in a long time. It had lifted now, because at the end of that corridor a technician with good hands was taking a baseline, and after that there would be twelve sessions and a review at six. For the first time since it started, somebody else was going to hold it.
 
 She stood with her hand on the rail and let that be true.
 

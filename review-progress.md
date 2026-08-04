@@ -49,7 +49,7 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 | Ch | Title | POV | When | Words | Draft | Review |
 |----|-------|-----|------|-------|-------|--------|
 | **ACT I — THE PROGRAM** | | | | **23,400** | | |
-| 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,319 | DONE |
+| 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,286 | DONE |
 | 2 | Recovery | Iris | Yr −6 | 3,200 | — | — |
 | 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
 | 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
