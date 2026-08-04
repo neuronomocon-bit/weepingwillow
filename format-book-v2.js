@@ -54,6 +54,12 @@ for (const line of lines) {
   if (m) chapters.push({ num: parseInt(m[1]), title: m[2].trim(), full: line.trim() });
 }
 
+// ─── Book title for the running header ───────────────────────────────
+// Derived from the manuscript's own title line so that exporting a different
+// book does not silently carry the previous book's title in the header.
+const titleLine = lines.map((l) => l.trim()).find((l) => bookTitleRe.test(l));
+const BOOK_TITLE = titleLine || "Weeping Willow";
+
 // ─── Headers: even (left) = book title, odd (right) = author ────────
 function createEvenHeader() {
   return new Header({
@@ -62,7 +68,7 @@ function createEvenHeader() {
         alignment: AlignmentType.LEFT,
         children: [
           new TextRun({
-            text: "Weeping Willow: The Absence",
+            text: BOOK_TITLE,
             font: "Inter",
             size: 16,
             italics: true,

@@ -19,6 +19,26 @@ Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for futur
 - **Book 1** prose was drafted by ChatGPT. As of Book 2 (2026-05-14), ChatGPT was dropped — it could not reliably hold the prose hard rules — and **Claude drafts the chapters directly.** `series-bible/12-chatgpt-system-prompt.md` is retained as a consolidated rules reference.
 - **Process:** Claude drafts a chapter into `chapter_review.md` → author proofreads/edits → on approval the final is saved to `chapters-book2/` and an "As Written" block is added to the brief.
 
+### Manuscript files — single source of truth (changed 2026-08-04)
+
+**`chapters-book2/NN-slug.md` is canonical.** Every correction goes there and only there.
+
+`chapter_review.md` is a **staging file holding one chapter at a time.** It is cleared on approval. It is not an accumulating manuscript.
+
+This is a deliberate change from Book 1, where `chapter_review.md` held the whole running manuscript *alongside* the individual chapter files. That meant every fix had to be applied twice, and the Book 1 review notes record exactly that ("fixes applied to both `chapters/` files and `chapter_review.md`"). Two copies is how one of them silently goes stale.
+
+**To read the book straight through, or to export:**
+
+```
+node build-manuscript.js          # -> manuscript-book2.md
+node build-manuscript.js book1    # -> manuscript-book1.md
+node format-book-v2.js manuscript-book2.md WeepingWillow_TheKeeping.docx
+```
+
+`manuscript-book*.md` are **build artifacts and are gitignored. Never hand-edit them.** If something is wrong in the manuscript, fix the chapter file and rebuild. The build script warns on gaps in chapter numbering so a missing chapter cannot silently vanish from an export.
+
+`format-book-v2.js` derives the running header from the manuscript's own title line, so exporting a different book no longer carries the previous book's title in the header.
+
 ## Series Bible (COMPLETE)
 
 All 12 docs in `series-bible/`:

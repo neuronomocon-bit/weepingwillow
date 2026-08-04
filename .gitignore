@@ -1,1 +1,3 @@
 node_modules/
+manuscript-book*.md
+~$*.docx
