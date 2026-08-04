@@ -86,6 +86,9 @@ Think:
 - Iris's clinical internal logging ("Expected: frustration. Observed: none.") is permitted — that is character voice, not prose default. The prose around it must still vary.
 - Dialogue between flat-affect characters may be clipped — that is voice, not fragmentation. The narration surrounding it must have full sentence variety.
 - **The test:** read a full page aloud. If every paragraph is the same length and rhythm, the variety has failed. If a page reads like a list, rewrite it.
+- **The opposite failure is equally banned.** Fixing fragmentation by chaining everything into *", and X, and Y, and Z"* produces a different monotony, not variety. A page of 60-word comma chains fails the read-aloud test exactly as hard as a page of four-word fragments.
+- **Screening threshold:** any sentence with **3 or more commas**, **3 or more instances of "and,"** or **45 or more words** gets examined and either justified or broken. Legitimate survivors: colon-introduced lists, serial verbs, deliberate accumulation where the length is the point, and dialogue in which a character is genuinely spilling. Everything else gets a period, a subordinate clause, or a participial phrase instead of another conjunction.
+- **What variety actually means:** short declarative, mid-length, and long observational sentences interleaved on the same page, connected by different means each time. If every long sentence in a chapter is joined the same way, the connector has become a tic.
 
 ---
 

@@ -222,6 +222,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **Too much action:** "Slow this down. The tension is in proximity, not movement."
 - **Purple prose:** "Simpler language. Observations, not performances."
 - **Fragmented / staccato prose (CRITICAL):** "Stop writing in single-line fragments as default. Descriptions and environments need full, joined, varied sentences. Fragments are emphasis only. If a page reads like a list, rewrite it."
+- **Run-on comma chains (CRITICAL, the overcorrection):** "Stop using ', and X, and Y, and Z' as the default connector. Chained clauses are one rhythm repeated, which is the same failure as fragmentation from the other direction. Break them with periods, subordination, and participial phrases. Vary the connector." Found in the Ch1 draft at up to 6 commas and 5 conjunctions in one 85-word sentence. **Screen for it: flag any sentence with 3+ commas, 3+ instances of "and," or 45+ words, then justify or fix each one.** Legitimate survivors are colon-introduced lists, serial verbs, deliberate accumulation, and dialogue where a character is genuinely spilling.
 - **"It's not X, it's Y" framing:** "Retired. State the affirmation directly. Don't set it up with negations."
 - **"Wrong"/"off" as shorthand:** "Show the specific discrepancy. The reader names the wrongness, not the prose."
 - **AI-writing tics:** "Read `03-themes-and-tone.md` → PROSE HARD RULES. Strip every tic. Replace with direct observation."

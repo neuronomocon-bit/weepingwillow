@@ -49,7 +49,7 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 | Ch | Title | POV | When | Words | Draft | Review |
 |----|-------|-----|------|-------|-------|--------|
 | **ACT I — THE PROGRAM** | | | | **23,400** | | |
-| 1 | Intake | Marin | Yr −6 | 3,800 | — | — |
+| 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,319 | DONE |
 | 2 | Recovery | Iris | Yr −6 | 3,200 | — | — |
 | 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
 | 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
@@ -75,6 +75,16 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 | 22 | The Bolt (ENDING) | Willow/Iris | Yr 0, morning | 2,200 | — | — |
 
 Legend: `—` not started · `WIP` in progress · `DONE` complete
+
+## Completed
+
+**Ch1 — Intake** · approved 2026-08-04 · `chapters-book2/01-intake.md` · 3,319 words
+
+Audit passes: brief compliance, tone, character voice, continuity, PROSE HARD RULES, sentence variety, bloat/repetition, run-on screening.
+
+Author edits on the draft: Terri Boisvert renamed **Terri Roth**; Raman's name cut from the "can you see it" exchange (he is now first named in Ch3); "Oh good, so you've thought about it" trimmed to "Oh good"; several small tightenings.
+
+**Run-on pass (new gate, added this chapter).** The first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence. 18 sentences rewritten, plus one genuine comma splice fixed. Final: 0 sentences with 3+ "and," 8 with 3+ commas (all colon lists or serial verbs), 3 over 45 words (all deliberate), average 11.1 words. **This failure mode is now screened on every chapter** and is documented in `03-themes-and-tone.md` and CLAUDE.md drift corrections.
 
 **POV totals:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
 
