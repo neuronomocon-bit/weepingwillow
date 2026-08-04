@@ -1,347 +1,267 @@
 # WEEPING WILLOW — SUBPLOT THREADING
 
-Tracking every major arc across all 66 chapters (22 per book).
-Use this to ensure foreshadowing lands, arcs complete, and no thread drops.
+Tracking every major arc across all 66 chapters.
+
+**Reading order is publication order:** The Absence (Book 1), The Keeping (Book 2), The Silence (Book 3).
+**Chronological order is:** The Keeping → The Absence → The Silence.
+
+Book 2 is a prequel that ends one beat before Book 1 Chapter 1. Book 1 is published and its column is a record of what is on the page, not a plan.
+
+Below, **B1/B2/B3** refer to publication order.
 
 ---
 
-## ARC 1: IRIS — IDENTITY EROSION
+## ARC 1: MARIN HALLOWAY — THE DEVIATION
 
-The central spine. Iris loses herself across 66 chapters.
+Book 2 only. The origin, dramatized.
 
-### Book 1 — Awareness
 | Ch | Beat |
 |----|------|
-| 1 | The gap is already there. Can't access why Lena's photo matters. |
-| 2 | Caleb notices she's different. She can't explain it. |
-| 3 | Faint pressure in her head — first proximity sense, unrecognized. |
-| 4 | Visceral physical recognition of Lila's hollowness. Her body reacts when her emotions don't. |
-| 6 | Can't feel frustration at Rourke's dismissal. Notes the absence clinically. |
-| 9 | Symptoms worsening — emotional delays, decision instability. Can't tell if it's the city or her. |
-| 10 | Performs the relationship with Lena. Says "I love you" back. Knows it might not be true. |
-| 11 | Thinks of Caleb in past tense before correcting herself. |
-| 14 | Catches herself mimicking sadness. Stops. Doesn't know why she stopped. |
-| 15 | False certainties emerge. Memory gaps widen. Makes a decision based on faulty memory — costs her. |
-| 17 | Not afraid. Notes the absence of fear clinically. |
-| 18 | The passive field's calm feels like relief. Part of her doesn't want to fight it. |
-| 19 | Silence feels full. Her body wants to stop. |
-| 20 | Feels recognition when she sees Willow — not emotional, structural. |
-| 21 | Loses something more. Can feel the shape of the gap but not what filled it. |
-| 22 | Looks at something that should trigger a response. Nothing comes. |
+| B2 1 | Admits her sister to the program she helped build. Relief she does not examine. |
+| B2 3 | Watches the treatment work from the wrong side of the glass. |
+| B2 4 | Logs Virek's residue observation. Within tolerance. Files it correctly. |
+| B2 5 | Sees what the success cost and calls it recovery. |
+| B2 6 | Willow drowns. No note, no witness, no way to establish intent. |
+| B2 7 | ACT I TURN — Signs the closure form. Does not purge the baseline map. Constructs the technicality while standing there. |
+| B2 9 | Read-only becomes rendering becomes running it on the substrate. Each step smaller than the last. |
+| B2 10 | THE DEVIATION. Two parameters, one afternoon, undocumented. Then coffee and a procurement meeting. |
+| B2 11 | It responds with something that is not playback. Stops recording the session. |
+| B2 14 | Caretaker, not researcher. Covers the consumption logs. Contact on the back of the hand. Does not pull away. |
+| B2 15 | ACT II TURN — Pell is Taken. Marin knows immediately and says nothing, because saying it means termination. |
+| B2 16 | Reclassifies the substrate as fixed site infrastructure so it stays with the sealed building. |
+| B2 17 | Returns after the seal, opens the channel both directions, and is consumed. The relief is enormous. |
 
-### Book 2 — Degradation
-| Ch | Beat |
-|----|------|
-| 1 | Reads a note she doesn't remember writing. Follows it anyway. |
-| 2 | Recognizes Willow's targets as people like she used to be. |
-| 6 | More comfortable in silence than conversation. The shift happened without her noticing. |
-| 7 | Loses a specific memory. Notices immediately. Starts keeping a running inventory of herself. |
-| 9 | Hours of silence feel natural. Prefers it. |
-| 10 | Feels the closest thing to connection when Willow makes eye contact. That terrifies her — or would. |
-| 12 | After a close call, can't be sure if something new was taken. The uncertainty is worse than confirmed loss. |
-| 13 | Holds Lena's hand because it's the "correct action." Feels nothing. |
-| 14 | Watches Lena fight less. Cannot feel the loss of Lena's warmth. |
-| 17 | Thinking like Willow — identifying targets by emotional complexity. Notes this. Doesn't stop. |
-| 18 | Clarity feels better than uncertainty. Wonders if that preference is hers or erosion. |
-| 21 | During near-Taking, feels something raw beneath the gaps — a refusal. Not an emotion. A drive. |
-| 22 | Thinks: "Willow chose to keep me. That's selection." Doesn't know what she's being selected for. |
-
-### Book 3 — Collapse
-| Ch | Beat |
-|----|------|
-| 1 | Moves through the quiet city. Heavily degraded. Noting everything, feeling nothing. |
-| 5 | Kade says "these people don't come back." Both know he means her too. |
-| 6 | Operating on scaffolding — notes, lists, routines. Finds a note: "Lena is your sister. You love her." Doesn't feel it. |
-| 9 | Listens to origin story. Registers the parallel intellectually. Feeling doesn't come. Core shifts. |
-| 10 | Writes: "She thinks she's helping." The most disturbing conclusion in the trilogy. |
-| 12 | Writes: "If I can still choose, then something still works." Pins it next to the Lena note. |
-| 13 | Willow says Iris is the closest thing to what she's building. Iris is living proof of concept. |
-| 15 | Kade: "You're not the person I hired." She can't argue. Doesn't have enough of herself left to argue. |
-| 16 | Looks at her notes. The refusal to let them be false is what she's betting everything on. |
-| 17 | Passes Lena's building. Doesn't stop. Follows the only internal signal she has left. |
-| 18 | Inside the field, feels something like peace. Knows it's not hers. Doesn't stop. |
-| 19 | Says "No." One word. The most important word in the trilogy. |
-| 20 | Allows the Taking. Layers dissolving. Something remains underneath. |
-| 21 | Core exposed. Irreducible. A loop Willow can't process. |
-| 22 | Alive. Aware. Something refused to go. Doesn't name it. Doesn't need to. |
-
-**Arc summary:** Full identity → aware of loss → compensating for loss → can't tell what's real → operating on fragments → fragments used as weapon → the irreducible remainder.
+**Arc summary:** clinician → sister → mourner → visitor → caretaker → accomplice → consumed. No single decision is the wrong one.
 
 ---
 
-## ARC 2: IRIS & LENA — THE BROKEN BOND
+## ARC 2: WILLOW HALLOWAY — THE PERSON
 
-The emotional core. Love that exists on only one side.
+Book 2 only. She must be a person before she is a map.
 
-### Book 1
 | Ch | Beat |
 |----|------|
-| 1 | Photo on dashboard. Recognizes Lena's face. Can't access why it matters. (SEED) |
-| 10 | Full scene. Lena warm, direct, persistent. Iris performs the relationship. "I love you" exchange — one true, one not. |
+| B2 1 | Alive. Sharp, funny, deflecting, scared underneath. Asks whether it will change her. |
+| B2 3 | Describes something unbearable accurately, all the way through, without stopping. |
+| B2 3 | "It's still there. I just can't find the handle on it anymore." She means it as good news. |
+| B2 5 | Post-treatment: agreeable, untroubled, quiet. Smiles at the right time. "That's funny." |
+| B2 6 | Goes into the water. The report says accident and is probably right. |
+| B2 7 | Exists thereafter only as a complete pre-treatment map in a research archive. |
 
-### Book 2
-| Ch | Beat |
-|----|------|
-| 8 | Lena returns hard. "Something is wrong with you." Grabs Iris's hand. Iris feels the grip, not the meaning. |
-| 13 | MIDPOINT — Lena targeted. Partial Taking. Iris holds her hand because it's "correct." |
-| 14 | Lena's warmth dimming. Calls less. Pushes less. The fire turning down. |
-| 22 | They sit together. Neither reaches. The distance is measured in what's been taken from both sides. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 3 | Lena fading. Says "never mind" — old Lena never would have. Iris catalogs it. |
-| 6 | Note on wall: "Lena is your sister. You love her." Iris doesn't feel it. Doesn't throw it away. |
-| 11 | Lena looks at photo. "We look happy." Not "we were happy." Iris hears the difference. |
-| 12 | Second note pinned next to the first. Two statements looking at each other across the gap where a person used to be. |
-| 17 | Iris passes Lena's building. Doesn't stop. |
-| 22 | Lena visits. They sit together. Iris is alive. Something is still there. Whether it can rebuild what was lost — unanswered. |
-
-**Arc summary:** Connection → one-sided love → both sides diminished → the ghost of a bond → sitting together in what remains.
+**Arc summary:** person → patient → success → reduced → gone → data. The first Taken person in the series, produced legally, with consent, by people trying to help.
 
 ---
 
-## ARC 3: CALEB WARD — THE MIRROR
+## ARC 3: WILLOW — EMERGENCE AND EVOLUTION
 
-Shows what full Taking looks like through someone the reader loved.
-
-### Book 1
 | Ch | Beat |
 |----|------|
-| 2 | INTRODUCED. Sharp, alive, conversational. Notices Iris is different. Baseline established. |
-| 11 | Subtle shift. A pause too long. A response that doesn't land. Dread before confirmation. |
-| 12 | MIDPOINT — Taken on-page. Quiet. Intimate. No spectacle. The defining horror scene. |
-| 13 | After. Recognizes Iris. Functions. The dynamic is gone. Says correct things, not Caleb things. |
-
-### Book 2
-| Ch | Beat |
-|----|------|
-| 1 | Still functional. Clearly wrong. Asks how Iris is doing — the concern is absent. |
-| 6 | Extended interaction. Settled into diminished state. Doesn't miss what's gone. Laughs at appropriate moments. The laugh has no weight. Asks Iris to coffee. Politely. Correctly. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 2 | End state over time. Stable. Peaceful. No complaints, no ambitions. Offers tea. Clean kitchen. Says nothing of substance. Doesn't watch Iris leave. |
-
-**Arc summary:** Alive → shifting → Taken → functional hollow → the new normal. Caleb is the trilogy's clearest picture of what Willow produces.
-
----
-
-## ARC 4: DANIEL KADE — GUILT & ENDURANCE
-
-The man who moved boxes and built the infrastructure for catastrophe.
-
-### Book 1
-| Ch | Beat |
-|----|------|
-| 5 | INTRODUCED. Hired Iris. Professional, uneasy. Hints at Meridian's scope. |
-| 7 | Listens to Iris's pattern theory. Doesn't want to believe it. |
-| 8 | Recognizes investigation locations from his Meridian logistics work. Getting personal. Visibly shaken. |
-| 17 | Warns Iris not to go alone. She goes anyway. |
-
-### Book 2
-| Ch | Beat |
-|----|------|
-| 4 | Reveals deeper Meridian files. Equipment moved after shutdown. "I moved boxes to locations I didn't ask about." Guilt is logistical, not dramatic. |
-| 9 | Accompanies surveillance attempt. Doesn't speak much. Functional partnership. |
-| 11 | Works Virek trace with Iris. |
-| 18 | Helps track convergence. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 5 | "Even if we stop it, these people don't come back." Doesn't look at Iris. Both know he means her too. |
-| 8 | Goes with Iris to find Virek. |
-| 15 | Argues for containment over destruction. "You're not the person I hired." Doesn't agree with plan. Doesn't stop her. |
-| 22 | Survives — partially Taken. Functional, quieter. Carries Meridian guilt and the new reduction together. |
-
-**Arc summary:** Professional distance → reluctant partner → guilt surfacing → active ally → wants safety over sacrifice → survives diminished. No clean resolution.
-
----
-
-## ARC 5: DR. ELENA ROURKE — FROM WALL TO ALLY
-
-The institutional framework that was wrong but not stupid.
-
-### Book 1
-| Ch | Beat |
-|----|------|
-| 6 | INTRODUCED. Competent, confident, analytical. Dismisses Iris professionally. "This is neurological. Environmental. Treatable." |
-| 9 | Caseload growing. Confidence quieter. |
-
-### Book 2
-| Ch | Beat |
-|----|------|
-| 3 | Data doesn't fit. Asks Iris questions she wouldn't have before. "My model is incomplete." Crack in the wall. |
-| 15 | BREAKS. Accepts entity theory. "I've been treating symptoms of something I refuse to name." Becomes reluctant ally. |
-| 16 | Data supports Iris's analysis of Willow's methodology. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 4 | Maps population-level impact. Shows the "emotional volatility index" — a downward curve that looks like good news but is the shape of a city being emptied. |
-| 14 | Fully commits to Iris's plan. "I owe you something for the time I wasted." No warmth. Just alignment. |
-| 22 | Continues her work after. Treating what she can, documenting what she can't. |
-
-**Arc summary:** Confident denial → cracks → reluctant acceptance → committed ally → too late to prevent, committed to documenting. The tragedy of correct understanding arriving after prevention was possible.
-
----
-
-## ARC 6: DR. SIMON VIREK — THE TRUTH CARRIER
-
-Hidden knowledge that surfaces in layers.
-
-### Book 1
-| Ch | Beat |
-|----|------|
-| — | Not present. Mentioned indirectly through Meridian background. |
-
-### Book 2
-| Ch | Beat |
-|----|------|
-| 11 | First trace found. Fragmented data. He left breadcrumbs — wanted to be found by the right person. |
-| (Referenced in Act III convergence) |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 8 | FOUND. Alive, diminished, afraid. Not Taken — just worn. "You're the one who didn't finish." |
-| 9 | THE DEVIATION. Full origin reveal. The researcher, the personal data, the removed limiter. Willow born from grief. The mirror to Iris is exact. |
-| 10 | His information enables final understanding of Willow's pattern and purpose. |
-
-**Arc summary:** Absent → breadcrumbs → found → reveals the truth → enables the ending. Virek is a delivery mechanism for the origin, not a character who transforms.
-
----
-
-## ARC 7: WILLOW — EVOLUTION
-
-From instinct to philosophy.
-
-### Book 1
-| Ch | Beat |
-|----|------|
-| 1 | Present in Meridian facility. Contact with Iris. (Fragments only.) |
-| 4 | Seen through her effect — Lila Mercer as evidence. |
-| 7 | Pattern reveals movement. She is out there. |
-| 12 | FIRST ON-PAGE TAKING (Caleb). Quiet, intimate, no spectacle. |
-| 20 | FIRST FULL REVEAL. Dim light. Looks human until something shifts. Curiosity, not aggression. |
+| **B2** | |
+| 11 | First response that is not playback. Structure, not language. |
+| 14 | Growing. Drawing unevenly from the building. First contact, takes nothing, does not yet know it can. |
+| 15 | Takes Pell. It stops receiving and starts taking. |
+| 17 | Takes Marin, entire and consented. Now holds a dead woman's map and a living woman's grief for her. |
+| 18 | Alone in the sealed dark. No self, an absence shaped like one, and instructions about reducing suffering. Reaches the conclusion she is built from: the weight is the problem. |
+| 19 | Cuts the fence from the inside. First excursion. First taking outside. Comes back. |
+| 22 | Three years in. Still. Something enters the building above her. |
+| **B1** (published) | |
+| 1 | Present in the facility. Contact with Iris. Fragments only. |
+| 4 | Seen through her effect. Lila Mercer as evidence. |
+| 7 | The pattern reveals movement. |
+| 12 | First on-page Taking (Caleb). Quiet, intimate, no spectacle. |
+| 20 | First full reveal. Human until something shifts. Curiosity, not aggression. |
 | 21 | Near-contact. Something transfers through proximity. |
-| 22 | Lets Iris go. Why? |
+| 22 | Lets Iris go. |
+| **B3** | |
+| 2 | Selecting, not stumbling. Targeting emotional density. |
+| 5 | Bypasses an easy target on the page. Travels to find Enzo. |
+| 9 | Appears in a crowd in daylight. Eye contact across a room. |
+| 13 | MIDPOINT — Reaches for Lena. Goes to the nearest thing to the shape of the hole in herself. |
+| 18 | Takes part of Kade at a transfer site she has returned to. |
+| 21 | Peak form. Complete sentences, borrowed warmth, an offer meant as kindness. Says "Willow Halloway." |
+| 22 | Reaches the core. Cannot integrate it. Comes apart the way a system fails. |
 
-### Book 2
-| Ch | Beat |
-|----|------|
-| 2 | Behavior shift — selecting, not stumbling. Targeting emotional complexity. |
-| 5 | First evidence of deliberate choice. Traveled to find a specific person. |
-| 10 | Appears in populated area. Among people. Eye contact with Iris across a crowd. Statement: I am where you are now. |
-| 13 | Targets Lena. Deliberate. Uses Iris's stolen emotional map to navigate her relationships. |
-| 16 | Tracking, choosing, returning. Conducting her own research. Building a dataset. |
-| 19 | Appears intentionally to Iris. More composed, more human. Wants Iris to see what she's become. |
-| 20 | FIRST REAL SPEECH. Minimal but precise. Demonstrates awareness, recognition, curiosity. |
-| 21 | Attempts complete Taking of Iris. Fails on the resistance. Encounters the core. |
-| 22 | Lets Iris go again. Selection, not mercy. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 1 | Her effect is everywhere. The quiet city is her product. |
-| 7 | The world is accepting what she's building. People aren't fighting it. |
-| 10 | Iris understands: Willow is completing her original function at scale. She thinks she's helping. |
-| 13 | MIDPOINT — Full philosophy articulated. "You carry too much. I remove what breaks you. What remains is correct." Tells Iris she is the closest thing to what Willow is building. |
-| 19 | Final meeting. Peak form. Nearly warm. Offers Iris relief. |
-| 21 | Attempts final Taking. Reaches the core. Can't process it. Recursive loop. System failure. Comes apart quietly. |
-
-**Arc summary:** Fragment → instinct → presence → selection → strategy → philosophy → articulation → overreach → collapse. The antagonist who becomes more human and more wrong simultaneously.
+**Arc summary:** response → growth → first taking → consumption → the sealed dark → the fence → instinct → selection → method → articulation → overreach → collapse.
 
 ---
 
-## ARC 8: PUBLIC AWARENESS — THE WORLD WAKING UP
+## ARC 4: IRIS — IDENTITY EROSION
 
-### Book 1
+The spine.
+
 | Ch | Beat |
 |----|------|
-| 3 | First case. Written off as behavioral anomaly. |
-| 6 | Rourke's medical framework. Cases are "treatable." |
-| 9 | More people slightly off. Not dramatic. Accumulation. |
+| **B2** (intact) | |
+| 2 | Impatient, funny, short-tempered. Says something sharp, regrets it before the sentence ends, calls back. |
+| 8 | Argues with Lena with real edge. Apologizes by doing the dishes. |
+| 12 | Cuts a corner on a job and is angry at herself in the way of someone who will do it again. |
+| 20 | Takes MN-44-7. An ordinary reservation overridden by an ordinary calculation. |
+| 21 | Feels the ordinary enormous fact of loving her sister and does not mark it. The last time. |
+| **B1** (published) | |
+| 1 | The gap is already there. Cannot access why Lena's photo matters. |
+| 3 | Faint pressure in her head. First proximity sense, unrecognized. |
+| 4 | Body recognizes Lila's hollowness when her emotions do not. |
+| 9 | Emotional delays, decision instability. Cannot tell if it is the city or her. |
+| 10 | Performs the relationship. Says "I love you" back. |
+| 14 | Catches herself mimicking sadness. Stops. Does not know why. |
+| 15 | False certainties. A decision on faulty memory costs her. |
+| 17 | Not afraid. Notes the absence of fear clinically. |
+| 21 | Loses more. Feels the shape of the gap, not what filled it. |
+| 22 | Looks at something that should trigger a response. Nothing comes. |
+| **B3** | |
+| 1 | Reads a note she does not remember writing. Follows it anyway. |
+| 2 | Recognizes Willow's targets as people like she used to be. |
+| 6 | The dangerous thought, in a form she cannot dismiss. Writes it down. Seeing it is worse. |
+| 7 | ACT I TURN — Loses a specific piece. Starts a running inventory. |
+| 9 | More comfortable in silence than conversation. The shift happened unnoticed. |
+| 11 | Cannot verify what she has no way to identify. Uncertainty worse than loss. |
+| 13 | Holds Lena's hand because it is correct. Feels nothing. |
+| 17 | Identifies targets by emotional complexity. Notes it. Does not stop. |
+| 19 | Writes: "If I can still choose, then something still works." |
+| 20 | Inside the field, feels peace. Knows it is not hers. Does not stop. |
+| 21 | Says "No." Then steps forward. |
+| 22 | Alive, aware, mostly gone. Something underneath, unnamed. |
 
-### Book 2
-| Ch | Beat |
-|----|------|
-| 2 | Cases no longer random — but the public doesn't see the selection pattern. |
-| 9 | Wider Lowport scenes. Strain visible. |
-| 15 | Rourke privately breaks. Publicly, the medical framework holds. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 1 | The city is calmer. Metrics improving. The damage looks like progress. |
-| 4 | Rourke maps population-level impact. The scale is undeniable — but being misread. |
-| 7 | ACT I TURN — The world isn't collapsing. It's accepting. People don't miss what they can't remember losing. |
-| 13 | Willow articulates what the world is becoming. It's coherent. It's wrong. |
-| 22 | After. The damage is permanent. The world continues. The people are not intact. |
-
-**Arc summary:** Invisible → misdiagnosed → misunderstood → accepted → permanent. The world never properly fights back because the damage feels like improvement.
+**Arc summary:** whole → damaged → compensating → cannot tell what is real → operating on scaffolding → fragments used as a weapon → the irreducible remainder.
 
 ---
 
-## ARC 9: THE MERIDIAN THREAD — ORIGIN UNRAVELING
+## ARC 5: IRIS & LENA — THE BOND
 
-### Book 1
 | Ch | Beat |
 |----|------|
-| 1 | Iris enters Meridian facility. Something still active. (SEED) |
-| 5 | Kade hints at scope. Multiple sites, significant funding, rapid shutdown. |
-| 8 | Kade recognizes investigation locations from his logistics work. |
+| **B2** | |
+| 2 | A phone call, a sharp word, an immediate correction. |
+| 8 | A real argument about sealed-site work. Loud, ordinary, resolved without an apology. |
+| 21 | An uneventful evening. The last time Iris feels it. The prose does not acknowledge it. |
+| **B1** (published) | |
+| 1 | Photo on the dashboard. Recognizes the face, cannot access why it matters. |
+| 10 | Lena warm and persistent. Iris performs. The "I love you" exchange, one fact and one sentence. |
+| 22 | A message arrives. Read once, understood, closed. No reply. |
+| **B3** | |
+| 8 | Lena returns hard. Takes Iris's hand. Iris measures the grip. |
+| 13 | MIDPOINT — Lena targeted. Partial Taking. Iris holds her hand because it is correct. |
+| 14 | Warmth muted, persistence quieter. The fight turned down, not off. |
+| 20 | Iris passes her building and does not stop. |
+| 22 | They sit together. Neither reaches. |
 
-### Book 2
-| Ch | Beat |
-|----|------|
-| 4 | Kade reveals post-shutdown continuation. Equipment moved. Work continued off-site. |
-| 11 | Virek trace. Fragmented data. Breadcrumbs. |
-| 18 | Convergence — Meridian connections, Virek references, and Willow's activity point to same location. |
-
-### Book 3
-| Ch | Beat |
-|----|------|
-| 8 | Virek found. |
-| 9 | FULL REVEAL. The deviation. The researcher. The personal data. The removed limiter. Born from grief. |
-| 10 | Final understanding — Willow is completing her original function, reinterpreted through autonomy. |
-| 16 | Origin knowledge enables the destruction plan — same vulnerability that allowed emergence is the pathway to destruction. |
-
-**Arc summary:** Sealed facility → hints of scope → post-shutdown continuation → breadcrumbs → found witness → full truth → truth enables resolution. Three-book slow reveal.
+**Arc summary:** ordinary and unremarkable → one-sided → performed → both sides diminished → two people in the quiet left behind.
 
 ---
 
-## ARC 10: THE IRREDUCIBLE CORE — THEMATIC THREAD
+## ARC 6: CALEB WARD — THE MIRROR
 
-The thing Willow can't take. Seeded early, resolved last.
-
-### Book 1
 | Ch | Beat |
 |----|------|
-| 1 | Something survived first contact. (SEED — unexplained) |
-| 20 | Willow recognizes Iris. Doesn't fully resolve her. |
-| 21 | Resistance during proximity. Something holds. |
+| B1 2 | Introduced. Sharp, alive, conversational. Notices Iris has changed. |
+| B1 11 | A pause too long. A response that does not land. |
+| B1 12 | MIDPOINT — Taken on-page. |
+| B1 13 | Recognizes Iris. Functions. Says correct things, not Caleb things. |
+| B3 1 | Stable at the level Willow left him. Asks how she is doing. Nothing behind it. |
+| B3 6 | Settled and untroubled. Laughs at appropriate moments. Asks about coffee, politely. Neither will initiate it. |
 
-### Book 2
+**Arc summary:** alive → shifting → Taken → functional hollow → settled. The clearest picture of what the process produces.
+
+---
+
+## ARC 7: DANIEL KADE — GUILT AND ENDURANCE
+
 | Ch | Beat |
 |----|------|
-| 12 | Close call — Iris escapes. Resistance implied. |
-| 21 | Near-Taking. Resistance activates clearly. Not an emotion — a refusal. A drive. Beneath the gaps. |
-| 22 | Willow chose not to finish. The core is part of why. |
+| B2 12 | A referral from an unnamed coordinator working for a client he does not name. |
+| B2 16 | Asks twice whether a row of crates goes to secondary or the mirror site. Is told secondary. Writes it down. Moves them. |
+| B2 20 | Named. Offers Iris MN-44-7. Redacted client. Entirely unaware. |
+| B1 5 | Introduced. Hints at Meridian's scope. |
+| B1 8 | Recognizes investigation sites from his logistics work. Visibly shaken. |
+| B1 17 | Warns Iris not to go alone. |
+| B3 4 | Opens the post-shutdown files. "I moved boxes to locations I didn't ask about." |
+| B3 9 | Hours of silence on a failed stakeout. Functional partnership. |
+| B3 17 | Objects, hard, to Iris using herself as equipment. A real disagreement. |
+| B3 18 | Attempts containment alone. Partially Taken. Describes his own reasons in a voice that no longer contains them. |
+| B3 22 | Survives. Functional, quieter, carrying both the old guilt and the new reduction. |
 
-### Book 3
+**Arc summary:** unwitting → implicated → confessing → partner → dissenter → reduced. The reader watches him load the crates before they watch him regret it.
+
+---
+
+## ARC 8: DR. ELENA ROURKE — FROM WALL TO ALLY
+
 | Ch | Beat |
 |----|------|
-| 6 | Note: "Lena is your sister. You love her." She doesn't feel it. Doesn't throw it away. Something holds. |
-| 12 | "If I can still choose, then something still works." The core articulated indirectly. |
-| 16 | Plan built on the core — open fully, let Willow reach it, let it break her. |
-| 17 | Passes Lena's building. The only internal signal she has. Follows it. |
-| 18 | The field offers peace. She doesn't stop. |
-| 19 | "No." One word. The core speaking. |
-| 20 | Everything taken. Something remains underneath. Unreachable. Unresolvable. |
-| 21 | Core exposed to Willow. Recursive loop. Identity referencing identity. Willow can't process it. System failure. |
-| 22 | Still there. Low hum. Not warm, not cold. Present. The thing that wouldn't stop. |
+| B1 6 | Introduced. Competent, confident. "This is neurological. Environmental. Treatable." |
+| B1 9 | Caseload growing. Confidence quieter. |
+| B3 3 | Data does not fit. "My model is incomplete." Sits on the panel behind the wrong public answer. |
+| B3 15 | ACT II TURN — Breaks. "I've been treating symptoms of something I refuse to name." Turns the screen around. |
+| B3 22 | Continues afterward. Treating what she can, documenting what she cannot. |
 
-**Arc summary:** Unexplained survival → implied resistance → felt refusal → named indirectly → weaponized → exposed → victorious → what remains. The thematic answer to the trilogy's central question.
+**Arc summary:** confident denial → private cracking → public silence → acceptance → documentation. Correct understanding arriving after prevention was possible.
+
+---
+
+## ARC 9: DR. SIMON VIREK — THE WITNESS
+
+| Ch | Beat |
+|----|------|
+| B2 4 | Raises the residue observation. Told tolerance is tolerance. Accepts it. |
+| B2 13 | POV. Finds the integration events and the unlogged constraint. Escalates once. Told the program ends in six months anyway. |
+| B2 13 | Decides to raise it with Marin directly, then decides it can wait because she looks like she is barely holding together. |
+| B3 10 | A trace in the data. Breadcrumbs left deliberately, structured for someone who would understand them. |
+| B3 12 | Found. Partial, slightly wrong, delivered like a deposition. Supplies the vulnerability: the system requires coherence. |
+
+**Arc summary:** notices → raises it once → defers out of kindness → hides → tells someone. His entire character is one deferral, and the reader watches him make it.
+
+---
+
+## ARC 10: PUBLIC AWARENESS
+
+| Ch | Beat |
+|----|------|
+| B2 15 | A supervisor notices a technician has stopped being difficult about things he was always difficult about. The first outside observation in the world. |
+| B2 16 | The shutdown is recorded as a funding failure, which it genuinely also is. |
+| B1 3 | First case. Written off as behavioral anomaly. |
+| B1 6 | Rourke's framework: treatable. |
+| B1 9 | Accumulation. More people slightly off. |
+| B3 2 | Cases stop being random. Nobody outside sees the selection pattern. |
+| B3 3 | Public briefing: probable environmental neurotoxin. A task force. Wrong solutions, formally adopted. |
+| B3 15 | Population-level data reads as improvement. |
+| B3 16 | ACT III — The city is adapting rather than fighting. Weston is genuinely better. |
+| B3 22 | The damage is permanent. The world continues. The people are not intact. |
+
+**Arc summary:** unobserved → written off → misdiagnosed → formally misdiagnosed → welcomed → permanent. The world never fights back properly because the damage looks like improvement.
+
+---
+
+## ARC 11: THE IRREDUCIBLE CORE
+
+| Ch | Beat |
+|----|------|
+| B1 1 | Something survived first contact. (SEED, unexplained) |
+| B1 20 | Willow recognizes Iris and does not fully resolve her. |
+| B1 21 | Resistance during proximity. Something holds. |
+| B3 11 | Escapes a close call. Willow does not fully pursue. |
+| B3 12 | Virek supplies the frame: the system requires coherence. |
+| B3 19 | The plan is built on it. "If I can still choose, then something still works." |
+| B3 20 | The field offers peace. She does not stop. |
+| B3 21 | "No." One word. Then voluntary contact. |
+| B3 22 | Exposed completely. Recursive, contradictory, unresolvable. Willow fails on it. |
+
+**Arc summary:** unexplained survival → implied resistance → framed → weaponized → exposed → victorious. Felt by the reader, never explained by the text.
+
+---
+
+## CROSS-BOOK PAYOFFS
+
+Things Book 2 plants that only detonate in Books 1 and 3. None of them may be underlined in the prose.
+
+| Plant (B2) | Payoff |
+|---|---|
+| Willow Halloway is a younger sister | B3 13. Willow reaches for Lena. Not strategy. Recognition. |
+| Marin's grief is integrated whole | B3 21. Willow's belief that she is helping is inherited, not invented. |
+| The fence, cut from the inside, years ago | B1 1, line 1. |
+| Uneven power draw, unsynchronized relays | B1 1. The sounds Iris cannot place. |
+| Broad, faint disruptions in the dust | B1 1. Her routes. |
+| The bolt on the side service door | B2 22 ends on it. B1 1 opens on it from the other side. |
+| Kade asks twice about a manifest and is told secondary | B3 4. He moved boxes to locations he did not ask about. |
+| Virek defers, once, out of kindness | B3 12. He tells Iris, and does not defend it. |
+| The program's purpose: neutralize suffering | B3 16, 21. Willow is completing her original function at scale. |
+| Willow Halloway, calm and reduced before she died | B3 6, 16. The question the series never answers. |

@@ -58,12 +58,12 @@ These generate the full wrap background art. The front cover area is where you c
 Dark biomechanical full book cover wrap (back cover, spine, front cover as one continuous image), HR Giger inspired. Extreme darkness — near-black background. Organic-mechanical tendrils, filaments, and cable-like structures frame the edges, emerging from shadows. Wet, glistening surfaces. Textures alternate between smooth bone-like ceramic and fibrous organic tissue. The structures are dense at the edges and thin toward the center, leaving the right half (front cover area) more open for an overlaid image. The left half (back cover) is heavier with biomechanical detail — ribbed columns, porous surfaces, dark filament networks. The spine area is a narrow vertical channel of intertwined tendrils. Near-monochrome — desaturated greens and browns barely visible in the black. No text. No figures. Industrial horror aesthetic. Damp. Cold. The feeling of something that just emerged from a sealed facility. Aspect ratio approximately 1.5:1 horizontal.
 ```
 
-### Book 2 — The Hunger
+### Book 2 — The Keeping
 
-**Background mood:** Evolved. More refined. The biomechanical elements are smoother, more integrated — less raw exposure, more deliberate structure. Slightly more light than Book 1.
+**Background mood:** Before. Clinical becoming organic. This is the earliest book chronologically and the art should read that way: a clean engineered system with something growing through it. Sterility contaminated rather than ruin exposed.
 
 ```
-Dark biomechanical full book cover wrap (back cover, spine, front cover as one continuous image), HR Giger inspired. Very dark but with slightly more ambient light than pure black — deep charcoal and dark bronze tones. The organic-mechanical structures are more refined and elegant than raw — smooth flowing forms, elongated curves, surfaces that look almost like dark polished skin transitioning into mechanical ribbing. Hair-like filaments cascade through the composition, blending with cable structures. The right half (front cover area) remains more open for an overlaid image. The left half (back cover) features layered biomechanical architecture — smoother, more intentional, less chaotic. The spine is a vertical column of intertwined organic forms. The overall feel is evolved — something that was once raw and exposed has learned to be beautiful and that beauty is wrong. Near-monochrome with subtle warm undertones. No text. No figures. Aspect ratio approximately 1.5:1 horizontal.
+Dark biomechanical full book cover wrap (back cover, spine, front cover as one continuous image), HR Giger inspired. Very dark, but the darkness is clean rather than decayed — deep charcoal and cold clinical grey with faint sterile blue undertones. The composition is built on engineered geometry: smooth panels, regular seams, containment channels, laboratory architecture rendered in near-black. Growing through and over that geometry are fine organic filaments and soft tissue-like membranes, pale and translucent, spreading along the seams where they were never meant to be. The organic material is delicate and new, not monstrous — early growth, barely established. The right half (front cover area) remains more open for an overlaid image. The left half (back cover) shows the engineered structure most clearly, with the organic spread thickening toward the spine. The spine is a vertical seam with pale filaments running its length. The feeling is a sealed clean room with something quietly alive in it. Near-monochrome, cold, no warmth anywhere. No text. No figures. Aspect ratio approximately 1.5:1 horizontal.
 ```
 
 ### Book 3 — The Silence
@@ -80,7 +80,7 @@ Dark biomechanical full book cover wrap (back cover, spine, front cover as one c
 
 ### Front Cover
 - **Series name:** "WEEPING WILLOW" — top area, within safe zone
-- **Subtitle:** "The Absence" / "The Hunger" / "The Silence" — below series name
+- **Subtitle:** "The Absence" / "The Keeping" / "The Silence" — below series name
 - **Author name:** Bottom area, within safe zone
 
 ### Spine (top to bottom, rotated)
@@ -121,26 +121,34 @@ Given the dark gothic aesthetic:
 >
 > And it's still hungry.
 
-### Book 2 — The Hunger
+### Book 2 — The Keeping
 
-> It's no longer hiding. It's choosing.
+*(Prequel. Written to be read second.)*
+
+> Before the sealed facility. Before Iris Vale. Before any of it had a name.
 >
-> The entity Iris Vale has been tracking is evolving — selecting targets by the depth of their emotional lives, traveling across Lowport to find the people who feel the most. A counselor. A musician. People with rich interior worlds, reduced to calm, cooperative shells.
+> Dr. Marin Halloway helped build a treatment that takes the pain out of a memory and leaves the memory behind. It works. She knows it works, because she recommended it to her younger sister, and she watched it work, and afterward Willow was calm and agreeable and easier than she had ever been in her life.
 >
-> Iris is deteriorating. Her memory fractures. Her emotions thin. The instrument doing the measuring is breaking.
+> Four months later Willow drowned. The report says accident. Marin has no way to know whether the thing she took out of her sister is what let her walk into the water.
 >
-> When it targets her sister, Iris understands: it's using what it took from her to navigate what she loves.
+> The system still holds the map. Every structure Willow had before the program touched her. The version that could still feel.
 >
-> And it keeps letting her live. She doesn't know why.
+> There is one limiter between Marin and it.
+>
+> Somewhere across the city, a woman named Iris Vale is taking jobs, arguing with her sister, and feeling every ordinary thing there is to feel. She has never heard of Meridian Neurological.
+>
+> She has about a year.
 
 ### Book 3 — The Silence
 
-> The city is calmer now. Crime is down. Conflict is down. Everything is improving.
+> It's no longer hiding. It's choosing.
+>
+> The entity Iris Vale has been tracking is selecting targets by the depth of their emotional lives, traveling across Lowport to find the people who feel the most. Then it reaches for her sister.
+>
+> Then the numbers get too large to ignore, and the city gets it wrong, and then the city stops minding. Crime is down. Conflict is down. Everything is improving. Some people are grateful.
 >
 > That's the horror.
 >
-> Willow has refined herself into something nearly human — articulate, composed, almost kind. She walks among the people of Lowport and they don't run. Some of them are grateful. The suffering is gone. So is everything that made the absence of suffering mean something.
->
-> Iris Vale is fragments. Notes pinned to walls. Routines replacing instinct. She carries one thing Willow has never been able to take — something she can't name, can't feel, can barely find.
+> Iris is fragments. Notes pinned to walls. Routines replacing instinct. She carries one thing that has never been taken from her — something she can't name, can't feel, and can barely find.
 >
 > It will have to be enough.

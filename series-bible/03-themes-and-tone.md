@@ -91,7 +91,7 @@ Think:
 
 ## PROSE CONVENTIONS (HARD RULES) (Book 2 onward)
 
-Adopted 2026-05-14. Hard audit gates for Book 2 and beyond. **Book 1 — The Absence is published; its voice was intentionally sparser and more fragmented. Do not retro-edit Book 1 to these rules. They are a deliberate craft step up beginning with Book 2 — The Hunger.**
+Adopted 2026-05-14. Hard audit gates for Book 2 and beyond. **Book 1 — The Absence is published; its voice was intentionally sparser and more fragmented. Do not retro-edit Book 1 to these rules. They are a deliberate craft step up beginning with Book 2 — The Keeping.**
 
 - **No exclamation points** in prose or dialogue.
 - **No em dashes** in prose or dialogue. Use a comma, a colon, parentheses, or a separate sentence. The ban governs prose and dialogue; chapter and act headings keep their existing title format.
@@ -119,3 +119,19 @@ Adopted 2026-05-14. Hard audit gates for Book 2 and beyond. **Book 1 — The Abs
 - **No construction repeated as a crutch within a chapter.** If a sentence shape, comparative frame, or filler phrase — *"the way…,"* *"the kind of…,"* anaphora, dash-parentheticals, "something [verb]ed" — recurs more than once or twice, it has become a tic. Vary it or cut it. When in doubt, state the observation plainly, without the frame.
 
 Iris's flat, clinical interiority is character voice and stays. These rules govern the *prose*, not her diagnostic register — but even her logging must obey "no bloat, no repetition, no contrast framing."
+
+---
+
+## POV REGISTERS (Book 2 — The Keeping)
+
+The prequel runs four POVs. The hard rules govern all of them. What changes is register, not craft.
+
+**Marin Halloway (13 ch):** Clinical, precise, controlled. She reaches for procedure when she is in pain and describes her own grief in outcome-measure language. This is the tell and the prose must never point it out. She is not flat like Iris — she feels everything, and she processes it in the only vocabulary she trusts.
+
+**Iris Vale, intact (6 ch):** The opposite of her Book 1 voice. Impatient, funny, sharp, reactive. Feelings arrive immediately and completely, and she does not observe herself having them. **No self-monitoring, no cataloging, no "she noted."** That register is damage and she does not have it yet. If an Iris chapter in this book reads like Book 1, it has failed.
+
+**Willow, the entity (3 ch):** Observational, structural, patient. No language, no wanting, no fearing, no intending. She does not have interiority as humans have it. She has a map, an absence, and a set of instructions. Sentence variety still applies: this is not a licence to fragment.
+
+**Virek (1 ch):** Careful, slightly pedantic, faintly evasive with himself. He is thorough as a way of not concluding.
+
+**The absence-as-horror technique inverts in this book.** In Book 1 the horror is Iris noticing a feeling is not there. In Book 2 it is Marin noticing a feeling *is* there and will not stop, and it is the reader noticing what Willow Halloway has lost while everyone in the scene calls it recovery.

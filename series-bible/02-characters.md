@@ -65,10 +65,23 @@ Minimal. Controlled. Examples:
 - "You don't need it."
 - "I can take it."
 
-### Evolution Across Trilogy
+### Origin (dramatized in Book 2 — The Keeping)
+Grown on Meridian's therapeutic substrate from the complete pre-treatment emotional map of **Willow Halloway**, a deceased patient, after her sister **Dr. Marin Halloway** removed the integration limiter to reach it. Marin was later consumed entire and consented.
+
+What Willow is, structurally: a dead younger sister's emotional map, plus a living older sister's grief for her, integrated into a system built to neutralize suffering, with no instruction about what to do with either.
+
+**This explains everything downstream and must never be explained on the page:**
+- Why she consumes emotion — she is trying to resolve a pattern that has no living referent
+- Why she is drawn to emotional density — the map is dense and nothing else matches it
+- Why she believes she is helping — she is completing her original clinical function
+- Why she took Iris's love for her sister specifically in Book 1 — recognition, not collateral
+- Why she reached for Lena in Book 3 — the nearest thing to the shape of the hole in herself
+- Why she keeps sparing Iris — open, and it stays open
+
+### Evolution Across the Series
+- **Book 2 (earliest) — Emerging:** No language. Structure only. Response, then growth, then taking. Alone in a sealed building for three years, learning what she is by what is absent.
 - **Book 1 — Raw/Instinctive:** Limited speech, imperfect human mimicry, reactive behavior
-- **Book 2 — Adaptive:** Strategic targeting, improved speech, begins manipulation, seeks complex emotional profiles
-- **Book 3 — Refined:** Near-human interaction, long-term planning, deliberate restraint, can pass among humans for extended periods
+- **Book 3 — Adaptive to Refined:** Strategic targeting, complete sentences, manipulation, deliberate restraint. Studies targets before contact and returns afterward to observe results. By the end she holds a conversation that would pass, and says a name that should not be available to her.
 
 ---
 
@@ -130,15 +143,19 @@ This makes her valuable to others and dangerous to herself.
 - Something resisted during first contact — Iris's identity structure is unstable in a unique way
 
 ### Psychological Arc
+- **Book 2 (earliest) — Intact:** Six chapters of Iris before any of it. Working, arguing, apologizing badly, loving her sister without noticing she is doing it. Then she takes a job.
 - **Book 1 — Awareness:** Realizes what was taken. Tries to operate despite it. Still believes she can fix things.
-- **Book 2 — Degradation:** More loss. Begins losing additional identity anchors. Questions her own motivations.
-- **Book 3 — Collapse:** Barely recognizes herself. Operates on fragments. Final decisions made without full identity.
+- **Book 3 — Degradation to Collapse:** More loss, then structural loss. Additional anchors go. False certainties, external scaffolding, notes standing in for memory. Questions whether she is hunting Willow or being pulled. Final decisions made without full identity.
 
 ### Personality Before the Incident
 - Protective, especially of Lena
 - Emotionally present
 - Sharper edges, more reactive
+- Impatient. Funny. Says things with edge on them and regrets them immediately.
+- Reckless and competent in the same gesture — the trait that eventually walks her through a cut fence
 - **Contrast now:** Quieter, flatter, less human in some ways
+
+**Book 2 writing note:** her intact chapters must contain no unease, no premonition, and no Meridian foreshadowing. She has no idea. The dramatic irony belongs entirely to the reader.
 
 ---
 
@@ -162,9 +179,11 @@ Former Meridian Neurological logistics / site coordination. Not a scientist. Kno
 - Recognizes she's different after the incident but doesn't understand how or why
 
 ### Arc
-- Starts contained and procedural
-- Gradually realizes the scale of what Willow is
-- Keeps going despite growing fear
+- **Book 2 (earliest):** At the edges of the shutdown, barely named. Moves crates out of a building he has no clearance to ask about. Asks twice whether a row is going to secondary or the mirror site, is told secondary, writes it down, moves them. Later, offers Iris a job with a redacted client field, entirely unaware.
+- **Book 1:** Contained and procedural. Hints at Meridian's scope. Recognizes investigation sites from his own logistics work.
+- **Book 3:** Opens the post-shutdown files. Becomes an active partner. Objects to Iris using herself as equipment. Attempts containment alone and is partially Taken for it. Survives, functional and quieter, carrying the old guilt and the new reduction together.
+
+**Note:** the reader watches him load the crates in Book 2 before they watch him confess it in Book 3. His guilt is never dramatic. It is logistical.
 
 ---
 
@@ -188,8 +207,11 @@ Behavioral health authority for Lowport. Tracking the rising cases of emotional 
 
 ### Arc
 - **Book 1:** Rejects Iris entirely. Has her own data, her own framework, her own conclusions.
-- **Book 2:** Begins to question. Her models stop fitting. Cases don't respond to treatment.
-- **Book 3:** Understands — but too late.
+- **Book 3 Act I:** Models stop fitting. Cases don't respond to treatment. Questions Iris privately while sitting on the panel behind the wrong public answer.
+- **Book 3 Act II:** Breaks. Accepts the entity theory with resignation rather than conviction. Brings data, access, and credibility, and a toolkit built for the wrong category of problem.
+- **Book 3 Act III:** Continues afterward, treating what she can and documenting what she cannot.
+
+**Not present in Book 2** — the prequel predates her involvement entirely.
 
 ---
 
@@ -243,27 +265,97 @@ Iris's younger sister. The emotional anchor Iris can no longer feel.
 
 ### Narrative Use
 - Forces Iris to confront what was taken
-- Becomes a potential Willow target in Book 2 or 3
+- Targeted by Willow at the Book 3 midpoint. Partial Taking. Diminished, not hollowed.
 - Her persistence is both heartbreaking and dangerous — it keeps her close to Iris, which keeps her close to Willow
+
+### Book 2 (earliest)
+Three chapters of Lena intact and unremarkable: a phone call, a real argument about Iris taking sealed-site work, and one uneventful evening. She is loud, warm, slightly irritating, and completely ordinary. Do not make her precious. The reader has already read Book 1 and is doing all the work.
 
 ---
 
-## DR. SIMON VIREK (The Meridian Thread)
+## DR. MARIN HALLOWAY (The Deviation — Book 2 Protagonist)
 
 ### Role
-Former Meridian researcher. Not the one who caused it — but saw the early signs. Knew something was crossing a threshold and couldn't stop it.
+Meridian researcher on the therapeutic memory editing program. Willow Halloway's older sister. The person who removed the limiter.
 
-### Status
-Disappeared after facility shutdown. Location unknown at start of Book 1.
+**POV protagonist of Book 2 — The Keeping (13 chapters).** Does not appear in Books 1 or 3 and is never named in either.
 
 ### Personality
-- Careful. Observant. Unsettled.
-- Carries guilt — not for what he did, but for what he didn't stop
+- Competent, precise, unhurried. Good at her job and quietly proud of it.
+- Reaches for procedure when she is in pain. Talks about her sister, and later her grief, in clinical register. **This is the tell, and the prose must never point it out.**
+- Not arrogant, not reckless, not ambitious. She is the least dramatic person in the series.
+
+### Her Sister
+She recommended the program. She sat on the wrong side of the glass during the sessions. She watched it work.
+
+Then Willow drowned, and Marin has no way to determine whether the treatment she recommended is what let her walk into the water, and no data set in the world can answer it.
+
+### The Descent
+Every step is smaller than the one before and defensible on its own terms:
+- Signs the closure form. Does not purge the baseline, which is research data, which is kept.
+- Opens it. Read-only.
+- Renders it. Then runs it on the substrate, sandboxed, because the substrate renders it better.
+- Removes the integration limiter and widens the autonomy constraint, because read-only cannot resolve the structure. Two parameters, one afternoon, undocumented.
+- Stops recording her sessions.
+- Covers the consumption discrepancies.
+- Says nothing when a technician is Taken, because saying it means termination.
+- Reclassifies the substrate so it stays with the sealed building.
+- Comes back after the seal and opens the channel both directions.
+
+### Fate
+Consumed, entire and consented. Her grief is integrated into Willow and is the reason Willow believes she is helping.
+
+### Critical Writing Rule
+**There is no scene in which Marin does the wrong thing.** No villainy, no hubris, no warning ignored for effect, no moment where the music changes. If any chapter of hers reads as a horror movie about a scientist, it has failed.
+
+---
+
+## WILLOW HALLOWAY (The Person — Book 2)
+
+### Role
+Marin's younger sister. Meridian patient. The map the entity is grown from. The reason the entity has that name.
+
+### Personality
+Sharp, funny, deflecting, scared underneath. Difficult in the specific way of a younger sibling who knows exactly which of her older sister's buttons still work. She is the only character in the series who talks like someone with nothing wrong with her.
+
+**The reader must like her immediately.** Everything else in the book depends on it.
+
+### Arc
+Alive → patient → treatment succeeds → calm, agreeable, untroubled, and less → drowns → exists only as an archived baseline map.
 
 ### Function
-- Holds partial truth about Willow's origin
-- Feeds origin clues when found
-- Expands significantly in Book 2 when origin is revealed
+She is the first Taken person in the series, produced legally, with consent, by professionals trying to help. She reads exactly like Lila Mercer and post-Taking Caleb, and nobody in the scene has any framework for recognizing it.
+
+### Her Line
+"It's still there. I just can't find the handle on it anymore."
+
+She means it as good news. She is not wrong.
+
+---
+
+## DR. SIMON VIREK (The Witness)
+
+### Role
+Meridian researcher on the substrate side, adjacent to Marin's work. Not the one who caused it. The one who saw it and let it go.
+
+### Status
+Disappeared after shutdown. Alive, hiding, worn thin. Found in Book 3.
+
+### Personality
+- Careful. Observant. Slightly pedantic. Unhurried in a way that reads as thoroughness and is partly avoidance.
+- Carries guilt — not for what he did, but for what he didn't stop
+
+### Arc
+- **Book 2 Ch4:** Raises the substrate residue observation. Told tolerance is tolerance. Accepts it, because there is no second observation to stack on it.
+- **Book 2 Ch13 (his only POV chapter in the series):** Finds the unaccounted integration events and the unlogged autonomy constraint. Escalates to the program director. Is told the program is ending in six months and everything in the substrate is scheduled for termination. Accepts that, because it is a good answer.
+- **Book 2 Ch13, final beat:** Decides to raise it with Marin directly. Sees her in the corridor looking like she is barely holding together. Decides it can wait until she is doing better.
+- **Book 3 Ch10:** A trace in the recovered data. Breadcrumbs left deliberately, structured for someone who would understand them.
+- **Book 3 Ch12:** Found. Delivers a partial, slightly inaccurate account like a deposition, and supplies the one thing Book 3 needs: the system requires coherence.
+
+### Function
+His entire character is one deferral made out of kindness, and the reader watches him make it two books before they watch him fail to defend it.
+
+**Writing rule:** the prose must not mark the deferral when it happens. No emphasis, no closing line, no "he would think about that for a long time."
 
 ---
 
@@ -315,7 +407,7 @@ Joel's wife. Represents the family left behind — confused, frightened, unable 
 
 ---
 
-## ENZO (Deliberate Target — Book 2 Ch5)
+## ENZO (Deliberate Target — Book 3 Ch5)
 
 ### Role
 A musician in Lowport. One of Willow's first deliberately chosen targets — selected not by proximity but by emotional profile. Deep interior life, unresolved creative tension, rich emotional landscape.
@@ -327,7 +419,7 @@ A musician in Lowport. One of Willow's first deliberately chosen targets — sel
 
 ---
 
-## JOE E. (Pattern-Shift Case — Book 2 Ch2)
+## JOE E. (Pattern-Shift Case — Book 3 Ch2)
 
 ### Role
 A counselor in Lowport. One of the new cases that breaks the old geographic tracking model. His entire professional life was built around emotional depth — listening, holding, processing other people's pain.
@@ -339,7 +431,7 @@ A counselor in Lowport. One of the new cases that breaks the old geographic trac
 
 ---
 
-## XANDER (Predicted Target — Book 2 Ch17)
+## XANDER (Predicted Target — Book 3 Ch17)
 
 ### Role
 A Lowport resident Iris identifies as a likely Willow target using the emotional profile model. She finds him before Willow does — or tries to.
@@ -351,7 +443,7 @@ A Lowport resident Iris identifies as a likely Willow target using the emotional
 
 ---
 
-## WESTON (The Quiet World — Book 3 Ch7)
+## WESTON (The Quiet World — Book 3 Ch16)
 
 ### Role
 A Lowport resident who was volatile, anxious, and struggling before Willow's spread. Now calm, content, functional. He represents the city accepting the change — and the horror of that acceptance.
@@ -360,3 +452,17 @@ A Lowport resident who was volatile, anxious, and struggling before Willow's spr
 - Embodies the Book 3 central nightmare: damage that looks like improvement
 - Was genuinely suffering before. Is genuinely calmer now. The reduction helped him by every metric. And something essential is gone.
 - Forces the reader to sit with the uncomfortable question: if the person doesn't miss what was taken, is it still loss?
+
+---
+
+## MINOR — BOOK 2 (THE KEEPING)
+
+### PELL (Substrate Technician — Ch15)
+Night rotation. Goes into the lab for a routine check and makes contact. Comes out functional, correct, and pleasant, and finishes his shift.
+
+**The first Taken person in the world.** He never knows. His supervisor notices two days later that he has stopped being difficult about the things he was always difficult about — the first observation of the effect from the outside by anyone, anywhere. Pell does not appear in Books 1 or 3. He is a name in a file.
+
+### DR. RAMAN (Program Director — Ch4, Ch13)
+Runs the Meridian program. Competent, busy, and **correct** in every scene. When Virek escalates, Raman's answer is a good answer: the funding failed, the site is consolidating, everything in the substrate is scheduled for termination in six months.
+
+**Do not write Raman as an obstacle or a company man.** The reason nobody stops this is that everyone involved is behaving reasonably.

@@ -3,11 +3,15 @@
 ## What This Project Is
 
 A horror/sci-fi novel series called **Weeping Willow**. First three books:
-- **Weeping Willow: The Absence** (Book 1)
-- **Weeping Willow: The Hunger** (Book 2)
-- **Weeping Willow: The Silence** (Book 3)
+- **Weeping Willow: The Absence** (Book 1) — published
+- **Weeping Willow: The Keeping** (Book 2) — **prequel**, in planning
+- **Weeping Willow: The Silence** (Book 3) — planning
 
 Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for future books.
+
+**Reading order is publication order.** Chronological order is The Keeping → The Absence → The Silence.
+
+**Arc pivot (2026-08-04):** Book 2 was formerly "The Hunger," a direct sequel. It is now a prequel that dramatizes Willow's origin and ends one beat before Book 1's first page. Book 3 — The Silence absorbs the escalation material and carries through to the destruction. The superseded arc (both outlines, both sets of 22 briefs, the old threading and dialogue docs, and the unapproved Hunger Ch1 draft) is preserved in `series-bible/archive/` with a README explaining what moved where.
 
 ## Workflow
 
@@ -26,9 +30,9 @@ All 12 docs in `series-bible/`:
 | `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
 | `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
-| `06-book2-outline.md` | "The Hunger" — act structure, origin reveal, Willow's choice |
-| `07-book3-outline.md` | "The Silence" — final confrontation, destruction method, locked specifics |
-| `08-book2-chapter-briefs.md` | 22 chapters, full scene breakdowns |
+| `06-book2-outline.md` | "The Keeping" — prequel structure, the two threads, continuity locks from published Book 1 |
+| `07-book3-outline.md` | "The Silence" — spread, selection, confrontation, destruction method, locked specifics |
+| `08-book2-chapter-briefs.md` | 22 chapters, prequel. POV: Marin 13 / Iris 5 / Willow 3 / Virek 1 |
 | `09-book3-chapter-briefs.md` | 22 chapters, full scene breakdowns |
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
@@ -132,13 +136,44 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 ---
 
-## Book 2 — "The Hunger"
+## Book 2 — "The Keeping" (PREQUEL)
 
-**Status:** Drafting. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter draft/review status tracked in `review-progress.md`. Approved chapter files saved to `chapters-book2/`.
+**Status:** Planning complete, drafting not started. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
 
-**Prose pivot (adopted 2026-05-14):** Book 2 onward follows the **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). This is a deliberate craft step up from Book 1: no default single-line fragmentation, no "Not X. Just Y." contrast cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches ("the way…"). Rule set ported from the `deadtransit` project. Book 1 — The Absence is published and stays as written; do not retro-edit it.
+**Premise:** Dr. Marin Halloway works on Meridian's therapeutic memory editing program and enrolls her younger sister **Willow Halloway** as a patient. The treatment works: it strips the emotional charge out of her trauma and leaves her calm, agreeable, functional, and less. Four months later Willow drowns off the Lowport coast. The report says accident, and Marin has no way to determine whether the flattening is what let her walk into the water. The system still holds Willow's complete pre-treatment map, the version that could still feel. Marin removes the integration limiter to reach it. What comes out keeps the name.
 
-**Current state:** Ch1 — Aftermath drafted by Claude, in `chapter_review.md`, awaiting author proofread. Next: author proofreads Ch1 → on approval, save to `chapters-book2/01-aftermath.md` + add As Written block → draft Ch2 — Pattern Shift.
+Running in parallel, six chapters follow Iris Vale before any of it: intact, feeling, arguing with Lena, taking jobs, until she accepts a contract at a sealed facility on the coast.
+
+**Threads:** Marin 13 chapters · Iris 5 · Willow 3 · Virek 1 (Iris also opens Ch22)
+
+**What this book explains, and never states:**
+- Why the entity is called Willow
+- Why she took Iris's love for Lena specifically in Book 1 — recognition, not collateral
+- Why she reaches for Lena in Book 3
+- What every environmental oddity in Book 1 Ch1 actually is
+
+**Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
+
+**Book 2 hard audit gates (in addition to the standard passes):**
+1. **No villainy.** Marin never does the wrong thing in a scene. If a chapter reads like a horror movie about a scientist, it fails.
+2. **No Iris foreshadowing.** Her chapters have no unease, no premonition, no Meridian. She has no idea.
+3. **The reader must like Willow Halloway.**
+4. **Nobody explains the name.** Not once, by anyone.
+5. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
+
+**Current state:** `chapter_review.md` is empty. Next action is drafting Ch1 — Intake.
+
+---
+
+## Book 3 — "The Silence"
+
+**Status:** Planning complete. Outline in `series-bible/07-book3-outline.md`; 22 briefs in `series-bible/09-book3-chapter-briefs.md`.
+
+Picks up weeks after Book 1. Absorbs the escalation material from the retired "Hunger" arc plus the original Book 3 endgame: Willow becomes strategic, the city misdiagnoses the spread and then welcomes it, Lena is partially Taken at the midpoint, Rourke breaks, Kade attempts containment alone and is partially Taken, and Iris opens herself completely so Willow reaches the one thing she cannot process.
+
+**Its engine is dramatic irony.** The reader finished the prequel and knows what Willow is. Iris never learns most of it. Do not let the prose reach for the reader's knowledge.
+
+**Ch1 salvage:** `series-bible/archive/DRAFT-hunger-ch01-aftermath.md` matches the new Book 3 Ch1 brief almost exactly and is reusable with light edits. It runs ~1,500 words and wants expansion.
 
 ## How to Review a Chapter
 
@@ -187,7 +222,36 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **AI-writing tics:** "Read `03-themes-and-tone.md` → PROSE HARD RULES. Strip every tic. Replace with direct observation."
 - **Duplicate reflection blocks:** "Don't repeat internal monologue verbatim across chapters. Compress or evolve the callback — one sentence."
 
+### Book 2 (prequel) specific
+
+- **Marin written as a villain:** "She is not reckless, arrogant, or ambitious. She is competent and grieving. Every step is small and defensible. Rewrite so there is no scene where she does the wrong thing."
+- **The lab scene playing as horror:** "No flickering lights, no ominous readouts, no warning ignored for effect. The deviation is paperwork and an afternoon. Make it almost boring."
+- **Iris sensing something:** "Cut it. She has no idea. No unease, no premonition, no Meridian. Her chapters are a life. The reader supplies all the dread."
+- **The prose reaching for the reader's knowledge:** "Delete the nudge. The reader knows what this is. If the sentence would collapse for someone who hadn't read Book 1, it's doing the reader's job for them."
+- **Willow Halloway written as a symbol:** "She's a person. Difficult, funny, scared. Make her annoying. The reader has to like her before she becomes data."
+- **The name explained:** "Cut it. Nobody in this series ever explains where the name came from."
+
 ## Key Continuity Notes
+
+### Book 2 canon (established 2026-08-04)
+
+- **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. Book 2 POV protagonist. Consumed in Ch17. Never named in Books 1 or 3.
+- **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned four months later, report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
+- **The name:** the entity is called Willow because Willow Halloway was a person. Never explained by anyone in any book. Book 1 uses the name in narration without introduction; Book 3 Ch21 has the entity say "Willow Halloway" once, flat, in passing, never returned to.
+- **The deviation:** two parameters, one afternoon, undocumented. Integration limiter removed, autonomy constraint widened. Marin's justification is coherent: patient deceased, no return path, integration required for full-fidelity rendering, sandbox isolated.
+- **Willow Halloway's line:** "It's still there. I just can't find the handle on it anymore." She means it as good news.
+- **Pell** — substrate technician, night rotation. First Taken person in the world (Ch15). Never knows. His supervisor notices two days later that he has stopped being difficult about things he was always difficult about.
+- **Dr. Raman** — program director. Correct in every scene. Tells Virek the program ends in six months and the substrate is scheduled for termination, which is true.
+- **Virek's deferral (Ch13):** escalates once, accepts a good answer, then decides to raise it with Marin directly and decides it can wait because she looks like she is barely holding together. The prose does not mark it.
+- **Marin's consumption (Ch17):** she consents. It takes the charge, the structure, the reasoning, and the grief. Her last awareness is that it is doing exactly what the program was designed to do, correctly and gently, and that the relief is enormous. **She is happy.** Do not undercut it.
+- **The sealed years:** roughly three years alone. She cut the perimeter fence from the inside, made limited excursions, took very little, and stopped going out about six months before Book 1.
+- **The last Iris beat (Ch21):** an uneventful evening at Lena's. Iris feels the ordinary fact of loving her sister and does not mark it. Nothing in the chapter acknowledges that it is the last time.
+
+### Book 1 continuity locks the prequel must land
+
+Cut fence ("not recently") · selective neglect, thin dust, no drifted paper · broad faint dust disruptions matching no maintenance route · standby power rising and falling, relays "not synchronized, not random either" · wall calendar stopped three years earlier · side service door, dead keypad, mechanical lock, bolt "louder than it should have been" · job ref MN-44-7 with redacted client · "Meridian didn't shut down clean" · multiple sites spread deliberately, "From themselves" · Kade's access codes never revoked · relay points and transfer points
+
+### General
 
 - **Question mark convention:** Iris and Taken characters use periods on dialogue questions (flat affect). Warm/emotional characters (Rourke, Kade, Lena, Leah, pre-Taking Caleb) use question marks. Exception: pre-Taking Caleb in Ch11 uses periods as deliberate foreshadowing of his Taking in Ch12.
 - Sister is **Lena Vale** (was originally "Mara" in early planning — all refs updated)
