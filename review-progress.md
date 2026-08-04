@@ -50,7 +50,7 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 |----|-------|-----|------|-------|-------|--------|
 | **ACT I — THE PROGRAM** | | | | **23,400** | | |
 | 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,286 | DONE |
-| 2 | Recovery | Iris | Yr −6 | 3,200 | — | — |
+| 2 | Recovery | Iris | Yr −6 | 3,200 | DRAFT 3,012 | awaiting proofread |
 | 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
 | 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
 | 5 | The Water | Marin | Yr −5.2 | 3,200 | — | — |
@@ -84,7 +84,13 @@ Audit passes: brief compliance, tone, character voice, continuity, PROSE HARD RU
 
 Author edits on the draft: Terri Boisvert renamed **Terri Roth**; Raman's name cut from the "can you see it" exchange (he is now first named in Ch3); "Oh good, so you've thought about it" trimmed to "Oh good"; several small tightenings.
 
-**Run-on pass (new gate, added this chapter).** The first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence. 18 sentences rewritten, plus one genuine comma splice fixed. Final: 0 sentences with 3+ "and," 8 with 3+ commas (all colon lists or serial verbs), 3 over 45 words (all deliberate), average 11.1 words. **This failure mode is now screened on every chapter** and is documented in `03-themes-and-tone.md` and CLAUDE.md drift corrections.
+**Ch2 — Recovery** · drafted 2026-08-04 · in `chapter_review.md` · 3,012 words · awaiting proofread
+
+Iris intact: the flooded sub-level job, the refusal to power or dry the wet drives, the bridge tripping at ninety minutes, R. Oyelaran's ignored maintenance notes, then the diner and the call with Lena. Clean on the hard rules (0 sentences with 3+ conjunctions, 0 over 45 words, avg 11.1). Ran a specific scan for Book 1 register leaking into intact-Iris prose ("she noted," "she registered," "Expected/Observed," "the absence of") with zero hits.
+
+**Process note:** the first Ch2 draft had 10 sentences over the conjunction threshold, one chapter after that gate was established, because the screen was being run as a post-pass rather than applied while writing. Corrected in the rewrite. The gate now says to screen during drafting.
+
+**Run-on pass (Ch1, where the gate was added).** The first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence. 18 sentences rewritten, plus one genuine comma splice fixed. Final: 0 sentences with 3+ "and," 8 with 3+ commas (all colon lists or serial verbs), 3 over 45 words (all deliberate), average 11.1 words. **This failure mode is now screened on every chapter** and is documented in `03-themes-and-tone.md` and CLAUDE.md drift corrections.
 
 **POV totals:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
 

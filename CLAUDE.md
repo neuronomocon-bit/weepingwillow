@@ -186,7 +186,7 @@ Running in parallel, six chapters follow Iris Vale before any of it: intact, fee
 4. **Nobody explains the name.** Not once, by anyone.
 5. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
 
-**Current state:** `chapter_review.md` is empty. Next action is drafting Ch1 — Intake.
+**Current state (2026-08-04):** Ch1 — Intake approved and saved to `chapters-book2/01-intake.md` (3,286 words), As Written block added. **Ch2 — Recovery is drafted in `chapter_review.md` (3,012 words) and awaiting author proofread.** On approval: save to `chapters-book2/02-recovery.md`, add the As Written block to the Ch2 brief, then draft Ch3 — Sessions.
 
 ---
 
@@ -242,7 +242,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **Too much action:** "Slow this down. The tension is in proximity, not movement."
 - **Purple prose:** "Simpler language. Observations, not performances."
 - **Fragmented / staccato prose (CRITICAL):** "Stop writing in single-line fragments as default. Descriptions and environments need full, joined, varied sentences. Fragments are emphasis only. If a page reads like a list, rewrite it."
-- **Run-on comma chains (CRITICAL, the overcorrection):** "Stop using ', and X, and Y, and Z' as the default connector. Chained clauses are one rhythm repeated, which is the same failure as fragmentation from the other direction. Break them with periods, subordination, and participial phrases. Vary the connector." Found in the Ch1 draft at up to 6 commas and 5 conjunctions in one 85-word sentence. **Screen for it: flag any sentence with 3+ commas, 3+ instances of "and," or 45+ words, then justify or fix each one.** Legitimate survivors are colon-introduced lists, serial verbs, deliberate accumulation, and dialogue where a character is genuinely spilling.
+- **Run-on comma chains (CRITICAL, the overcorrection). Screen WHILE drafting, not after.** The Ch2 first draft came in with 10 sentences over the conjunction threshold, one chapter after this gate was written down, because the screen was run as a post-pass instead of applied at the sentence. Watch the connector as each sentence is built. "Stop using ', and X, and Y, and Z' as the default connector. Chained clauses are one rhythm repeated, which is the same failure as fragmentation from the other direction. Break them with periods, subordination, and participial phrases. Vary the connector." Found in the Ch1 draft at up to 6 commas and 5 conjunctions in one 85-word sentence. **Screen for it: flag any sentence with 3+ commas, 3+ instances of "and," or 45+ words, then justify or fix each one.** Legitimate survivors are colon-introduced lists, serial verbs, deliberate accumulation, and dialogue where a character is genuinely spilling.
 - **"It's not X, it's Y" framing:** "Retired. State the affirmation directly. Don't set it up with negations."
 - **"Wrong"/"off" as shorthand:** "Show the specific discrepancy. The reader names the wrongness, not the prose."
 - **AI-writing tics:** "Read `03-themes-and-tone.md` → PROSE HARD RULES. Strip every tic. Replace with direct observation."
