@@ -50,7 +50,7 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 |----|-------|-----|------|-------|-------|--------|
 | **ACT I — THE PROGRAM** | | | | **23,400** | | |
 | 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,286 | DONE |
-| 2 | Recovery | Iris | Yr −6 | 3,200 | DRAFT 3,012 | awaiting proofread |
+| 2 | Recovery | Iris | Yr −6 | 3,200 | DONE 2,855 | DONE |
 | 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
 | 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
 | 5 | The Water | Marin | Yr −5.2 | 3,200 | — | — |
@@ -84,9 +84,15 @@ Audit passes: brief compliance, tone, character voice, continuity, PROSE HARD RU
 
 Author edits on the draft: Terri Boisvert renamed **Terri Roth**; Raman's name cut from the "can you see it" exchange (he is now first named in Ch3); "Oh good, so you've thought about it" trimmed to "Oh good"; several small tightenings.
 
-**Ch2 — Recovery** · drafted 2026-08-04 · in `chapter_review.md` · 3,012 words · awaiting proofread
+**Ch2 — Recovery** · approved 2026-08-06 · `chapters-book2/02-recovery.md` · 2,855 words
 
 Iris intact: the flooded sub-level job, the refusal to power or dry the wet drives, the bridge tripping at ninety minutes, R. Oyelaran's ignored maintenance notes, then the diner and the call with Lena. Clean on the hard rules (0 sentences with 3+ conjunctions, 0 over 45 words, avg 11.1). Ran a specific scan for Book 1 register leaking into intact-Iris prose ("she noted," "she registered," "Expected/Observed," "the absence of") with zero hits.
+
+Author edits on the draft: thirteen cuts, 3,012 → 2,855. Every one removed a sentence or clause that explained the image preceding it. Two were hard-rule violations the draft screen missed — "cold with the ordinary cold of a room rather than the cold of something that had died in one" (contrast framing plus a dread nudge in the one chapter most gated against it) and a labeled voice description for Lena. The eggs were cut, taking with them a post-call beat that underlined the regret. Also removed the book title line from the top of the file, which `build-manuscript.js` supplies at build time; chapter files start at the chapter heading, as Ch1 does.
+
+**Screen note for later chapters:** the draft's failure mode here was not fragmentation or run-ons, both of which passed clean. It was **the trailing explanatory sentence** — a good image followed by a line telling the reader what to make of it. It survives a mechanical screen because the sentences are well formed and varied. Check for it by reading each paragraph's last sentence alone and asking whether the paragraph is complete without it.
+
+**Length note:** 2,855 against a 3,200 brief target. The cuts were correct and nothing was restored. Act I now stands at 6,141 across two chapters against a 23,400 target; not a concern yet, but if the pattern holds through Ch3–Ch7 the book will land nearer 63,000 than 70,000. Watch it at the end of Act I rather than padding individual chapters.
 
 **Process note:** the first Ch2 draft had 10 sentences over the conjunction threshold, one chapter after that gate was established, because the screen was being run as a post-pass rather than applied while writing. Corrected in the rewrite. The gate now says to screen during drafting.
 

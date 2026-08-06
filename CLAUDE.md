@@ -186,7 +186,7 @@ Running in parallel, six chapters follow Iris Vale before any of it: intact, fee
 4. **Nobody explains the name.** Not once, by anyone.
 5. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
 
-**Current state (2026-08-04):** Ch1 — Intake approved and saved to `chapters-book2/01-intake.md` (3,286 words), As Written block added. **Ch2 — Recovery is drafted in `chapter_review.md` (3,012 words) and awaiting author proofread.** On approval: save to `chapters-book2/02-recovery.md`, add the As Written block to the Ch2 brief, then draft Ch3 — Sessions.
+**Current state (2026-08-06):** Ch1 — Intake (3,286 words) and Ch2 — Recovery (2,855 words) approved and saved to `chapters-book2/`, As Written blocks added. **Next: draft Ch3 — Sessions (Marin/Virek, Yr −5.8, 3,800) into `chapter_review.md`.** `chapter_review.md` is empty and ready.
 
 ---
 
@@ -247,6 +247,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **"Wrong"/"off" as shorthand:** "Show the specific discrepancy. The reader names the wrongness, not the prose."
 - **AI-writing tics:** "Read `03-themes-and-tone.md` → PROSE HARD RULES. Strip every tic. Replace with direct observation."
 - **Duplicate reflection blocks:** "Don't repeat internal monologue verbatim across chapters. Compress or evolve the callback — one sentence."
+- **The trailing explanatory sentence (found in the Ch2 draft, 2026-08-06).** A good image followed by a line telling the reader what to make of it: the van parked facing out, then a sentence explaining why you park facing out; the weather in the next paragraph, then "The weather had turned while she was under it" in front of it. Thirteen of these came out of Ch2 in the author's pass. **It passes every mechanical screen** — the sentences are well formed, varied, and not run-ons — which is why it has to be checked by hand. **Screen for it: read the last sentence of each paragraph alone and ask whether the paragraph is finished without it.** If it is, cut it. The related failure is the trailing clause on an otherwise clean sentence ("...a burst main, and the proof was in a basement under a foot of water").
 
 ### Book 2 (prequel) specific
 
