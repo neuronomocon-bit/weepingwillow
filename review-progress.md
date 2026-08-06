@@ -51,7 +51,7 @@ Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book
 | **ACT I — THE PROGRAM** | | | | **23,400** | | |
 | 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,286 | DONE |
 | 2 | Recovery | Iris | Yr −6 | 3,200 | DONE 2,855 | DONE |
-| 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | — | — |
+| 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | DRAFT 3,387 | awaiting proofread |
 | 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
 | 5 | The Water | Marin | Yr −5.2 | 3,200 | — | — |
 | 6 | Closure (ACT I TURN) | Marin | Yr −5.1 | 3,000 | — | — |
@@ -97,6 +97,22 @@ Author edits on the draft: thirteen cuts, 3,012 → 2,855. Every one removed a s
 **Process note:** the first Ch2 draft had 10 sentences over the conjunction threshold, one chapter after that gate was established, because the screen was being run as a post-pass rather than applied while writing. Corrected in the rewrite. The gate now says to screen during drafting.
 
 **Run-on pass (Ch1, where the gate was added).** The first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence. 18 sentences rewritten, plus one genuine comma splice fixed. Final: 0 sentences with 3+ "and," 8 with 3+ commas (all colon lists or serial verbs), 3 over 45 words (all deliberate), average 11.1 words. **This failure mode is now screened on every chapter** and is documented in `03-themes-and-tone.md` and CLAUDE.md drift corrections.
+
+**Ch3 — Sessions** · drafted 2026-08-06 · in `chapter_review.md` · 3,387 words · awaiting proofread
+
+Sessions one through four from the observation side, then the substrate lab. Marin discloses the family observation to Dr. Feld in advance per the protocol paragraph she wrote herself, and Feld says "You'll hate it" and starts the session. Session three is the success: Willow reaches the end of the account for the first time in nine years, in order, past tense, correcting one date and carrying on. **The trauma is not narrated** — only the shape of the account — per the Ch1 lock. Marin times it and writes eleven minutes and forty seconds into the observation column.
+
+**New names:** **Dr. Feld**, Willow's treating clinician. Thorough, slow, hard to rush, cold on paper and warm in person. Marin vetted her improperly before the first session and the chapter says so. **Raman** is named for the first time, per the Ch1 As Written note that he is held back from Ch1.
+
+**Operational parameters established as furniture** (all three matter later): flush window ninety minutes; residual coherence tolerance 2% of session load; model predicts under 0.1%. Virek's shelf sits at 0.4% across nineteen sessions. Exclusions run in order: sampling head swap, manual flush, clean cycle with no patient material. Limiter green, no integration events. **Autonomy at two**, so nothing holds structure between sessions. Raman sets a review threshold at 1%.
+
+**Raman's answer is correct and the prose lets it be.** The model was fitted on the veterans' cohort at a third to a half of current session loads; expansion cases run heavier; a load-dependent tail treated as fixed produces a shelf. It explains the observation, names a mechanism, makes a testable prediction, and does not ask anyone to pretend the shelf is not there.
+
+Screens: 0 sentences over 45 words, 8 with 3+ conjunctions (serial verbs or deliberate accumulation), avg 12.1. Clean on em dashes, exclamations, AI tics, "the kind of," labeled silences, "wrong/off," hedges.
+
+**The trailing-explanation gate earned its place on first use.** Four cuts, including "and she had a pen in her hand and nowhere else to put any of it," which was the prose pointing at Marin's tell that the bible says must never be pointed at. The most serious catch was in the Raman paragraph: "Marin thought so **at the time** and would have said so if anybody had asked her." Both halves point forward and signal that this gets revisited, which is dramatic irony in the prose and is banned by name in this chapter's craft note. Cut to "It was a good answer." Also fixed: "in a manner she was not proud of" (banned soft-modifier family), one "it's not X, it's Y" in Virek's dialogue, one comparative "the way."
+
+**Continuity note:** Willow's four o'clock shift is dated "had not been true at Christmas" rather than "four months ago," because four months is the locked interval between treatment and the drowning and should not also mean something else.
 
 **POV totals:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
 

@@ -346,9 +346,9 @@ Disappeared after shutdown. Alive, hiding, worn thin. Found in Book 3.
 - Carries guilt — not for what he did, but for what he didn't stop
 
 ### Arc
-- **Book 2 Ch4:** Raises the substrate residue observation. Told tolerance is tolerance. Accepts it, because there is no second observation to stack on it.
-- **Book 2 Ch13 (his only POV chapter in the series):** Finds the unaccounted integration events and the unlogged autonomy constraint. Escalates to the program director. Is told the program is ending in six months and everything in the substrate is scheduled for termination. Accepts that, because it is a good answer.
-- **Book 2 Ch13, final beat:** Decides to raise it with Marin directly. Sees her in the corridor looking like she is barely holding together. Decides it can wait until she is doing better.
+- **Book 2 Ch3:** Raises the substrate residue observation. Told tolerance is tolerance. Accepts it, because there is no second observation to stack on it.
+- **Book 2 Ch12 (his only POV chapter in the series):** Finds the unaccounted integration events and the unlogged autonomy constraint. Escalates to the program director. Is told the site is consolidating and everything in the substrate is scheduled for termination when the wind-down completes next spring. Accepts that, because it is a good answer.
+- **Book 2 Ch12, final beat:** Decides to raise it with Marin directly. Sees her in the corridor looking like she is barely holding together. Decides it can wait until she is doing better.
 - **Book 3 Ch10:** A trace in the recovered data. Breadcrumbs left deliberately, structured for someone who would understand them.
 - **Book 3 Ch12:** Found. Delivers a partial, slightly inaccurate account like a deposition, and supplies the one thing Book 3 needs: the system requires coherence.
 
