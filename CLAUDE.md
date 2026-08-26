@@ -201,13 +201,20 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ---
 
-## WHERE WE LEFT OFF (2026-08-26)
+## WHERE WE LEFT OFF (2026-08-26, second session)
 
-**The last session was a full arc re-examination. Book 2 and Book 3 were restructured. No prose was written.**
+**All 22 Book 2 briefs are written. Drafting can start at Ch1. No prose was written this session.**
 
-**Read first:** `series-bible/13-arc-revision.md` — seven decisions, with the reasoning. Then `series-bible/06-book2-outline.md`.
+**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter that carries three things the drafting depends on (the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize). Behind it: `13-arc-revision.md` for the seven decisions and `06-book2-outline.md` for the structure.
 
-**Decisions made:** Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · the ending is the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous.
+**Decisions from the earlier session, all still in force:** Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · the ending is the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous.
+
+**Decisions made while writing the briefs:**
+- **The investigation spine.** Kade's crates hold two media classes: the research archive (intact, everything filed under research identifiers) and the clinical index that maps identifiers to patients (badly degraded). Iris reads Marin's whole story for eleven chapters with a number where the name should be, and Ch15 is the join resolving. **This is what makes the name found rather than explained.** Ch4's drafted "Can you see it?" exchange is the plant and must be verified as strong enough to carry eleven chapters.
+- **Reallocation.** Seven Recovered chapters cannot hold six years, so Pell, the shutdown, the substrate's growth, the read-only months and the reclassification form moved into Present chapters as facts Iris establishes through her profession.
+- **Ch11 staging.** Caleb calls her — flat, no alarm, because a fact requires reporting. She drives, arrives after, and **he is still alive and completely emptied.** He answers questions about his own ending until he stops.
+- **Ch20's source.** Marin left a record before she went down, because documenting is the one thing she always did except for the two parameters she didn't. It licenses Ch20 and it is what Iris reads in Ch21.
+- **Ch6 and Ch11 are two different escalations** — the dose and the return — discovered in that order and never conflated.
 
 **Drafted prose — disposition:**
 | File | Words | Status |
@@ -227,7 +234,20 @@ Neither portable chapter has been moved or renumbered yet. `chapter_review.md` s
 6. **Update `02-characters.md`** — Rourke is wrongly marked "Not present in Book 2," Caleb needs a death, Willow needs the satisfaction drive and the resolving face, Marin needs re-pointing to the seven Recovered chapters.
 7. **Update `10-subplot-threading.md` and `11-key-dialogue-notes.md`** — both keyed to the old structure.
 
-**Two things still open:** whether "The Keeping" is still the right title for a sequel (retained provisionally), and whether Lena stays untouched through all of Book 2 or gets targeted before the end.
+**Open questions — current position:**
+1. **"The Keeping" as the title.** Retained. It arguably fits a sequel better: she keeps what she takes, and Book 1's "she chose to keep me" points straight at it. No brief depends on it.
+2. **Does Lena stay untouched through Book 2?** **The briefs say yes,** and Ch9 is written on that basis. Book 3's midpoint partially Takes her and needs her intact to do it. Reversing this moves Ch9, Ch14, Ch21 and Book 3's midpoint.
+3. **Does Iris learn who signed the reclassification form?** Not in Book 2 — the signature is on the degraded index. Available to Book 3, and the kind of thing Virek could tell her.
+
+### ⚠ Book 3's outline is substantially pre-pivot — read before touching Book 3
+
+**The collision.** `07-book3-outline.md` Act I is currently Iris weeks on compensating with notes, Caleb functional and stable, Kade opening the post-shutdown files, and the Virek trace recovered from the Meridian data. **Book 2 now does all four**, and Caleb is dead at its midpoint. **Book 3's entire first act has been absorbed and needs rebuilding** from a new starting position: weeks after *Book 2*, Caleb gone, the origin already recovered, Virek's name already in Iris's hands.
+
+**Also stale in that file:** the ending is still "overload through contradiction / Willow comes apart like a failing system," superseded by the compulsion trap and the water · Iris's fate reads "alive, aware, and mostly gone," which is not the ambiguity Decision 6 requires · a "WHAT CHANGED WITH THE PREQUEL" section describing a retired arc · Virek written as thin, when Decision 4 made him the only living person who could recognize the face.
+
+**What survives untouched:** the irreducible core as drive rather than love or memory · Willow's final philosophy ("I remove what breaks you. What remains is correct") · Kade partially Taken on the page as the consequence of his own attempt · the city's contentment as the horror of Act III · the three things that never get answered.
+
+**Recommendation:** rewrite `07-book3-outline.md` before drafting Book 2 prose. It is the one remaining job that could still force changes back into the Book 2 briefs, and finding that out after ten chapters of prose is expensive.
 
 ---
 
@@ -239,7 +259,7 @@ Picks up weeks after Book 1. Absorbs the escalation material from the retired "H
 
 **Its engine is dramatic irony.** The reader finished the prequel and knows what Willow is. Iris never learns most of it. Do not let the prose reach for the reader's knowledge.
 
-**Ch1 salvage:** `series-bible/archive/DRAFT-hunger-ch01-aftermath.md` matches the new Book 3 Ch1 brief almost exactly and is reusable with light edits. It runs ~1,500 words and wants expansion.
+**~~Ch1 salvage~~ — CLAIM WITHDRAWN 2026-08-26.** `archive/DRAFT-hunger-ch01-aftermath.md` belongs to **Book 2 Ch1**, which is the book that now opens weeks after The Absence. Book 3 opens weeks after *Book 2* and needs a different chapter. See the Book 3 warning above; this whole section predates the pivot.
 
 ## How to Review a Chapter
 
