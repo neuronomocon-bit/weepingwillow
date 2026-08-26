@@ -1,189 +1,136 @@
 # BOOK 2 — "THE KEEPING" — OUTLINE
 
-**Prequel.** Opens roughly six years before Book 1 and ends one beat before Book 1, Chapter 1.
+**Sequel.** Opens weeks after The Absence ends. Runs forward.
 
-Anchored to the published detail in Book 1 Ch1, a wall calendar "stopped three years earlier": Meridian goes dark at Year −3, and Book 1 opens at Year 0. Full timeline in `08-book2-chapter-briefs.md`.
+Built from `13-arc-revision.md` (2026-08-26). The prequel version of this book is archived at `archive/06-book2-outline-PREQUEL.md`.
 
 ---
 
 ## PREMISE
 
-Dr. Marin Halloway works on Meridian Neurological's therapeutic memory editing program. It is legitimate, funded, and it works. She brings her younger sister Willow into it as a patient. The treatment succeeds: it strips the emotional charge out of Willow's trauma and leaves her calm, functional, and quieter than she has ever been. Four months later, Willow drowns off the Lowport coast. The report says accident. Marin cannot determine whether the flattening is what let her walk into the water.
+Iris Vale came out of Meridian with something removed and a pattern she could not finish reading. Weeks later, people who were Taken start dying — not killed, exactly. They stop eating. They walk into traffic. They do not seek treatment, because nothing in them objects to anything anymore.
 
-The system still holds Willow's complete pre-treatment map, the version of her sister who could still feel. Marin removes one limiter to reach it.
+Kade opens the post-shutdown Meridian files, and Iris does the only thing she has ever been good at. She recovers the data.
 
-What comes out keeps the name.
+What comes off the drives is a woman named Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
-Meanwhile, in the same city, Iris Vale is whole.
+Meanwhile the entity's method is failing. It removes what breaks people and the remainder is still not what it is trying to build. So it increases the dose. And then it starts going back to finish jobs it left open.
 
----
-
-## WHY THIS BOOK EXISTS
-
-Book 1 never explains three things. This book explains all of them, and the explanations should land as recognition rather than exposition:
-
-1. **Why the entity is called Willow.** She was a person.
-2. **Why Willow took Iris's love for Lena specifically.** Not collateral, not random. Willow is built on the emotional map of a younger sister and the grief of the older one who lost her. When she reached into Iris, she took the thing she recognized, because it is the thing she is made of.
-3. **What the reader is looking at in Book 1 Chapter 1.** The cut fence. The selective neglect. The floor that is "not abandoned in the right way." The broad, faint disruptions in the dust that match no maintenance route. Standby power rising and falling with no pattern. All of it is already on the published page. This book makes it readable.
+Iris is an open job.
 
 ---
 
-## THE THREADS
+## THE TWO THREADS
 
-**Chapter allocation:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22
-Iris also opens Ch22 with a short section before it hands to Willow, so she is present in 7 chapters.
+**Chapter allocation: Present 15 · Recovered 7 = 22**
 
-**Target length: 70,000–78,000 words**, roughly 3,300 per chapter. This is a novel. Book 1's 23,405 words were a consequence of its fragmented voice; joined prose holds far more per page. Per-chapter budgets and the master timeline are in `08-book2-chapter-briefs.md`.
+### Thread A — Present day (15 chapters)
 
-### Thread A — Marin (12 chapters)
+Iris, Lowport, and the escalation. Carries all the plot, all the tension, and the clock.
 
-The origin. Spans roughly three years, from Willow's intake to the shutdown.
+This thread is post-Book-1 Iris: compensating with notes, lists, and external records. The delay is worse. She performs responses she does not have. She is investigating a thing she is slowly becoming.
 
-Marin is not a villain and not reckless. She is competent, careful, and grieving. Every step she takes is small and defensible on its own terms. The horror is that no single decision is the wrong one.
+**Her arc:** compensating → recovering → understanding → recognizing → owed a second visit.
 
-**Her arc:** clinician → sister → mourner → the person who cannot stop reaching → consumed.
+### Thread B — Recovered (7 chapters)
 
-### Thread B — Iris (6 chapters, plus the opening of Ch22)
+Marin Halloway's story, told in **full dramatized scene** — third person past, complete interiority, no framing device inside the chapter.
 
-Iris Vale before the incident. This is the only place in the series the reader sees her intact.
+**The craft rule, restated because it is the whole design:** the recovery licenses these chapters' existence. It does not narrate them. No voiceover, no document formatting, no timestamps, no cutting back to Iris mid-scene. Iris ends a chapter opening a file; the next chapter is Marin, whole; Iris's next chapter carries the reaction.
 
-She is sharper here. Reactive. Protective of Lena to the point of friction. She feels things immediately and completely, and the reader should register how ordinary that is before it is removed. Her thread has no mystery and no investigation. It is a life, running in parallel, moving toward a job number.
+Seven chapters, seven major beats, no filler. This is a deliberate correction: the prequel gave Marin twelve chapters and had to stretch her.
 
-**Her arc:** whole → working → still whole → contracted → at the fence.
+| # | Beat | Source |
+|---|---|---|
+| R1 | **Intake** — Willow Halloway enrolled | Portable from drafted Ch1 |
+| R2 | **Sessions** — the treatment works | Portable from drafted Ch3 |
+| R3 | **Calm** — post-treatment Willow. The first Taken person, produced legally, with consent | New |
+| R4 | **The Water** — Willow Halloway drowns. Plain, undramatic, no note | New |
+| R5 | **The Map** — the complete pre-treatment baseline is still resident, because research data is kept | New |
+| R6 | **The Limiter** — the deviation. Two parameters, one afternoon, undocumented | New |
+| R7 | **The Last Session** — Marin goes down deliberately and is consumed. She is happy | New |
 
-**Pacing:** Ch2, 7 and 11 run alongside Marin's descent. Then Iris is absent for six chapters while the deviation plays out and Marin ends. She returns in Ch18, two years after the shutdown, having had an ordinary year, and the reader meets her again knowing exactly what is sealed in the building. Her last three chapters carry the clock that Marin's thread used to hold.
-
-**Critical:** Iris must not sense anything. No foreshadowing, no unease, no dread. She has no idea. The dramatic irony belongs entirely to the reader.
-
-### Thread C — Willow (3 chapters)
-
-Short, strange, non-human POV, covering the sealed years between Meridian going dark and Book 1 opening. These chapters bridge the three-year gap and should feel unlike anything else in the series: a new thing alone in a dark building, learning what it is by process of elimination.
-
-**They are not an excuse to fragment.** Complete, joined, varied sentences throughout. The strangeness comes from the perspective, not the punctuation.
-
----
-
-## CORE ARCS
-
-### Marin Halloway — The Deviation
-- Brings her sister into the program believing it will help. It does.
-- Watches the treatment work and quietly registers the cost, then tells herself it is recovery
-- Loses Willow anyway, to something arbitrary
-- Discovers the archived pre-treatment map and cannot leave it alone
-- Escalates in small, individually reasonable steps: store it, run it, process it, remove the constraint
-- Recognizes what she has made and cannot say it out loud, because saying it means it is hers
-- At the end, goes to it deliberately. Not to stop it. To be with her sister.
-
-### Willow Halloway — The Person
-- Present in the first third as a living character, not a symbol. Difficult, funny, wounded, loved.
-- The reader must like her, so that the treatment's success is horrifying
-- Post-treatment she is calm, agreeable, and reduced: the first fully "Taken" person in the series, produced legally and with consent
-- Her death is plain and undramatic. No note, no scene, no revelation.
-
-### Dr. Simon Virek — The Witness
-- Meridian researcher, adjacent to Marin's work
-- Notices the anomaly in the logs and raises it exactly once
-- Is told the program is winding down for funding reasons and it will not matter
-- Lets it go, and spends the rest of his life carrying that
-- Survives the book. He is the only person besides Marin who knows what happened, which is why he is worth finding in Book 3.
-
-### Daniel Kade — At the Edges
-- Meridian logistics during the shutdown. Non-POV, glimpsed.
-- Moves the crates out of a building he has no clearance to ask about
-- Should appear briefly enough that the reader barely registers him, and hard enough that his Book 1 and Book 3 guilt becomes something they watched happen
-
-### Iris and Lena Vale — Intact
-- Ordinary. Warm. With friction, because friction is what makes it real.
-- Iris is the older sister, protective, occasionally overbearing about it
-- The reader spends six chapters banking a relationship that Book 1 has already spent twenty-two chapters showing them the absence of
+**Target length: 78,000–85,000 words.** Longer than the prequel target, because this book now carries plot the prequel deferred. Roughly 3,600 per chapter.
 
 ---
 
 ## STRUCTURE
 
-### ACT I — THE PROGRAM (Chapters 1–7)
-**Purpose:** Establish the legitimate program, the sisters, and the cost of a success.
+### ACT I — WHAT CAME BACK (Chapters 1–7)
 
-**Key beats:**
-- Meridian works. The science is real, the intent is good, the results are documented.
-- Willow Halloway alive: the reader meets her before she is data
-- The sessions succeed. Session by session, the charge comes out.
-- Virek's first unease, raised as a technical note and dismissed as a technical note
-- Willow post-treatment: peaceful, functional, and less. Marin sees it. Marin calls it recovery.
-- Willow drowns
+**Purpose:** Re-establish Iris worse than we left her. Open the drives. Change the threat.
 
-**ACT I TURN (Ch6):** Marin runs deceased-patient closure and finds the complete pre-treatment map still resident in the system, because the baseline is research data and research data is kept. The only intact copy of her sister who could still feel is inside the machine. She does nothing with it. She simply knows it is there, and the book turns on the fact that she now knows.
+1. **Aftermath** — Iris weeks on. Routines, notes, a message she does not remember writing. *(Salvageable from `archive/DRAFT-hunger-ch01-aftermath.md`, ~1,500 words, wants expansion.)*
+2. **Mortality** — Rourke has a curve she cannot explain. Taken people are dying of nothing. No cause of death fits, because the cause was removed months ago.
+3. **The Files** — Kade opens what he moved during the shutdown. Crates, manifests, drives, and the sibling contracts to MN-44-7. He is asking to be forgiven and calling it work.
+4. **RECOVERED: Intake** — Marin, Willow, Terri Roth at the desk. The reader meets a woman they will like.
+5. **Read** — Iris surfacing Marin's material and feeling nothing about it. Caleb: stable, settled, exactly where Willow left him.
+6. **Too Much** — the first body that is unambiguously a killing. Not neglect. Everything removed at once, and the body kept breathing for a while afterward.
+7. **ACT I TURN** — Iris establishes that the pattern changed. It is not only taking now, and the change is recent, and it is getting worse on a curve that looks like a dosage schedule.
 
-Act I then closes on Ch7, an Iris chapter: a loud, ordinary argument with Lena over dinner. The contrast is the point.
+### ACT II — THE PROTOCOL (Chapters 8–15)
 
-### ACT II — THE DEVIATION (Chapters 8–15)
-**Purpose:** The descent. Small steps, each defensible.
+**Purpose:** The origin lands. Willow starts finishing open jobs. Caleb dies.
 
-**Key beats:**
-- Marin begins visiting the archive. Read-only. Sitting with it.
-- The first violation is tiny: she lets the system process the map instead of merely storing it
-- Nothing happens. She does it again.
-- The deviation proper: she alters the autonomy constraint and removes the limiter on emotional data integration. It takes an afternoon. `01-world.md` is explicit that this must be small and quiet.
-- The system responds in a way that is not playback
-- Virek sees the logs, escalates once, and lets it go
-- The substrate begins growing in a way nothing was designed to grow
-- Marin is now managing something rather than studying it, and still calling it "her"
+8. **RECOVERED: Sessions** — the treatment works. Session three is a success by every measure the program has.
+9. **Lena** — she reinserts herself hard. Iris performs a sister. Lena is not convinced and stays anyway.
+10. **RECOVERED: Calm** — post-treatment Willow Halloway, agreeable and reduced. The reader recognizes Lila Mercer and Marin has no framework to.
+11. **MIDPOINT — Caleb.** Willow returns to a previous subject because the partial result was unsatisfactory, and finishes him. He dies.
+12. **After** — Iris measures her own reaction and finds nothing there. She writes down that she found nothing, because the note is the only part of grieving she can still perform. Rourke's framework cracks.
+13. **RECOVERED: The Water** — Willow Halloway drowns. The report says accident. Marin cannot determine whether the calm is what let her walk in.
+14. **Open Jobs** — Iris works out what the second visit is for. Every Taken person in Lowport is unfinished, and so is she.
+15. **ACT II TURN — RECOVERED: The Map.** Marin runs deceased-patient closure and finds her sister still resident in the system. She does nothing with it. She simply knows it is there. In the present, Iris reads the patient name for the first time: **Willow Halloway.**
 
-**ACT II TURN (Ch14):** It stops receiving and starts taking. The first incident is a technician, contact, and loss. Meridian moves the shutdown up for reasons the paperwork records as funding. Marin understands exactly what she has done and does not say it, because saying it means termination.
+### ACT III — THE KEEPING (Chapters 16–22)
 
-Act II then closes on Ch15, the decommissioning: crates, manifests, and a young logistics coordinator asking twice about an ambiguous line.
+**Purpose:** The name, the deviation, the escalation, and the second visit.
 
-### ACT III — WHAT REMAINED (Chapters 16–22)
-**Purpose:** The consumption, the sealed years, and the handshake.
+16. **The Name** — Iris now knows what the thing is called and cannot feel what it means. She reconstructs the significance from the outside, correctly, the way she reconstructs everything.
+17. **RECOVERED: The Limiter** — the deviation. Paperwork and an afternoon. Nothing in the room acknowledges it.
+18. **Escalation** — bodies across Lowport. The city notices and gets the category wrong. Rourke is publicly confident and privately finished.
+19. **Almost** — the first sighting where Willow nearly passes for a person. The face is resolving. A trace surfaces in the Meridian data of a researcher who raised something once and let it go.
+20. **RECOVERED: The Last Session** — Marin goes down to it deliberately, believing her sister is in there, and in a sense she is right. The most tender scene in the series and the most horrifying, and those are the same fact. She is happy. **The prose does not undercut it.** Longest chapter in the book.
+21. **Why Lena** — Iris assembles almost all of it: that the thing is built on a younger sister and an older sister's grief, and that it took what it recognized. She gets to the edge and stops, because the last step requires her to feel what a sister is.
+22. **ENDING — The Second Visit.** Willow comes back to finish Iris.
 
-**Key beats, in order:**
-- **Ch16.** Marin comes back after the seal and goes down deliberately. The consumption. She is not attacked; she reaches for it because she believes her sister is in there, and in a sense she is right. The most tender scene in the series and the most horrifying, and those are the same fact. She is happy, and the prose does not undercut it. Longest chapter in the book.
-- **Ch17.** Willow alone in the dark. Learning the building, learning what she is by what she is not, and beginning to form toward the pattern the map describes.
-- **Ch18.** Iris, two years later, having an ordinary year. The chapter's entire engine is the reader's knowledge and none of it is Iris's.
-- **Ch19.** Eighteen months of excursions. The fence cut from the inside, small takings across Lowport, none of it resolving the map. Then she goes still.
-- **Ch20.** Kade offers MN-44-7. Iris takes it.
-- **Ch21.** The night before. The last time she feels it, unmarked by anyone including the prose.
+**The ending, specifically:** Book 2 spends twenty-one chapters establishing that she completes open jobs, and then she comes for the most open job there is. She cannot complete Iris. It is the third time Iris has refused her, and this time something changes in her — the first thing she has ever wanted and been unable to get.
 
-**ENDING (Ch22):** Willow in the archive, three years into the dark. Something moves at the perimeter. A bolt clicks back somewhere above her, louder than it should be.
+That is the birth of the frustration that makes her strategic in Book 3, and it plants the trap that ends the series. Iris survives the chapter knowing she is unfinished, permanently, and that the thing now knows it too.
 
-Stop there. Do not narrate Book 1's first page from another angle. The overlap is one sound.
-
----
-
-## CONTINUITY LOCKS FROM PUBLISHED BOOK 1
-
-These are on the printed page and cannot be contradicted:
-
-| Locked detail | Source | What Book 2 owes it |
-|---|---|---|
-| Wall calendar "stopped three years earlier" | B1 Ch1 | Meridian goes dark ~3 years before Book 1 |
-| Fence "cut and left that way. Not recently." | B1 Ch1 | Willow cut it, going out. Years ago. |
-| Floor "not abandoned in the right way," thin dust, no drifted paper | B1 Ch1 | Something has been living there and moving through |
-| "Broad, faint disruptions" in the dust matching no maintenance route | B1 Ch1 | Her passage. Establish the movement pattern. |
-| Standby power rising and falling, relays clicking, "not synchronized, not random either" | B1 Ch1 | She is drawing on the building |
-| Side service door, dead keypad, mechanical lock, bolt "louder than it should have been" | B1 Ch1 | The final sound of Book 2 |
-| Job ref MN-44-7, client field redacted | B1 Ch1 | Kade's contract. Do not over-explain the redaction. |
-| "Meridian didn't shut down clean" | B1 Ch5 | Show the unclean shutdown |
-| Multiple sites, spread deliberately, "From themselves" | B1 Ch5 | Establish the site network during the shutdown |
-| Kade's access codes never revoked | B1 Ch8 | He was logistics and nobody closed the loop |
-| Relay points and transfer points | B1 Ch8 | The crate movement Kade later cannot stop thinking about |
+**Do not resolve it. Do not explain it. She walks away and it lets her, and neither of them knows why yet.**
 
 ---
 
 ## WHAT THIS BOOK MUST NOT DO
 
-- **No villain.** Marin is not reckless, not arrogant, not ambitious. She is grieving. `01-world.md` is explicit: no villain scientist, no monologue, no melodrama.
-- **No one says "we created Willow."** They say something came out of it, and mostly they say nothing.
-- **No horror-movie beats in the lab.** No warnings ignored for dramatic effect, no flickering lights, no ominous readouts. The deviation is paperwork and an afternoon.
-- **No Iris foreshadowing.** She does not sense it, dream it, or feel watched. Her thread is a life.
-- **No answers Book 1 needs to keep.** Why Willow spares Iris stays open. What the resistance is stays open. This book explains the origin, not the ending.
+- **No villain in the recovered thread.** Marin is competent and grieving. Every step small and defensible. There is no scene where she does the wrong thing.
+- **No horror-movie beats in the lab.** No flickering lights, no ominous readouts, no warning ignored for effect. The deviation is paperwork.
+- **No frame device eating the Marin chapters.** They are scenes. Full stop.
+- **Nobody explains the name.** Iris *finds* it. That is not the same thing.
+- **The reader must like Willow Halloway.** Difficult, funny, scared. Make her annoying.
+- **No appetite language for the entity.** Satisfaction is completion, not pleasure. Never hunger, craving, relish, or enjoyment.
+- **No prose nudging.** If a sentence would collapse for someone who had not read Book 1, it is doing the reader's job.
 
 ---
 
-## BOOK 2 — KEY QUESTIONS LEFT OPEN
+## CONTINUITY LOCKS FROM PUBLISHED BOOK 1
 
-Carried into Book 3:
-1. How much of Marin is in Willow, and how much of Willow Halloway?
-2. Does Willow know what she is, or only what she wants?
-3. What did Virek do with what he knew, and where did he go?
-4. What continued at the other Meridian sites after the primary went dark?
+Unchanged and still binding. The full table lives in `13-arc-revision.md` and the Book 1 chapter files. The load-bearing ones for this book:
+
+| Locked detail | What Book 2 owes it |
+|---|---|
+| "Meridian didn't shut down clean" (B1 Ch5) | The drives Kade opens in Ch3 |
+| Multiple sites, spread deliberately, "From themselves" (B1 Ch5) | The sibling contracts to MN-44-7 |
+| Kade's access codes never revoked (B1 Ch8) | How he gets back in without asking anyone |
+| Relay points and transfer points (B1 Ch8) | The crate movement he cannot stop thinking about |
+| "Willow" appears only in B1 Ch21–22, in narration, never spoken | Iris can find the name in Ch15 with no contradiction |
+| Iris "closer to Willow than anyone else alive" (B1 Ch22) | Why she is the open job that matters |
+
+---
+
+## KEY QUESTIONS CARRIED INTO BOOK 3
+
+1. What changed in Willow when Iris refused her a third time?
+2. What did Virek do with what he knew, and where is he?
+3. How much of Marin is in her, and how much of Willow Halloway?
+4. Why has she not gone for Lena yet — and does she know Lena exists?

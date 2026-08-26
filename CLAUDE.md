@@ -4,14 +4,22 @@
 
 A horror/sci-fi novel series called **Weeping Willow**. First three books:
 - **Weeping Willow: The Absence** (Book 1) — published
-- **Weeping Willow: The Keeping** (Book 2) — **prequel**, in planning
+- **Weeping Willow: The Keeping** (Book 2) — **sequel**, in planning
 - **Weeping Willow: The Silence** (Book 3) — planning
 
-Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for future books.
+Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for future books, and Book 3's ambiguous ending is written to hold that door open.
 
-**Reading order is publication order.** Chronological order is The Keeping → The Absence → The Silence.
+**Reading order is publication order, and chronological order now matches it:** The Absence → The Keeping → The Silence.
 
-**Arc pivot (2026-08-04):** Book 2 was formerly "The Hunger," a direct sequel. It is now a prequel that dramatizes Willow's origin and ends one beat before Book 1's first page. Book 3 — The Silence absorbs the escalation material and carries through to the destruction. The superseded arc (both outlines, both sets of 22 briefs, the old threading and dialogue docs, and the unapproved Hunger Ch1 draft) is preserved in `series-bible/archive/` with a README explaining what moved where.
+### Arc history — read this before changing structure
+
+**First pivot (2026-08-04):** Book 2 was "The Hunger," a direct sequel. It became a prequel dramatizing Willow's origin. The diagnosis was correct — the series' emotional bomb was being *reported* in one chapter of Virek talking in a cabin rather than dramatized.
+
+**Second pivot (2026-08-26) — CURRENT.** The prequel was dropped. Book 2 is a **sequel** again, and the origin is delivered as fully dramatized Marin chapters that Iris **recovers off Meridian's drives**. This keeps the dramatization and discards the prequel's three costs: no forward carry (its entire cast appeared in no other book), dramatic irony as the sole engine across 70,000 words, and a Book 3 left carrying two books of plot.
+
+**The same pivot made Willow a killer.** Full reasoning and all seven decisions are in `series-bible/13-arc-revision.md`. **Read that document before touching Book 2 or Book 3 structure.**
+
+Both superseded arcs are preserved in `series-bible/archive/` with a README explaining what moved where.
 
 ## Workflow
 
@@ -39,9 +47,9 @@ node format-book-v2.js manuscript-book2.md WeepingWillow_TheKeeping.docx
 
 `format-book-v2.js` derives the running header from the manuscript's own title line, so exporting a different book no longer carries the previous book's title in the header.
 
-## Series Bible (COMPLETE)
+## Series Bible
 
-All 12 docs in `series-bible/`:
+Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 material is mid-rebuild after the 2026-08-26 pivot — see the Status column and `13-arc-revision.md`.**
 
 | File | Contents |
 |------|----------|
@@ -50,9 +58,10 @@ All 12 docs in `series-bible/`:
 | `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
 | `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
-| `06-book2-outline.md` | "The Keeping" — prequel structure, the two threads, continuity locks from published Book 1 |
+| `06-book2-outline.md` | "The Keeping" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — spread, selection, confrontation, destruction method, locked specifics |
-| `08-book2-chapter-briefs.md` | 22 chapters, prequel. POV: Marin 12 / Iris 6 / Willow 3 / Virek 1. Master timeline, word budget, continuity spine |
+| `08-book2-chapter-briefs.md` | **DOES NOT EXIST YET.** The prequel version is archived. 22 new briefs need writing against the new outline. |
+| `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot. Authoritative — outlines are rebuilt from it, not patched.** |
 | `09-book3-chapter-briefs.md` | 22 chapters, full scene breakdowns |
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
@@ -156,37 +165,67 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 ---
 
-## Book 2 — "The Keeping" (PREQUEL)
+## Book 2 — "The Keeping" (SEQUEL)
 
-**Status:** Planning complete, drafting not started. Outline in `series-bible/06-book2-outline.md`; 22 chapter briefs in `series-bible/08-book2-chapter-briefs.md`. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **22 chapter briefs still need writing** — the prequel set is archived and `08-book2-chapter-briefs.md` does not currently exist. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
 
-**Premise:** Dr. Marin Halloway works on Meridian's therapeutic memory editing program and enrolls her younger sister **Willow Halloway** as a patient. The treatment works: it strips the emotional charge out of her trauma and leaves her calm, agreeable, functional, and less. Four months later Willow drowns off the Lowport coast. The report says accident, and Marin has no way to determine whether the flattening is what let her walk into the water. The system still holds Willow's complete pre-treatment map, the version that could still feel. Marin removes the integration limiter to reach it. What comes out keeps the name.
+**Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
-Running in parallel, six chapters follow Iris Vale before any of it: intact, feeling, arguing with Lena, taking jobs, until she accepts a contract at a sealed facility on the coast.
+Meanwhile the entity's method is failing. It removes what breaks people and the remainder is still not what it is trying to build, so it increases the dose. Then it starts going back to finish jobs it left open. **Iris is an open job.**
 
-**Threads:** Marin 12 chapters · Iris 6 · Willow 3 · Virek 1 (Iris also opens Ch22)
+**Threads: Present 15 chapters · Recovered 7 = 22**
 
-**Length: 70,000–78,000 words.** This is a novel, not a novella. Roughly 3,300 per chapter, reached through fuller scenes rather than padding. Book 1's 23,405 words were a consequence of its fragmented voice; joined prose holds far more per page. Per-chapter budgets and the master timeline are in `08-book2-chapter-briefs.md`. **A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+**The Recovered thread is the whole design, so get this right:** Marin's seven chapters are **full dramatized scenes** — third person past, complete interiority, no framing device *inside* the chapter. The recovery licenses their existence; it does not narrate them. No voiceover, no document formatting, no timestamps, no cutting back to Iris mid-scene. Iris ends a chapter opening a file, the next chapter is Marin whole, and Iris's next chapter carries the reaction.
 
-**Timeline:** opens Year −6, Meridian goes dark Year −3 (fixed by Book 1 Ch1's "wall calendar stopped three years earlier"), Book 1 opens Year 0.
+Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · The Limiter · The Last Session.**
+
+**Length: 78,000–85,000 words**, roughly 3,600 per chapter. Longer than the prequel target because this book now carries plot the prequel deferred. **A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+
+**Key structural beats:** Caleb Ward dies at Ch11 (midpoint). Iris finds the name "Willow Halloway" at the Act II turn, Ch15. Marin's consumption is Ch20 and is the longest chapter. Ch22 is Willow returning to finish Iris and failing — the third refusal, which produces the frustration that makes her strategic in Book 3.
 
 **What this book explains, and never states:**
-- Why the entity is called Willow
-- Why she took Iris's love for Lena specifically in Book 1 — recognition, not collateral
-- Why she reaches for Lena in Book 3
+- Why the entity is called Willow — Iris **finds** the name, nobody explains it
+- Why she took Iris's love for Lena specifically — recognition, not collateral. Ch21 gets to within one step and stops.
 - What every environmental oddity in Book 1 Ch1 actually is
 
 **Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
 
 **Book 2 hard audit gates (in addition to the standard passes):**
-0. **NO FRAGMENTATION.** Book 1's staccato voice does not carry into Book 2 in any form. Single-line fragment paragraphs are emphasis only, a few per chapter at most. Environmental description, physical sensation, and interiority are written in complete, joined, varied sentences. Highest risk: the three Willow POV chapters (17, 19, 22), where a non-human perspective will tempt fragmentation, and any moment of grief or contact, where the instinct will be to break lines for weight. Read every page aloud. If it reads like a list, rewrite it.
+0. **NO FRAGMENTATION.** Book 1's staccato voice does not carry into Book 2 in any form. Single-line fragment paragraphs are emphasis only, a few per chapter at most. Environmental description, physical sensation, and interiority are written in complete, joined, varied sentences. Highest risk: any Willow-adjacent passage, where a non-human perspective will tempt fragmentation, and any moment of grief or contact, where the instinct will be to break lines for weight. Read every page aloud. If it reads like a list, rewrite it.
 1. **No villainy.** Marin never does the wrong thing in a scene. If a chapter reads like a horror movie about a scientist, it fails.
-2. **No Iris foreshadowing.** Her chapters have no unease, no premonition, no Meridian. She has no idea.
+2. **No frame device inside a Recovered chapter.** They are scenes, not documents. The moment one opens with a timestamp or breaks to Iris mid-scene, the design has failed.
 3. **The reader must like Willow Halloway.**
-4. **Nobody explains the name.** Not once, by anyone.
-5. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
+4. **Nobody explains the name.** Iris *finds* it in Ch15. That is not the same thing, and nobody ever explains it.
+5. **No appetite language for the entity.** Satisfaction is completion, not pleasure — never hunger, craving, relish, enjoyment, or savoring. Pleasure would make her a person who enjoys things; satisfaction keeps her a system.
+6. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
 
-**Current state (2026-08-06):** Ch1 — Intake (3,286 words) and Ch2 — Recovery (2,855 words) approved and saved to `chapters-book2/`, As Written blocks added. **Ch3 — Sessions is drafted in `chapter_review.md` (3,387 words) and awaiting author proofread.** On approval: save to `chapters-book2/03-sessions.md`, add the As Written block to the Ch3 brief, then draft Ch4 — Calm.
+---
+
+## WHERE WE LEFT OFF (2026-08-26)
+
+**The last session was a full arc re-examination. Book 2 and Book 3 were restructured. No prose was written.**
+
+**Read first:** `series-bible/13-arc-revision.md` — seven decisions, with the reasoning. Then `series-bible/06-book2-outline.md`.
+
+**Decisions made:** Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · the ending is the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous.
+
+**Drafted prose — disposition:**
+| File | Words | Status |
+|---|---|---|
+| `chapters-book2/01-intake.md` | 3,286 | **Portable** → Recovered chapter R1 (new Ch4) |
+| `chapters-book2/02-recovery.md` | 2,855 | **Retired** — built on intact pre-Book-1 Iris, who no longer appears. Salvage the flooded sub-level job as a present-day chapter. |
+| `chapter_review.md` (Ch3 — Sessions) | 3,387 | **Portable** → Recovered chapter R2 (new Ch8) |
+
+Neither portable chapter has been moved or renumbered yet. `chapter_review.md` still holds the old Ch3 draft.
+
+**Next work, in priority order:**
+1. **Write the 22 new Book 2 briefs** → `series-bible/08-book2-chapter-briefs.md`. Biggest remaining job.
+2. **Rewrite `07-book3-outline.md`** — new ending (compulsion trap + water), Willow's killer escalation, Virek's changed role (he is the only living person who could recognize her face), and shed whatever Book 2 absorbed.
+3. **Rebuild `review-progress.md`** against the new 22 chapters.
+4. **Update `02-characters.md`** — Caleb needs a death, Willow needs the satisfaction drive and the resolving face, Marin needs re-pointing.
+5. **Update `10-subplot-threading.md` and `11-key-dialogue-notes.md`** — both keyed to the old structure.
+
+**Two things still open:** whether "The Keeping" is still the right title for a sequel (retained provisionally), and whether Lena stays untouched through all of Book 2 or gets targeted before the end.
 
 ---
 
@@ -249,11 +288,14 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **Duplicate reflection blocks:** "Don't repeat internal monologue verbatim across chapters. Compress or evolve the callback — one sentence."
 - **The trailing explanatory sentence (found in the Ch2 draft, 2026-08-06).** A good image followed by a line telling the reader what to make of it: the van parked facing out, then a sentence explaining why you park facing out; the weather in the next paragraph, then "The weather had turned while she was under it" in front of it. Thirteen of these came out of Ch2 in the author's pass. **It passes every mechanical screen** — the sentences are well formed, varied, and not run-ons — which is why it has to be checked by hand. **Screen for it: read the last sentence of each paragraph alone and ask whether the paragraph is finished without it.** If it is, cut it. The related failure is the trailing clause on an otherwise clean sentence ("...a burst main, and the proof was in a basement under a foot of water").
 
-### Book 2 (prequel) specific
+### Book 2 (sequel) specific
 
 - **Marin written as a villain:** "She is not reckless, arrogant, or ambitious. She is competent and grieving. Every step is small and defensible. Rewrite so there is no scene where she does the wrong thing."
 - **The lab scene playing as horror:** "No flickering lights, no ominous readouts, no warning ignored for effect. The deviation is paperwork and an afternoon. Make it almost boring."
-- **Iris sensing something:** "Cut it. She has no idea. No unease, no premonition, no Meridian. Her chapters are a life. The reader supplies all the dread."
+- **The Recovered chapter behaving like a document:** "Delete the frame. No timestamp, no file header, no voiceover, no cutting back to Iris. This is a scene. The recovery licenses it existing; it does not narrate it."
+- **The entity written with appetite:** "She does not hunger, crave, relish, savor, or enjoy. A complete taking registers as completion. She is finishing, not feeding. Rewrite it clinical."
+- **Willow written as cruel:** "She has never intended harm and still does not. She is a researcher increasing a dose that is not working. No malice, no taunting, no relish. The flatness is the horror."
+- **Iris feeling the origin:** "She can reconstruct what Marin felt and cannot feel it. Do not let her grieve on the page. She understands it structurally, correctly, and completely, and nothing arrives."
 - **The prose reaching for the reader's knowledge:** "Delete the nudge. The reader knows what this is. If the sentence would collapse for someone who hadn't read Book 1, it's doing the reader's job for them."
 - **Willow Halloway written as a symbol:** "She's a person. Difficult, funny, scared. Make her annoying. The reader has to like her before she becomes data."
 - **The name explained:** "Cut it. Nobody in this series ever explains where the name came from."
@@ -262,7 +304,11 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 
 ### Book 2 canon (established 2026-08-04)
 
-- **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. Book 2 POV protagonist. Consumed in Ch17. Never named in Books 1 or 3.
+> ⚠️ **The chapter numbers in this section are stale.** They refer to the archived prequel structure. The *facts* below — substrate parameters, character details, the deviation, the name — all remain canon and carry into the new Recovered thread. Chapter numbers get reassigned when `08-book2-chapter-briefs.md` is written. Under the new outline: Intake is Ch4, Sessions is Ch8, Calm Ch10, The Water Ch13, The Map Ch15, The Limiter Ch17, The Last Session Ch20.
+>
+> Marin is no longer the POV protagonist of the book — she is the protagonist of the seven Recovered chapters. Iris carries the other fifteen.
+
+- **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. POV of the seven Recovered chapters. Consumed in the last of them. Never named in Books 1 or 3.
 - **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned four months later, report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
 - **The name:** the entity is called Willow because Willow Halloway was a person. Never explained by anyone in any book. Book 1 uses the name in narration without introduction; Book 3 Ch21 has the entity say "Willow Halloway" once, flat, in passing, never returned to.
 - **The deviation:** two parameters, one afternoon, undocumented. Integration limiter removed, autonomy constraint widened. Marin's justification is coherent: patient deceased, no return path, integration required for full-fidelity rendering, sandbox isolated.

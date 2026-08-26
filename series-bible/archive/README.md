@@ -37,3 +37,37 @@ Material worth reusing rather than rewriting:
 - **Old Book 3's "quiet world" material** (Weston, the acceptance turn, the emotional volatility index) survives as new Book 3 Ch16.
 - **The locked destruction method** (overload through contradiction, the irreducible core) carries forward unchanged.
 - **Old Book 2's case characters** (Enzo, Joe E., Xander) carry forward into new Book 3.
+
+---
+
+# SECOND REVISION — 2026-08-26
+
+The prequel was dropped. Book 2 is now a **sequel** again, with Marin's origin delivered as dramatized chapters that Iris recovers off Meridian's drives.
+
+## Why
+
+The prequel's diagnosis was right — the origin needed dramatizing, not reporting — but it cost three things: no forward carry (its entire cast appears in no other book), dramatic irony as the sole engine across 70,000 words, and a Book 3 left carrying two books of plot. The revision keeps the dramatization and discards the stall.
+
+Full reasoning and all seven decisions are in `../13-arc-revision.md`.
+
+## Also changed
+
+- **Willow becomes a killer.** Her method is failing, so she increases the dose. Escalation ladder across all three books.
+- **Satisfaction, not pleasure.** A complete taking registers as completion; a partial one does not. She is finishing, not feeding.
+- **She resolves physically** toward Willow Halloway's face.
+- **New ending:** the compulsion trap, then the water.
+- **Caleb Ward dies** at Book 2's midpoint.
+- **Iris ends ambiguous.**
+
+## Files added here in this revision
+
+| File | Was |
+|------|-----|
+| `06-book2-outline-PREQUEL.md` | Book 2 outline, "The Keeping" as prequel |
+| `08-book2-chapter-briefs-PREQUEL.md` | 22 chapter briefs, prequel |
+
+## Salvage notes
+
+- **`../../chapters-book2/01-intake.md`** (3,286 w) and the drafted **Ch3 "Sessions"** (3,387 w) are Marin/Meridian scenes and port directly into the new recovered thread as R1 and R2.
+- **`chapters-book2/02-recovery.md`** (2,855 w) is retired — it is built on intact pre-Book-1 Iris, who no longer appears. The flooded sub-level job inside it is worth salvaging as a present-day chapter.
+- `DRAFT-hunger-ch01-aftermath.md` now maps onto **new Book 2 Ch1**, not Book 3 Ch1. Same beat, and it moved forward a book.

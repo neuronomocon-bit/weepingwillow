@@ -1,12 +1,14 @@
 # Book 2 — "The Keeping" — Writing & Review Progress
 
-Arc reset: 2026-08-04
+**Arc reset: 2026-08-26** (second reset; the first was 2026-08-04)
 
 Tracking each chapter of Book 2 from draft through review. Claude drafts each chapter from the briefs in `series-bible/08-book2-chapter-briefs.md` into `chapter_review.md`; the author proofreads/edits. After approval, an "As Written" block is added to the brief and the final is saved to `chapters-book2/`.
 
 Book 1 — "The Absence" is complete and published (2026-05-14). Its review history is preserved in CLAUDE.md and git.
 
-**Book 2 is a prequel.** It ends one beat before Book 1, Chapter 1. The superseded "The Hunger" arc is in `series-bible/archive/`.
+**Book 2 is a sequel.** It opens weeks after Book 1 ends. The origin arrives as seven dramatized Marin chapters that Iris recovers off Meridian's drives. Both superseded arcs — "The Hunger" and the prequel "The Keeping" — are in `series-bible/archive/`.
+
+> **The briefs do not exist yet.** `series-bible/08-book2-chapter-briefs.md` was archived with the prequel and 22 new briefs need writing against `06-book2-outline.md` before drafting can resume. See `13-arc-revision.md` for the decisions they are built from.
 
 ## Conventions Being Enforced
 
@@ -20,7 +22,7 @@ Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** s
    - Full-sentence questions use question marks for ALL characters, including flat-affect
    - Short/tonal probes keep periods: "How." / "Why." / "Where."
    - Dialogue tags: "said" not "asked" for flat-affect characters
-   - **Book 2 note:** Iris, Lena, Marin, and Willow Halloway are all emotionally intact in this book. They use question marks normally. The flat-affect convention applies only to post-treatment Willow Halloway (Ch5 onward) and to Pell after Ch15.
+   - **Book 2 note (CHANGED at the 2026-08-26 reset):** Iris is post-Book-1 and flat throughout this book — the flat-affect convention now applies to her in every present-day chapter. Lena, Kade, and Rourke are warm. In the Recovered chapters, Marin and pre-treatment Willow Halloway are intact and use question marks normally; post-treatment Willow Halloway is flat.
 
 4. **Device/terminal readouts:** inline with colon + italic, not stacked on separate lines
 
@@ -31,89 +33,86 @@ Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** s
 Checked on every chapter of this book in addition to the standard passes:
 
 - **No villainy.** Marin never does the wrong thing in a scene. No hubris, no ignored warning played for effect, no moment where the tone signals its own importance. If a chapter reads like a horror movie about a scientist, it fails.
-- **No Iris foreshadowing.** Her chapters contain no unease, no premonition, no sense of being watched, and no Meridian. She has no idea. The reader does all the work.
+- **No frame device inside a Recovered chapter.** They are scenes, not documents. No timestamps, no file headers, no voiceover, no cutting back to Iris mid-scene.
+- **No appetite language for the entity.** Satisfaction is completion, not pleasure. Never hunger, craving, relish, savoring, enjoyment.
+- **No cruelty.** Willow has never intended harm and still does not. She is increasing a dose that is not working.
 - **The reader must like Willow Halloway.** Check every scene she is in.
-- **Nobody explains the name.** Not once, in any chapter, by anyone.
-- **Continuity locks from published Book 1** (see the table in `06-book2-outline.md`): the cut fence, the dust routes, the uneven power draw, the three-year calendar, MN-44-7, the side door bolt, Kade's live access codes.
+- **Nobody explains the name.** Iris finds it in Ch15. Nobody explains it, in any chapter, ever.
+- **Iris does not feel the origin.** She reconstructs what Marin felt, correctly and completely, and nothing arrives.
+- **Continuity locks from published Book 1** (see the table in `06-book2-outline.md`): "Meridian didn't shut down clean," the deliberately spread sites, Kade's live access codes, relay and transfer points, and the fact that "Willow" appears in Book 1 only in Ch21–22 and only in narration.
 
 ## Length Target
 
-**70,000–78,000 words. This is a novel, not a novella.**
+**78,000–85,000 words**, roughly 3,600 per chapter. A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.
 
-Book 1 ran 23,405 words across 22 chapters because of its fragmented voice. Book 2 targets roughly 3,300 per chapter and gets there through fuller scenes: flowing environmental description, dialogue with real back-and-forth, scenes that play out instead of being summarized. Not padding, and not restated observations.
-
-**A chapter that comes in under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+---
 
 ## Chapter Status
 
-| Ch | Title | POV | When | Words | Draft | Review |
-|----|-------|-----|------|-------|-------|--------|
-| **ACT I — THE PROGRAM** | | | | **23,400** | | |
-| 1 | Intake | Marin | Yr −6 | 3,800 | DONE 3,286 | DONE |
-| 2 | Recovery | Iris | Yr −6 | 3,200 | DONE 2,855 | DONE |
-| 3 | Sessions | Marin/Virek | Yr −5.8 | 3,800 | DRAFT 3,387 | awaiting proofread |
-| 4 | Calm | Marin | Yr −5.5 | 3,000 | — | — |
-| 5 | The Water | Marin | Yr −5.2 | 3,200 | — | — |
-| 6 | Closure (ACT I TURN) | Marin | Yr −5.1 | 3,000 | — | — |
-| 7 | Vale and Vale | Iris | Yr −5 | 3,400 | — | — |
-| **ACT II — THE DEVIATION** | | | | **26,200** | | |
-| 8 | Read-Only | Marin | Yr −5 to −4.6 | 3,200 | — | — |
-| 9 | The Limiter | Marin | Yr −4.6 | 2,800 | — | — |
-| 10 | Response | Marin | Yr −4.5 | 3,400 | — | — |
-| 11 | Sealed Site | Iris | Yr −4.2 | 3,200 | — | — |
-| 12 | What Virek Saw | Virek | Yr −3.9 | 3,000 | — | — |
-| 13 | Growth | Marin | Yr −3.7 to −3.4 | 3,400 | — | — |
-| 14 | It Stops Receiving (ACT II TURN) | Marin | Yr −3.4 | 3,600 | — | — |
-| 15 | Shutdown | Marin | Yr −3.1 | 3,600 | — | — |
-| **ACT III — WHAT REMAINED** | | | | **22,200** | | |
-| 16 | The Last Session | Marin | Yr −3 | 4,200 | — | — |
-| 17 | The Sealed Years | Willow | Yr −3 to −2 | 2,800 | — | — |
-| 18 | Ordinary Time | Iris | Yr −2 | 3,200 | — | — |
-| 19 | Out and Back | Willow | Yr −2 to −0.5 | 3,400 | — | — |
-| 20 | MN-44-7 | Iris | Yr 0, −3 days | 2,800 | — | — |
-| 21 | The Night Before | Iris | Yr 0, −1 day | 3,600 | — | — |
-| 22 | The Bolt (ENDING) | Willow/Iris | Yr 0, morning | 2,200 | — | — |
+| # | Title | Thread | Budget | Draft | Review |
+|----|-------|--------|--------|-------|--------|
+| **ACT I — WHAT CAME BACK** | | | | | |
+| 1 | Aftermath | Iris | 3,400 | — | — |
+| 2 | Mortality | Iris/Rourke | 3,400 | — | — |
+| 3 | The Files | Iris/Kade | 3,600 | — | — |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | PORTABLE 3,286 | needs re-audit |
+| 5 | Read | Iris | 3,600 | — | — |
+| 6 | Too Much | Iris | 3,400 | — | — |
+| 7 | ACT I TURN | Iris | 3,600 | — | — |
+| **ACT II — THE PROTOCOL** | | | | | |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | PORTABLE 3,387 | needs re-audit |
+| 9 | Lena | Iris/Lena | 3,600 | — | — |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
+| 11 | **MIDPOINT — Caleb** | Iris | 3,800 | — | — |
+| 12 | After | Iris | 3,600 | — | — |
+| 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
+| 14 | Open Jobs | Iris | 3,600 | — | — |
+| 15 | **ACT II TURN — RECOVERED: The Map** | Marin/Iris | 3,800 | — | — |
+| **ACT III — THE KEEPING** | | | | | |
+| 16 | The Name | Iris | 3,600 | — | — |
+| 17 | **RECOVERED: The Limiter** | Marin | 3,400 | — | — |
+| 18 | Escalation | Iris/Rourke | 3,800 | — | — |
+| 19 | Almost | Iris | 3,600 | — | — |
+| 20 | **RECOVERED: The Last Session** | Marin | 4,400 | — | — |
+| 21 | Why Lena | Iris | 3,600 | — | — |
+| 22 | The Second Visit (ENDING) | Iris/Willow | 3,800 | — | — |
 
-Legend: `—` not started · `WIP` in progress · `DONE` complete
+Legend: `—` not started · `WIP` in progress · `PORTABLE` drafted under the old arc, carries forward · `DONE` complete
 
-## Completed
+---
 
-**Ch1 — Intake** · approved 2026-08-04 · `chapters-book2/01-intake.md` · 3,319 words
+## Portable Drafts
 
-Audit passes: brief compliance, tone, character voice, continuity, PROSE HARD RULES, sentence variety, bloat/repetition, run-on screening.
+Two chapters written under the prequel arc survive because they are Marin/Meridian scenes and the Recovered thread needs them nearly unchanged.
 
-Author edits on the draft: Terri Boisvert renamed **Terri Roth**; Raman's name cut from the "can you see it" exchange (he is now first named in Ch3); "Oh good, so you've thought about it" trimmed to "Oh good"; several small tightenings.
+**Ch4 — RECOVERED: Intake** · 3,286 words · currently at `chapters-book2/01-intake.md`
 
-**Ch2 — Recovery** · approved 2026-08-06 · `chapters-book2/02-recovery.md` · 2,855 words
+Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc. **Not yet renumbered or moved.** Needs a re-audit against the new gates before it counts as done — particularly the frame rule (it was written as a standalone opening chapter, not as recovered material) and whether anything in it assumes the reader has not met Iris yet.
 
-Iris intact: the flooded sub-level job, the refusal to power or dry the wet drives, the bridge tripping at ninety minutes, R. Oyelaran's ignored maintenance notes, then the diner and the call with Lena. Clean on the hard rules (0 sentences with 3+ conjunctions, 0 over 45 words, avg 11.1). Ran a specific scan for Book 1 register leaking into intact-Iris prose ("she noted," "she registered," "Expected/Observed," "the absence of") with zero hits.
+**Ch8 — RECOVERED: Sessions** · 3,387 words · currently in `chapter_review.md`
 
-Author edits on the draft: thirteen cuts, 3,012 → 2,855. Every one removed a sentence or clause that explained the image preceding it. Two were hard-rule violations the draft screen missed — "cold with the ordinary cold of a room rather than the cold of something that had died in one" (contrast framing plus a dread nudge in the one chapter most gated against it) and a labeled voice description for Lena. The eggs were cut, taking with them a post-call beat that underlined the regret. Also removed the book title line from the top of the file, which `build-manuscript.js` supplies at build time; chapter files start at the chapter heading, as Ch1 does.
+Sessions one through four from the observation side, then the substrate lab. Dr. Feld introduced; Raman first named; the substrate parameters established as furniture. Drafted 2026-08-06, **never author-proofread** — it was awaiting a proofread when the arc was re-examined. Same re-audit needed.
 
-**Screen note for later chapters:** the draft's failure mode here was not fragmentation or run-ons, both of which passed clean. It was **the trailing explanatory sentence** — a good image followed by a line telling the reader what to make of it. It survives a mechanical screen because the sentences are well formed and varied. Check for it by reading each paragraph's last sentence alone and asking whether the paragraph is complete without it.
+**Retired: Ch2 — Recovery** · 2,855 words · `chapters-book2/02-recovery.md`
 
-**Length note:** 2,855 against a 3,200 brief target. The cuts were correct and nothing was restored. Act I now stands at 6,141 across two chapters against a 23,400 target; not a concern yet, but if the pattern holds through Ch3–Ch7 the book will land nearer 63,000 than 70,000. Watch it at the end of Act I rather than padding individual chapters.
+Built on intact pre-Book-1 Iris, who no longer appears in this book. The flooded sub-level job inside it — the refusal to power or dry the wet drives, the bridge tripping at ninety minutes, R. Oyelaran's ignored maintenance notes — is good and worth salvaging as a present-day chapter, probably Ch3 or Ch5.
 
-**Process note:** the first Ch2 draft had 10 sentences over the conjunction threshold, one chapter after that gate was established, because the screen was being run as a post-pass rather than applied while writing. Corrected in the rewrite. The gate now says to screen during drafting.
+---
 
-**Run-on pass (Ch1, where the gate was added).** The first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence. 18 sentences rewritten, plus one genuine comma splice fixed. Final: 0 sentences with 3+ "and," 8 with 3+ commas (all colon lists or serial verbs), 3 over 45 words (all deliberate), average 11.1 words. **This failure mode is now screened on every chapter** and is documented in `03-themes-and-tone.md` and CLAUDE.md drift corrections.
+## Drafting Lessons Carried Forward
 
-**Ch3 — Sessions** · drafted 2026-08-06 · in `chapter_review.md` · 3,387 words · awaiting proofread
+Hard-won on Ch1–Ch3 under the old arc. All three still apply and all three cost a full rewrite or a heavy author pass when they were missed.
 
-Sessions one through four from the observation side, then the substrate lab. Marin discloses the family observation to Dr. Feld in advance per the protocol paragraph she wrote herself, and Feld says "You'll hate it" and starts the session. Session three is the success: Willow reaches the end of the account for the first time in nine years, in order, past tense, correcting one date and carrying on. **The trauma is not narrated** — only the shape of the account — per the Ch1 lock. Marin times it and writes eleven minutes and forty seconds into the observation column.
+**1. Run-on comma chains — screen WHILE drafting, not after.** The Ch1 first draft defaulted to chained `", and X, and Y, and Z"` construction, worst case 6 commas / 5 conjunctions / 85 words in one sentence; 18 sentences had to be rewritten. The Ch2 first draft then came in with 10 sentences over the threshold *one chapter after the gate was written down*, because the screen was run as a post-pass instead of applied at the sentence.
 
-**New names:** **Dr. Feld**, Willow's treating clinician. Thorough, slow, hard to rush, cold on paper and warm in person. Marin vetted her improperly before the first session and the chapter says so. **Raman** is named for the first time, per the Ch1 As Written note that he is held back from Ch1.
+**Screen:** flag any sentence with 3+ commas, 3+ instances of "and," or 45+ words, then justify or fix each one. Legitimate survivors are colon-introduced lists, serial verbs, deliberate accumulation, and dialogue where a character is genuinely spilling.
 
-**Operational parameters established as furniture** (all three matter later): flush window ninety minutes; residual coherence tolerance 2% of session load; model predicts under 0.1%. Virek's shelf sits at 0.4% across nineteen sessions. Exclusions run in order: sampling head swap, manual flush, clean cycle with no patient material. Limiter green, no integration events. **Autonomy at two**, so nothing holds structure between sessions. Raman sets a review threshold at 1%.
+**2. The trailing explanatory sentence — check by hand, it passes every mechanical screen.** A good image followed by a line telling the reader what to make of it. The van parked facing out, then a sentence explaining why you park facing out. Thirteen of these came out of Ch2 in the author's pass; four more out of Ch3.
 
-**Raman's answer is correct and the prose lets it be.** The model was fitted on the veterans' cohort at a third to a half of current session loads; expansion cases run heavier; a load-dependent tail treated as fixed produces a shelf. It explains the observation, names a mechanism, makes a testable prediction, and does not ask anyone to pretend the shelf is not there.
+**Screen:** read the last sentence of each paragraph alone and ask whether the paragraph is finished without it. If it is, cut it. The related failure is the trailing clause on an otherwise clean sentence.
 
-Screens: 0 sentences over 45 words, 8 with 3+ conjunctions (serial verbs or deliberate accumulation), avg 12.1. Clean on em dashes, exclamations, AI tics, "the kind of," labeled silences, "wrong/off," hedges.
+The most serious catch of this type was in Ch3: "Marin thought so **at the time** and would have said so if anybody had asked her." Both halves point forward and signal that this gets revisited, which is dramatic irony in the prose. Cut to "It was a good answer."
 
-**The trailing-explanation gate earned its place on first use.** Four cuts, including "and she had a pen in her hand and nowhere else to put any of it," which was the prose pointing at Marin's tell that the bible says must never be pointed at. The most serious catch was in the Raman paragraph: "Marin thought so **at the time** and would have said so if anybody had asked her." Both halves point forward and signal that this gets revisited, which is dramatic irony in the prose and is banned by name in this chapter's craft note. Cut to "It was a good answer." Also fixed: "in a manner she was not proud of" (banned soft-modifier family), one "it's not X, it's Y" in Virek's dialogue, one comparative "the way."
+**3. Length drift.** Every chapter so far has landed under budget — Ch1 at 3,286 against 3,800, Ch2 at 2,855 against 3,200, Ch3 at 3,387 against 3,800. The cuts were correct every time and nothing was restored, so the fix is fuller scenes at the drafting stage rather than restoring cut lines. Assess at the end of each act rather than padding individual chapters.
 
-**Continuity note:** Willow's four o'clock shift is dated "had not been true at Christmas" rather than "four months ago," because four months is the locked interval between treatment and the drowning and should not also mean something else.
-
-**POV totals:** Marin 12 · Iris 6 · Willow 3 · Virek 1 = 22 (Iris also opens Ch22 before it hands to Willow)
-
-**Timeline anchor:** Meridian goes dark at Year −3, fixed by Book 1 Ch1's "wall calendar stopped three years earlier." Book 1 opens at Year 0.
+**4. Book 1 register leaking in.** Scan every chapter for "she noted," "she registered," "Expected/Observed," and "the absence of." Ch2 was scanned clean. **This gate is now harder, not easier:** Iris is flat in this book, and her Book 1 voice will be actively tempting. Flat affect is not the same as fragmented prose. She observes in complete sentences.
