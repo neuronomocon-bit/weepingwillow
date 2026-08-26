@@ -60,7 +60,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
 | `06-book2-outline.md` | "The Keeping" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — spread, selection, confrontation, destruction method, locked specifics |
-| `08-book2-chapter-briefs.md` | **DOES NOT EXIST YET.** The prequel version is archived. 22 new briefs need writing against the new outline. |
+| `08-book2-chapter-briefs.md` | 22 briefs for the **sequel**, written 2026-08-26. Two-thread allocation, master timeline, the investigation spine, Willow's face progression. The prequel version is archived. |
 | `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot. Authoritative — outlines are rebuilt from it, not patched.** |
 | `09-book3-chapter-briefs.md` | 22 chapters, full scene breakdowns |
 | `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
@@ -167,7 +167,7 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 ## Book 2 — "The Keeping" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **22 chapter briefs still need writing** — the prequel set is archived and `08-book2-chapter-briefs.md` does not currently exist. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. Drafting can resume at Ch1. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -219,11 +219,13 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 Neither portable chapter has been moved or renumbered yet. `chapter_review.md` still holds the old Ch3 draft.
 
 **Next work, in priority order:**
-1. **Write the 22 new Book 2 briefs** → `series-bible/08-book2-chapter-briefs.md`. Biggest remaining job.
-2. **Rewrite `07-book3-outline.md`** — new ending (compulsion trap + water), Willow's killer escalation, Virek's changed role (he is the only living person who could recognize her face), and shed whatever Book 2 absorbed.
-3. **Rebuild `review-progress.md`** against the new 22 chapters.
-4. **Update `02-characters.md`** — Caleb needs a death, Willow needs the satisfaction drive and the resolving face, Marin needs re-pointing.
-5. **Update `10-subplot-threading.md` and `11-key-dialogue-notes.md`** — both keyed to the old structure.
+1. ~~Write the 22 new Book 2 briefs~~ — **DONE 2026-08-26.** `series-bible/08-book2-chapter-briefs.md`, 12,600 words.
+2. ~~Rebuild `review-progress.md`~~ — **DONE.** All 22 chapters tracked with budgets.
+3. **Draft Book 2 Ch1 — Aftermath.** Expand `archive/DRAFT-hunger-ch01-aftermath.md` (1,500 words) to 3,400. **That draft belongs to Book 2 Ch1, not Book 3 Ch1** — the Book 3 note below is stale.
+4. **Re-audit the two portable chapters** (Ch4 Intake, Ch8 Sessions) against the new gates before they count as done. Ch8 has never had an author pass. Neither has been renumbered or moved.
+5. **Rewrite `07-book3-outline.md`** — new ending (compulsion trap + water), Willow's killer escalation, Virek's changed role (he is the only living person who could recognize her face), and shed whatever Book 2 absorbed.
+6. **Update `02-characters.md`** — Rourke is wrongly marked "Not present in Book 2," Caleb needs a death, Willow needs the satisfaction drive and the resolving face, Marin needs re-pointing to the seven Recovered chapters.
+7. **Update `10-subplot-threading.md` and `11-key-dialogue-notes.md`** — both keyed to the old structure.
 
 **Two things still open:** whether "The Keeping" is still the right title for a sequel (retained provisionally), and whether Lena stays untouched through all of Book 2 or gets targeted before the end.
 

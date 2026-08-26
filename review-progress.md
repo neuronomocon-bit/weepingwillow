@@ -8,7 +8,7 @@ Book 1 — "The Absence" is complete and published (2026-05-14). Its review hist
 
 **Book 2 is a sequel.** It opens weeks after Book 1 ends. The origin arrives as seven dramatized Marin chapters that Iris recovers off Meridian's drives. Both superseded arcs — "The Hunger" and the prequel "The Keeping" — are in `series-bible/archive/`.
 
-> **The briefs do not exist yet.** `series-bible/08-book2-chapter-briefs.md` was archived with the prequel and 22 new briefs need writing against `06-book2-outline.md` before drafting can resume. See `13-arc-revision.md` for the decisions they are built from.
+> **Briefs written 2026-08-26.** All 22 are in `series-bible/08-book2-chapter-briefs.md`, built against `06-book2-outline.md` and `13-arc-revision.md`. Drafting can resume at Ch1. The prequel brief set stays archived.
 
 ## Conventions Being Enforced
 
