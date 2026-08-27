@@ -71,3 +71,37 @@ Full reasoning and all seven decisions are in `../13-arc-revision.md`.
 - **`../../chapters-book2/01-intake.md`** (3,286 w) and the drafted **Ch3 "Sessions"** (3,387 w) are Marin/Meridian scenes and port directly into the new recovered thread as R1 and R2.
 - **`chapters-book2/02-recovery.md`** (2,855 w) is retired — it is built on intact pre-Book-1 Iris, who no longer appears. The flooded sub-level job inside it is worth salvaging as a present-day chapter.
 - `DRAFT-hunger-ch01-aftermath.md` now maps onto **new Book 2 Ch1**, not Book 3 Ch1. Same beat, and it moved forward a book.
+
+---
+
+# THIRD PASS — 2026-08-27 (rebuild, not a pivot)
+
+No arc change. This was the pass that rebuilt the downstream documents against the 2026-08-26 decisions, which had until then only been recorded in `13-arc-revision.md` and the Book 2 outline.
+
+## What was done
+
+- **`08-book2-chapter-briefs.md` written** — all 22 briefs for the sequel. Present 15 · Recovered 7; POV Iris 14 · Marin 7 · Caleb 1.
+- **`07-book3-outline.md` rewritten** — new ending, Willow's killer escalation, Virek's changed role, and everything Book 2 absorbed removed.
+- **`10-subplot-threading.md` and `11-key-dialogue-notes.md` rebuilt** against the sequel structure.
+- **`02-characters.md`, `03-themes-and-tone.md`, `01-world.md`, `12-chatgpt-system-prompt.md`, `cover-templates.md`, `review-progress.md`** all brought into line.
+- **Two open questions resolved.** Lena stays untouched in Book 2 but is located on its last page. "The Keeping" was retired as a title and Book 2's title is under review; a shortlist is in `13-arc-revision.md`.
+
+## Files added here in this pass
+
+| File | Was |
+|------|-----|
+| `10-subplot-threading-PREQUEL.md` | 10 arcs, keyed to the prequel's chapter numbers |
+| `11-key-dialogue-notes-PREQUEL.md` | Dialogue notes, prequel Book 2 section |
+| `DRAFT-prequel-ch02-recovery.md` | Drafted prequel Ch2 "Recovery" (2,855 w), retired |
+
+## Chapter file moves
+
+- `chapters-book2/01-intake.md` → **`chapters-book2/04-intake.md`**, header renumbered to Ch4
+- `chapters-book2/02-recovery.md` → **`archive/DRAFT-prequel-ch02-recovery.md`**, retired
+- `chapter_review.md` header renumbered from Ch3 to **Ch8** (Sessions, still awaiting its first author proofread)
+
+The flooded sub-level job out of the retired Recovery draft — no power to wet drives, the bridge tripping at ninety minutes, R. Oyelaran's four ignored maintenance escalations — is now assigned to **Book 2 Ch5 (Read)**. The job survives; the intact Iris in it does not.
+
+## Still stale, deliberately
+
+**`09-book3-chapter-briefs.md`** carries a staleness banner and has not been rebuilt. Book 3's outline only just changed, and its briefs should follow that deliberately rather than in the same pass. Salvage is expected to be high.

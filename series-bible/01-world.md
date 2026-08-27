@@ -4,15 +4,16 @@
 
 **Series:** Weeping Willow
 **Book 1:** Weeping Willow: The Absence
-**Book 2:** Weeping Willow: The Keeping *(prequel)*
+**Book 2:** Weeping Willow: The Ending *(sequel)*
 **Book 3:** Weeping Willow: The Silence
 
-The series name is **Weeping Willow** — not "The Weeping Willow Trilogy." This keeps the door open for future books beyond the initial three.
+The series name is **Weeping Willow** — not "The Weeping Willow Trilogy." This keeps the door open for future books beyond the initial three, and Book 3's ending is written to hold that door open.
 
-**Reading order is publication order:** The Absence → The Keeping → The Silence.
-**Chronological order is:** The Keeping → The Absence → The Silence.
+**Reading order is publication order, and chronological order now matches it:** The Absence → The Ending → The Silence.
 
-The Keeping is a prequel. It begins roughly four years before The Absence and ends one beat before its first page. It is written to be read second, by a reader who already knows what the thing in the building does.
+**Book 2 is a sequel** (second pivot, 2026-08-26). It opens weeks after The Absence and runs forward. The origin material — Meridian, Dr. Marin Halloway, and her sister — is set roughly three to six years earlier and reaches the reader as **seven fully dramatized chapters that Iris recovers off Meridian's drives.** Those chapters are scenes, not documents; the recovery licenses their existence and does not narrate them.
+
+*(The prequel structure, in which the origin was its own book beginning four years before The Absence, was retired. See `13-arc-revision.md`.)*
 
 ---
 
@@ -150,7 +151,7 @@ Not collapse. Not dystopian chaos. Systems still run. People go to work. Life co
 
 ### Public Awareness of Willow (Chronological)
 
-**The Keeping (Book 2, earliest) — Nobody Knows Anything**
+**The Meridian years (Book 2's Recovered thread, earliest chronologically) — Nobody Knows Anything**
 - The program is legitimate, funded, and quietly successful. Nothing about it is secret except the results, which are proprietary.
 - The first Taking in the world is a night-shift technician. It is never reported as anything, because nothing happened to him that anyone can name.
 - The only outside observation is a supervisor noticing, two days later, that he has stopped being difficult about things he was always difficult about.

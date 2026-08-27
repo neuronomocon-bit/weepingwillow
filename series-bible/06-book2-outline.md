@@ -1,8 +1,10 @@
-# BOOK 2 — "THE KEEPING" — OUTLINE
+# BOOK 2 — "THE ENDING" — OUTLINE
 
 **Sequel.** Opens weeks after The Absence ends. Runs forward.
 
-Built from `13-arc-revision.md` (2026-08-26). The prequel version of this book is archived at `archive/06-book2-outline-PREQUEL.md`.
+**Title set 2026-08-27: "The Ending."** It names what changed about her: she does not only take now. "The Keeping" was chosen for the prequel and was retired with it. See `13-arc-revision.md` → OPEN QUESTIONS for the reasoning.
+
+Built from `13-arc-revision.md` (2026-08-26). Chapter briefs are in `08-book2-chapter-briefs.md`. The prequel version of this book is archived at `archive/06-book2-outline-PREQUEL.md`.
 
 ---
 
@@ -66,7 +68,7 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 4. **RECOVERED: Intake** — Marin, Willow, Terri Roth at the desk. The reader meets a woman they will like.
 5. **Read** — Iris surfacing Marin's material and feeling nothing about it. Caleb: stable, settled, exactly where Willow left him.
 6. **Too Much** — the first body that is unambiguously a killing. Not neglect. Everything removed at once, and the body kept breathing for a while afterward.
-7. **ACT I TURN** — Iris establishes that the pattern changed. It is not only taking now, and the change is recent, and it is getting worse on a curve that looks like a dosage schedule.
+7. **Increase (ACT I TURN)** — Iris establishes that the pattern changed. It is not only taking now, the change is recent, and each increase follows a partial result. Something is escalating a dose because the previous dose did not deliver. Nobody in the chapter says the word.
 
 ### ACT II — THE PROTOCOL (Chapters 8–15)
 
@@ -75,13 +77,15 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 8. **RECOVERED: Sessions** — the treatment works. Session three is a success by every measure the program has.
 9. **Lena** — she reinserts herself hard. Iris performs a sister. Lena is not convinced and stays anyway.
 10. **RECOVERED: Calm** — post-treatment Willow Halloway, agreeable and reduced. The reader recognizes Lila Mercer and Marin has no framework to.
-11. **MIDPOINT — Caleb.** Willow returns to a previous subject because the partial result was unsatisfactory, and finishes him. He dies.
+11. **MIDPOINT — The Rest of Caleb Ward.** Willow returns to a previous subject because the partial result was unsatisfactory, and finishes him. He dies.
+
+    **POV: Caleb.** Changed from Iris at the 2026-08-27 brief pass. Book 1 Ch12 is the only chapter from his perspective and it is the one where he is emptied; making his death the only other one is a rhyme worth taking, and it puts Ch2's mortality mechanism inside a person the reader knows rather than in a file. The cost is that 3,800 words of a man with almost no interiority is the hardest technical problem in the book. Fallback if the draft cannot hold it: Iris POV arriving afterward. Try the hard version first.
 12. **After** — Iris measures her own reaction and finds nothing there. She writes down that she found nothing, because the note is the only part of grieving she can still perform. Rourke's framework cracks.
 13. **RECOVERED: The Water** — Willow Halloway drowns. The report says accident. Marin cannot determine whether the calm is what let her walk in.
 14. **Open Jobs** — Iris works out what the second visit is for. Every Taken person in Lowport is unfinished, and so is she.
 15. **ACT II TURN — RECOVERED: The Map.** Marin runs deceased-patient closure and finds her sister still resident in the system. She does nothing with it. She simply knows it is there. In the present, Iris reads the patient name for the first time: **Willow Halloway.**
 
-### ACT III — THE KEEPING (Chapters 16–22)
+### ACT III — FINISHING (Chapters 16–22)
 
 **Purpose:** The name, the deviation, the escalation, and the second visit.
 
@@ -98,6 +102,10 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 That is the birth of the frustration that makes her strategic in Book 3, and it plants the trap that ends the series. Iris survives the chapter knowing she is unfinished, permanently, and that the thing now knows it too.
 
 **Do not resolve it. Do not explain it. She walks away and it lets her, and neither of them knows why yet.**
+
+**And the last thing the book does, which nothing in it acknowledges (decided 2026-08-27):** in the middle of the attempt Willow reaches the empty place where Iris's love for her sister used to be, and stops there. It is the only part of the structure that matches anything. She stays with it longer than she stays anywhere else, examining the shape of what is missing, which is the shape of a younger sister, and she is looking at it when she stops.
+
+Iris registers it as a duration and files it as a measurement. She never works out what it was. **No line explains it.** Lena is never approached in this book, and Book 3's midpoint now arrives caused rather than assumed.
 
 ---
 
@@ -131,6 +139,6 @@ Unchanged and still binding. The full table lives in `13-arc-revision.md` and th
 ## KEY QUESTIONS CARRIED INTO BOOK 3
 
 1. What changed in Willow when Iris refused her a third time?
-2. What did Virek do with what he knew, and where is he?
+2. What did Virek do with what he knew, and where is he? (Book 2 Ch19 surfaces his closed ticket and nothing else. He is not found until Book 3 Ch12.)
 3. How much of Marin is in her, and how much of Willow Halloway?
-4. Why has she not gone for Lena yet — and does she know Lena exists?
+4. ~~Why has she not gone for Lena yet — and does she know Lena exists?~~ **Answered on the last page of Book 2, for the reader only.** She knows now. Book 3 inherits a Lena who is already located and a reader who has known it for a book.

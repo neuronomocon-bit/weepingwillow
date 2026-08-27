@@ -29,13 +29,15 @@ const BOOKS = {
     acts: [],
   },
   book2: {
-    title: "Weeping Willow: The Keeping",
+    // Title set 2026-08-27: "The Ending". The running header derives from
+    // the manuscript title line, so changing this string is sufficient.
+    title: "Weeping Willow: The Ending",
     dir: "chapters-book2",
     out: "manuscript-book2.md",
     acts: [
-      { before: 1, label: "ACT I — THE PROGRAM" },
-      { before: 8, label: "ACT II — THE DEVIATION" },
-      { before: 16, label: "ACT III — WHAT REMAINED" },
+      { before: 1, label: "ACT I — WHAT CAME BACK" },
+      { before: 8, label: "ACT II — THE PROTOCOL" },
+      { before: 16, label: "ACT III — FINISHING" },
     ],
   },
 };

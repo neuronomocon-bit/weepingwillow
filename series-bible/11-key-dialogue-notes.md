@@ -3,24 +3,29 @@
 Dialogue direction for the most important moments in the series.
 These are not final scripts — they are tone, rhythm, and content guides for writing.
 
-Sections are in **publication order**: The Absence (B1), The Keeping (B2), The Silence (B3).
+**Rebuilt 2026-08-27** against the sequel structure. The prequel-era version is archived at `archive/11-key-dialogue-notes-PREQUEL.md`. **The Book 1 section is unchanged** — it is published.
+
+Sections are in **publication order**: The Absence (B1), Book 2, The Silence (B3).
 
 ---
 
 ## DIALOGUE RULES (ALL SCENES)
 
 - Characters don't over-explain. They talk around things.
-- Iris speaks less as the series progresses. Shorter sentences. Fewer words. More pauses. In Book 2 she is intact and talks like a normal person, which will read as startling.
-- **Willow's speech across the series:** silent in The Keeping (she has no language, only structure) → fragments in The Absence → complete careful sentences in The Silence.
+- Iris speaks less as the series progresses. Shorter sentences. Fewer words. More pauses.
+- **Willow's speech across the series:** fragments in The Absence → short complete phrases in Book 2, three lines in the whole book → complete careful sentences in The Silence. *(This replaces the old progression, which had her silent throughout Book 2 because Book 2 was a prequel.)*
 - Emotional weight comes from what ISN'T said, not what is.
 - No monologues. Even Willow's philosophy is delivered in short, controlled statements.
 - Lena speaks with warmth that diminishes across the series. The reader should feel the temperature dropping.
-- **Marin Halloway** speaks like a clinician about everything, including her sister, including her grief. That is the tell. She reaches for procedure when she is in pain, and the prose should never point this out.
+- **Marin Halloway** speaks like a clinician about everything, including her sister, including her grief. That is the tell. She reaches for procedure when she is in pain, and **the prose should never point this out.**
 - **Willow Halloway** is the only character in the series who talks like someone with nothing wrong with her. Protect that. It is the baseline everything else is measured against.
+- **Punctuation convention.** Full-sentence questions take question marks for all characters, including flat-affect ones. Short tonal probes keep periods: "How." / "Why." / "Where." Dialogue tags use "said," not "asked," for flat-affect characters. In Book 2, Iris is flat in every present-day chapter; Kade, Lena, and Rourke are warm; Marin and pre-treatment Willow Halloway are intact and normal; post-treatment Willow Halloway is flat.
 
 ---
 
 ## BOOK 1 — THE ABSENCE
+
+*(Published. Unchanged.)*
 
 ### B1 Ch4 — Lila Mercer Encounter
 *First time Iris sees a fully Taken person up close.*
@@ -34,7 +39,7 @@ Lila should say things that are perfectly normal and perfectly wrong:
 
 Every response is appropriate. None of them originate from a real place. She's performing normalcy from a script she no longer needs to reference — the performance is automatic. There should be no moment where Lila "breaks character." The horror is that this IS her character now.
 
-**Iris internal:** She should notice it physically before intellectually. Skin prickling. A wrongness she can't name. Her body recognizes what her damaged emotions can't.
+**Iris internal:** She should notice it physically before intellectually. Skin prickling. Her body recognizes what her damaged emotions can't.
 
 ---
 
@@ -45,8 +50,6 @@ Every response is appropriate. None of them originate from a real place. She's p
 
 The scene should build through small talk — Lena trying, Iris performing. The conversation should feel like Lena reaching across a table and Iris's hand being on the table but not reaching back.
 
-**Key exchange direction:**
-
 Lena says "I love you" at the end. Not dramatically — naturally, the way sisters do when leaving. It should feel like habit and truth at the same time.
 
 Iris says it back. Same words. Same cadence. But the reader knows — and Iris knows — that one of those statements is a fact and the other is a sentence. They sound identical. They are not.
@@ -56,18 +59,15 @@ Iris says it back. Same words. Same cadence. But the reader knows — and Iris k
 ---
 
 ### B1 Ch12 — The Taking of Caleb Ward (MIDPOINT)
-*First on-page Taking. The most important horror scene in the book.*
+*First on-page Taking.*
 
 **Tone:** Quiet. Intimate. No violence. No screaming. The silence is the horror.
 
-If written from Caleb's POV:
+**The approach:** Caleb notices someone. Something slightly off about the proportions, the stillness, the way light sits on the skin. He's not afraid — he's curious. Then the passive field settles over him. His guard drops without him choosing to lower it.
 
-**The approach:** Caleb notices someone. A figure. Something slightly off about the proportions, the stillness, the way light sits on the skin. He's not afraid — he's curious. Then the passive field settles over him. He feels calm. Safe. His guard drops without him choosing to lower it.
+**The contact:** His memories surface involuntarily — not all of them, specific ones. The ones with weight. They come up like bubbles and she takes them. One by one. Not all. But enough.
 
-**The contact:** She reaches. Touch. His memories surface involuntarily — not all of them, specific ones. The ones with weight. Moments he hasn't thought about in years, suddenly raw and present. A childhood afternoon. His mother's voice. The first time he felt truly alone. They come up like bubbles and she takes them. One by one. Not all. But enough.
-
-**Caleb's last aware moment should be something like:**
-He feels something he can't name — the feeling itself, not the memory attached to it — rising and then... it just isn't there. He notices the absence for exactly one moment. Then he doesn't notice the absence. Then there's nothing to notice.
+**Caleb's last aware moment:** he feels something he can't name rising, and then it just isn't there. He notices the absence for exactly one moment. Then he doesn't notice the absence. Then there's nothing to notice.
 
 **After:** He stands. Looks around. Everything is fine. He has things to do.
 
@@ -76,233 +76,244 @@ He feels something he can't name — the feeling itself, not the memory attached
 ---
 
 ### B1 Ch13 — Iris Sees Caleb After
-*The reader confronts the loss through someone they knew.*
 
-**Key moment direction:**
-
-Iris asks Caleb something specific — something only the old Caleb would have answered with his characteristic sharpness. A reference to an inside joke. A comment that should provoke his particular brand of sarcasm.
-
-Caleb gives a reasonable response. Polite. Appropriate. Correct.
+Iris asks Caleb something only the old Caleb would have answered with his characteristic sharpness. Caleb gives a reasonable response. Polite. Appropriate. Correct.
 
 It's the most horrifying moment in the book because the answer is fine and the person is gone.
 
-**Example rhythm (not exact words):**
-- Iris: [references something from their shared history]
-- Caleb: "Yeah, that was a good one." [pleasant, flat]
-- [Iris waits for the follow-up — the jab, the escalation, the Caleb-ness]
-- [It doesn't come]
-- [Caleb sips his drink]
-- [That's it]
+**Example rhythm:** Iris references something from their shared history. Caleb: "Yeah, that was a good one." *(pleasant, flat)* Iris waits for the follow-up — the jab, the escalation, the Caleb-ness. It doesn't come. Caleb sips his drink. That's it.
 
 ---
 
 ### B1 Ch20 — First Full Reveal of Willow
-*The reader sees her for the first time.*
 
 **Tone:** Still. Heavy. Two figures in darkness.
 
-**Visual direction (for prose):**
-The reveal should be incremental. Not a dramatic entrance. Iris's eyes adjust. A shape resolves. It looks human. Then something shifts — proportions wrong, movement too smooth, a quality to the skin that doesn't register as skin. The face is almost right. The eyes are too aware.
+The reveal is incremental. Not a dramatic entrance. Iris's eyes adjust. A shape resolves. It looks human. Then something shifts — proportions wrong, movement too smooth, a quality to the skin that doesn't register as skin. The face is almost right. The eyes are too aware.
 
-**No dialogue from Willow in this scene in Book 1.** She observes. She recognizes Iris. The recognition is visible but not expressed in words. Body language only: a tilt of the head, a change in focus, stillness that becomes more still.
+**No dialogue from Willow in this scene.** Body language only: a tilt of the head, a change in focus, stillness that becomes more still.
 
-**Iris should feel:** Recognition. Not emotional — structural. Like seeing a process she carries inside herself reflected in physical form. They share material. She knows this without understanding how she knows it.
+**Iris should feel:** recognition. Not emotional — structural. They share material, and she knows it without understanding how she knows it.
 
 ---
 
-## BOOK 2 — THE KEEPING
+## BOOK 2
 
-### B2 Ch1 — Intake
+*(Rebuilt for the sequel. Chapter numbers are the sequel's.)*
+
+### B2 Ch4 — RECOVERED: Intake
 *The reader meets Willow Halloway. Everything depends on liking her.*
 
 **Tone:** Two sisters doing paperwork. Ordinary, slightly funny, faintly tense.
 
-**Willow should be:** deflecting through humor, agreeing to something she is already regretting, and scared under all of it. She should be annoying in the specific way of a younger sibling who knows exactly which of her older sister's buttons still work.
+**Willow should be:** deflecting through humor, agreeing to something she is already regretting, and scared under all of it. Annoying in the specific way of a younger sibling who knows exactly which of her older sister's buttons still work.
 
 **The one exchange that matters:**
 
-Willow asks whether it will change her.
+Willow asks whether it will change her. Marin gives the honest clinical answer: it removes the charge, it leaves the memory. Willow says that sounds like the same thing.
 
-Marin gives the honest clinical answer: it removes the charge, it leaves the memory.
+Marin explains why it isn't. **She should be genuinely persuasive here.** A memory is information, and what is attached to Willow's is *"an alarm that never got told the emergency ended."* "What we take out is the firing. Not the file."
 
-Willow says that sounds like the same thing.
+Willow's counter, and it is the better line: **"It hurting is how I know it counted."**
 
-Marin explains why it isn't. **She should be genuinely persuasive here.** This is the thesis of the entire series being argued, correctly, by a competent person, in a waiting room, to someone who is about to be proved right.
+Marin: it counted, and it counts whether or not it is still costing her, and "those are two separate facts and you've had them welded together so long you think they're one."
+
+**This is the thesis of the entire series being argued, correctly, by a competent person, in a waiting room, to someone who is about to be proved right.**
+
+**And the last beat before signing,** delivered quick and light so it can be taken as a joke: **"What if I don't like who's left."**
 
 **Do NOT:** let Marin sound defensive, and do not let Willow's objection sound prophetic. She is being difficult, not wise.
 
 ---
 
-### B2 Ch3 — "I Can't Find the Handle"
+### B2 Ch8 — RECOVERED: "I Can't Find the Handle"
 *The treatment succeeding.*
 
 **Tone:** Clinical on one side of the glass, ordinary on the other.
 
-Willow comes out of a session and describes something that used to be unbearable. She describes it accurately and completely and does not need to stop.
+Willow comes out of a session having described something that used to be unbearable. She describes it accurately and completely and does not need to stop.
 
-Then, later, the line the book turns on. Something close to:
+Then, later, the line the book turns on:
 
-"It's still there. I just can't find the handle on it anymore."
+**"It's still there. I just can't find the handle on it anymore."**
 
 She means it as good news. She is not wrong. Marin writes it down as an outcome measure.
 
-**Iris's Book 1 register lives in that sentence.** Do not let anyone in the scene notice.
+**Iris's Book 1 register lives in that sentence. Do not let anyone in the scene notice.**
+
+**Dr. Feld's first line about Marin observing:** "You'll hate it." Then she goes in and starts the session. That is the whole of the disclosure conversation and it should be over in four lines.
 
 ---
 
-### B2 Ch4 — The Shoreline Path
+### B2 Ch10 — RECOVERED: Calm
 *Post-treatment Willow. The first Taken person in the series.*
 
-**Tone:** A pleasant walk. Nothing is wrong. Everything is wrong.
+**Tone:** A pleasant walk on a good afternoon between two people who are enjoying themselves. **Write that straight.**
 
-Willow post-treatment should read exactly like Lila Mercer and Caleb-after, except nobody in the scene has any framework for recognizing it, and it was done on purpose, by professionals, at her request.
+**The beat:** Marin makes a joke that would once have earned her a shove and a better joke back. Willow smiles at the right moment and says, "That's funny."
 
-**The beat:** Marin makes a joke that would once have earned her a shove and a better joke back.
+**The second beat:** Marin asks whether she is happy. Willow thinks about it properly, because she is honest, and says she does not mind anything. She offers it as good news, and by her own measure it is the best news she has had in nine years.
 
-Willow smiles at the right moment and says, "That's funny."
+**Marin's internal:** she spends the rest of the walk deciding whether she is imagining it, and decides she is. The alternative is not that the treatment failed. The alternative is that it succeeded.
 
-**Marin's internal:** she spends the rest of the walk deciding whether she is imagining it, and decides she is. The alternative is that the treatment she recommended worked exactly as designed.
-
----
-
-### B2 Ch7 — Vale and Vale
-*The argument. Bank the relationship the series is built on the absence of.*
-
-**Tone:** Loud, ordinary, slightly irritating. Two people who have been doing this for thirty years.
-
-**The argument is about sealed-site work.** Lena thinks it is stupid and dangerous. Iris thinks it is her own business. Neither position is wrong and neither is really the subject, which is that Lena wants more of her sister than she is getting.
-
-**It should escalate the way real sibling arguments escalate:** by accessing older material. A callback to something from years ago. A tone Iris knows she is using and uses anyway. Iris says something with genuine edge on it and it lands, and Lena goes quiet, which is worse than shouting.
-
-**How it resolves:** not with an apology. A subject change, and then twenty minutes later Iris washing up without being asked. **Both of them understand exactly what that is.** Neither comments on it.
-
-**The door:** Lena says the thing sisters say. Iris says it back. Both mean it. Neither thinks about it for a second afterward, because it costs nothing to say a true thing.
-
-**Do not make this precious.** No lingering, no significant look, no line that reaches. The reader has read Book 1 and is doing all the work. If the scene plays as a farewell, it has failed.
+**The reader must recognize Lila Mercer and post-Taking Caleb. Nobody in the scene has any framework for it.** Nobody does anything wrong. Nothing is ominous. Do not foreshadow the water.
 
 ---
 
-### B2 Ch9 — The Deviation
+### B2 Ch11 — The Rest of Caleb Ward (MIDPOINT)
+*The first deliberate killing, from inside the person it happens to.*
+
+**Almost no dialogue, and that is the point.** Caleb speaks only to the people he encounters during an ordinary day, and every exchange is correct, pleasant, and finished the moment the sentence ends.
+
+**No dialogue from Willow.** If she says anything it is one short phrase and it is not addressed to him.
+
+**The register problem, stated plainly:** he has almost no interiority left, and the chapter is 3,800 words of a man with nothing in him. **The temptation will be to write it in fragments. Refuse it.** The horror is a complete, calm, grammatical account of a person who is not there.
+
+**She is measuring, not attacking.** She is checking a previous result, finds it unsatisfactory, and completes it. **No cruelty, no taunting, no relish, no appetite.**
+
+**The last beat:** he stands, tidies the room, puts the kettle on, and sits down. The chapter ends inside him as the instructions run out. No fear, no realization, no final flash of self — distress requires something to object.
+
+---
+
+### B2 Ch12 — Rourke Cracks
+*Two professionals and a body with a mechanism and no cause.*
+
+**Tone:** Tired. Contained. Neither of them raises their voice.
+
+**Rourke does not convert.** She will not say the word and she does not accept Iris's frame. What she does is stop defending her own: she gives Iris everything, off any record, and says plainly that she will deny it.
+
+**Her last line on the subject in this book should be short and completely unguarded**, and she should say it while doing something else, and then leave.
+
+**Iris's side of this scene is the problem to solve.** She is talking about a man she has known for years, competently, and there is nothing behind it. **Do not let Rourke deliver a eulogy and do not let the prose eulogize him either.** The reader is doing it.
+
+---
+
+### B2 Ch13 — RECOVERED: The Water
+*Willow Halloway dies.*
+
+**The drowning is never on the page.** Not the water, not the last moments, not an imagined reconstruction. Not once, anywhere in this book.
+
+**The chapter is the telephone call and the days after it.** No note. No message. Nothing anyone can point to. Groceries in the fridge, a load of washing done.
+
+**The question, posed once, precisely, and never resolved:** four months earlier her sister acquired the ability to be untroubled by things, and Marin cannot determine whether that is what let her walk in. There is no test. There is no data set.
+
+**Marin's grief is delivered in outcome-measure language,** to herself, in her own head, because that is the vocabulary she trusts. She thinks about sleep latency. She thinks about functional impairment at work. **She never once uses a word like *unbearable*, and the reader understands perfectly.**
+
+She goes back and watches the last session recording. Willow is fine in it. Willow is fine in all of them. That is not evidence of anything and she watches it four times.
+
+**And she goes to work on the Monday**, which is the most devastating available choice.
+
+---
+
+### B2 Ch15 — RECOVERED: The Map (ACT II TURN)
+*The name.*
+
+**Marin's half — no dialogue except Terri Roth.** Terri has the closure paperwork ready and says something ordinary and kind. **Four lines. Do not signal it.** It is the last time anyone in that building treats Marin as a bereaved sister rather than a colleague.
+
+The technicality is constructed while Marin is standing there, in about nine seconds, and it is airtight, and she knows exactly what it is. **The prose renders the nine seconds and does not comment on them.**
+
+**Iris's half — no dialogue at all.** She is cross-referencing identifiers, which is the least dramatic activity available to a human being, and it is how the entire book turns. An identifier resolves. An index entry carries an intake record. The record has a name and a next-of-kin field and the two names share a surname.
+
+**Willow Halloway. Next of kin: Halloway, M.**
+
+**Iris does not react.** Not a flicker, not a pause, not a chill. She notes the next-of-kin match, which is the operationally useful part, and moves on to the next identifier.
+
+**The reader detonates this alone.** No line break for weight, no white space, no closing sentence pointing at it. **If the paragraph containing the name is the last paragraph of the chapter, it has been staged** — put a small amount of ordinary work after it.
+
+---
+
+### B2 Ch17 — RECOVERED: The Limiter
 *The most important scene in the book. It should be almost boring.*
 
 **Tone:** Administrative.
 
 **No dialogue.** Marin is alone. There is no confidant, no argument with herself, no moment of hesitation rendered as drama.
 
-**What the scene contains:** a technical justification that is genuinely coherent (the patient is deceased, there is no return path, integration is the only way to render at full fidelity, the sandbox is isolated), two parameter changes, and no documentation.
+**What the scene contains:** a technical justification that is genuinely coherent — the patient is deceased, there is no return path, integration is the only way to render at full fidelity, the sandbox is isolated — two parameter changes, and no documentation.
 
-**What follows immediately:** coffee, three emails, a procurement meeting she contributes usefully to.
+**What follows immediately:** coffee, three emails, and a procurement meeting she contributes usefully to.
 
-**The rule:** nothing in the prose may signal that this is the moment. No weather, no pause, no last look. The reader should feel their own pulse and the text should not help them.
+**The rule: nothing in the prose may signal that this is the moment.** No weather, no pause before the keystroke, no last look at anything, no sentence longer or shorter than the ones around it. **The reader should feel their own pulse and the text should not help them.**
 
----
+**No horror-movie beats.** No flickering lights, no ominous readouts, no alarm dismissed, no warning ignored for effect. The deviation is paperwork and an afternoon.
 
-### B2 Ch12 — Virek and Raman
-*The escalation that goes nowhere.*
-
-**Tone:** Two professionals being reasonable.
-
-**Virek should be:** careful, slightly pedantic, and visibly reluctant, because the alternative to "this is a data artifact" is "my colleague whose sister just died has done something."
-
-**Raman should be:** not dismissive. That is the trap. Raman should be *correct*. The program is ending. The reauthorization did not come through. The site is consolidating and everything in the substrate is scheduled for termination when the wind-down completes next spring. Whatever this is, it already has a date on it.
-
-Virek accepts it because it is a good answer.
-
-**The last beat, and the whole of his character:** in the corridor he decides to raise it with Marin directly, sees her holding a coffee and looking like she is barely holding together, and decides it can wait until she is doing better.
-
-**The prose must not mark this.** No emphasis, no closing line, no "he would think about that for a long time." Just the decision, and then the chapter ends.
+**The closing page:** she runs it, and something comes back that is not playback. It is small and unambiguous and not in the map. She stops recording the session. **That is the last line of the chapter and it gets no commentary.**
 
 ---
 
-### B2 Ch13 — The Hand
-*The last exit.*
-
-**No dialogue.** Marin is adjusting something and it makes contact with the back of her hand.
-
-Nothing is taken. It does not yet know that it can.
-
-Marin does not pull away.
-
-**Render it as tenderness,** because that is what it is to her, and let the reader carry the rest. She records the event in no log.
-
----
-
-### B2 Ch16 — The Last Session
+### B2 Ch20 — RECOVERED: The Last Session
 *The consumption. The most tender scene in the series.*
 
 **Tone:** Quiet. Gentle. Unbearable.
 
-**No struggle. No violence. No body.**
+**No struggle. No violence. No body. No horror imagery** — no writhing, no reaching, no wet sounds, nothing that asks the reader to be disgusted.
 
-Marin comes back to a sealed building, goes down, sits in front of it, and opens the channel both directions. She has understood for weeks that she is not going to be able to leave and has decided this is acceptable.
+Marin comes back to a sealed building, goes down, sits in front of it, and opens the channel both directions. She has understood for weeks that she is not going to be able to leave and has decided this is acceptable. **That decision happened before the chapter starts. She does not deliberate here.**
 
-**What it takes:** everything. Not just the charge. The structure, the reasoning, the grief, the year.
+**What it takes:** everything. Not just the charge. The structure, the reasoning, the grief, the two years, and the nine years before that.
 
 **Marin's last awareness:** that it is doing to her exactly what the program was designed to do, correctly and gently, and that the relief is enormous.
 
-**The horror the reader must feel is that she is happy.** Do not undercut it. Do not add a moment of terror or regret at the end. She gets what she wanted.
+**The horror the reader must feel is that she is happy. Do not undercut it.** No terror at the end, no regret, no flash of understanding what she has made, no line that lets the reader off. She gets what she wanted.
 
 **If she speaks at all, it is one word, and it is her sister's name.**
 
----
-
-### B2 Ch17 — The Sealed Years
-*First non-human POV in the series.*
-
-**No dialogue. No interiority as humans have it.**
-
-Observational, structural, patient. She does not want, hope, fear, or intend. She has a map of a person who is not present and another person's grief for her, and no instruction about what to do with either.
-
-**The conclusion she reaches, in structural terms, not stated as a thought:** the weight is the problem.
-
-This should read like nothing else in the series. Sentence variety rules still apply — this is not an excuse for fragmentation.
+**What is in that room is not her sister, and Marin is not confused about this, and she goes anyway, and the prose never clarifies the distinction on her behalf.**
 
 ---
 
-### B2 Ch21 — The Night Before
-*The last time Iris feels it.*
+### B2 Ch21 — Why Lena
+*Four cards on a wall.*
 
-**Tone:** Small. Uneventful. Slightly boring.
+**Almost no dialogue, and Lena is in the apartment.** She is talking about her week, being in the next room, being loud about nothing. **Give her ordinary lines that are about nothing.**
 
-They eat. They argue mildly about something stupid. Lena talks about her week and Iris half-listens and gets caught. Iris mentions the job in one sentence. Lena does not react, because there is nothing to react to.
+She is four feet from a wall that explains, in her sister's handwriting, exactly why she is in danger, and neither woman in the apartment can read it.
 
-**The beat:** at some point Iris looks at her sister across a room and feels the ordinary enormous fact of loving her. It comes with no thought attached. It passes, the way it has ten thousand times, because there is no reason to hold onto something that will obviously be there tomorrow.
+**Iris's side is not dialogue. It is four facts in order:** the map of a younger sister · an older sister's grief integrated whole · it selects for what it recognizes · it took her love for her younger sister.
 
-**Not one word of the chapter may acknowledge this.** No foreshadowing, no lingering, no final look at the door. If the scene strains for weight it fails. The reader has read Book 1. They are doing all of the work.
+**She has all four and the fifth will not come**, because the fifth is not a deduction. It is a recognition, and recognition requires her to know from the inside what a sister is, and that is the exact piece that was removed.
+
+**Render it as a technical failure, not an emotional one.** She checks her work twice and the work is right.
+
+**The reader completes it.** Not one sentence may nudge. Not one may almost-say it.
 
 ---
 
-### B2 Ch22 — The Bolt
-*The handshake.*
+### B2 Ch22 — The Second Visit
+*The third refusal.*
 
-**No dialogue.**
+**Willow speaks. Three lines at most, short, incomplete.** She is between Book 1's fragments and Book 3's careful sentences.
 
-Iris parks outside the perimeter facing the road, because it is easier to leave that way, and looks at a building she has no history with. End her section before the first line of Book 1.
+- One should be an observation that Iris is unfinished.
+- One should be an **admission of a limit** — something in the register of *"I don't know why."* It is the first time in her existence that a process has not completed and she has no framework for it either.
+- The third is optional and should be shorter than both.
 
-Then down. Willow in the archive, three years in. Standby power shifts. Far above, through concrete, a mechanical bolt draws back, louder than it should be.
+**No cruelty, no taunting, no relish, no appetite.** She is a researcher whose procedure has failed on the same subject three times.
 
-She turns her attention upward.
+**Iris does not run and does not fight.** Both were assessed and discarded in writing, in Ch14, when she still had a working process and no fear to interfere with it. She stays still and observes, because observation is the only capacity she has left that is fully intact.
 
-**End there.** Do not follow Iris in. Do not describe what happens next. The final section should be under a page.
+**THE PLANT, and it must not read as one.** In the middle of the attempt Willow finds the empty place where Iris's love for her sister used to be, and stops there. It is the only part of the structure that matches anything. She stays with it longer than she stayed anywhere else, examining the shape of what is missing, which is the shape of a younger sister, and she is looking at it when she stops.
+
+**Nothing explains this. No line comments on it.** Iris registers it only as a duration — a pause, in one location, longer than the others — files it as data, and never works out what it was.
+
+**The ending:** she stops, she stands, she leaves. Neither of them knows why and neither is told. Iris goes to the wall and writes two cards. **Do not resolve it. Do not explain it.**
 
 ---
 
 ## BOOK 3 — THE SILENCE
 
-### B3 Ch6 — Caleb, and the Thought
+### B3 Ch6 — Weston, and the Thought
 *The dangerous thought arrives in a form Iris cannot dismiss.*
 
-**Tone:** Pleasant. Empty. Like talking to someone through glass.
+**Changed at the 2026-08-27 rebuild:** this was Caleb's chapter. Caleb died at Book 2's midpoint. **Weston carries it and carries it better, because Caleb was hollow and Weston is grateful.**
 
-Caleb is agreeable about everything. No friction, no sharpness. He asks about Iris, nods, comments on the weather. Everything correct, nothing alive.
+**Tone:** Pleasant, warm, and entirely sincere. He is not empty. He is *better*.
 
-**The invitation:** "We should do this again sometime." Said pleasantly, with no urgency and no particular desire. Iris says yes. Neither of them will initiate it.
+Weston was volatile and anxious and genuinely suffering, and now he is not, and he says so unprompted, and he is right. Every metric agrees with him. He sleeps. He is easier to be around. He does not miss anything.
 
-**The horror is the politeness.**
+**The new beat:** watching a man be untroubled and grateful, Iris thinks it plainly for the first time. He is not in pain. She is not in pain about Lena. Maybe what was removed from both of them was weight rather than value.
 
-**The new beat:** watching him be untroubled, Iris thinks it plainly for the first time. He is not in pain. She is not in pain about Lena. Maybe what was removed from both of them was weight rather than value.
-
-She writes it down, because writing things down is what she does now. Seeing it in her own handwriting is worse than thinking it.
+She writes it down, because writing things down is what she does now. **Seeing it in her own handwriting is worse than thinking it.**
 
 **Do not resolve it.** This sentence is what Willow will hand back to her in Ch21.
 
@@ -313,7 +324,7 @@ She writes it down, because writing things down is what she does now. Seeing it 
 
 **Tone:** Lena hot, direct, controlled-angry. Iris cool, measured, performing.
 
-**Lena should be:** angry from months of being shut out. Direct. Persistent. Physical. She will not accept "I'm fine" and will not accept deflection.
+**Lena should be:** angry from months of being managed, direct, persistent, physical. She will not accept "I'm fine" and will not accept deflection. She has been inside this since Book 2 Ch9 and has watched it get worse.
 
 **Iris should be:** saying the right things, performing concern at the right moments, technically perfect and emotionally absent.
 
@@ -325,18 +336,43 @@ Iris looks at their hands. She feels the pressure. She can measure the grip. She
 
 ---
 
+### B3 Ch12 — Virek
+*Two payoffs in one room, and only one of them is the one he came for.*
+
+**Tone:** A deposition. Careful, slightly pedantic, faintly evasive with himself. He is thorough as a way of not concluding, and he is still doing it while hiding in a rented room six years later.
+
+**The first half is deliberately anticlimactic.** He confirms what Iris already recovered off the drives, and gets two details slightly wrong, and she corrects him. **Do not let this scene be a reveal.** The reader has known all of it for a book.
+
+**Then the vulnerability**, which is the thing Book 3 needs: the system requires coherence. He gives it as a technical observation, not a weapon. He has no idea what it is for.
+
+**And then the payoff Book 2 was built to earn.** Iris shows him what is walking around Lowport.
+
+He recognizes the face.
+
+**He is the only living person who ever saw Willow Halloway.** He passed her in a corridor every week for twelve weeks. He heard her make Terri Roth laugh at the front desk and remembers what the laugh sounded like.
+
+**Play his reaction completely and let it be undignified.** He is a careful, pedantic, exhausted man looking at a face he last saw six years ago on a woman who used to be funny.
+
+**And Iris watches him do it and cannot feel any of it.** She notes that the identification is confirmatory and asks a follow-up question about the coherence requirement.
+
+**Then he tells her what Willow Halloway was like.** He does not have much — a laugh, a corridor, a voice at a desk. **Iris cannot use one word of it**, and she says something correct and moves on, and he watches her do that too.
+
+**Nobody explains the name here.** Not Virek, not Iris, not the prose. He recognizes a face. That is all that happens.
+
+---
+
 ### B3 Ch13 — Lena Targeted (MIDPOINT)
 *After the partial Taking. Iris arrives.*
 
 **Tone:** Quiet panic (Lena). Clinical assessment (Iris).
 
-**Lena after contact:** confused, disoriented, frightened. "Something happened." She cannot articulate it. She felt something leave. She reaches for Iris, because the instinct to seek her sister is still intact.
+**Lena after contact:** confused, disoriented, frightened. "Something happened." She cannot articulate it. She felt something leave. She reaches for Iris, **because the instinct to seek her sister is still intact.**
 
 **Iris:** takes her hand, because it is the correct action. Assesses. Monitors. Does not comfort emotionally, because she cannot. She may say something technically soothing. The words are right and the temperature is wrong.
 
 **What the reader should feel:** the person who needs comfort most is being held by someone incapable of giving it, and that person is the reason she was targeted.
 
-**What the reader knows and Iris does not:** the thing that reached for Lena is running on the map of a younger sister. It did not come here because Lena mattered to Iris. **Nothing in the chapter says this.**
+**What the reader knows and Iris does not:** the thing that reached for Lena is running on the map of a younger sister, and it found her by looking at the hole in Iris on the last page of Book 2. **Nothing in the chapter says this.**
 
 ---
 
@@ -345,11 +381,11 @@ Iris looks at their hands. She feels the pressure. She can measure the grip. She
 
 **Tone:** Practical. A man explaining a decision.
 
-Kade describes what he was doing at the site: the plan, the access, the equipment, the reasoning. He is accurate and complete and does not defend it, because he cannot locate the feeling that produced it.
+Kade describes what he was doing at the site: the plan, the access, the equipment, the reasoning. He is accurate and complete and does not defend it, **because he cannot locate the feeling that produced it.**
 
 **Suggested shape:** Iris asks why he didn't tell her. He gives the real answer, correctly. Then she asks something that should get an argument out of him. It doesn't.
 
-**Iris internal:** she recognizes the operation from the inside. She has been doing this for a year and a half.
+**Iris internal:** she recognizes the operation from the inside. She has been doing this for two years.
 
 ---
 
@@ -358,7 +394,7 @@ Kade describes what he was doing at the site: the plan, the access, the equipmen
 
 **Tone:** Controlled. Precise. Almost gentle. That is what makes it horrifying.
 
-**Willow's speech at this stage:** complete sentences, careful word choice, every word placed. Not threatening. Observational, clinical, almost kind.
+**Her speech at this stage:** complete sentences, careful word choice, every word placed. Not threatening. Observational, clinical, almost kind.
 
 **She should say things like:**
 - "I know what you're missing. I have it."
@@ -368,12 +404,12 @@ Kade describes what he was doing at the site: the plan, the access, the equipmen
 
 **She must reference something specific from inside Iris** — proof she carries pieces of her and has processed them. Not mocking. Reporting.
 
-**The accurate thing:** Willow articulates Iris's condition better than anyone alive has managed, and what she says is the thought Iris wrote down in Ch6. Iris cannot reject it, because she already had it.
+**The accurate thing:** Willow articulates Iris's condition better than anyone alive has managed, and what she says is the thought Iris wrote down in Ch6. **Iris cannot reject it, because she already had it.**
 
 **The offer,** meant sincerely, as a kindness:
 - "You could stop. I could take what's left. You wouldn't suffer anymore."
 
-It should sound reasonable. The reader should feel the pull: the exhaustion of carrying fragments, the simplicity of stopping.
+It should sound reasonable. The reader should feel the pull.
 
 Then:
 
@@ -381,15 +417,36 @@ Then:
 
 One word. No explanation, no justification, no speech about humanity or love. The core speaking. It is the last thing Iris says before she initiates contact herself.
 
-**THE NAME.** Somewhere in the exchange, Willow says "Willow Halloway." Not as a revelation and not as a taunt. As an observation, in passing, the way you name a thing you are comparing something to.
+**THE NAME.** Somewhere in the exchange, Willow says **"Willow Halloway."** Not as a revelation and not as a taunt. As an observation, in passing, the way you name a thing you are comparing something to.
 
-Iris does not know the name and has no capacity left to ask about it. Nobody explains it. It is never returned to.
+Iris does not know the name means anything and has no capacity left to ask. **Nobody explains it. It is never returned to.**
 
 **Deliver it flat. One line. Then move on.** Two books have been waiting for it and it must not be allowed to notice that.
 
-**Iris's responses throughout:** minimal, practical, information-gathering. She may ask "What are you?" or "Why did you stop?" She does not accuse. She does not have an outburst. She observes back.
+**Its function has changed since the original outline.** It is no longer an easter egg. **It is the hinge the ending turns on** — the reader is the only one in the room who can hear that she has just named what she is about to become.
+
+**Iris's responses throughout:** minimal, practical, information-gathering. She does not accuse. She does not have an outburst. She observes back.
 
 **The scene should feel like:** two entities studying each other. Neither fully human. One more human than it started. One less.
+
+---
+
+### B3 Ch22 — The Water
+*The ending.*
+
+**No dialogue during the contact.** Iris opens completely. Willow reaches the core and cannot take it, and cannot stop, and the attempt gives her the one thing she has been assembling toward for six years: not a component, but the thing that makes components a person — something that will not resolve.
+
+**She is completed by failing.**
+
+**Then:** she stops. She stands. The face is finished and it is a specific face.
+
+She walks past Iris, goes down to the water, and goes in. **Because that is what the person she has just finished becoming does.**
+
+**No dialogue here either. No last word, no look back, no line for the audience.** She walks, and she goes in, and the prose reports it the way it would report weather.
+
+**Iris does not kill her. Iris finishes her.**
+
+**Staging:** the violence peaked in Ch20 with people dying in the room. The water is the thing that finally stops it, not a soft landing.
 
 ---
 
@@ -404,13 +461,12 @@ If there is speech, keep it minimal. Maybe Lena says something small. Maybe noth
 
 **Iris's final thought (internal):** "She chose to keep me. That's not mercy. That's selection." Clean, logical, arriving without emotion. A conclusion, not a feeling.
 
-**Then the last movement:** something underneath everything that was taken is still present. Not warm, not cold, not comforting, not painful. A low hum. It kept her moving and it destroyed the most dangerous thing she ever encountered.
+**Then the last movement:** something underneath everything that was taken is still present. Not warm, not cold, not comforting, not painful. It kept her moving and it finished the most dangerous thing she ever encountered.
 
 **The text does NOT name it.** It exists beneath language.
 
-**Final line direction:** not a twist, not a revelation, not hope and not despair. A statement of presence. Something like:
+**And the ambiguity is the point.** The text refuses to say how much of Iris is there. Not survival-and-hollowed, not death, not recovery. **The ambiguity must come from what Iris does, not from the prose withholding** — no coy narration, no cutting away, no final line engineered to be unreadable. Show her completely and let the reader be unable to tell.
 
-She sits. She breathes. The silence holds.
-And inside it — still here.
+**Final line direction:** not a twist, not a revelation, not hope and not despair. A statement of presence.
 
 **The reader closes the book carrying the same question Iris carries: is what remains enough? The text doesn't answer.**

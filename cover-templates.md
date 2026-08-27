@@ -58,9 +58,9 @@ These generate the full wrap background art. The front cover area is where you c
 Dark biomechanical full book cover wrap (back cover, spine, front cover as one continuous image), HR Giger inspired. Extreme darkness — near-black background. Organic-mechanical tendrils, filaments, and cable-like structures frame the edges, emerging from shadows. Wet, glistening surfaces. Textures alternate between smooth bone-like ceramic and fibrous organic tissue. The structures are dense at the edges and thin toward the center, leaving the right half (front cover area) more open for an overlaid image. The left half (back cover) is heavier with biomechanical detail — ribbed columns, porous surfaces, dark filament networks. The spine area is a narrow vertical channel of intertwined tendrils. Near-monochrome — desaturated greens and browns barely visible in the black. No text. No figures. Industrial horror aesthetic. Damp. Cold. The feeling of something that just emerged from a sealed facility. Aspect ratio approximately 1.5:1 horizontal.
 ```
 
-### Book 2 — The Keeping
+### Book 2 — The Ending
 
-**Background mood:** Before. Clinical becoming organic. This is the earliest book chronologically and the art should read that way: a clean engineered system with something growing through it. Sterility contaminated rather than ruin exposed.
+**Background mood:** Clinical becoming organic. A clean engineered system with something growing through it — sterility contaminated rather than ruin exposed. **Note:** this brief was written when Book 2 was a prequel and "the earliest book chronologically." It no longer is; it is a sequel, and the origin material inside it is recovered rather than lived. The imagery still holds, because the Meridian material is what the cover is for, but the book is no longer "before."
 
 ```
 Dark biomechanical full book cover wrap (back cover, spine, front cover as one continuous image), HR Giger inspired. Very dark, but the darkness is clean rather than decayed — deep charcoal and cold clinical grey with faint sterile blue undertones. The composition is built on engineered geometry: smooth panels, regular seams, containment channels, laboratory architecture rendered in near-black. Growing through and over that geometry are fine organic filaments and soft tissue-like membranes, pale and translucent, spreading along the seams where they were never meant to be. The organic material is delicate and new, not monstrous — early growth, barely established. The right half (front cover area) remains more open for an overlaid image. The left half (back cover) shows the engineered structure most clearly, with the organic spread thickening toward the spine. The spine is a vertical seam with pale filaments running its length. The feeling is a sealed clean room with something quietly alive in it. Near-monochrome, cold, no warmth anywhere. No text. No figures. Aspect ratio approximately 1.5:1 horizontal.
@@ -80,7 +80,7 @@ Dark biomechanical full book cover wrap (back cover, spine, front cover as one c
 
 ### Front Cover
 - **Series name:** "WEEPING WILLOW" — top area, within safe zone
-- **Subtitle:** "The Absence" / "The Keeping" / "The Silence" — below series name
+- **Subtitle:** "The Absence" / "The Ending" / "The Silence" — below series name
 - **Author name:** Bottom area, within safe zone
 
 ### Spine (top to bottom, rotated)
@@ -121,23 +121,23 @@ Given the dark gothic aesthetic:
 >
 > And it's still hungry.
 
-### Book 2 — The Keeping
+### Book 2 — The Ending
 
-*(Prequel. Written to be read second.)*
+*(Sequel. Rewritten 2026-08-27; the prequel-era copy is dead. "The Keeping" was retired with the prequel arc.)*
 
-> Before the sealed facility. Before Iris Vale. Before any of it had a name.
+> The people who came back different are starting to die.
 >
-> Dr. Marin Halloway helped build a treatment that takes the pain out of a memory and leaves the memory behind. It works. She knows it works, because she recommended it to her younger sister, and she watched it work, and afterward Willow was calm and agreeable and easier than she had ever been in her life.
+> Not killed, exactly. They stop eating. They walk into traffic. They do not seek treatment, because nothing in them objects to anything anymore.
 >
-> Four months later Willow drowned. The report says accident. Marin has no way to know whether the thing she took out of her sister is what let her walk into the water.
+> Iris Vale came out of Meridian Neurological with something removed and a pattern she could not finish reading. Now Daniel Kade has opened the crates he moved the week the building went dark, and Iris does the only thing she has ever been good at. She recovers the data.
 >
-> The system still holds the map. Every structure Willow had before the program touched her. The version that could still feel.
+> What comes off the drives is a researcher named Marin Halloway, a treatment that took the pain out of a memory and left the memory behind, and a younger sister who agreed to it.
 >
-> There is one limiter between Marin and it.
+> It worked. That is the problem.
 >
-> Somewhere across the city, a woman named Iris Vale is taking jobs, arguing with her sister, and feeling every ordinary thing there is to feel. She has never heard of Meridian Neurological.
+> And somewhere out there the thing in the building has decided its method is not producing the result it is for, so it is increasing the dose. And it has started going back to finish the jobs it left open.
 >
-> She has about a year.
+> Iris is an open job.
 
 ### Book 3 — The Silence
 

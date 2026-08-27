@@ -1,4 +1,4 @@
-Chapter 2 — Recovery
+Chapter 2 — Recovery (RETIRED — prequel arc)
 
 The hatch was where the site notes said it would be. That was the last thing about the job that matched the notes.
 

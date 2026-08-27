@@ -104,7 +104,9 @@ The completed face is Willow Halloway's. The horror runs backward from every oth
 
 ---
 
-## DECISION 5 — THE ENDING
+## DECISION 5 — HOW THE SERIES ENDS
+
+*(Heading renamed 2026-08-27 to avoid colliding with Book 2's title. This is Book 3's ending.)*
 
 **The Water, sprung by the Compulsion Trap.**
 
@@ -165,9 +167,42 @@ Why this and not a new character: the reader has already grieved him once, in Bo
 
 ---
 
-## OPEN QUESTIONS
+## OPEN QUESTIONS — RESOLVED 2026-08-27
 
-1. **Does "The Keeping" still title this book?** It was chosen for a prequel. It arguably fits better now: she keeps what she takes, and Book 1's "she chose to keep me" points straight at it. Retained provisionally.
+### 1. Does "The Keeping" still title this book? — **NO. Book 2 is "The Ending."** *(Set 2026-08-27.)*
+
+It was chosen for a prequel and does not carry over. Nothing downstream depends on it: act and chapter headings across the outline, briefs, and build script now use arc names, so setting the title is a one-line change in `build-manuscript.js` plus the front matter.
+
+**Shortlist, with the argument for each.** All are drawn from the new arc rather than the old one.
+
+| Candidate | The argument | The risk |
+|---|---|---|
+| **The Open Job** | It is the book's actual engine, stated in Iris's own professional vocabulary, and the last line of Ch14 is her writing herself onto the list. Cold, procedural, and it means two things at once. | Reads slightly technical on a spine next to *The Absence* and *The Silence*. |
+| **The Increase** | Names the thing that makes her a killer: a researcher escalating a dose that is not working. Sits beside *The Absence* well. | Abstract until you have read the book. |
+| **The Second Visit** | The midpoint, the ending, and the threat in three words. Most immediately frightening of the four. | The most conventional-horror of them, and the series has avoided that register. |
+| **The Keeping** *(incumbent)* | She keeps what she takes; Book 1's "she chose to keep me" points straight at it; and under the sequel it finally has a plot to attach to. | Chosen for a different book, and "keeping" undersells a book in which she starts killing people. |
+
+**DECIDED: *The Ending*.** None of the shortlisted candidates carried her turn to killing, which is the thing this book is actually about. *The Ending* does, in the series' own plain register: **she does not only take now. She ends people.**
+
+**It is a description of her method, not a promise about the series.** Book 3 is the finale. A middle book called *The Ending* is deliberately misdirecting, and the misdirection is the same trick the series plays everywhere else — *recovery*, *relief*, *failure to self-advocate*, words that sound like one thing and mean another.
+
+**The spine reads: The Absence → The Ending → The Silence.**
+
+**Watch for one thing at publication:** a middle book with this title can read to a browsing reader or a retailer as the series finale. Handle it in series metadata and back-cover copy ("Book Two of Weeping Willow"), not by changing the title.
+
+### 2. Does Lena stay untouched through Book 2? — **DECIDED: untouched, and located.**
+
+Lena is never approached in Book 2 and is never in physical danger in it. **But in Ch22's failed second visit, Willow reaches the empty place where Iris's love for her sister used to be and stops there**, because it is the only part of the structure that matches anything. She examines the shape of what is missing, which is the shape of a younger sister, and she is looking at it when she stops.
+
+**This is a plant, not a spend.** Book 3's midpoint targeting stays intact and gains a cause; the reader carries the knowledge for a whole book; and Iris, who registers it only as a duration, never works it out.
+
+**Nothing in Book 2 explains it.** No line comments on it. See `08-book2-chapter-briefs.md` → Ch22.
+
+### 3. POV of the Book 2 midpoint — **DECIDED at the brief pass: Caleb.**
+
+Book 1 Ch12 is the only chapter from his perspective and it is the one where he is emptied. Making his death the only other one is a rhyme worth taking, and it puts the mortality mechanism inside a person the reader knows rather than in a file.
+
+**The cost is real and is recorded in the brief:** post-Taking Caleb has almost no interiority, and 3,800 words of that is the hardest technical problem in the book. Fallback is Iris POV arriving afterward. Try the hard version first.
 
 ---
 
