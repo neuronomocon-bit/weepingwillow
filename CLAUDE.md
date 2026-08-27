@@ -134,53 +134,78 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-08-27)
 
-**All 22 Book 2 briefs are written, merged, and downstream-consistent. Drafting can start at Ch1. No prose has been written since Book 1 was published.**
+**Book 2 Ch1, Ch2 and Ch3 are drafted and pushed. 8,384 words. All three pass every mechanical gate.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place.
 
-**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter carrying three things the drafting depends on: the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize.
+**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter carrying the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize. Then `series-bible/14-audit-method.md` before auditing anything.
 
-### The brief-set collision, and how it resolved
+### Drafted
 
-Two complete, independent 22-brief sets were written for this arc in parallel sessions. **The set in `a5f0fd2` is the base and is the stronger of the two.** Four things were merged in from the other: the title, the Ch22 Lena plant, the Act III rename, and a worked prose example. The second set is archived at `series-bible/archive/arc-03-superseded/08-book2-chapter-briefs-SEQUEL-B.md`.
+| Ch | Title | Words | Budget | State |
+|---|---|---|---|---|
+| 1 | Aftermath | 2,936 | 3,400 | Awaiting author pass |
+| 2 | Mortality | 2,786 | 3,400 | Awaiting author pass |
+| 3 | The Files | 2,651 | 3,600 | Awaiting author pass |
 
-**Root cause worth remembering: a local checkout two commits behind.** Fetch before starting large planning work.
+### ⚠️ The open question the author should decide next
+
+**Act I is 2,027 words under budget across three chapters**, averaging 676 each. Every shortfall was diagnosed rather than padded, each diagnosis found something real, and **not once was the missing thing description** — it was a consequence, a payoff, or a beat the brief asked for and the draft skipped.
+
+Three in a row is a pattern. Carried across 22 chapters it lands the book near **61,000 against a 78,000 floor.**
+
+**Do not fix it by padding.** Either the per-chapter budgets are set high, or the drafting compresses scenes that should breathe. **Assess at the end of Act I with Ch1–Ch7 on the page.** Full table in `review-progress.md`.
+
+### What changed structurally this session
+
+- **No staging file.** `chapter_review.md` is retired and deleted. Chapters are drafted straight into `chapters-book2/NN-slug.md` and proofread in place. **`build-manuscript.js` picks up every numbered file there, so an unreviewed draft is in the export path** — read the chapter numbers it prints before exporting.
+- **Book 1 is locked** in `book1-published/`, reference-only. See the SCOPE section at the top of this file.
+- **Rules imported** from the NeonVeil books into `03-themes-and-tone.md`, and a new `14-audit-method.md` holds the method. **The central method is measuring Book 2 against published Book 1**, because reading Book 2 alone cannot find a voice defect — nothing in it is wrong.
+- **The archive was restructured** by when each thing died: `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`.
+
+### What the audit method has caught so far
+
+It earns its place. Live defects found by measuring against Book 1, not by reading:
+
+- **Typography.** The drafts were 100% straight-quoted against Book 1's 92% curly. Fixed; all three chapters are now clean.
+- **Indefinite pronouns.** Book 1 never says *somebody* / *nobody* / *anybody* / *everybody*. The drafts had thirteen. Narration now says *someone* and *no one*; **dialogue keeps the -body forms**, and all nine surviving instances are Kade or Rourke speaking.
+- **`no one` became the substitution tic**, one chapter after the law predicting exactly that was written down. Peaked at 7.0 per 10k against Book 1's 2.6, and counted as a family all three were one construction. Deleted rather than substituted. **Now 2.4. On the watch list at cap 2 per chapter.**
+- **`, which was X`** — the relative-clause coda. Book 1 has zero. It reappeared in every chapter and in several of the fixes for it.
+- **A continuity error in the Ch3 brief.** It said the crates were palletized six years ago; published Book 1 says three. Chapter and brief both corrected.
 
 ### Decisions in force
 
-Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · Book 3 ends with the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous.
+Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · Book 3 ends with the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous · **the title is "The Ending."**
 
-**Made while writing the briefs:**
-- **The investigation spine.** Kade's crates hold two media classes: the research archive (intact, filed under research identifiers) and the clinical index that maps identifiers to patients (badly degraded). Iris reads Marin's whole story for eleven chapters with a number where the name should be, and Ch15 is the join resolving. **This is what makes the name found rather than explained.** Ch4's drafted "Can you see it?" exchange is the plant and must be verified as strong enough to carry eleven chapters.
-- **Reallocation.** Seven Recovered chapters cannot hold six years, so Pell (Ch7), the shutdown (Ch3), the substrate's growth (Ch5), the read-only months (Ch17) and the reclassification form (Ch14) moved into Present chapters as facts Iris establishes through her profession.
-- **Ch11 staging, and it is Iris POV, not Caleb's.** He calls her — flat, no alarm, because a fact requires reporting. She drives, arrives after, and he is still alive and completely emptied. **He answers her questions about his own emptying, accurately, until he stops.** A hollow POV rendered from inside for a whole chapter was considered and rejected.
-- **Ch20's source.** Marin left a record before she went down, because documenting is the one thing she always did except for the two parameters she didn't. It licenses Ch20 and it is what Iris reads in Ch21.
+**From the brief pass:**
+- **The investigation spine.** Kade's crates hold two media classes: the research archive (intact, filed under research identifiers) and the clinical index that maps identifiers to patients (badly degraded, and now on a clock — Ch3 establishes that it is still corroding and is the only copy). Iris reads Marin's whole story for eleven chapters with a number where the name should be, and Ch15 is the join resolving. **This is what makes the name found rather than explained.**
+- **Reallocation.** Pell (Ch7), the shutdown (Ch3), the substrate's growth (Ch5), the read-only months (Ch17) and the reclassification form (Ch14) reach the reader through the Present thread as facts Iris establishes through her profession.
+- **Ch11 is Iris POV, not Caleb's.** He calls her, she arrives after, and he answers questions about his own emptying until he stops. A hollow POV rendered from inside for a whole chapter was considered and rejected.
+- **Ch20's source.** Marin left a record before she went down. It licenses Ch20 and it is what Iris reads in Ch21.
 - **Ch6 and Ch11 are two different escalations** — the dose and the return — discovered in that order and never conflated.
+- **The Ch22 Lena plant.** The place Willow's procedure will not return from is where Iris's love for her sister used to be, so that is where she gets stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.** Lena is never approached and is never in danger; she is *located*. **Nothing explains it, and Iris registers only a duration.**
 
-**Merged in 2026-08-27:**
-- **The title: "The Ending."** It names her turn to killing. "The Keeping" was chosen for the prequel and was retired with it. Act III renamed to FINISHING, since the old name was title-derived. Nothing else is keyed to the title.
-- **The Ch22 Lena plant.** The place Willow's procedure will not return from is where Iris's love for her sister used to be, so that is where she gets stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.** Lena is never approached and is never in danger; she is *located*. Book 3's midpoint now arrives caused. **Nothing explains it, and Iris registers only a duration.**
-
-### Drafted prose — disposition
+### Pending prose, held outside the working folder
 
 | File | Words | Status |
 |---|---|---|
-| `chapters-book2/04-intake.md` | 3,286 | **Portable** → Recovered R1, Ch4. Renumbered and moved 2026-08-27. Needs re-audit. |
-| `archive/drafts/DRAFT-sessions-ch8.md` | 3,387 | **Portable** → Recovered R2, Ch8. **Never author-proofread.** Archived out of the working folder 2026-08-27; move it to `chapters-book2/08-sessions.md` when it comes up. |
-| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | **Retired and moved out of `chapters-book2/`**, because `build-manuscript.js` was picking it up as chapter 2. Salvage assigned to Ch3, Ch5 and Ch19. |
+| `archive/drafts/DRAFT-intake-ch4.md` | 3,286 | **Ch4.** Approved under the *prequel* arc, never re-audited against the sequel gates. **Pending, not retired.** |
+| `archive/drafts/DRAFT-sessions-ch8.md` | 3,387 | **Ch8.** Never author-proofread. **Pending, not retired.** |
+| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | Retired. Salvage assigned to Ch3 (spent), Ch5 and Ch19. |
+
+Move a pending one to `chapters-book2/NN-slug.md` when it comes up, and re-audit it against the current gates first.
 
 ### Next work, in priority order
 
-1. **Draft Book 2 Ch1 — Aftermath.** Expand `archive/drafts/DRAFT-hunger-ch01-aftermath.md` (1,500 words) to 3,400, **by adding scene, not reflection.** That draft belongs to Book 2 Ch1, not Book 3 Ch1.
-2. **Re-audit the two portable chapters** (Ch4 Intake, Ch8 Sessions) against the current gates. Ch8 has never had an author pass.
-3. **Draft Act I forward** (Ch2, Ch3, Ch5, Ch6, Ch7), assessing length at the end of the act rather than per chapter.
-4. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`. The prequel-era set was archived rather than patched — salvage from `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` is expected to be high, but it is a rewrite, not an edit.
+1. **Ch4 — RECOVERED: Intake.** The first Marin chapter. A drafted version exists and needs a **re-audit, not a fresh draft**: check the research-identifier plant is strong enough to carry eleven chapters, that nothing assumes the reader has not met Iris, that it opens as a scene rather than as material, and that it meets the current hard rules, which post-date it.
+2. **Ch5 — Read**, then **Ch6** and **Ch7** to close Act I.
+3. **Assess Act I length** with all seven on the page.
+4. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`. Salvage from `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` is expected to be high, but it is a rewrite, not an edit.
 
-Items 5–7 of the previous list — the Book 3 outline rewrite, `02-characters.md`, and `10`/`11` — are **done**.
+### Open questions
 
-### Open questions — current position
-
-1. ~~**The title.**~~ **RESOLVED 2026-08-27: "The Ending."**
-2. ~~**Does Lena stay untouched through Book 2?**~~ **RESOLVED: untouched, and located on the last page.** Ch9 unchanged; Book 3's midpoint still has her intact to partially Take.
-3. **Does Iris learn who signed the reclassification form?** **Not in Book 2** — the signature is on the degraded index. She gets the decision and not the name. Available to Book 3, and the kind of thing Virek could tell her.
+1. ~~**The title.**~~ **RESOLVED: "The Ending."**
+2. ~~**Does Lena stay untouched through Book 2?**~~ **RESOLVED: untouched, and located on the last page.**
+3. **Does Iris learn who signed the reclassification form?** **Not in Book 2** — the signature is on the degraded index. Available to Book 3, and the kind of thing Virek could tell her.
+4. **NEW — the Act I length shortfall.** See above.
 
 ## Book 3 — "The Silence"
 
