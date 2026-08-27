@@ -71,3 +71,36 @@ Full reasoning and all seven decisions are in `../13-arc-revision.md`.
 - **`../../chapters-book2/01-intake.md`** (3,286 w) and the drafted **Ch3 "Sessions"** (3,387 w) are Marin/Meridian scenes and port directly into the new recovered thread as R1 and R2.
 - **`chapters-book2/02-recovery.md`** (2,855 w) is retired — it is built on intact pre-Book-1 Iris, who no longer appears. The flooded sub-level job inside it is worth salvaging as a present-day chapter.
 - `DRAFT-hunger-ch01-aftermath.md` now maps onto **new Book 2 Ch1**, not Book 3 Ch1. Same beat, and it moved forward a book.
+
+---
+
+# BOOK 2 RESET — 2026-08-27
+
+**Book 2 was reset to nothing and is being re-planned from the arc up.** Author decision. No prose had been written under the abandoned arc.
+
+## What happened
+
+A bible-rebuild session ran against attempt 3 (the sequel with a Recovered thread) and produced 22 briefs plus a full downstream rebuild. Partway through, it emerged that **the local checkout was two commits behind**: a parallel session had already written and pushed a complete, independent 22-brief set for the same arc. Two brief sets existed for one book.
+
+Rather than reconcile them, the decision was to reset Book 2 entirely.
+
+## Files added here in this reset
+
+| File | Was |
+|------|-----|
+| `08-book2-chapter-briefs-SEQUEL-A.md` | The pushed brief set (commit `a5f0fd2`). **The stronger of the two.** Its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris are reusable in almost any structure. |
+| `08-book2-chapter-briefs-SEQUEL-B.md` | The parallel brief set. Convergent on structure, different in emphasis. |
+| `06-book2-outline-SEQUEL.md` | The attempt-3 outline both sets were built from |
+| `DRAFT-intake.md` | Was `chapters-book2/01-intake.md`, 3,286 w, approved under the prequel arc |
+| `DRAFT-recovery.md` | Was `chapters-book2/02-recovery.md`, 2,855 w, retired |
+| `DRAFT-sessions.md` | Was in `chapter_review.md`, 3,387 w, never author-proofread |
+
+## Also preserved, outside this folder
+
+**Git branch `archive/bible-rebuild-2026-08-27`** holds the full downstream rebuild done against attempt 3: a rewritten Book 3 outline with a new ending, rebuilt subplot threading and dialogue notes, character-bible corrections, and the title "The Ending." **None of it is on main**, because all of it is downstream of the abandoned arc. Recover selectively once a new arc exists.
+
+## Current state
+
+`series-bible/06-book2-outline.md` is the entry point. It holds the fixed constraints from published Book 1, the full list of what is open, the three abandoned attempts with diagnoses, and the salvage inventory.
+
+`13-arc-revision.md` stays in place with a superseded banner rather than moving here, because its analysis of why the prequel failed is worth reading before a fourth attempt repeats the mistake.

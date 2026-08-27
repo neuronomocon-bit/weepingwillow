@@ -3,23 +3,33 @@
 ## What This Project Is
 
 A horror/sci-fi novel series called **Weeping Willow**. First three books:
-- **Weeping Willow: The Absence** (Book 1) — published
-- **Weeping Willow: The Keeping** (Book 2) — **sequel**, in planning
-- **Weeping Willow: The Silence** (Book 3) — planning
+- **Weeping Willow: The Absence** (Book 1) — **published** 2026-05-14
+- **Book 2** — **being re-planned from scratch.** No title, no outline, no arc. See below.
+- **Weeping Willow: The Silence** (Book 3) — outline and briefs exist but are **unstable**, because they were written against Book 2 arcs that no longer exist
 
-Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for future books, and Book 3's ambiguous ending is written to hold that door open.
+Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for future books.
 
-**Reading order is publication order, and chronological order now matches it:** The Absence → The Keeping → The Silence.
+---
 
-### Arc history — read this before changing structure
+## ⚠️ BOOK 2 WAS RESET ON 2026-08-27. READ THIS FIRST.
 
-**First pivot (2026-08-04):** Book 2 was "The Hunger," a direct sequel. It became a prequel dramatizing Willow's origin. The diagnosis was correct — the series' emotional bomb was being *reported* in one chapter of Virek talking in a cabin rather than dramatized.
+**Book 2 has been planned three times and abandoned three times. On 2026-08-27 it was reset to nothing and is being re-planned from the arc up.**
 
-**Second pivot (2026-08-26) — CURRENT.** The prequel was dropped. Book 2 is a **sequel** again, and the origin is delivered as fully dramatized Marin chapters that Iris **recovers off Meridian's drives**. This keeps the dramatization and discards the prequel's three costs: no forward carry (its entire cast appeared in no other book), dramatic irony as the sole engine across 70,000 words, and a Book 3 left carrying two books of plot.
+**`series-bible/06-book2-outline.md` is the single entry point.** It holds what is actually fixed, what is open, why each of the three attempts failed, and a full salvage inventory. Read it before proposing anything.
 
-**The same pivot made Willow a killer.** Full reasoning and all seven decisions are in `series-bible/13-arc-revision.md`. **Read that document before touching Book 2 or Book 3 structure.**
+**Do not build from `13-arc-revision.md`.** It records the third attempt and is now history. It is kept in place only because its analysis of why the prequel failed is worth reading before a fourth attempt repeats the mistake.
 
-Both superseded arcs are preserved in `series-bible/archive/` with a README explaining what moved where.
+**Nothing was deleted.** All three attempts, both brief sets from attempt 3, and all four drafted chapters are in `series-bible/archive/`. A full downstream rebuild done against attempt 3 is preserved on the git branch `archive/bible-rebuild-2026-08-27`.
+
+### Arc history — read this before proposing structure
+
+| | What it was | Why it was abandoned |
+|---|---|---|
+| **The Hunger** (to 2026-08-04) | Direct sequel. Origin revealed secondhand in one chapter. | The origin was *reported*, not dramatized — a chapter of a man talking in a cabin. Correct diagnosis. |
+| **The Keeping** (2026-08-04 to 08-26) | Prequel. Twelve Marin chapters plus six of intact pre-Book-1 Iris. | No forward carry, dramatic irony as the sole engine across 70,000 words, and a Book 3 left holding two books of plot. |
+| **Sequel + Recovered thread** (2026-08-26 to 08-27) | Sequel. Origin as seven dramatized chapters Iris recovers off the drives. Willow becomes a killer. | Abandoned by author decision before any prose was written. |
+
+**The pattern:** attempts 1 and 2 both failed on *where the origin goes*. Attempt 3 solved that and was dropped anyway. A fourth attempt should be explicit about whether the origin is the problem it is solving.
 
 ## Workflow
 
@@ -58,13 +68,13 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
 | `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
-| `06-book2-outline.md` | "The Keeping" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
-| `07-book3-outline.md` | "The Silence" — spread, selection, confrontation, destruction method, locked specifics |
-| `08-book2-chapter-briefs.md` | 22 briefs for the **sequel**, written 2026-08-26. Two-thread allocation, master timeline, the investigation spine, Willow's face progression. The prequel version is archived. |
-| `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot. Authoritative — outlines are rebuilt from it, not patched.** |
-| `09-book3-chapter-briefs.md` | 22 chapters, full scene breakdowns |
-| `10-subplot-threading.md` | 10 arcs tracked across all 66 chapters |
-| `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~15 key moments |
+| `06-book2-outline.md` | **THE BOOK 2 ENTRY POINT.** No outline currently. Holds the fixed constraints, the open decisions, why three attempts failed, and the salvage inventory. |
+| `07-book3-outline.md` | "The Silence" — **unstable.** Written against Book 2 arcs that no longer exist. Carries a warning. |
+| `08-book2-chapter-briefs.md` | **DOES NOT EXIST.** Two complete sets from attempt 3 are archived as `-SEQUEL-A.md` and `-SEQUEL-B.md`. |
+| `13-arc-revision.md` | The seven decisions of attempt 3. **SUPERSEDED — history, not instruction.** Kept for its analysis of why the prequel failed. |
+| `09-book3-chapter-briefs.md` | 22 chapters — **unstable**, prequel-era. |
+| `10-subplot-threading.md` | 10 arcs across 66 chapters — **unstable**, keyed to the prequel's chapter numbers. |
+| `11-key-dialogue-notes.md` | Scene-level dialogue direction — **unstable**, prequel-era Book 2 section. |
 | `12-chatgpt-system-prompt.md` | Ready-to-paste system prompt for ChatGPT + drift corrections |
 | `character-image-prompts.md` | DALL-E/ChatGPT image prompts — dark gothic painterly style, all 12 characters (16 prompts) |
 
@@ -165,99 +175,57 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 
 ---
 
-## Book 2 — "The Keeping" (SEQUEL)
+## Book 2 — RESET
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. Drafting can resume at Ch1. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
+**Status: no arc, no outline, no briefs, no prose.** Reset 2026-08-27 by author decision.
 
-**Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
+**Entry point: `series-bible/06-book2-outline.md`.** Everything about the current state lives there — the fixed constraints from published Book 1, the full list of what is open, the three abandoned attempts with diagnoses, and the salvage inventory.
 
-Meanwhile the entity's method is failing. It removes what breaks people and the remainder is still not what it is trying to build, so it increases the dose. Then it starts going back to finish jobs it left open. **Iris is an open job.**
+`review-progress.md` records exactly what moved where in the reset.
 
-**Threads: Present 15 chapters · Recovered 7 = 22**
+### What is fixed
 
-**The Recovered thread is the whole design, so get this right:** Marin's seven chapters are **full dramatized scenes** — third person past, complete interiority, no framing device *inside* the chapter. The recovery licenses their existence; it does not narrate them. No voiceover, no document formatting, no timestamps, no cutting back to Iris mid-scene. Iris ends a chapter opening a file, the next chapter is Marin whole, and Iris's next chapter carries the reaction.
+Only Book 1. It is published and its text is law: what was taken from Iris and what remains, her proximity sense, Caleb Taken but alive, Rourke's caseload with no recoveries, Kade's live access codes and the crates he moved, Meridian's unclean shutdown and deliberately spread sites, every environmental detail of Ch1, *"It's one,"* *"closer to Willow than anyone else alive,"* and the fact that **the name "Willow" appears only in Ch21–22, only in narration, and no character ever speaks it.**
 
-Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · The Limiter · The Last Session.**
+### What is open
 
-**Length: 78,000–85,000 words**, roughly 3,600 per chapter. Longer than the prequel target because this book now carries plot the prequel deferred. **A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+Everything else. Sequel or prequel or otherwise; whether the origin belongs in this book at all; whether the entity kills; whether Caleb dies; whether Lena is touched; the title; the length.
 
-**Key structural beats:** Caleb Ward dies at Ch11 (midpoint). Iris finds the name "Willow Halloway" at the Act II turn, Ch15. Marin's consumption is Ch20 and is the longest chapter. Ch22 is Willow returning to finish Iris and failing — the third refusal, which produces the frustration that makes her strategic in Book 3.
+### What survived the reset
 
-**What this book explains, and never states:**
-- Why the entity is called Willow — Iris **finds** the name, nobody explains it
-- Why she took Iris's love for Lena specifically — recognition, not collateral. Ch21 gets to within one step and stops.
-- What every environmental oddity in Book 1 Ch1 actually is
+The craft rules, which are not arc decisions:
 
-**Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
-
-**Book 2 hard audit gates (in addition to the standard passes):**
-0. **NO FRAGMENTATION.** Book 1's staccato voice does not carry into Book 2 in any form. Single-line fragment paragraphs are emphasis only, a few per chapter at most. Environmental description, physical sensation, and interiority are written in complete, joined, varied sentences. Highest risk: any Willow-adjacent passage, where a non-human perspective will tempt fragmentation, and any moment of grief or contact, where the instinct will be to break lines for weight. Read every page aloud. If it reads like a list, rewrite it.
-1. **No villainy.** Marin never does the wrong thing in a scene. If a chapter reads like a horror movie about a scientist, it fails.
-2. **No frame device inside a Recovered chapter.** They are scenes, not documents. The moment one opens with a timestamp or breaks to Iris mid-scene, the design has failed.
-3. **The reader must like Willow Halloway.**
-4. **Nobody explains the name.** Iris *finds* it in Ch15. That is not the same thing, and nobody ever explains it.
-5. **No appetite language for the entity.** Satisfaction is completion, not pleasure — never hunger, craving, relish, enjoyment, or savoring. Pleasure would make her a person who enjoys things; satisfaction keeps her a system.
-6. **Continuity locks from published Book 1** — see the table in `06-book2-outline.md`.
+- **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** in `series-bible/03-themes-and-tone.md`, unchanged and still binding for Book 2 onward. Book 1 is published and is never retro-edited to them.
+- **The four drafting lessons**, in `review-progress.md`. Run-on comma chains screened at the sentence rather than in a post-pass; the trailing explanatory sentence checked by hand; length drift fixed with fuller scenes rather than restored lines; and Book 1's register kept out. **These cost a rewrite every time they were missed and they are the most valuable thing to survive the reset.**
+- The punctuation conventions and the single-source-of-truth manuscript workflow.
 
 ---
 
-## WHERE WE LEFT OFF (2026-08-26, second session)
+## WHERE WE LEFT OFF (2026-08-27)
 
-**All 22 Book 2 briefs are written. Drafting can start at Ch1. No prose was written this session.**
+**Book 2 was reset to nothing. No prose has been written since Book 1 was published.**
 
-**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter that carries three things the drafting depends on (the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize). Behind it: `13-arc-revision.md` for the seven decisions and `06-book2-outline.md` for the structure.
+That session did three things, in order:
 
-**Decisions from the earlier session, all still in force:** Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · the ending is the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous.
+1. **Rebuilt the whole bible against attempt 3** — 22 briefs, a rewritten Book 3 outline, subplot threading, dialogue notes, character bible, and the title "The Ending."
+2. **Discovered a collision.** The local checkout was two commits behind: a parallel session had already written and pushed a complete 22-brief set for the same arc. Two independent brief sets existed for one book.
+3. **Reset Book 2 entirely**, at the author's direction, from the arc up.
 
-**Decisions made while writing the briefs:**
-- **The investigation spine.** Kade's crates hold two media classes: the research archive (intact, everything filed under research identifiers) and the clinical index that maps identifiers to patients (badly degraded). Iris reads Marin's whole story for eleven chapters with a number where the name should be, and Ch15 is the join resolving. **This is what makes the name found rather than explained.** Ch4's drafted "Can you see it?" exchange is the plant and must be verified as strong enough to carry eleven chapters.
-- **Reallocation.** Seven Recovered chapters cannot hold six years, so Pell, the shutdown, the substrate's growth, the read-only months and the reclassification form moved into Present chapters as facts Iris establishes through her profession.
-- **Ch11 staging.** Caleb calls her — flat, no alarm, because a fact requires reporting. She drives, arrives after, and **he is still alive and completely emptied.** He answers questions about his own ending until he stops.
-- **Ch20's source.** Marin left a record before she went down, because documenting is the one thing she always did except for the two parameters she didn't. It licenses Ch20 and it is what Iris reads in Ch21.
-- **Ch6 and Ch11 are two different escalations** — the dose and the return — discovered in that order and never conflated.
+**Nothing was lost.** Both brief sets, all three outlines, and all four drafted chapters are in `series-bible/archive/`. The full downstream rebuild is on the git branch `archive/bible-rebuild-2026-08-27` and is not on main, because all of it is downstream of the abandoned arc.
 
-**Drafted prose — disposition:**
-| File | Words | Status |
-|---|---|---|
-| `chapters-book2/01-intake.md` | 3,286 | **Portable** → Recovered chapter R1 (new Ch4) |
-| `chapters-book2/02-recovery.md` | 2,855 | **Retired** — built on intact pre-Book-1 Iris, who no longer appears. Salvage the flooded sub-level job as a present-day chapter. |
-| `chapter_review.md` (Ch3 — Sessions) | 3,387 | **Portable** → Recovered chapter R2 (new Ch8) |
+### Next work
 
-Neither portable chapter has been moved or renumbered yet. `chapter_review.md` still holds the old Ch3 draft.
-
-**Next work, in priority order:**
-1. ~~Write the 22 new Book 2 briefs~~ — **DONE 2026-08-26.** `series-bible/08-book2-chapter-briefs.md`, 12,600 words.
-2. ~~Rebuild `review-progress.md`~~ — **DONE.** All 22 chapters tracked with budgets.
-3. **Draft Book 2 Ch1 — Aftermath.** Expand `archive/DRAFT-hunger-ch01-aftermath.md` (1,500 words) to 3,400. **That draft belongs to Book 2 Ch1, not Book 3 Ch1** — the Book 3 note below is stale.
-4. **Re-audit the two portable chapters** (Ch4 Intake, Ch8 Sessions) against the new gates before they count as done. Ch8 has never had an author pass. Neither has been renumbered or moved.
-5. **Rewrite `07-book3-outline.md`** — new ending (compulsion trap + water), Willow's killer escalation, Virek's changed role (he is the only living person who could recognize her face), and shed whatever Book 2 absorbed.
-6. **Update `02-characters.md`** — Rourke is wrongly marked "Not present in Book 2," Caleb needs a death, Willow needs the satisfaction drive and the resolving face, Marin needs re-pointing to the seven Recovered chapters.
-7. **Update `10-subplot-threading.md` and `11-key-dialogue-notes.md`** — both keyed to the old structure.
-
-**Open questions — current position:**
-1. **"The Keeping" as the title.** Retained. It arguably fits a sequel better: she keeps what she takes, and Book 1's "she chose to keep me" points straight at it. No brief depends on it.
-2. **Does Lena stay untouched through Book 2?** **The briefs say yes,** and Ch9 is written on that basis. Book 3's midpoint partially Takes her and needs her intact to do it. Reversing this moves Ch9, Ch14, Ch21 and Book 3's midpoint.
-3. **Does Iris learn who signed the reclassification form?** Not in Book 2 — the signature is on the degraded index. Available to Book 3, and the kind of thing Virek could tell her.
-
-### ⚠ Book 3's outline is substantially pre-pivot — read before touching Book 3
-
-**The collision.** `07-book3-outline.md` Act I is currently Iris weeks on compensating with notes, Caleb functional and stable, Kade opening the post-shutdown files, and the Virek trace recovered from the Meridian data. **Book 2 now does all four**, and Caleb is dead at its midpoint. **Book 3's entire first act has been absorbed and needs rebuilding** from a new starting position: weeks after *Book 2*, Caleb gone, the origin already recovered, Virek's name already in Iris's hands.
-
-**Also stale in that file:** the ending is still "overload through contradiction / Willow comes apart like a failing system," superseded by the compulsion trap and the water · Iris's fate reads "alive, aware, and mostly gone," which is not the ambiguity Decision 6 requires · a "WHAT CHANGED WITH THE PREQUEL" section describing a retired arc · Virek written as thin, when Decision 4 made him the only living person who could recognize the face.
-
-**What survives untouched:** the irreducible core as drive rather than love or memory · Willow's final philosophy ("I remove what breaks you. What remains is correct") · Kade partially Taken on the page as the consequence of his own attempt · the city's contentment as the horror of Act III · the three things that never get answered.
-
-**Recommendation:** rewrite `07-book3-outline.md` before drafting Book 2 prose. It is the one remaining job that could still force changes back into the Book 2 briefs, and finding that out after ten chapters of prose is expensive.
-
----
+1. **Decide what Book 2 is.** Read `series-bible/06-book2-outline.md` first — the constraints, the three diagnoses, and the salvage inventory are all there. This is an authorial decision and is not Claude's to make alone.
+2. **Then** write the outline, then the briefs, then draft.
+3. **Do not fix the downstream bible documents yet.** `07-book3-outline.md`, `09-book3-chapter-briefs.md`, `10-subplot-threading.md`, `11-key-dialogue-notes.md`, `02-characters.md`, `01-world.md`, `12-chatgpt-system-prompt.md` and `cover-templates.md` all still describe attempt 2 or attempt 3. **Fixing them against a book that does not exist is what produced three rounds of churn.** They get one pass, after the arc is settled.
 
 ## Book 3 — "The Silence"
 
-**Status:** Planning complete. Outline in `series-bible/07-book3-outline.md`; 22 briefs in `series-bible/09-book3-chapter-briefs.md`.
+**Status: UNSTABLE.** Outline in `series-bible/07-book3-outline.md`; 22 briefs in `series-bible/09-book3-chapter-briefs.md`. **Both were written against Book 2 arcs that no longer exist, and Book 2 was reset on 2026-08-27.** Book 3 cannot be settled until Book 2 is. Read, do not build.
 
 Picks up weeks after Book 1. Absorbs the escalation material from the retired "Hunger" arc plus the original Book 3 endgame: Willow becomes strategic, the city misdiagnoses the spread and then welcomes it, Lena is partially Taken at the midpoint, Rourke breaks, Kade attempts containment alone and is partially Taken, and Iris opens herself completely so Willow reaches the one thing she cannot process.
 
-**Its engine is dramatic irony.** The reader finished the prequel and knows what Willow is. Iris never learns most of it. Do not let the prose reach for the reader's knowledge.
+**Its stated engine was dramatic irony** — the reader finishes Book 2 knowing what Willow is while Iris never learns most of it. **That depends entirely on what Book 2 turns out to be, and Book 2 no longer exists.** The craft rule underneath it survives regardless: do not let the prose reach for the reader's knowledge.
 
 **~~Ch1 salvage~~ — CLAIM WITHDRAWN 2026-08-26.** `archive/DRAFT-hunger-ch01-aftermath.md` belongs to **Book 2 Ch1**, which is the book that now opens weeks after The Absence. Book 3 opens weeks after *Book 2* and needs a different chapter. See the Book 3 warning above; this whole section predates the pivot.
 
@@ -312,6 +280,8 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 
 ### Book 2 (sequel) specific
 
+> **These were written for attempt 3 and name characters and devices that may not survive the reset** — Marin, the Recovered chapters, the deviation. **The craft instincts underneath them are sound and arc-independent:** no villain, no horror-movie beats in a workplace, no frame device swallowing a dramatized scene, no appetite language, no cruelty, no protagonist feeling what she cannot feel, no prose doing the reader's job, no symbol where a person should be, and nobody explaining the name. Re-point them once Book 2 exists.
+
 - **Marin written as a villain:** "She is not reckless, arrogant, or ambitious. She is competent and grieving. Every step is small and defensible. Rewrite so there is no scene where she does the wrong thing."
 - **The lab scene playing as horror:** "No flickering lights, no ominous readouts, no warning ignored for effect. The deviation is paperwork and an afternoon. Make it almost boring."
 - **The Recovered chapter behaving like a document:** "Delete the frame. No timestamp, no file header, no voiceover, no cutting back to Iris. This is a scene. The recovery licenses it existing; it does not narrate it."
@@ -326,9 +296,13 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 
 ### Book 2 canon (established 2026-08-04)
 
-> ⚠️ **The chapter numbers in this section are stale.** They refer to the archived prequel structure. The *facts* below — substrate parameters, character details, the deviation, the name — all remain canon and carry into the new Recovered thread. Chapter numbers get reassigned when `08-book2-chapter-briefs.md` is written. Under the new outline: Intake is Ch4, Sessions is Ch8, Calm Ch10, The Water Ch13, The Map Ch15, The Limiter Ch17, The Last Session Ch20.
+> ⚠️ **This section is invention, not canon, and Book 2 was reset on 2026-08-27.**
 >
-> Marin is no longer the POV protagonist of the book — she is the protagonist of the seven Recovered chapters. Iris carries the other fifteen.
+> None of it is published. It was developed for the prequel and carried into attempt 3, and **every chapter number in it refers to a structure that no longer exists.** Marin Halloway, Willow Halloway, Terri Roth, Dr. Feld, Pell, Raman, the substrate parameters, the deviation, the sealed years — **all of it is now optional.** A fourth attempt may keep it, rework it, or discard it.
+>
+> It is retained because it is good, internally consistent, and expensive to re-derive: the substrate parameters below are load-bearing for any version that keeps Meridian, and the rule that **nobody ever explains the name** should survive whatever else does.
+>
+> **The only Book 2 material that is genuinely locked is what published Book 1 already says.** That list is in `series-bible/06-book2-outline.md`.
 
 - **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. POV of the seven Recovered chapters. Consumed in the last of them. Never named in Books 1 or 3.
 - **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned four months later, report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
@@ -346,7 +320,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 - **The sealed years:** roughly three years alone. Year −3 to −2 forming; Year −2 to −0.5 excursions, with the fence cut from the inside and eighteen months of small takings across Lowport that resolve nothing; then still. Those takings are why Rourke already has a case category by Book 1 Ch6.
 - **The last Iris beat (Ch21):** an uneventful evening at Lena's. Iris feels the ordinary fact of loving her sister and does not mark it. Nothing in the chapter acknowledges that it is the last time.
 
-### Book 1 continuity locks the prequel must land
+### Book 1 continuity locks any Meridian-based Book 2 must land
 
 Cut fence ("not recently") · selective neglect, thin dust, no drifted paper · broad faint dust disruptions matching no maintenance route · standby power rising and falling, relays "not synchronized, not random either" · wall calendar stopped three years earlier · side service door, dead keypad, mechanical lock, bolt "louder than it should have been" · job ref MN-44-7 with redacted client · "Meridian didn't shut down clean" · multiple sites spread deliberately, "From themselves" · Kade's access codes never revoked · relay points and transfer points
 
