@@ -15,7 +15,7 @@ const {
   Tab,
 } = require("docx");
 
-const inputPath = process.argv[2] || "chapter_review.md";
+const inputPath = process.argv[2] || "manuscript-book2.md";
 const outputPath = process.argv[3] || "WeepingWillow_TheAbsence_v2.docx";
 
 const raw = fs.readFileSync(inputPath, "utf8");

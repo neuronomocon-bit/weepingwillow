@@ -111,7 +111,7 @@ Book 1 published (23,322 words) against the two drafted Book 2 chapters (6,853 w
 
 ## HOW TO RUN THE COMPARISON
 
-No script is committed to this repo yet. The measurement is a short throwaway that reads `chapters/*.md` against `chapters-book2/*.md` and `chapter_review.md`, strips chapter and act headers, and reports raw counts plus per-10k rates for a list of patterns.
+No script is committed to this repo yet. The measurement is a short throwaway that reads `chapters/*.md` against `chapters-book2/*.md`, strips chapter and act headers, and reports raw counts plus per-10k rates for a list of patterns.
 
 **What to measure, at minimum:** the pattern lists in the baseline table above · repeated 3-to-6 word phrases occurring three or more times across two or more chapters · the most repeated three-word sentence openings · em dashes per 1,000 words · quote and apostrophe style · the coda forms.
 
@@ -125,7 +125,7 @@ No script is committed to this repo yet. The measurement is a short throwaway th
 
 **This project's oldest failure mode, and it has already happened here once.**
 
-Book 1 kept the whole manuscript in `chapter_review.md` *alongside* the individual chapter files. Every fix had to be applied twice, and the Book 1 review notes record exactly that. **Two copies is how one of them silently goes stale.** It was fixed by making `chapters-book2/NN-slug.md` the single source of truth.
+Book 1 kept the whole manuscript in a review file *alongside* the individual chapter files. Every fix had to be applied twice, and the Book 1 review notes record exactly that. **Two copies is how one of them silently goes stale.** It was fixed by making `chapters-book2/NN-slug.md` the single source of truth.
 
 **The same risk now sits in the "As Written" blocks.** They quote the prose verbatim, in the briefs, and nothing re-verifies them. On the other project a sweep changed a line that the continuity file carried as locked, and five recorded quotes no longer existed in the manuscript.
 

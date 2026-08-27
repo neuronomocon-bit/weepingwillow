@@ -65,18 +65,24 @@ The pre-merge state of that session's wider work is on the git branch **`archive
 
 ---
 
-## `drafts/` — prose from retired arcs
+## `drafts/` — prose that is still live
 
-**This is the only folder here with live value.** Both files are assigned salvage for chapters that have not been drafted yet.
+**This is the only folder here with live value, and it holds two different kinds of thing.**
+
+**Pending chapters** are finished prose for the current arc, waiting on an author pass. They are not retired and they belong in `chapters-book2/` the moment they come up.
+
+**Salvage** is prose from dead arcs whose *material* is assigned forward to chapters not yet drafted.
 
 | File | Words | Assigned to |
 |---|---|---|
 | `DRAFT-hunger-ch01-aftermath.md` | ~1,500 | **Book 2 Ch1.** A near-exact match for the brief. Wants roughly 1,900 more words, taken from the apartment and the drive, **not** from the Caleb scene, whose flatness is doing the work. |
+| `DRAFT-sessions-ch8.md` | 3,387 | **Book 2 Ch8. PENDING, not retired.** Drafted 2026-08-06, never author-proofread. Move it to `chapters-book2/08-sessions.md` when it comes up, after a re-audit against the current gates. |
+| `DRAFT-intake-ch4.md` | 3,286 | **Book 2 Ch4. PENDING, not retired.** Approved 2026-08-04 under the *prequel* arc and never re-audited against the sequel gates. Taken out of `chapters-book2/` on 2026-08-27 so the working folder holds only chapters drafted under the current arc. Its "As Written" block is in `arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1. |
 | `DRAFT-prequel-ch02-recovery.md` | 2,855 | **Ch3** (crate and manifest physicality), **Ch5** (the wet-drive procedure, the ninety-minute bridge, the dead-credential authentication), and **Ch19** (the R. Oyelaran material — a thorough man ignored who went on being thorough anyway — reused as the shape of Virek's closed ticket). |
 
 `DRAFT-prequel-ch02-recovery.md` was moved out of `chapters-book2/` on 2026-08-27 because `build-manuscript.js` picks up every numbered file in that folder and was building the retired draft into the manuscript as chapter 2. **Retired drafts do not live in `chapters-book2/`.**
 
-Two drafts from the current arc are **not** here, because they are live: `chapters-book2/04-intake.md` (Ch4) and the Sessions draft staged in `chapter_review.md` (Ch8).
+`chapters-book2/` now holds only chapters drafted under the current arc and reviewed in place. **Ch1 — Aftermath is the first.**
 
 ---
 

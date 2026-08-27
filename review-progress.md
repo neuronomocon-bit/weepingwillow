@@ -2,7 +2,11 @@
 
 **Arc reset: 2026-08-26** (second reset; the first was 2026-08-04)
 
-Tracking each chapter of Book 2 from draft through review. Claude drafts each chapter from the briefs in `series-bible/08-book2-chapter-briefs.md` into `chapter_review.md`; the author proofreads/edits. After approval, an "As Written" block is added to the brief and the final is saved to `chapters-book2/`.
+Tracking each chapter of Book 2 from draft through review.
+
+**Workflow, changed 2026-08-27: there is no staging file.** Claude drafts each chapter from the briefs in `series-bible/08-book2-chapter-briefs.md` **straight into `chapters-book2/NN-slug.md`**. The author proofreads and edits **in place**. The file does not move on approval; an "As Written" block is added to the brief.
+
+**⚠️ `build-manuscript.js` picks up every numbered file in `chapters-book2/`**, so an unreviewed draft is inside the export path. Read what the build reports before exporting.
 
 Book 1 — "The Absence" is complete and published (2026-05-14). Its review history is preserved in CLAUDE.md and git.
 
@@ -56,15 +60,15 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | — | — |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,938** | **awaiting author pass** |
 | 2 | Mortality | Iris/Rourke | 3,400 | — | — |
 | 3 | The Files | Iris/Kade | 3,600 | — | — |
-| 4 | **RECOVERED: Intake** | Marin | 3,600 | PORTABLE 3,286 | needs re-audit |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | PENDING 3,286 · in `archive/drafts/` | needs re-audit + author pass |
 | 5 | Read | Iris | 3,600 | — | — |
 | 6 | Too Much | Iris | 3,400 | — | — |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
 | **ACT II — THE PROTOCOL** | | | | | |
-| 8 | **RECOVERED: Sessions** | Marin | 3,800 | PORTABLE 3,387 | needs re-audit |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | PENDING 3,387 · in `archive/drafts/` | needs re-audit + author pass |
 | 9 | Lena | Iris/Lena | 3,600 | — | — |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
@@ -81,7 +85,9 @@ Checked on every chapter of this book in addition to the standard passes:
 | 21 | Why Lena | Iris | 3,600 | — | — |
 | 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
 
-Legend: `—` not started · `WIP` in progress · `PORTABLE` drafted under the old arc, carries forward · `DONE` complete
+Legend: `—` not started · `WIP` in progress · `PENDING` drafted, held in `series-bible/archive/drafts/`, not yet in the working folder · `DONE` complete
+
+**Only chapters drafted under the current arc live in `chapters-book2/`.** Ch1 is the first.
 
 ---
 
@@ -93,7 +99,7 @@ Two chapters written under the prequel arc survive because they are Marin/Meridi
 
 Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc. Needs a re-audit against the new gates before it counts as done — particularly the frame rule (it was written as a standalone opening chapter, not as recovered material) and whether anything in it assumes the reader has not met Iris yet.
 
-**Ch8 — RECOVERED: Sessions** · 3,387 words · in `chapter_review.md`, **retitled to Ch8 on 2026-08-27**
+**Ch8 — RECOVERED: Sessions** · 3,387 words · **at `series-bible/archive/drafts/DRAFT-sessions-ch8.md`**. **Pending, not retired.** Never author-proofread. Move it to `chapters-book2/08-sessions.md` when it comes up for its pass, and re-audit it against the current gates first.
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld introduced; Raman first named; the substrate parameters established as furniture. Drafted 2026-08-06, **never author-proofread** — it was awaiting a proofread when the arc was re-examined. Same re-audit needed.
 

@@ -1,8 +1,14 @@
 Approved Book 2 chapter files are saved here after review (parallels Book 1's `chapters/` folder).
 
-**These files are the single source of truth.** Every correction goes here and only here. `chapter_review.md` is a staging file holding one chapter at a time and is cleared on approval. To read the book straight through run `node build-manuscript.js`; the artifact is gitignored and is never hand-edited.
+**These files are the single source of truth, and they are where chapters are drafted, reviewed and kept.** Every correction goes here and only here.
 
-**Only approved chapters live here, and filenames are `NN-slug.md` where NN is the final chapter number.** `build-manuscript.js` picks up every numbered file in this folder, so a retired or superseded draft left here gets built into the manuscript. Retired drafts go to `series-bible/archive/`.
+**There is no staging file (changed 2026-08-27).** Claude drafts straight into this folder; the author proofreads in place; the file does not move. `chapter_review.md` is retired.
+
+**⚠️ `build-manuscript.js` picks up every numbered file here**, so an unreviewed draft is inside the export path. It prints the chapter numbers it found on every run. Read that line before exporting.
+
+To read the book straight through run `node build-manuscript.js`; the artifact is gitignored and is never hand-edited.
+
+**Filenames are `NN-slug.md` where NN is the final chapter number.** `build-manuscript.js` picks up every numbered file in this folder, so a retired or superseded draft left here gets built into the manuscript. Retired drafts go to `series-bible/archive/`.
 
 **Book 2 is "The Ending"** — a sequel (second pivot, 2026-08-26; title set 2026-08-27). It opens weeks after The Absence, and the origin arrives as seven dramatized Marin chapters that Iris recovers off Meridian's drives.
 

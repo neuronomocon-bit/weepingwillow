@@ -25,15 +25,17 @@ Both superseded arcs are preserved in `series-bible/archive/` with a README expl
 
 - **Claude** handles: planning, scaffolding, series bible, chapter drafting (Book 2 onward), chapter review/audit, continuity tracking
 - **Book 1** prose was drafted by ChatGPT. As of Book 2 (2026-05-14), ChatGPT was dropped — it could not reliably hold the prose hard rules — and **Claude drafts the chapters directly.** The ChatGPT system prompt is archived at `series-bible/archive/superseded-tooling/`. **It duplicated the prose rules, which is how one copy goes stale;** `03-themes-and-tone.md` is now the only source for them.
-- **Process:** Claude drafts a chapter into `chapter_review.md` → author proofreads/edits → on approval the final is saved to `chapters-book2/` and an "As Written" block is added to the brief.
+- **Process (changed 2026-08-27):** Claude drafts a chapter **straight into `chapters-book2/NN-slug.md`** → author proofreads and edits **in place** → the file stays where it is and an "As Written" block is added to the brief. **There is no staging file.** `chapter_review.md` is retired.
 
 ### Manuscript files — single source of truth (changed 2026-08-04)
 
 **`chapters-book2/NN-slug.md` is canonical.** Every correction goes there and only there.
 
-`chapter_review.md` is a **staging file holding one chapter at a time.** It is cleared on approval. It is not an accumulating manuscript.
+**There is no staging file (changed 2026-08-27).** A chapter is written into `chapters-book2/` and reviewed there. `chapter_review.md` is retired and gone.
 
-This is a deliberate change from Book 1, where `chapter_review.md` held the whole running manuscript *alongside* the individual chapter files. That meant every fix had to be applied twice, and the Book 1 review notes record exactly that ("fixes applied to both `chapters/` files and `chapter_review.md`"). Two copies is how one of them silently goes stale.
+**⚠️ The tradeoff, stated plainly:** `build-manuscript.js` picks up every numbered file in `chapters-book2/`, so an in-progress draft is now inside the export path. **Check what the build reports before exporting anything** — it prints the chapter numbers it found on every run.
+
+This is a deliberate change from Book 1, where a review file held the whole running manuscript *alongside* the individual chapter files. That meant every fix had to be applied twice, and the Book 1 review notes record exactly that ("fixes applied to both `chapters/` files and `chapter_review.md`"). Two copies is how one of them silently goes stale. **Removing the staging file removes the last place a second copy could live.**
 
 **To read the book straight through, or to export:**
 
@@ -165,7 +167,7 @@ Reviewing individual chapter files against briefs, audit notes, and conventions.
 - Deep audit: complete (2026-04-08)
 - Chapter file review: complete (2026-04-10)
 - Published: 2026-05-14
-- Canonical Book 1 manuscript: individual files in `chapters/` plus the docx exports. `chapter_review.md` has been cleared and now holds the Book 2 working manuscript.
+- Canonical Book 1 manuscript: individual files in `chapters/` plus the docx exports. **`chapters/` is Book 1 and is published — it is never used for Book 2 and is never edited.**
 
 ---
 
@@ -237,7 +239,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 | File | Words | Status |
 |---|---|---|
 | `chapters-book2/04-intake.md` | 3,286 | **Portable** → Recovered R1, Ch4. Renumbered and moved 2026-08-27. Needs re-audit. |
-| `chapter_review.md` (Ch8 — Sessions) | 3,387 | **Portable** → Recovered R2, Ch8. Retitled 2026-08-27. **Never author-proofread.** |
+| `archive/drafts/DRAFT-sessions-ch8.md` | 3,387 | **Portable** → Recovered R2, Ch8. **Never author-proofread.** Archived out of the working folder 2026-08-27; move it to `chapters-book2/08-sessions.md` when it comes up. |
 | `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | **Retired and moved out of `chapters-book2/`**, because `build-manuscript.js` was picking it up as chapter 2. Salvage assigned to Ch3, Ch5 and Ch19. |
 
 ### Next work, in priority order
@@ -269,7 +271,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 ## How to Review a Chapter
 
-When user says a chapter is in `chapter_review.md`:
+When the user says a chapter is ready to review (it will be in `chapters-book2/`):
 
 1. Read the chapter
 2. Read the corresponding brief in `series-bible/05-book1-chapter-briefs.md` (or 08/09 for Books 2/3)

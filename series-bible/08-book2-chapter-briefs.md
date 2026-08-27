@@ -271,7 +271,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 ### Chapter 4 — RECOVERED: Intake
 
-**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words, `chapters-book2/04-intake.md`**
+**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words, `archive/drafts/DRAFT-intake-ch4.md`**
 **Location:** Meridian Neurological, Lowport coast. Reception, intake suite, the corridor after.
 **Goal:** Establish the program as legitimate and working, and introduce both sisters through the act of one admitting the other. **The reader must like Willow Halloway immediately, and must believe the science. Both are load-bearing.**
 
@@ -381,7 +381,7 @@ Kade asks what that makes it. She says it makes it a method.
 
 ### Chapter 8 — RECOVERED: Sessions
 
-**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **Drafted: 3,387 words, `chapter_review.md`**
+**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **Drafted: 3,387 words, `archive/drafts/DRAFT-sessions-ch8.md`**
 **Location:** Meridian. Session rooms, the observation side, the substrate lab on the lower level.
 **Goal:** Show the treatment working, show what working costs, and establish Virek, the substrate, and the limiter as ordinary operational facts.
 
@@ -406,7 +406,7 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**Status: drafted 2026-08-06, never author-proofread.** It was awaiting a proofread when the arc was re-examined. Needs the same re-audit as Ch4 plus a full author pass. The known catch from the drafting notes, already fixed once and worth re-checking: *"Marin thought so at the time and would have said so if anybody had asked her"* — both halves point forward and signal that this gets revisited. Cut to *"It was a good answer."*
+**Status: drafted 2026-08-06, never author-proofread.** Held at `archive/drafts/DRAFT-sessions-ch8.md`. **It is pending, not retired** — move it into `chapters-book2/08-sessions.md` when it comes up for its author pass. It was awaiting a proofread when the arc was re-examined. Needs the same re-audit as Ch4 plus a full author pass. The known catch from the drafting notes, already fixed once and worth re-checking: *"Marin thought so at the time and would have said so if anybody had asked her"* — both halves point forward and signal that this gets revisited. Cut to *"It was a good answer."*
 
 ---
 
