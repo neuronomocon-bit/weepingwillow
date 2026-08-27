@@ -61,8 +61,8 @@ Checked on every chapter of this book in addition to the standard passes:
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,936** | **awaiting author pass** |
-| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,801** | **awaiting author pass** |
-| 3 | The Files | Iris/Kade | 3,600 | — | — |
+| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,786** | **awaiting author pass** |
+| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,651** | **awaiting author pass** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | PENDING 3,286 · in `archive/drafts/` | needs re-audit + author pass |
 | 5 | Read | Iris | 3,600 | — | — |
 | 6 | Too Much | Iris | 3,400 | — | — |
@@ -128,6 +128,21 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 **3. Length drift.** Every chapter so far has landed under budget — Ch1 at 3,286 against 3,800, Ch2 at 2,855 against 3,200, Ch3 at 3,387 against 3,800. The cuts were correct every time and nothing was restored, so the fix is fuller scenes at the drafting stage rather than restoring cut lines. Assess at the end of each act rather than padding individual chapters.
 
 **4. Book 1 register leaking in.** Scan every chapter for "she noted," "she registered," "Expected/Observed," and "the absence of." Ch2 was scanned clean. **This gate is now harder, not easier:** Iris is flat in this book, and her Book 1 voice will be actively tempting. Flat affect is not the same as fragmented prose. She observes in complete sentences.
+
+---
+
+## ⚠️ LENGTH — three chapters in, a consistent shortfall
+
+| Ch | Budget | Drafted | Under |
+|---|---|---|---|
+| 1 | 3,400 | 2,936 | 464 |
+| 2 | 3,400 | 2,786 | 614 |
+| 3 | 3,600 | 2,651 | 949 |
+| **Act I so far** | **10,400** | **8,373** | **2,027** |
+
+Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **But three in a row averaging 676 under is a pattern, not three coincidences.** Carried across 22 chapters it lands the book near 61,000 against a 78,000 floor.
+
+**Do not fix this by padding.** Two live possibilities: the per-chapter budgets are set high, or the drafting is compressing scenes that should breathe. **Assess at the end of Act I**, with Ch1 through Ch7 on the page, which is what the length rule already says to do.
 
 ---
 
