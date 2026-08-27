@@ -16,7 +16,7 @@ On the other series this single method found **four separate defects** — a who
 
 **It has already found two in Weeping Willow, on the day it was adopted.** See MEASURED BASELINES below.
 
-**Book 1 is the authority.** 22 chapters, 23,322 words, published and unchanged. Every question of the form *"is this the series' voice or this book's habit?"* is answered by counting both.
+**Book 1 is the authority.** 22 chapters, 23,322 words, published and unchanged, **locked in `book1-published/`.** ⚠️ **This measurement is why that folder must never be edited.** A "fix" applied to Book 1 destroys the fixed point every comparison depends on. Every question of the form *"is this the series' voice or this book's habit?"* is answered by counting both.
 
 ---
 
@@ -111,7 +111,7 @@ Book 1 published (23,322 words) against the two drafted Book 2 chapters (6,853 w
 
 ## HOW TO RUN THE COMPARISON
 
-No script is committed to this repo yet. The measurement is a short throwaway that reads `chapters/*.md` against `chapters-book2/*.md`, strips chapter and act headers, and reports raw counts plus per-10k rates for a list of patterns.
+No script is committed to this repo yet. The measurement is a short throwaway that reads `book1-published/chapters/*.md` against `chapters-book2/*.md`, strips chapter and act headers, and reports raw counts plus per-10k rates for a list of patterns.
 
 **What to measure, at minimum:** the pattern lists in the baseline table above · repeated 3-to-6 word phrases occurring three or more times across two or more chapters · the most repeated three-word sentence openings · em dashes per 1,000 words · quote and apostrophe style · the coda forms.
 

@@ -1,4 +1,6 @@
-Approved Book 2 chapter files are saved here after review (parallels Book 1's `chapters/` folder).
+Book 2 chapter files. **This is the active manuscript folder and the only one being worked on.**
+
+Book 1 is published and locked in `book1-published/`. It is read for context and never edited.
 
 **These files are the single source of truth, and they are where chapters are drafted, reviewed and kept.** Every correction goes here and only here.
 

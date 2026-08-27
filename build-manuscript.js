@@ -21,8 +21,10 @@ const path = require("path");
 
 const BOOKS = {
   book1: {
+    // Book 1 is published and LOCKED. It lives in book1-published/ and is
+    // reference-only: read it, measure against it, export it. Never edit it.
     title: "Weeping Willow: The Absence",
-    dir: "chapters",
+    dir: "book1-published/chapters",
     out: "manuscript-book1.md",
     // Book 1 is published. Act headers were deliberately kept out of the
     // chapter files and are not reinserted here.

@@ -3,7 +3,7 @@
 ## What This Project Is
 
 A horror/sci-fi novel series called **Weeping Willow**. First three books:
-- **Weeping Willow: The Absence** (Book 1) — published
+- **Weeping Willow: The Absence** (Book 1) — **published 2026-05-14. Locked in `book1-published/`, reference-only.**
 - **Weeping Willow: The Ending** (Book 2) — **sequel**, briefs complete, drafting next
 - **Weeping Willow: The Silence** (Book 3) — planning
 
@@ -20,6 +20,14 @@ Series name is "Weeping Willow" — NOT "trilogy." Keeps the door open for futur
 **The same pivot made Willow a killer.** Full reasoning and all seven decisions are in `series-bible/13-arc-revision.md`. **Read that document before touching Book 2 or Book 3 structure.**
 
 Both superseded arcs are preserved in `series-bible/archive/` with a README explaining what moved where.
+
+## ⚠️ SCOPE — work on Book 2 only
+
+**The active work is Book 2 and its folder.** `chapters-book2/`, `series-bible/`, `review-progress.md`.
+
+**Book 1 is locked in `book1-published/` and is read for context, never edited.** Book 3 has an outline and no briefs and is not being drafted.
+
+---
 
 ## Workflow
 
@@ -58,8 +66,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `01-world.md` | Setting (Lowport, Maine, ~2050), tech, Meridian origin, atmosphere, public awareness arc |
 | `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Marin, Willow Halloway, Virek, Feld, Terri, Raman, Pell, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
 | `03-themes-and-tone.md` | Thematic pillars, tone rules, **SENTENCE VARIETY**, **PROSE CONVENTIONS (HARD RULES)**, POV registers, and the rules imported 2026-08-27. **The single source for the prose rules.** |
-| `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
-| `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks |
+| *04, 05 — moved* | Book 1's outline and chapter briefs are in **`book1-published/`**. Reference-only. |
 | `06-book2-outline.md` | "The Ending" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — **rewritten 2026-08-27.** New ending (compulsion trap, then the water), Willow's killer escalation, Virek's recognition function |
 | `08-book2-chapter-briefs.md` | **All 22 Book 2 briefs.** Master timeline, the investigation spine, Willow's face progression, the audit gates. Merged from two independent sets 2026-08-27. |
@@ -70,106 +77,24 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot, plus the three open questions resolved 2026-08-27. Authoritative — outlines are rebuilt from it, not patched.** |
 | `14-audit-method.md` | **How defects are found**, as distinct from what the prose must do. The cross-book comparison method, the seven laws of counting, the measured Book 1 baselines, the locked-line list. Imported 2026-08-27 from the author's other series. |
 | `character-image-prompts.md` | DALL-E/ChatGPT image prompts — dark gothic painterly style, all 12 characters (16 prompts) |
+| `book1-published/` | **Book 1, locked.** Chapters, exports, outline, briefs, and its full review history. Read for context; never edit. |
 | `archive/` | Every superseded arc, retired draft, and dropped tool. **Organised by when it died** — `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`. Read `archive/README.md` first; it explains why each arc failed. |
 
 **Numbering gaps at 09 and 12 are deliberate.** The numbers are stable identifiers referenced across the bible, so an archived file leaves its slot empty rather than causing a renumber.
 
-## Writing Progress
+## Book 1 — The Absence: PUBLISHED AND LOCKED
 
-**Chapters written and reviewed:**
-- Book 1 Ch1 — The Gap ✅
-- Book 1 Ch2 — Caleb Ward ✅
-- Book 1 Ch3 — The First Case ✅
-- Book 1 Ch4 — Lila Mercer ✅
-- Book 1 Ch5 — Kade ✅
-- Book 1 Ch6 — Rourke ✅
+**Published 2026-05-14. 22 chapters, 23,405 words. Its text is law and it is never edited.**
 
-- Book 1 Ch7 — The Pattern ✅
-- Book 1 Ch8 — Following the Thread ✅
+Everything Book 1 is now lives in **`book1-published/`** — the chapters, the docx exports, its outline, its chapter briefs, and its full drafting and review history. **`book1-published/README.md` is the entry point.**
 
-- Book 1 Ch9 — The City Feels It ✅
+**It is reference-only.** Three things still need it and nothing else may touch it:
 
-- Book 1 Ch10 — Lena ✅
+1. **Continuity.** The locks Book 2 must land are in KEY CONTINUITY NOTES below, in this file, so the daily ones are here and not there.
+2. **The audit baseline.** `14-audit-method.md` measures Book 2 against Book 1's published prose. **That is the single most valuable check this project has, and it stops working if Book 1 moves or changes.**
+3. **Reading it.** `node build-manuscript.js book1` still builds it.
 
-- Book 1 Ch11 — Caleb Shift ✅
-
-- Book 1 Ch12 — The Taking of Caleb Ward (MIDPOINT) ✅
-
-- Book 1 Ch13 — After ✅
-
-- Book 1 Ch14 — The Weight ✅
-
-- Book 1 Ch15 — Deterioration ✅
-
-- Book 1 Ch16 — The Realization (ACT II TURN) ✅
-
-- Book 1 Ch17 — Tracking ✅
-- Book 1 Ch18 — The Deeper Zone ✅
-- Book 1 Ch19 — Closing Distance ✅
-- Book 1 Ch20 — Contact ✅
-- Book 1 Ch21 — Partial Loss ✅
-- Book 1 Ch22 — Exit ✅
-
-**Book 1 — The Absence: COMPLETE (23,405 words / novella)**
-
-**Book 1 — Full proofread/polish pass: COMPLETE (2026-04-04)**
-- Question mark convention enforced: Iris/Taken characters use periods on questions (flat affect), warm characters (Rourke, Kade, Lena, Leah) use question marks. Pre-Taking Caleb Ch11 intentionally uses periods as foreshadowing.
-- "Not X. Not Y. Z." pattern varied in densest stretch (Ch19-21)
-- Duplicate phrase ("She held the contradiction") fixed in Ch15
-- Fear-check formula trimmed from 5 to 2 full instances in Act III (Ch17 + Ch22 final); 3 middle instances varied
-- Ch19 tightened (~90 lines consolidated)
-- Ch7 As Written block reconciled with actual prose
-
-**Book 1 — Deep audit pass: COMPLETE (2026-04-08)**
-- 1 typo fixed (Ch1 "dim" → "Dim")
-- Lila (Ch4) question mark corrected to period (Taken convention)
-- Pre-Taking Caleb Ch11: 5 remaining question marks converted to periods (foreshadowing)
-- Kade question marks fixed in Ch7 (3), Ch8 (3), Ch16 (1) — warm character convention
-- Ch19 triplet density reduced: removed "Not inferred. Not concluded." (two full triplets within 6 lines → one)
-- Ch22 duplicate phrasing varied: "The delay reduced. / Not removed. / Reduced." (identical to Ch21) → "The delay loosened. / Still present. / Less."
-- Ch22 restored "alive" in "closer to Willow than anyone else alive" per brief
-- Ch22 added missing brief beat: "She did not know which of those should frighten her."
-- As Written blocks corrected: Ch20 head-tilt quote, Ch21 phantom negations removed, Ch19 device vibration attribution clarified, Ch22 updated to match new prose
-- Individual chapter files saved in `chapters/` folder
-
-**Book 1 — Chapter file review pass: COMPLETE (2026-04-10)**
-Reviewing individual chapter files against briefs, audit notes, and conventions. Fixes applied to both `chapters/` files and `chapter_review.md`.
-- Punctuation convention refined: full-sentence questions now use question marks for all characters (including flat-affect); short/tonal probes ("How." / "Why." / "Pain.") keep periods. Dialogue tags use "said" not "asked" for flat-affect characters.
-- Device/terminal readouts reformatted: inline with colon + italic, not stacked on separate lines
-- Ch1: continuity fix ("drove out through the gap in the fence" → "pulled out onto the road" — van parked outside perimeter), scene break added, 5 device readouts inlined
-- Ch2: job spec inlined, scene break added, "Local copies," she asked → she said
-- Ch3: case file inlined, scene break added, 6 "asked"→"said" fixes, 9 full-sentence questions got question marks, Kade "What."→"What?"
-- Ch4: 30 punctuation fixes (full-sentence questions + asked→said + Lila "Yes?"→"Yes."), no scene break needed
-- Ch5: 2 full-sentence questions got question marks, 1 split-dialogue question mark, 2 asked→said fixes
-- Ch6: 3 full-sentence questions got question marks, 3 asked→said fixes, 1 short/tonal tag removed ("Why," she asked. → "Why.")
-- Ch7: "What am I looking at?"→"What are you seeing?" (audio-only call fix), removed ACT II header from chapter file
-- Ch8: 2 Iris full-sentence questions got question marks ("What is it?" "What was it?"), 2 Kade questions got question marks ("Alone?" "What?")
-- Ch9: 1 fix — "one asked"→"one said" (unnamed flat character). Flat periods on ambient dialogue left intentionally (city-flattening effect)
-- Ch10: clean — no fixes needed
-- Ch11: 3 asked→said fixes (2 pre-Taking Caleb foreshadowing, 1 Iris), removed malformed "He asked." tag
-- Ch12: 1 fix — device readout inlined (Caleb's post-Taking log note)
-- Ch13: 3 full-sentence questions got question marks, 1 asked→said, "Just present."→"Functional." (avoided Ch10 repetition)
-- Ch14: clean — no fixes needed
-- Ch15: clean — no fixes needed
-- Ch16: 2 Kade questions got question marks ("And that makes this one thing?" "Where?"), removed ACT III header from chapter file
-- Ch17: varied "There was something to find" refrain (repeated from Ch16) → "Not theory now. Not inference. Proximity."
-- Ch18: clean — no fixes needed (no dialogue in chapter)
-- Ch19: clean — no fixes needed (no dialogue in chapter)
-- Ch20: clean — no fixes needed (no dialogue in chapter)
-- Ch21: clean — no fixes needed (no dialogue in chapter)
-- Ch22: clean — no fixes needed (no dialogue in chapter)
-- Chapters reviewed: Ch1–Ch22 — **CHAPTER FILE REVIEW PASS COMPLETE**
-- Ch13 closing line rewritten: "The difference between them was not direction. Only distance."
-
-**Book 1 — FINAL STATUS: COMPLETE & PUBLISHED (2026-05-14)**
-- Writing: 22 chapters, 23,405 words
-- Proofread/polish: complete (2026-04-04)
-- Deep audit: complete (2026-04-08)
-- Chapter file review: complete (2026-04-10)
-- Published: 2026-05-14
-- Canonical Book 1 manuscript: individual files in `chapters/` plus the docx exports. **`chapters/` is Book 1 and is published — it is never used for Book 2 and is never edited.**
-
----
+**Do not edit anything under `book1-published/`.** Not to fix a typo, not to apply a Book 2 rule retroactively. Book 1's sparser, more fragmented voice was intentional and is published.
 
 ## Book 2 — "The Ending" (SEQUEL)
 
@@ -274,7 +199,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 When the user says a chapter is ready to review (it will be in `chapters-book2/`):
 
 1. Read the chapter
-2. Read the corresponding brief in `series-bible/05-book1-chapter-briefs.md` (or 08/09 for Books 2/3)
+2. Read the corresponding brief in `series-bible/08-book2-chapter-briefs.md`
 3. Audit against:
    - Brief compliance (POV, location, goal, conflict, outcome, emotional beat)
    - Tone compliance (see `03-themes-and-tone.md`: grounded, quiet, absence-as-horror, no spectacle)
@@ -298,7 +223,7 @@ Each book runs five passes after drafting (the structure Book 1 used, now codifi
 2. **Continuity check** — cross-reference all chapters against briefs, bible, and "As Written" blocks. Character knowledge state, timeline, location consistency.
 3. **Proofread/polish pass** — punctuation convention enforcement, recurring-pattern variation, duplicate-phrase detection, density trimming.
 4. **Deep audit pass** — typo sweep, convention enforcement, PROSE HARD RULES enforcement, "As Written" blocks reconciled.
-5. **Chapter file review pass** — individual chapter files reviewed against briefs, final formatting, saved to `chapters/`.
+5. **Chapter file review pass** — individual chapter files reviewed against briefs and given their final formatting, in place in `chapters-book2/`.
 
 ## Drift Corrections
 
