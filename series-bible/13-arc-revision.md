@@ -1,13 +1,5 @@
 # ARC REVISION — 2026-08-26
 
-> ## ⚠️ SUPERSEDED 2026-08-27 — HISTORY, NOT INSTRUCTION
->
-> **Book 2 is being re-planned from scratch from the arc up.** The seven decisions below were the third attempt at this book and were abandoned by author decision before any prose was written. **Do not build from this document.**
->
-> It is kept in place, rather than moved to `archive/`, for one reason: its analysis of *why the prequel failed* is the best thing written about this book's structural problem, and a fourth attempt should read it before repeating the mistake.
->
-> Current state, constraints, and salvage inventory are in `06-book2-outline.md`.
-
 **Status:** Supersedes `06-book2-outline.md` entirely and the ending sections of `07-book3-outline.md`. Book 1 — The Absence is published and unchanged.
 
 This document records the decisions. The outlines and briefs are rewritten from it, not the other way around.
