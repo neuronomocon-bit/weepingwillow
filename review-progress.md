@@ -122,3 +122,21 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 **3. Length drift.** Every chapter so far has landed under budget — Ch1 at 3,286 against 3,800, Ch2 at 2,855 against 3,200, Ch3 at 3,387 against 3,800. The cuts were correct every time and nothing was restored, so the fix is fuller scenes at the drafting stage rather than restoring cut lines. Assess at the end of each act rather than padding individual chapters.
 
 **4. Book 1 register leaking in.** Scan every chapter for "she noted," "she registered," "Expected/Observed," and "the absence of." Ch2 was scanned clean. **This gate is now harder, not easier:** Iris is flat in this book, and her Book 1 voice will be actively tempting. Flat affect is not the same as fragmented prose. She observes in complete sentences.
+
+---
+
+## ⚠️ THREE LIVE DEFECTS — fix during the Ch4 / Ch8 re-audit
+
+Found 2026-08-27 by measuring the drafted Book 2 chapters against published Book 1. **None of them is an error in the ordinary sense** — every instance is correct English that no reader would flag. They are series-voice divergences, and only the frequency comparison could surface them. Method and full numbers in `series-bible/14-audit-method.md`.
+
+**1. Typography.** Book 1 is 92% curly (`“ ” ’`). **Both drafted Book 2 chapters are 100% straight** — 420 straight double quotes and 205 straight apostrophes, zero curly. It will show in the docx export. **Convert to curly. Book 1 is published and is not retro-edited**, including the 222 straight quotes sitting in its Ch4, Ch9, Ch14 and Ch15.
+
+**2. Indefinite pronouns.** Book 1 says *somebody*, *anybody*, *everybody* and *nobody* a combined **zero** times, and says *someone* 16 times and *no one* 6. The drafted chapters say the *-body* forms **thirteen** times in 6,853 words and say *no one* zero times.
+
+**Narration says *someone* and *no one*.** Dialogue may keep the *-body* forms where they are a character's own register — Willow Halloway especially, who is the only person in the series who talks like someone with nothing wrong with her.
+
+**3. The relative-clause coda** (`, which was X`). Book 1: **0**. Drafted chapters: **7**, at 10.2 per 10k. It is the trailing-explanation tic wearing a subordinate clause, and the existing screen cannot see it.
+
+**Do not convert them into trailing sentences** — that moves the tic into the thing already banned. Cut, bare appositive, colon, or new sentence, chosen per sentence.
+
+**Also open, measured but NOT yet ruled: contractions.** The drafted chapters run 100% expanded on `was not` / `did not` / `had not` / `is not`; Book 1 runs 51.6% expanded on `did not`. **The measurement is whole-text and does not split narration from dialogue**, and some Book 2 formality is deliberate. Run the split before touching anything. **Never sweep dialogue.**

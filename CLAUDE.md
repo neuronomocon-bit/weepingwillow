@@ -55,7 +55,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 |------|----------|
 | `01-world.md` | Setting (Lowport, Maine, ~2050), tech, Meridian origin, atmosphere, public awareness arc |
 | `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Marin, Willow Halloway, Virek, Feld, Terri, Raman, Pell, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
-| `03-themes-and-tone.md` | Thematic pillars, tone rules, **SENTENCE VARIETY**, **PROSE CONVENTIONS (HARD RULES)**, POV registers. **The single source for the prose rules.** |
+| `03-themes-and-tone.md` | Thematic pillars, tone rules, **SENTENCE VARIETY**, **PROSE CONVENTIONS (HARD RULES)**, POV registers, and the rules imported 2026-08-27. **The single source for the prose rules.** |
 | `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
 | `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks |
 | `06-book2-outline.md` | "The Ending" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
@@ -66,6 +66,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~20 key moments. Rebuilt 2026-08-27 |
 | *12 — archived* | The ChatGPT system prompt. Dropped 2026-05-14 and **it duplicated the prose rules**, which is how one copy goes stale. In `archive/superseded-tooling/`. |
 | `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot, plus the three open questions resolved 2026-08-27. Authoritative — outlines are rebuilt from it, not patched.** |
+| `14-audit-method.md` | **How defects are found**, as distinct from what the prose must do. The cross-book comparison method, the seven laws of counting, the measured Book 1 baselines, the locked-line list. Imported 2026-08-27 from the author's other series. |
 | `character-image-prompts.md` | DALL-E/ChatGPT image prompts — dark gothic painterly style, all 12 characters (16 prompts) |
 | `archive/` | Every superseded arc, retired draft, and dropped tool. **Organised by when it died** — `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`. Read `archive/README.md` first; it explains why each arc failed. |
 

@@ -144,3 +144,229 @@ Everywhere else in the book she is rendered entirely from outside.
 **A note on Ch11.** The midpoint is Caleb's death and it is written from Iris's POV, not his. A hollow POV rendered from inside for a whole chapter was considered and rejected: it begs to be written in fragments, and the stronger version is a man answering questions about his own emptying, accurately, from the outside, until he stops.
 
 **The absence-as-horror technique runs in both directions here.** In the present thread it is Iris noticing a feeling is not there. In the Recovered thread it is Marin noticing a feeling *is* there and will not stop — and it is the reader recognizing Lila Mercer in Willow Halloway while everyone in the scene calls it recovery.
+
+---
+
+# IMPORTED RULES (added 2026-08-27)
+
+Everything below was earned on the **NeonVeil / Veil Protocol** books, which live at `C:\Users\kschiffer\Projects\book2` and `book3` and are the author's other series. Each rule there was written after an error that actually happened. They were reviewed against Weeping Willow's existing rules and only the ones **not already covered** were brought across.
+
+**Where the two projects conflict, Weeping Willow wins and the conflict is noted.** Three rules were deliberately *not* imported: that project allows em dashes in a measured band (this one bans them in prose and dialogue), it caps *"Not X. Not Y. Z"* at two per chapter (this one retired the construction entirely for Book 2), and it marks scene breaks with a double blank line (this one uses `***`).
+
+---
+
+## TYPOGRAPHY — and a live defect
+
+**Book 2 uses curly quotes and curly apostrophes, because Book 1 does.**
+
+Measured 2026-08-27 across the published manuscript and the two drafted Book 2 chapters:
+
+| | Book 1 (published, 23,322 w) | Book 2 drafted (6,853 w) |
+|---|---|---|
+| Curly `“ ”` | **2,444** | **0** |
+| Straight `"` | 222 | **420** |
+| Curly `’` | **462** | **0** |
+| Straight `'` | 65 | **205** |
+
+**The two drafted Book 2 chapters are entirely straight-quoted and Book 1 is ninety-two percent curly.** That is a real divergence, it will show in the docx export, and it must be fixed before more prose is written. Book 1's own 222 straight quotes sit in four chapters (Ch4, Ch9, Ch14, Ch15) — **it is published and does not get retro-edited**, but it does not license the drift either.
+
+**Also settled by the same measurement:**
+- **Ellipsis is the single character `…`.** Book 1: 7 uses, zero instances of three dots.
+- **No exclamation points.** Book 1 has zero. The existing ban is confirmed by the text, not just asserted.
+- **US English.** Book 1 runs *toward* 40 / *towards* 0, *gray* 5 / *grey* 0, and zero `-our` or `-ise` British forms. **The drafting model defaults to British forms and nothing here was counting them.** Always `-ward`, never `-wards`.
+- Files are UTF-8 without BOM and end with a newline.
+
+**⚠️ Never run a scripted search-and-replace over prose containing typographic characters.** Use the Edit tool, which handles unicode natively. On the other project a scripted replacement garbled three sentences across three chapters, deleting clauses and leaving doubled quotation marks, **and the mechanical audit reported clean** — encoding fine, quotes curly, word count barely moved. Scripted replacement is acceptable for ASCII-only strings in notes files and nowhere else. After any bulk edit, read what changed.
+
+---
+
+## INDEFINITE PRONOUNS — a live defect
+
+**The narrator says *someone* and *no one*. Not *somebody*, not *nobody*.**
+
+| | someone | somebody | anyone | anybody | everyone | everybody | no one | nobody |
+|---|---|---|---|---|---|---|---|---|
+| **Book 1** (published) | **16** | **0** | 1 | **0** | 3 | **0** | **6** | **0** |
+| **Book 2 drafted** | 1 | **7** | 3 | **3** | 2 | 1 | **0** | **4** |
+
+**Book 1 never once says *somebody*, *anybody*, *everybody* or *nobody*. The two drafted Book 2 chapters say them thirteen times in 6,853 words**, and have displaced *no one* entirely.
+
+This was never an error in the ordinary sense — *somebody* is perfectly good American English, which is exactly why nothing caught it and why no reader would call it wrong. **It is a series-voice defect: the same narrator reading differently across two books.**
+
+**The rule is scoped by register, not a ban:**
+- **Narration says *someone* and *no one*.**
+- **Dialogue may say *somebody* and *nobody*** where it is a character's own register. Warm characters especially.
+- **Written documents inside the fiction keep whatever they would really say.**
+
+**Fix the thirteen in the drafted chapters as part of their re-audit.**
+
+---
+
+## CONTRACTIONS — measure before ruling
+
+Book 1's whole-text rates, measured 2026-08-27:
+
+| | expanded | contracted | % expanded |
+|---|---|---|---|
+| `did not` | 98 | 92 | **51.6%** |
+| `was not` | 13 | 5 | 72.2% |
+| `had not` | 11 | 2 | 84.6% |
+| `do not` | 6 | 36 | **14.3%** |
+| `it is` | 14 | 64 | **17.9%** |
+| `is not` | 0 | 5 | **0%** |
+
+**The two drafted Book 2 chapters run 100% expanded on `was not`, `did not`, `had not` and `is not`.**
+
+**⚠️ Do not act on this yet.** The measurement is whole-text and does not separate narration from dialogue, and Book 1's contracted forms are concentrated in dialogue (*"I don't know"* ×8, *"That's not what…"* ×14). Some of Book 2's formality is also deliberate: Iris is flat and Marin is clinical.
+
+**What is settled:** contraction rate is **per-form and per-speaker**, never a sweep. **Dialogue is never swept** — it is a characterisation gradient, and flattening it would collapse Lena's warmth, Kade's plainness and Marin's precision into one voice. Past-perfect reflective narration keeps the full form; ordinary action narration contracts.
+
+**Run the narration/dialogue split before anyone rules on it.**
+
+---
+
+## THE EXPLANATORY CODA HAS A SECOND FORM
+
+This project already bans **the trailing explanatory sentence** — a good image followed by a line telling the reader what to make of it. That rule stands and is unchanged.
+
+**What it was missing is the relative-clause form: `, which was X`.** Same narrator, same job, done through a subordinate clause instead of a new sentence, and the existing screen cannot see it.
+
+| | `, which was / which is` |
+|---|---|
+| **Book 1** | **0** |
+| **Book 2 drafted** (6,853 w) | **7** — 10.2 per 10k |
+
+Zero in the published book. Seven already in two drafted chapters.
+
+**How to fix it, and how not to.** Do **not** convert them into trailing sentences — that moves the tic straight into the thing already banned. Choose per sentence: **cut** where the gloss certifies what the reader already has; **bare appositive**, dropping *which was* and keeping the phrase; **colon** where the gloss genuinely completes the sentence; **new sentence** only where it carries real weight.
+
+**And the split that governs both forms:**
+
+| Where | Verdict |
+|---|---|
+| **In dialogue** | **Keep.** It is characterisation. Marin defines her terms before she argues; Rourke refuses an imprecise one. |
+| **In narration, where it reverses or adds** | **Keep.** A gloss that turns the sentence is doing work. |
+| **In narration, where it restates** | **Cut.** The shape to hunt: short declarative → certification → restatement. |
+
+---
+
+## SELF-ANNOTATION — characters announcing their own speech acts
+
+**Characters must not announce what kind of thing they are about to say.** On the other project this was the single largest voice problem the drafting produced, found only because it was counted: 29 instances across five chapters, one every 560 words, spoken by nine different characters.
+
+Three families, one habit:
+
+| Family | Examples |
+|---|---|
+| **The frame** | "I want to be clear" · "I want to be precise" · "I want that noted" · "I want it on the record" |
+| **The disclaimer** | "I'm not attacking you" · "I'm not accusing you" · "I'm not angry" |
+| **The announcement** | "I'm going to say it anyway" · "I'm going to tell you the truth" |
+
+**Why it matters here specifically.** Weeping Willow has two characters whose precision is supposed to be *theirs*: **Marin**, who reaches for procedure when she is in pain, and **Rourke**, who refuses imprecision professionally. If Kade, Lena, Iris and a technician all do it too, the distinction is gone and it is the narrator's habit wearing every mouth.
+
+**The rule:**
+- **The construction belongs to Marin and Rourke**, two or three times at most in a chapter one of them dominates.
+- **Everyone else defaults to zero.** Cut the frame and let the sentence do its own work. If a line needs a frame to land, the line is the problem.
+- **Never the same disclaimer in two mouths.**
+- **State denials are not the tic.** "I'm not angry" describes a condition. Annotating the *speech act* is the banned move.
+- **Announcing content is not the tic; announcing the act is.** *"I'm going to say no now"* states the answer. *"I'm going to say this once"* states only that speech is imminent.
+- **Replace rather than delete where the frame carries a beat.** The character's own register always has a better version.
+
+**Count it every chapter.** It is invisible in a single read and obvious in a grep.
+
+---
+
+## TIME MARKERS — the mood must be felt, not announced
+
+Book 2 opens three weeks after Book 1 and runs about eleven weeks, and the Recovered thread sits six years back. **That is a lot of interval to state.**
+
+**Cap the primary marker at five per chapter, and every substitute at three.** Keep the instances where a character is *arguing about* the interval; cut the ones that are only scene-setting.
+
+**⚠️ And prefer deleting the marker to substituting it.** On the other project the first fix replaced one phrase with another and took the substitute to sixteen instances, five in one chapter, all in the same trailing-prepositional position. **A single substitute is not variation. It is the same tic in a different coat.** Removing the marker improved every sentence it touched.
+
+---
+
+## GESTURE VOCABULARY
+
+**Hands are prose's default physical beat and they become a tic without anyone noticing.** On the other project: twenty-six instances across ten chapters, including two *verbatim sentence repeats* in different chapters.
+
+- **Protect the load-bearing gesture.** Willow's contact — the hand on the chest, the fingertips — is the series' central physical act and is never trimmed for symmetry.
+- **Cut the generic reaction beat:** hands flat on tables, hands in pockets, hands turned over, a hand held up.
+- **When a character needs a physical beat, use a different part of the body or a different kind of action** — a chair pushed back, a bag set down, someone not moving off a crate.
+
+---
+
+## CHAPTER ENDINGS — two different problems, and only one is mechanical
+
+**These get confused with each other. Keep them apart.**
+
+### 1. What the ending withholds — judgement, not script
+
+On the other project, four chapters closed on an unanswered question; that was fixed and a quieter version replaced it — four more closing on something *unseen, unasked or unsaid*.
+
+**Do not close on something withheld.** No check can see this. It goes on the read list.
+
+**Weeping Willow is at particular risk**, because withholding is the series' whole mode: Iris cannot feel things, nobody explains the name, and half the briefs end on a beat the reader completes. **That is the design inside a chapter. It must not also become how every chapter stops.**
+
+### 2. The register the ending sits in — countable
+
+**No more than three consecutive chapters may close in the same register.** Two registers: **dialogue** (the last line is someone speaking) and **narration** (everything else).
+
+On the other project six consecutive chapters closed on narration and nobody noticed for a whole act — then four more closed on a **summarising declarative** that tells the reader what the chapter meant. Each one was good. Four in a row is the narrator's habit wearing every chapter, **and it is invisible while drafting, because you only ever have one ending in front of you.**
+
+**⚠️ The count is a proxy and cannot tell a summarising thesis from a concrete image**, which is the distinction that actually matters. Use it to notice the pattern, then judge.
+
+---
+
+## STYLE CAPS — per chapter
+
+Additions to the existing bans. Weeping Willow's own retired constructions (contrast framing, "nodded once", labeled silences, em dashes) stay **banned outright** and are not on this table.
+
+| Construction | Cap |
+|---|---|
+| Triplet constructions | 1 |
+| "For the first time…" | 1 |
+| "Because" as a sentence opener | 2–3 |
+| "[Character] did not answer" | 2 |
+| Self-annotated speech acts | 2, and they should be Marin's or Rourke's |
+
+**Book 1's own most-repeated sentence openings, for reference:** *"She did not…"* ×23, *"Iris looked at…"* ×13, *"She checked the…"* ×11, *"Iris nodded once"* ×7. The first is Book 1's signature and part of its published voice. **Book 2 does not inherit it as a default.**
+
+---
+
+## POV DISCIPLINE
+
+Book 2 runs Iris for fifteen chapters, Marin for seven, and one short Willow coda in Ch22. That is more POV movement than Book 1 had, so the mechanics need stating.
+
+- **Name the POV character in the first sentence of the section.** After a run of chapters in one head, the reader's default is that head, and a section that withholds whose head it is for a paragraph reads as a mistake rather than a choice.
+- **⚠️ An opening line about someone else is not a POV shift.** Narration may open on another character's action and stay in the established head. **Only interiority moves the POV.**
+- **A POV shift always falls on a scene break.** Never mid-scene.
+- **Never enter a head the chapter has not established.**
+- **The test: the section must know something the default POV cannot.** That is the only good reason to leave. **If a section could have been written as the POV character being told about it afterwards, write it that way instead.**
+- **Interiority stays proportionate to the character.** Marin reaches for procedure. Iris measures. Neither narrates like the other.
+
+---
+
+## WORD TARGETS — pacing, not a quota
+
+The existing length rules stand. Two refinements:
+
+**⚠️ UNDER TARGET IS ACCEPTABLE. PADDING NEVER IS.** A chapter that does everything its brief asks, briskly, is **finished** two hundred words under, and adding two hundred to reach a number makes it worse.
+
+**But a short draft is always diagnosed, because it has never once been missing description.** On the other project, three short drafts were missing, respectively: a faction absent from a chapter about them; the physical stakes in a chapter about a body; and a consequence of the previous chapter. **The short draft is missing a consequence, a person, or a payoff.**
+
+So when one comes in short, ask two questions: **which beat in the brief is not on the page**, and **what was set up and never paid off.** If the answer to both is nothing, ship it short.
+
+**⚠️ OVER TARGET HAS THE MIRROR RULE: COMPRESS, DO NOT AMPUTATE.** The question is never which scene is least loved. It is which sentences are doing one job in twenty words — a clause restating the one before it, a qualifier the reader has already granted, a stage direction the dialogue implies. **A chapter trimmed by removing a beat has been made shorter and worse, and no audit can tell the difference.**
+
+---
+
+## NUMBERS
+
+**One rendering per figure, locked on first use.** The substrate parameters are the live case: *ninety minutes*, *2% of session load*, *0.4%*, *nineteen sessions*, *four hundred lines*, *autonomy constraint two*. Once a figure is on the page in one form it never appears in another.
+
+---
+
+## WORD OVERUSE
+
+Flag when they stack, and vary the language. Current watch list for this series: **shape**, **structure**, **pattern**, **weight**, **absence**. All five are load-bearing thematic words, which is exactly why they will over-accumulate without anyone noticing.
