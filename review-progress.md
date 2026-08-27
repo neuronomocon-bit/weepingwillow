@@ -60,8 +60,8 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,938** | **awaiting author pass** |
-| 2 | Mortality | Iris/Rourke | 3,400 | — | — |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,936** | **awaiting author pass** |
+| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,801** | **awaiting author pass** |
 | 3 | The Files | Iris/Kade | 3,600 | — | — |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | PENDING 3,286 · in `archive/drafts/` | needs re-audit + author pass |
 | 5 | Read | Iris | 3,600 | — | — |

@@ -22,7 +22,7 @@ The device had two site coordinates on it from overnight. Kade never attached a 
 
 She put them up against the map.
 
-The first resolved inside a minute. It was a relay point on the northern spur, and she had cleared it in the second week and marked it herself, and her own marker came up on the overlay with her own date on it. Kade had sent her a site she had already stood in. She noted the duplication in the reply field, two words, and moved on.
+The first resolved inside a minute. It was a relay point on the northern spur, and she had cleared it in the second week and marked it herself, and her own marker came up on the overlay with her own date on it. Kade had sent her a site she had already stood in. She put two words in the reply field and moved on.
 
 The second did not resolve, and that was the interesting one.
 
