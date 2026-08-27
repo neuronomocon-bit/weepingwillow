@@ -370,3 +370,13 @@ So when one comes in short, ask two questions: **which beat in the brief is not 
 ## WORD OVERUSE
 
 Flag when they stack, and vary the language. Current watch list for this series: **shape**, **structure**, **pattern**, **weight**, **absence**. All five are load-bearing thematic words, which is exactly why they will over-accumulate without anyone noticing.
+
+### ⚠️ `no one` — added to the watch list 2026-08-27, and already actioned once
+
+The register rule above sends narration from *nobody* to *no one*, and a one-for-one substitution is how a tic migrates rather than shrinking. **It happened immediately.** By Ch2 the drafted chapters ran `no one` at 7.0 per 10k against Book 1's 2.6.
+
+**And the count was the wrong unit.** All three instances were the same construction: *an object no one had attended to* — a room no one inhabited, a poster no one had taken down, a filing cabinet no one had moved. **A semantic family across two chapters, spelled three ways.**
+
+**Fixed by deleting, not by substituting**, per the rule that says so: the poster and the filing cabinet lost the clause entirely and both sentences improved. The one that stays is Caleb's room, where it is doing real work.
+
+**Watch both halves every chapter:** the raw rate against Book 1's 2.6 per 10k, and the *construction*. A second phrase absorbing the same job is the substitution failing, not the fix working.

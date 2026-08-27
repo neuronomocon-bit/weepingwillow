@@ -4,7 +4,7 @@ Lowport Public Health occupied the top two floors of a building that had been a 
 
 Iris had asked for the appointment three times. The first request went unanswered, the second produced a form, and the third produced a slot on a Thursday morning at a quarter past nine. No one offers a quarter past nine to a person they intend to spend long with.
 
-She was early by eleven minutes. She spent them reading the noticeboard because it was there and because a room she was going to work in was worth knowing. Two flu clinics. A number for a helpline. A poster about hand hygiene with a corner curling away from the wall, and behind it, showing at the edge, an older poster no one had taken down.
+She was early by eleven minutes. She spent them reading the noticeboard because it was there and because a room she was going to work in was worth knowing. Two flu clinics. A number for a helpline. A poster about hand hygiene with a corner curling away from the wall, and behind it, showing at the edge, an older poster.
 
 At nine sixteen a woman came down to collect her, and did not introduce herself, and took her up in a lift that had been retrofitted into the stairwell.
 
@@ -136,7 +136,7 @@ Rourke set the cup down.
 
 She wanted a file from the room down the corridor and did not want to send the woman from downstairs for it, so Iris went with her and stood inside the door while Rourke worked along the shelves.
 
-It was a room the building had not been designed for. The shelving was the free-standing kind that gets bought in a hurry, run in four rows with just enough space between them, and it had been filled from the door end backward, so the oldest material was furthest in and the newest was where you tripped over it. Boxes stood in the aisle in two places with dates on the sides. The window at the far end had been blocked by a filing cabinet someone had put there and no one had moved.
+It was a room the building had not been designed for. The shelving was the free-standing kind that gets bought in a hurry, run in four rows with just enough space between them, and it had been filled from the door end backward, so the oldest material was furthest in and the newest was where you tripped over it. Boxes stood in the aisle in two places with dates on the sides. The window at the far end was blocked by a filing cabinet.
 
 Iris read the shelf ends while she waited. They were labeled by year and then by intake category, and one category ran along the fourth row and then turned the corner onto the fifth, and the fifth row was two thirds empty because it had not been filled yet.
 

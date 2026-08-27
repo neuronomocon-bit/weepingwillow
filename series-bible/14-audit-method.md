@@ -107,6 +107,12 @@ Book 1 published (23,322 words) against the two drafted Book 2 chapters (6,853 w
 
 **Run the narration/dialogue split before anyone rules on it.** Do not sweep.
 
+### Watch — `no one`, the substitution the register fix created
+
+**Book 1: 2.6 per 10k. The drafted chapters hit 7.0 by Ch2.** Sending narration from *nobody* to *no one* moved the tic instead of removing it, which is Law 1 happening in real time, one chapter after the law was written down.
+
+**Counted as a family it was worse than the rate suggested:** three instances, one construction — *an object no one had attended to.* Two were deleted outright and both sentences improved. **Re-count every chapter, as a rate and as a construction.**
+
 ---
 
 ## HOW TO RUN THE COMPARISON
