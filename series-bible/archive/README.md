@@ -71,3 +71,46 @@ Full reasoning and all seven decisions are in `../13-arc-revision.md`.
 - **`../../chapters-book2/01-intake.md`** (3,286 w) and the drafted **Ch3 "Sessions"** (3,387 w) are Marin/Meridian scenes and port directly into the new recovered thread as R1 and R2.
 - **`chapters-book2/02-recovery.md`** (2,855 w) is retired — it is built on intact pre-Book-1 Iris, who no longer appears. The flooded sub-level job inside it is worth salvaging as a present-day chapter.
 - `DRAFT-hunger-ch01-aftermath.md` now maps onto **new Book 2 Ch1**, not Book 3 Ch1. Same beat, and it moved forward a book.
+
+---
+
+# THIRD PASS — 2026-08-27 (rebuild and merge, not a pivot)
+
+No arc change. This pass rebuilt the downstream documents against the 2026-08-26 decisions, and resolved a collision.
+
+## The collision
+
+**Two complete, independent 22-brief sets were written for this arc**, in parallel sessions, because one session started from a checkout two commits behind and did not know the briefs already existed.
+
+They were reconciled rather than one being discarded. **The pushed set (`a5f0fd2`) is the base** — it is the stronger of the two, and its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris all survive intact. **Four things merged in from the other set:** the title, the Ch22 Lena plant, the Act III rename, and a worked prose example.
+
+## What was decided
+
+- **Title: "The Ending."** It names her turn to killing. "The Keeping" was retired with the prequel arc. Act III renamed to FINISHING, since the old act name was title-derived. Two colliding section headings — `07-book3-outline.md`'s "THE ENDING" and `13-arc-revision.md`'s "DECISION 5 — THE ENDING" — were renamed.
+- **Lena stays untouched through Book 2 and is located on its last page.** The place Willow's procedure will not return from is where Iris's love for her sister used to be, so that is where she gets stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.**
+- **Ch11 is Iris POV, not Caleb's.** A hollow POV rendered from inside for a whole chapter was considered and rejected.
+
+## Files added here in this pass
+
+| File | Was |
+|------|-----|
+| `08-book2-chapter-briefs-SEQUEL-B.md` | The second, independently written brief set. Superseded by the merge; kept because its Book 3 groundwork and several chapter briefs were the source of the merged material. |
+| `10-subplot-threading-PREQUEL.md` | 10 arcs, keyed to the prequel's chapter numbers |
+| `11-key-dialogue-notes-PREQUEL.md` | Dialogue notes, prequel Book 2 section |
+| `DRAFT-prequel-ch02-recovery.md` | Drafted prequel Ch2 "Recovery" (2,855 w), retired |
+
+## Chapter file moves
+
+- `chapters-book2/01-intake.md` → **`chapters-book2/04-intake.md`**, header renumbered to Ch4
+- `chapters-book2/02-recovery.md` → **`archive/DRAFT-prequel-ch02-recovery.md`**. It was moved out of `chapters-book2/` because `build-manuscript.js` picks up every numbered file in that folder and was building the retired draft into the manuscript as chapter 2.
+- `chapter_review.md` header renumbered Ch3 → **Ch8** (Sessions, still awaiting its first author proofread)
+
+Its salvage is assigned: crate and manifest physicality to **Ch3**, the wet-drive procedure and the ninety-minute bridge to **Ch5**, and the **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — to **Ch19**, as the shape of Virek's closed ticket.
+
+## Also on a branch
+
+**`archive/bible-rebuild-2026-08-27`** holds the pre-merge state of the second session's work. Everything from it that survived reconciliation is on main; the branch is kept as the record of what the other set contained before it was merged.
+
+## Still stale, deliberately
+
+**`09-book3-chapter-briefs.md`** carries a staleness banner and has not been rebuilt. Book 3's outline only just changed, and its briefs should follow that deliberately rather than in the same pass. Salvage is expected to be high.

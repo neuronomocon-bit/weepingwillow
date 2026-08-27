@@ -104,7 +104,9 @@ The completed face is Willow Halloway's. The horror runs backward from every oth
 
 ---
 
-## DECISION 5 — THE ENDING
+## DECISION 5 — HOW THE SERIES ENDS
+
+*(Heading renamed 2026-08-27 to avoid colliding with Book 2's title. This is Book 3's ending.)*
 
 **The Water, sprung by the Compulsion Trap.**
 
@@ -167,7 +169,25 @@ Why this and not a new character: the reader has already grieved him once, in Bo
 
 ## OPEN QUESTIONS
 
-1. **Does "The Keeping" still title this book?** It was chosen for a prequel. It arguably fits better now: she keeps what she takes, and Book 1's "she chose to keep me" points straight at it. Retained provisionally.
+### 1. Title — **RESOLVED 2026-08-27: "The Ending."**
+
+"The Keeping" was chosen for a prequel, and none of the shortlisted alternatives carried what this book is actually about, which is her turn to killing. *The Ending* does, in the series' own plain register: **she does not only take now. She ends people.**
+
+It is a description of her method, not a promise about the series — **Book 3 is the finale.** A middle book with this title misdirects deliberately, which is the same trick the series runs everywhere else with *recovery*, *relief*, and *failure to self-advocate*. The spine reads **The Absence → The Ending → The Silence.**
+
+*Watch at publication:* a middle book called The Ending can read to a browsing reader or a retailer as the finale. Handle that in series metadata and back-cover copy, not by changing the title.
+
+### 2. Lena — **RESOLVED 2026-08-27: untouched, and located.**
+
+She is never approached in Book 2 and is never in physical danger. Book 3's midpoint still has her intact to partially Take.
+
+**What changed is Ch22.** The place Willow's procedure will not return from is where Iris's love for her sister used to be. There is nothing left in it to take and she cannot leave it, so she stays there, working at the shape of what is missing, and the shape of what is missing is a younger sister. **She learns Iris has one.**
+
+**The failure and the plant are the same moment**, which is why it costs the chapter nothing. Book 3's midpoint stops arriving by authorial convenience. Nothing explains it and Iris registers only a duration.
+
+### 3. Book 2's midpoint POV — **RESOLVED at the brief pass: Iris, not Caleb.**
+
+Caleb POV was considered — Book 1 Ch12 is the only chapter from his perspective and making his death the only other one is a real rhyme. It was rejected: a hollow POV rendered from inside for 3,800 words begs to be written in fragments, and the stronger version is a man answering questions about his own emptying, accurately, from the outside, until he stops.
 
 ---
 

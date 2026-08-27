@@ -1,4 +1,4 @@
-# Book 2 — "The Keeping" — Writing & Review Progress
+# Book 2 — "The Ending" — Writing & Review Progress
 
 **Arc reset: 2026-08-26** (second reset; the first was 2026-08-04)
 
@@ -8,7 +8,11 @@ Book 1 — "The Absence" is complete and published (2026-05-14). Its review hist
 
 **Book 2 is a sequel.** It opens weeks after Book 1 ends. The origin arrives as seven dramatized Marin chapters that Iris recovers off Meridian's drives. Both superseded arcs — "The Hunger" and the prequel "The Keeping" — are in `series-bible/archive/`.
 
-> **Briefs written 2026-08-26.** All 22 are in `series-bible/08-book2-chapter-briefs.md`, built against `06-book2-outline.md` and `13-arc-revision.md`. Drafting can resume at Ch1. The prequel brief set stays archived.
+**Briefs written 2026-08-26; reconciled and merged 2026-08-27.** All 22 are in `series-bible/08-book2-chapter-briefs.md`.
+
+> **Note on the merge.** Two complete, independent brief sets were written for this arc in parallel sessions. The set committed in `a5f0fd2` is the base and is the stronger of the two — its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris all survive intact. Four things merged in from the other set: **the title, the Ch22 Lena plant, the Act III rename the title forces, and a worked prose example.** The second set is archived at `series-bible/archive/08-book2-chapter-briefs-SEQUEL-B.md`.
+
+**Title set 2026-08-27: "The Ending."** It names her turn to killing. "The Keeping" was chosen for the prequel and was retired with it. Act and chapter headings use arc names and are not keyed to it.
 
 ## Conventions Being Enforced
 
@@ -58,24 +62,24 @@ Checked on every chapter of this book in addition to the standard passes:
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | PORTABLE 3,286 | needs re-audit |
 | 5 | Read | Iris | 3,600 | — | — |
 | 6 | Too Much | Iris | 3,400 | — | — |
-| 7 | ACT I TURN | Iris | 3,600 | — | — |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | PORTABLE 3,387 | needs re-audit |
 | 9 | Lena | Iris/Lena | 3,600 | — | — |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
-| 11 | **MIDPOINT — Caleb** | Iris | 3,800 | — | — |
+| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
-| 15 | **ACT II TURN — RECOVERED: The Map** | Marin/Iris | 3,800 | — | — |
-| **ACT III — THE KEEPING** | | | | | |
+| 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
+| **ACT III — FINISHING** | | | | | |
 | 16 | The Name | Iris | 3,600 | — | — |
 | 17 | **RECOVERED: The Limiter** | Marin | 3,400 | — | — |
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
 | 19 | Almost | Iris | 3,600 | — | — |
 | 20 | **RECOVERED: The Last Session** | Marin | 4,400 | — | — |
 | 21 | Why Lena | Iris | 3,600 | — | — |
-| 22 | The Second Visit (ENDING) | Iris/Willow | 3,800 | — | — |
+| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
 
 Legend: `—` not started · `WIP` in progress · `PORTABLE` drafted under the old arc, carries forward · `DONE` complete
 
@@ -85,17 +89,19 @@ Legend: `—` not started · `WIP` in progress · `PORTABLE` drafted under the o
 
 Two chapters written under the prequel arc survive because they are Marin/Meridian scenes and the Recovered thread needs them nearly unchanged.
 
-**Ch4 — RECOVERED: Intake** · 3,286 words · currently at `chapters-book2/01-intake.md`
+**Ch4 — RECOVERED: Intake** · 3,286 words · **renumbered and moved 2026-08-27 to `chapters-book2/04-intake.md`**
 
-Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc. **Not yet renumbered or moved.** Needs a re-audit against the new gates before it counts as done — particularly the frame rule (it was written as a standalone opening chapter, not as recovered material) and whether anything in it assumes the reader has not met Iris yet.
+Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc. Needs a re-audit against the new gates before it counts as done — particularly the frame rule (it was written as a standalone opening chapter, not as recovered material) and whether anything in it assumes the reader has not met Iris yet.
 
-**Ch8 — RECOVERED: Sessions** · 3,387 words · currently in `chapter_review.md`
+**Ch8 — RECOVERED: Sessions** · 3,387 words · in `chapter_review.md`, **retitled to Ch8 on 2026-08-27**
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld introduced; Raman first named; the substrate parameters established as furniture. Drafted 2026-08-06, **never author-proofread** — it was awaiting a proofread when the arc was re-examined. Same re-audit needed.
 
-**Retired: Ch2 — Recovery** · 2,855 words · `chapters-book2/02-recovery.md`
+**Retired: Ch2 — Recovery** · 2,855 words · **archived 2026-08-27 to `series-bible/archive/DRAFT-prequel-ch02-recovery.md`**
 
-Built on intact pre-Book-1 Iris, who no longer appears in this book. The flooded sub-level job inside it — the refusal to power or dry the wet drives, the bridge tripping at ninety minutes, R. Oyelaran's ignored maintenance notes — is good and worth salvaging as a present-day chapter, probably Ch3 or Ch5.
+Built on intact pre-Book-1 Iris, who no longer appears in this book. It was moved out of `chapters-book2/` because that folder is the manuscript source and `build-manuscript.js` was picking it up as chapter 2.
+
+Its salvage is assigned: the crate and manifest physicality goes to **Ch3**; the wet-drive procedure, the ninety-minute bridge, the dead-credential authentication and the thing Iris likes about a dead system answering go to **Ch5**. The **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — goes to **Ch19**, as the shape of Virek's closed ticket, which is a much better use of it.
 
 ---
 

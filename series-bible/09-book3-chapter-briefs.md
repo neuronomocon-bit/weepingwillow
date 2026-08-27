@@ -1,10 +1,29 @@
 # BOOK 3 — "THE SILENCE" — CHAPTER BRIEFS
 
+> ## ⚠️ STALE — DO NOT DRAFT FROM THIS FILE
+>
+> **These briefs predate the 2026-08-26 pivot and the 2026-08-27 outline rewrite.** They were written when Book 2 was a prequel. `07-book3-outline.md` is current and this file is not; where they disagree, **the outline wins.**
+>
+> **Known to be wrong here, at minimum:**
+> - **The ending.** These briefs run the retired destruction method — Willow collapsing under a contradiction she cannot process. The ending is now the compulsion trap and the water: Iris does not break her, Iris *finishes* her, and she walks into the water because that is what the person she has just become does.
+> - **Caleb appears.** He died at Book 2's midpoint. **Weston** absorbs his Act I chapter and the dangerous-thought beat.
+> - **Kade confesses.** Spent in Book 2 Ch3. His Act I here is action, not admission.
+> - **Contact is still required.** It is removed at the Act I turn.
+> - **Virek is a confirmation chapter.** He is now the only living person who ever saw Willow Halloway, and Ch12 is a recognition scene.
+> - **Rourke has no cost.** She now breaks in public at the Act II turn and does institutional damage in Act III.
+> - **Iris's Act I turn** starts an erosion inventory that Book 2 Ch1 already started. Her loss here is professional competence.
+> - **Iris's ending** is now deliberately unsettled rather than "alive, aware, and mostly gone."
+> - **Chapter numbers have shifted** (Enzo moves from Ch5 to Ch4, among others).
+>
+> **Next job after Book 2 drafting is underway: rebuild all 22 against the current outline.** Salvage is expected to be high — the Lena midpoint, the Willow conversation, and the closing Iris/Lena image all survive with edits.
+
+---
+
 Each brief contains: POV, Location, Goal, Conflict, Outcome, Emotional Beat.
 
-**POV:** Iris Vale throughout, except where noted. Opens weeks after Book 1 ends.
+**POV:** Iris Vale throughout, except where noted. Opens weeks after Book 2 ends.
 
-**The engine:** The reader finished The Keeping. They know what Willow is, where she came from, and why she took Iris's love for Lena specifically. Iris knows none of it and will only ever learn part. Every Willow scene in this book carries a second layer the protagonist cannot see. Do not let the prose reach for that layer. It belongs to the reader.
+**The engine:** the reader finished Book 2. They know what Willow is, where she came from, and why she took Iris's love for Lena specifically. **Iris knows most of it and stopped one step short of the part that matters** — she recovered the whole origin and cannot feel any of it, and the one inference she could not make is the one that would have told her who was in danger. Every Willow scene carries a second layer the protagonist cannot see. Do not let the prose reach for that layer. It belongs to the reader.
 
 ---
 
@@ -56,7 +75,7 @@ Then the public layer: a briefing frames the cluster as a probable environmental
 **Conflict:** Kade has been sitting on records out of self-preservation: NDAs, fear, the hope that ignoring it would keep it sealed. Sub-projects transferred after shutdown. Equipment moved. Data migrated to mirror sites. He walks Iris through manifests written in asset codes and admits he moved crates to locations he did not ask about.
 **Outcome:** Meridian was not a single failure point. Threads kept going.
 **Emotional Beat:** The guilt is logistical, not dramatic. He moved boxes. That is what he did.
-**Reader layer:** They watched him do it in The Keeping Ch16. They know which crates, they know he asked twice about a manifest ambiguity, and they know he was told secondary. This chapter should not acknowledge that in any way. It is simply worse to read.
+**Reader layer:** ⚠️ STALE. This referenced a prequel scene in which the reader watched Kade load the crates; that scene no longer exists. Under the sequel, Kade opens the lockup in **The Ending Ch3** and asks to be forgiven while calling it work, and this chapter cannot be his confession because he already made it. Rewrite in the brief rebuild.
 
 ---
 
@@ -106,7 +125,7 @@ Then Iris, investigating Enzo: a musician, Taken, nowhere near known Willow terr
 **Conflict:** Lena has been trying to reach Iris for months and is done being patient about it. She is direct and angry in the controlled way of someone who has been shut out and has rehearsed. Iris performs the conversation, says appropriate things, and Lena is not fooled. She refuses deflection. She refuses "I'm fine."
 **Outcome:** Lena inserts herself into Iris's orbit and will not leave. This puts her closer to the investigation and closer to Willow.
 **Emotional Beat:** Lena takes Iris's hand and holds it and says she is her sister. Iris looks at their hands. She can measure the grip. She can see that Lena's eyes are wet. She processes all of it as data. The thing that converts data into feeling is not there. Iris does not cry, does not break, and does not have a moment of emotion getting through. The absence holds.
-**Reader layer:** The Keeping Ch8 was these two arguing about sealed-site work over dinner. Same room temperature, one side removed.
+**Reader layer:** ⚠️ STALE. This referenced the prequel's intact-Iris dinner argument, which no longer exists — intact Iris is never dramatized anywhere in the series. The live reference point is **The Ending Ch9**, where Lena arrives, reads the erosion wall, and stays. Rewrite in the brief rebuild.
 
 ---
 

@@ -1,4 +1,4 @@
-Chapter 3 — Sessions
+Chapter 8 — Sessions
 
 The observation room had been a storage closet on the original plans. Somebody had put a window into one wall, run power for a monitor stand, and left it at that. There were two chairs in it because the protocol required a witness for the first four sessions of any course.
 

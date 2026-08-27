@@ -1,4 +1,6 @@
-# BOOK 2 — "THE KEEPING" — CHAPTER BRIEFS
+# BOOK 2 — "THE ENDING" — CHAPTER BRIEFS
+
+**Title set 2026-08-27: "The Ending."** It names what changed about her: she does not only take now. "The Keeping" was chosen for the prequel and was retired with it. Chapter and act headings use arc names and are not keyed to the title.
 
 **Sequel.** Built from `13-arc-revision.md` and `06-book2-outline.md`, both 2026-08-26. The prequel brief set is archived at `archive/08-book2-chapter-briefs-PREQUEL.md` and is superseded entirely.
 
@@ -21,6 +23,11 @@ Every chapter drafted under the old arc landed under budget and the cuts were co
 All hard rules live in `03-themes-and-tone.md` → PROSE CONVENTIONS (HARD RULES) and SENTENCE VARIETY. The audit gates and the three drafting lessons that cost rewrites under the old arc are in `review-progress.md`. Both apply unchanged. The short version:
 
 - **No fragmentation.** Book 1's staccato voice is published and stays there. It does not enter this book in any form. Fragments are emphasis, a few per chapter at most.
+
+> **Banned as default:** The lab. Cold. Every third light on. Racks in rows. She stood in the doorway. Waited.
+>
+> **Required:** The lab held its cold the way the whole lower level did, steady and without source, and only every third fixture was lit, so the racks ran off into bands of shadow that made the room look longer than it was. She stood in the doorway until her eyes adjusted.
+
 - **No run-on comma chains.** The overcorrection. Screen at the sentence while drafting, not as a post-pass.
 - **No trailing explanatory sentence.** Read the last sentence of each paragraph alone and ask whether the paragraph is finished without it.
 - **No Book 1 register leaking in.** Scan for "she noted," "she registered," "Expected/Observed," "the absence of." Iris is flat in this book and her Book 1 voice will be actively tempting. **Flat affect is not fragmented prose.** She observes in complete sentences.
@@ -84,7 +91,7 @@ Seven chapters cannot hold six years. The following were dramatized in the prequ
 |---|---|---|---|
 | I — What Came Back | 1–7 | 1, 2, 3, 5, 6, 7 | 4 |
 | II — The Protocol | 8–15 | 9, 11, 12, 14 | 8, 10, 13, 15 |
-| III — The Keeping | 16–22 | 16, 18, 19, 21, 22 | 17, 20 |
+| III — Finishing | 16–22 | 16, 18, 19, 21, 22 | 17, 20 |
 
 Ch15 closes with a short Iris coda. Ch22 closes with a short Willow coda. Those are the only two POV seams inside a chapter in the book.
 
@@ -180,6 +187,8 @@ The mechanical consequence is the engine: if a complete taking satisfies and a p
 
 **This is never explained, hinted at, or approached by any character in Book 2.** It is recorded here so that three books stay consistent. Iris gets close to the adjacent fact in Ch21 and stops. The reader may assemble it. The prose must not help.
 
+**And it is why Ch22 plants Lena.** The value already at zero *is* Iris's love for her sister. That is the structure the procedure will not return from, so that is where Willow is stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.** See Ch22.
+
 ### Locked from published Book 1
 
 Cut fence, forced outward, "not recently" · standby power rising and falling, relays clicking, "not synchronized, not random either" · wall calendar stopped three years earlier · job ref MN-44-7 · "Meridian didn't shut down clean" · multiple sites spread deliberately, "From themselves" · Kade's access codes never revoked · relay points and transfer points · Iris parks facing the road because it is easier to leave · "Willow" appears in Book 1 only in Ch21–22, only in narration, never spoken by any character · Iris is "closer to Willow than anyone else alive" · Caleb's line, "You don't have to optimize the answer" · Rourke's dataset of hundreds of cases classified as behavioral flattening.
@@ -254,7 +263,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Emotional Beat:** Kade is asking to be forgiven and calling it work, and Iris can see the structure of it exactly and has nothing to offer against it. He tells her about a row of crates he was asked twice about, because the manifest was ambiguous and he did not want to get it wrong, and he says he told them secondary and wrote it down and moved them and did not ask what was in them. **He is not confessing. He is establishing a fact he has already decided about.**
 
-**Continuity:** Book 1 Ch8's relay points and transfer points, and Kade's guilt as logistical rather than dramatic. Book 1 Ch5's deliberately spread sites, "From themselves." Salvage available from retired `chapters-book2/02-recovery.md`: the crate and manifest physicality, and the fact that damaged media is a chain of small institutional decisions rather than an accident.
+**Continuity:** Book 1 Ch8's relay points and transfer points, and Kade's guilt as logistical rather than dramatic. Book 1 Ch5's deliberately spread sites, "From themselves." Salvage available from retired `archive/DRAFT-prequel-ch02-recovery.md`: the crate and manifest physicality, and the fact that damaged media is a chain of small institutional decisions rather than an accident.
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
@@ -262,7 +271,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 ### Chapter 4 — RECOVERED: Intake
 
-**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words, `chapters-book2/01-intake.md`**
+**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words, `chapters-book2/04-intake.md`**
 **Location:** Meridian Neurological, Lowport coast. Reception, intake suite, the corridor after.
 **Goal:** Establish the program as legitimate and working, and introduce both sisters through the act of one admitting the other. **The reader must like Willow Halloway immediately, and must believe the science. Both are load-bearing.**
 
@@ -312,7 +321,7 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 **She works better than she used to.** That is the horror, and the prose must not say so.
 
-**Continuity:** A line, not a scene, on the Caleb check being on a schedule now. Salvage from retired `chapters-book2/02-recovery.md`: the wet-drive procedure, the bridge tripping at ninety minutes, the dead-credential authentication, and the thing she likes about a dead system answering. The **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — is **not** used here. It is the rhyme for Virek and belongs to Ch19.
+**Continuity:** A line, not a scene, on the Caleb check being on a schedule now. Salvage from retired `archive/DRAFT-prequel-ch02-recovery.md`: the wet-drive procedure, the bridge tripping at ninety minutes, the dead-credential authentication, and the thing she likes about a dead system answering. The **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — is **not** used here. It is the rhyme for Virek and belongs to Ch19.
 
 **Craft:** Do not let her grieve on the page. Do not let the prose grieve for her either.
 
@@ -329,6 +338,8 @@ What comes up first is a baseline mapping session, a patient under a research id
 **The mechanism is the horror and it must be rendered flatly.** The body kept working for a while afterward. He was found sitting down. He answered the first responders, correctly, and stopped answering some hours later, and the stopping had no event in it. Iris gets there in time to be told what he said.
 
 She has the comparison nobody else has. Joel, Lila, Caleb, herself: partial, survivable, and slow. This is the same operation run to completion in one pass.
+
+**The selection criterion, visible and never named:** he was carrying a great deal and had been for a long time. One room's worth of evidence is enough — a thing half-sorted, a thing nobody has moved yet. **Do not have any character remark on it.** The reader assembles the criterion across Ch6, Ch18 and Ch19 and nobody in the book ever states it.
 
 **Outcome:** Iris establishes that the effect has a magnitude, and that the magnitude has changed.
 
@@ -589,7 +600,7 @@ The chapter ends there. **No reflection, no dawning, no closing line with weight
 
 ---
 
-## ACT III — THE KEEPING
+## ACT III — FINISHING
 
 **Purpose:** The name, the deviation, the escalation, and the second visit.
 
@@ -705,7 +716,7 @@ He accepted it. **He did not escalate again.**
 
 She writes down that she wants to find him and marks it as the highest-value open item she has, and it stays open.
 
-**Continuity:** **This is the Oyelaran rhyme** from the retired `chapters-book2/02-recovery.md` — a thorough man, ignored, who went on being thorough anyway — and it is much better spent here than in Ch5. The salvaged detail worth carrying is the shape of the record: submissions logged, no action logged, and the notes simply stopping.
+**Continuity:** **This is the Oyelaran rhyme** from the retired `archive/DRAFT-prequel-ch02-recovery.md` — a thorough man, ignored, who went on being thorough anyway — and it is much better spent here than in Ch5. The salvaged detail worth carrying is the shape of the record: submissions logged, no action logged, and the notes simply stopping.
 
 Virek does not appear in Book 2. Book 3 needs him, because **he is the only living person who ever saw Willow Halloway and could recognize the face.** Book 2's job is to put his name in Iris's hands and leave it there.
 
@@ -789,6 +800,18 @@ And it does not complete.
 
 **Willow cannot stop.** She continues past the point where the process should have returned, because a system with no inhibition cannot abandon a procedure that has not returned a result, and the continuing is longer and worse than the taking would have been.
 
+**THE PLANT — the last thing this book does, and the one thing in the chapter that reaches past it.**
+
+The place the procedure will not return from is the place where Iris's love for her sister used to be. It is the only structure in Iris that matches anything Willow has. There is nothing left in it to take, and she cannot leave it.
+
+So she stays there. Longer than she stays anywhere else, working at the shape of what is missing, **and the shape of what is missing is a younger sister.**
+
+**She learns that Iris has one.**
+
+**Nothing explains this. No line comments on it.** Iris registers it as a duration — a pause, in one location, longer than the others — and files it as a measurement, and never works out what it was.
+
+**The failure and the plant are the same moment**, which is why this costs the chapter nothing: Willow is stuck because the value is at zero, and the value at zero is Lena-shaped. Book 3's midpoint now arrives caused rather than assumed. **She knows where to look. The reader has known since this page. Iris never will.**
+
 **Outcome:** It ends without ending. She stops, eventually, and there is no moment of decision in the stopping. **She walks away and Iris lets her and neither of them knows why.**
 
 Iris is alive, and she is not more damaged than she was, which is its own horror: there was nothing left to take. **She is unfinished, permanently, and the thing now knows it.**
@@ -799,7 +822,7 @@ Iris is alive, and she is not more damaged than she was, which is its own horror
 
 **The Willow coda — no more than 400 words:** The failure registers as a process that did not return. She has completed dozens and this is the first that has not, and she has no category for it and no instruction covering it. She does not understand it and she does not need to; what she has is a value that will not close.
 
-**Something appears in her that has no name in her.** It is not anger and the prose must not call it anger. It is the pressure of an unclosed loop in a system that cannot leave loops open, and it is the first thing she has ever had that resembles a want.
+**Something appears in her that has no name in her.** It is not anger and the prose must not call it anger. **If the coda touches the sister at all it is one clause and it is not a thought** — the unreturned value has a shape, and the shape is the last thing she was working at. It is the pressure of an unclosed loop in a system that cannot leave loops open, and it is the first thing she has ever had that resembles a want.
 
 **That is the birth of the frustration that makes her strategic in Book 3, and it plants the trap that ends the series.**
 
@@ -821,9 +844,21 @@ Willow's face reaches **specific** and stays there for the rest of the series. T
 
 Carried from `13-arc-revision.md`, with the position these briefs are written from.
 
-**1. Does "The Keeping" still title this book?** Chosen for a prequel. **Retained.** It arguably fits better now: she keeps what she takes, and Book 1's *"she chose to keep me"* points straight at it. No brief depends on the title.
+**1. ~~Does "The Keeping" still title this book?~~ RESOLVED 2026-08-27: no. The book is "The Ending."**
 
-**2. Does Lena stay untouched through Book 2?** **These briefs say yes,** and Ch9 is written on that basis. The dependency is Book 3, whose midpoint partially Takes her and needs her intact to do it. Touching her here would cost that beat and would also answer the Ch22 question the outline wants carried into Book 3 — *why has she not gone for Lena, and does she know Lena exists?* **If this is reversed, Ch9, Ch14, Ch21 and Book 3's midpoint all move.**
+"The Keeping" was chosen for a prequel and none of the shortlisted alternatives carried the thing this book is actually about, which is her turn to killing. *The Ending* does, in the series' own plain register: **she does not only take now. She ends people.**
+
+It is a description of her method, not a promise about the series — **Book 3 is the finale.** A middle book with this title misdirects deliberately, which is the same trick the series runs everywhere else with *recovery*, *relief*, and *failure to self-advocate*. The spine reads **The Absence → The Ending → The Silence.**
+
+*Watch at publication:* a middle book called The Ending can read to a browsing reader or a retailer as the finale. Handle that in series metadata and back-cover copy, not by changing the title.
+
+**2. Does Lena stay untouched through Book 2? RESOLVED 2026-08-27: untouched, and located.**
+
+She is never approached and is never in physical danger. Ch9 is unchanged and Book 3's midpoint still has her intact to partially Take.
+
+**What changed is Ch22.** Willow gets stuck on the empty place where Iris's love for her sister used to be, and being stuck there is how she learns Iris has a sister. **That is a plant, not a spend** — nothing happens to Lena, and Book 3's midpoint stops arriving by authorial convenience and starts arriving as a consequence.
+
+It also closes the outline's carried question, *does she know Lena exists*, on the last page — **for the reader only.** Iris registers a duration and nothing else.
 
 **3. New — does Iris ever learn who signed the reclassification form?** Ch14 gives her the decision and not the name, because the signature is on the degraded index. **These briefs say she never learns it in Book 2.** It is available to Book 3 and it is the kind of thing Virek could tell her.
 
@@ -833,8 +868,11 @@ Carried from `13-arc-revision.md`, with the position these briefs are written fr
 
 Recorded here so nothing is lost. None of it blocks drafting Ch1.
 
-- **`02-characters.md`** — Rourke is marked "Not present in Book 2," which is stale prequel text. Caleb needs a death. Willow needs the satisfaction drive and the resolving face. Marin needs re-pointing from "Book 2 POV protagonist (13 chapters)" to the seven Recovered chapters.
-- **`07-book3-outline.md`** — needs rewriting for the new ending, Willow's killer escalation, Virek's changed role, and whatever Book 2 has now absorbed. It also still says Book 3 picks up weeks after Book 1, which the pivot changed.
-- **CLAUDE.md, Book 3 section** — claims `archive/DRAFT-hunger-ch01-aftermath.md` for Book 3 Ch1. **Book 2 Ch1 owns it.** Book 3 needs a different opening.
-- **`10-subplot-threading.md`** and **`11-key-dialogue-notes.md`** — both keyed to the old structure.
+All of the below were completed on 2026-08-27, against this brief set. Recorded so the dependency is visible if a later change forces them again.
+
+- ~~**`02-characters.md`**~~ **Done.** Rourke restored to Book 2, Caleb given his death, Willow given the satisfaction drive and the five-stage face progression, Marin re-pointed from "Book 2 POV protagonist (13 chapters)" to the seven Recovered chapters. Dr. Feld added.
+- ~~**`07-book3-outline.md`**~~ **Done.** Rewritten for the new ending (the compulsion trap, then the water), Willow's killer escalation, Virek's recognition function, and everything Book 2 now absorbs. Its own "THE ENDING" section heading was renamed to avoid colliding with this book's title.
+- ~~**CLAUDE.md, Book 3 section**~~ **Done.** The `DRAFT-hunger-ch01-aftermath.md` claim is withdrawn from Book 3; **Book 2 Ch1 owns it.**
+- ~~**`10-subplot-threading.md`** and **`11-key-dialogue-notes.md`**~~ **Done.** Both rebuilt against this structure; the prequel-era versions are archived.
+- **Still outstanding: `09-book3-chapter-briefs.md`.** Stale, carries a banner, must not be drafted from. Rebuild it against the rewritten Book 3 outline, not against this file.
 - **`chapters-book2/README.md`** — still says "Book 2 is a prequel."
