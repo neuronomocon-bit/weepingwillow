@@ -2,7 +2,7 @@
 
 **Title set 2026-08-27: "The Ending."** It names what changed about her: she does not only take now. "The Keeping" was chosen for the prequel and was retired with it. Chapter and act headings use arc names and are not keyed to the title.
 
-**Sequel.** Built from `13-arc-revision.md` and `06-book2-outline.md`, both 2026-08-26. The prequel brief set is archived at `archive/08-book2-chapter-briefs-PREQUEL.md` and is superseded entirely.
+**Sequel.** Built from `13-arc-revision.md` and `06-book2-outline.md`, both 2026-08-26. The prequel brief set is archived at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` and is superseded entirely.
 
 Each brief contains: POV, When, Location, Length, Goal, Conflict, Outcome, Emotional Beat, and continuity/craft notes.
 
@@ -217,7 +217,7 @@ She reduces it to two possibilities, because reduction is the method she still t
 
 **Continuity:** Establishes the Caleb check as a scheduled thing, which Ch5 references in a line and Ch11 collects on. Retrieval delay is now longer than Book 1's and has a functional cost: she takes a turn three seconds late and the car behind her adjusts first. Kade sends two site coordinates overnight with no context, which is the arrangement.
 
-**Craft:** **Salvageable from `archive/DRAFT-hunger-ch01-aftermath.md`, 1,500 words, drafted for the retired Hunger arc and a near-exact match.** It wants roughly 1,900 more. Take the expansion from the apartment and the drive, not from the Caleb scene, which is the right length and should not be padded — its flatness is doing the work.
+**Craft:** **Salvageable from `archive/drafts/DRAFT-hunger-ch01-aftermath.md`, 1,500 words, drafted for the retired Hunger arc and a near-exact match.** It wants roughly 1,900 more. Take the expansion from the apartment and the drive, not from the Caleb scene, which is the right length and should not be padded — its flatness is doing the work.
 
 **Note:** CLAUDE.md's Book 3 section also claims this draft for Book 3 Ch1. That claim is stale, written before the pivot made Book 2 the sequel. **Book 2 Ch1 owns it.** Book 3 now opens weeks after Book 2, not weeks after Book 1, and needs a different chapter.
 
@@ -263,7 +263,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Emotional Beat:** Kade is asking to be forgiven and calling it work, and Iris can see the structure of it exactly and has nothing to offer against it. He tells her about a row of crates he was asked twice about, because the manifest was ambiguous and he did not want to get it wrong, and he says he told them secondary and wrote it down and moved them and did not ask what was in them. **He is not confessing. He is establishing a fact he has already decided about.**
 
-**Continuity:** Book 1 Ch8's relay points and transfer points, and Kade's guilt as logistical rather than dramatic. Book 1 Ch5's deliberately spread sites, "From themselves." Salvage available from retired `archive/DRAFT-prequel-ch02-recovery.md`: the crate and manifest physicality, and the fact that damaged media is a chain of small institutional decisions rather than an accident.
+**Continuity:** Book 1 Ch8's relay points and transfer points, and Kade's guilt as logistical rather than dramatic. Book 1 Ch5's deliberately spread sites, "From themselves." Salvage available from retired `archive/drafts/DRAFT-prequel-ch02-recovery.md`: the crate and manifest physicality, and the fact that damaged media is a chain of small institutional decisions rather than an accident.
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
@@ -281,7 +281,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No dread, no ominous equipment, no foreshadowing, no lingering shot of anything.
 
-**As Written (3,286 words):** Full detail block is preserved at `archive/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
+**As Written (3,286 words):** Full detail block is preserved at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
 
 - **Nine years** is the duration Willow has been carrying it and Marin has been carrying her. Locked.
 - Willow's originating trauma is **never named**. Only its shape appears: the medication page, the four jobs, the apartment above the laundromat, the birthdays checked in advance for whether they were survivable.
@@ -321,7 +321,7 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 **She works better than she used to.** That is the horror, and the prose must not say so.
 
-**Continuity:** A line, not a scene, on the Caleb check being on a schedule now. Salvage from retired `archive/DRAFT-prequel-ch02-recovery.md`: the wet-drive procedure, the bridge tripping at ninety minutes, the dead-credential authentication, and the thing she likes about a dead system answering. The **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — is **not** used here. It is the rhyme for Virek and belongs to Ch19.
+**Continuity:** A line, not a scene, on the Caleb check being on a schedule now. Salvage from retired `archive/drafts/DRAFT-prequel-ch02-recovery.md`: the wet-drive procedure, the bridge tripping at ninety minutes, the dead-credential authentication, and the thing she likes about a dead system answering. The **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — is **not** used here. It is the rhyme for Virek and belongs to Ch19.
 
 **Craft:** Do not let her grieve on the page. Do not let the prose grieve for her either.
 
@@ -716,7 +716,7 @@ He accepted it. **He did not escalate again.**
 
 She writes down that she wants to find him and marks it as the highest-value open item she has, and it stays open.
 
-**Continuity:** **This is the Oyelaran rhyme** from the retired `archive/DRAFT-prequel-ch02-recovery.md` — a thorough man, ignored, who went on being thorough anyway — and it is much better spent here than in Ch5. The salvaged detail worth carrying is the shape of the record: submissions logged, no action logged, and the notes simply stopping.
+**Continuity:** **This is the Oyelaran rhyme** from the retired `archive/drafts/DRAFT-prequel-ch02-recovery.md` — a thorough man, ignored, who went on being thorough anyway — and it is much better spent here than in Ch5. The salvaged detail worth carrying is the shape of the record: submissions logged, no action logged, and the notes simply stopping.
 
 Virek does not appear in Book 2. Book 3 needs him, because **he is the only living person who ever saw Willow Halloway and could recognize the face.** Book 2's job is to put his name in Iris's hands and leave it there.
 
@@ -872,7 +872,7 @@ All of the below were completed on 2026-08-27, against this brief set. Recorded 
 
 - ~~**`02-characters.md`**~~ **Done.** Rourke restored to Book 2, Caleb given his death, Willow given the satisfaction drive and the five-stage face progression, Marin re-pointed from "Book 2 POV protagonist (13 chapters)" to the seven Recovered chapters. Dr. Feld added.
 - ~~**`07-book3-outline.md`**~~ **Done.** Rewritten for the new ending (the compulsion trap, then the water), Willow's killer escalation, Virek's recognition function, and everything Book 2 now absorbs. Its own "THE ENDING" section heading was renamed to avoid colliding with this book's title.
-- ~~**CLAUDE.md, Book 3 section**~~ **Done.** The `DRAFT-hunger-ch01-aftermath.md` claim is withdrawn from Book 3; **Book 2 Ch1 owns it.**
+- ~~**CLAUDE.md, Book 3 section**~~ **Done.** The `archive/drafts/DRAFT-hunger-ch01-aftermath.md` claim is withdrawn from Book 3; **Book 2 Ch1 owns it.**
 - ~~**`10-subplot-threading.md`** and **`11-key-dialogue-notes.md`**~~ **Done.** Both rebuilt against this structure; the prequel-era versions are archived.
-- **Still outstanding: `09-book3-chapter-briefs.md`.** Stale, carries a banner, must not be drafted from. Rebuild it against the rewritten Book 3 outline, not against this file.
+- **Still outstanding: the Book 3 briefs.** They do not exist — the prequel-era set was archived at `archive/arc-02-prequel/` rather than patched. Write 22 against the rewritten Book 3 outline, not against this file.
 - **`chapters-book2/README.md`** — still says "Book 2 is a prequel."

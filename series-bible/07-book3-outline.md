@@ -2,7 +2,7 @@
 
 **Third book.** Picks up weeks after Book 2 ends and runs to the end of the series.
 
-**Rewritten 2026-08-27** against `13-arc-revision.md`. The version written when Book 2 was a prequel is archived at `archive/07-book3-outline-SILENCE-original.md`. That file's ending — Willow collapsing under a contradiction she cannot process — is **retired**. See HOW BOOK 3 ENDS below.
+**Rewritten 2026-08-27** against `13-arc-revision.md`. The version written when Book 2 was a prequel is archived at `archive/arc-01-hunger/07-book3-outline-SILENCE-original.md`. That file's ending — Willow collapsing under a contradiction she cannot process — is **retired**. See HOW BOOK 3 ENDS below.
 
 ---
 
@@ -262,4 +262,4 @@ For anyone comparing against the archived original:
 - **Iris's Act I turn changed.** The erosion inventory started in Book 2 Ch1. Her loss here is professional competence, which is the last intact thing.
 - **The number anomaly added** at Ch17, per the escalation axes.
 - **Iris's ending changed** from "alive, aware, and mostly gone" to deliberately unsettled.
-- **Chapter briefs in `09-book3-chapter-briefs.md` are now stale against this outline** and need a rebuild pass. They were written for the prequel-era structure.
+- **There are no Book 3 chapter briefs.** The prequel-era set was archived at `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` on 2026-08-27 rather than patched, because eight separate things in it were wrong against this outline. **22 need writing.** Salvage is expected to be high — the Lena midpoint, the Willow conversation, and the closing Iris/Lena image all survive with edits.

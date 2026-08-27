@@ -10,13 +10,13 @@ Book 1 — "The Absence" is complete and published (2026-05-14). Its review hist
 
 **Briefs written 2026-08-26; reconciled and merged 2026-08-27.** All 22 are in `series-bible/08-book2-chapter-briefs.md`.
 
-> **Note on the merge.** Two complete, independent brief sets were written for this arc in parallel sessions. The set committed in `a5f0fd2` is the base and is the stronger of the two — its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris all survive intact. Four things merged in from the other set: **the title, the Ch22 Lena plant, the Act III rename the title forces, and a worked prose example.** The second set is archived at `series-bible/archive/08-book2-chapter-briefs-SEQUEL-B.md`.
+> **Note on the merge.** Two complete, independent brief sets were written for this arc in parallel sessions. The set committed in `a5f0fd2` is the base and is the stronger of the two — its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris all survive intact. Four things merged in from the other set: **the title, the Ch22 Lena plant, the Act III rename the title forces, and a worked prose example.** The second set is archived at `series-bible/archive/arc-03-superseded/08-book2-chapter-briefs-SEQUEL-B.md`.
 
 **Title set 2026-08-27: "The Ending."** It names her turn to killing. "The Keeping" was chosen for the prequel and was retired with it. Act and chapter headings use arc names and are not keyed to it.
 
 ## Conventions Being Enforced
 
-Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** sections in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). These are hard audit gates and supersede Book 1's looser handling of the same patterns.
+Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** sections in `series-bible/03-themes-and-tone.md`, which is the **single source** for them. These are hard audit gates and supersede Book 1's looser handling of the same patterns.
 
 1. **PROSE HARD RULES:** No AI-writing tics; no "it's not X, it's Y" contrast framing; no "wrong"/"off" as atmospheric shorthand; no "the kind of…" / appositive-as-thesis; no labeled silences; no "nodded once"; no narrator editorializing; no duplicate reflection blocks; no exclamation points; no em dashes; no repeated comparative crutches ("the way…"); no bloat/repetition. Full list in `03-themes-and-tone.md`.
 
@@ -97,7 +97,7 @@ Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld introduced; Raman first named; the substrate parameters established as furniture. Drafted 2026-08-06, **never author-proofread** — it was awaiting a proofread when the arc was re-examined. Same re-audit needed.
 
-**Retired: Ch2 — Recovery** · 2,855 words · **archived 2026-08-27 to `series-bible/archive/DRAFT-prequel-ch02-recovery.md`**
+**Retired: Ch2 — Recovery** · 2,855 words · **archived 2026-08-27 to `series-bible/archive/drafts/DRAFT-prequel-ch02-recovery.md`**
 
 Built on intact pre-Book-1 Iris, who no longer appears in this book. It was moved out of `chapters-book2/` because that folder is the manuscript source and `build-manuscript.js` was picking it up as chapter 2.
 

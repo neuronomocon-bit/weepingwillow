@@ -3,7 +3,7 @@
 Dialogue direction for the most important moments in the series.
 These are not final scripts — they are tone, rhythm, and content guides for writing.
 
-**Rebuilt 2026-08-27** against the sequel structure. The prequel-era version is archived at `archive/11-key-dialogue-notes-PREQUEL.md`. **The Book 1 section is unchanged** — it is published.
+**Rebuilt 2026-08-27** against the sequel structure. The prequel-era version is archived at `archive/arc-02-prequel/11-key-dialogue-notes-PREQUEL.md`. **The Book 1 section is unchanged** — it is published.
 
 Sections are in **publication order**: The Absence (B1), Book 2, The Silence (B3).
 

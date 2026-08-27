@@ -4,7 +4,7 @@
 
 **Title set 2026-08-27: "The Ending."** It names what changed about her: she does not only take now. "The Keeping" was chosen for the prequel and was retired with it. Act and chapter headings use arc names and are not keyed to the title.
 
-Built from `13-arc-revision.md` (2026-08-26). Chapter briefs are in `08-book2-chapter-briefs.md`. The prequel version of this book is archived at `archive/06-book2-outline-PREQUEL.md`.
+Built from `13-arc-revision.md` (2026-08-26). Chapter briefs are in `08-book2-chapter-briefs.md`. The prequel version of this book is archived at `archive/arc-02-prequel/06-book2-outline-PREQUEL.md`.
 
 ---
 
@@ -62,7 +62,7 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 
 **Purpose:** Re-establish Iris worse than we left her. Open the drives. Change the threat.
 
-1. **Aftermath** — Iris weeks on. Routines, notes, a message she does not remember writing. *(Salvageable from `archive/DRAFT-hunger-ch01-aftermath.md`, ~1,500 words, wants expansion.)*
+1. **Aftermath** — Iris weeks on. Routines, notes, a message she does not remember writing. *(Salvageable from `archive/drafts/DRAFT-hunger-ch01-aftermath.md`, ~1,500 words, wants expansion.)*
 2. **Mortality** — Rourke has a curve she cannot explain. Taken people are dying of nothing. No cause of death fits, because the cause was removed months ago.
 3. **The Files** — Kade opens what he moved during the shutdown. Crates, manifests, drives, and the sibling contracts to MN-44-7. He is asking to be forgiven and calling it work.
 4. **RECOVERED: Intake** — Marin, Willow, Terri Roth at the desk. The reader meets a woman they will like.

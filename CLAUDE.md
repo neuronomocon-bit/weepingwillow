@@ -24,7 +24,7 @@ Both superseded arcs are preserved in `series-bible/archive/` with a README expl
 ## Workflow
 
 - **Claude** handles: planning, scaffolding, series bible, chapter drafting (Book 2 onward), chapter review/audit, continuity tracking
-- **Book 1** prose was drafted by ChatGPT. As of Book 2 (2026-05-14), ChatGPT was dropped — it could not reliably hold the prose hard rules — and **Claude drafts the chapters directly.** `series-bible/12-chatgpt-system-prompt.md` is retained as a consolidated rules reference.
+- **Book 1** prose was drafted by ChatGPT. As of Book 2 (2026-05-14), ChatGPT was dropped — it could not reliably hold the prose hard rules — and **Claude drafts the chapters directly.** The ChatGPT system prompt is archived at `series-bible/archive/superseded-tooling/`. **It duplicated the prose rules, which is how one copy goes stale;** `03-themes-and-tone.md` is now the only source for them.
 - **Process:** Claude drafts a chapter into `chapter_review.md` → author proofreads/edits → on approval the final is saved to `chapters-book2/` and an "As Written" block is added to the brief.
 
 ### Manuscript files — single source of truth (changed 2026-08-04)
@@ -54,19 +54,22 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | File | Contents |
 |------|----------|
 | `01-world.md` | Setting (Lowport, Maine, ~2050), tech, Meridian origin, atmosphere, public awareness arc |
-| `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Virek, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
-| `03-themes-and-tone.md` | Thematic pillars + tone/voice rules |
+| `02-characters.md` | Full cast: Willow, Iris, Kade, Rourke, Caleb, Lena, Marin, Willow Halloway, Virek, Feld, Terri, Raman, Pell, Lila Mercer, Joel, Leah, Enzo, Joe E., Xander, Weston |
+| `03-themes-and-tone.md` | Thematic pillars, tone rules, **SENTENCE VARIETY**, **PROSE CONVENTIONS (HARD RULES)**, POV registers. **The single source for the prose rules.** |
 | `04-book1-outline.md` | "The Absence" — 3-act structure, detailed beats |
-| `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks for completed chapters |
+| `05-book1-chapter-briefs.md` | 22 chapters, full scene breakdowns + "As Written" blocks |
 | `06-book2-outline.md` | "The Ending" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — **rewritten 2026-08-27.** New ending (compulsion trap, then the water), Willow's killer escalation, Virek's recognition function |
-| `08-book2-chapter-briefs.md` | 22 briefs for the **sequel**, written 2026-08-26. Two-thread allocation, master timeline, the investigation spine, Willow's face progression. The prequel version is archived. |
-| `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot, plus the three open questions resolved 2026-08-27. Authoritative — outlines are rebuilt from it, not patched.** |
-| `09-book3-chapter-briefs.md` | 22 chapters — **STALE.** Carries a banner. Predates the Book 3 rewrite; needs a rebuild pass. |
-| `10-subplot-threading.md` | 11 arcs across all 66 chapters. Rebuilt 2026-08-27 |
+| `08-book2-chapter-briefs.md` | **All 22 Book 2 briefs.** Master timeline, the investigation spine, Willow's face progression, the audit gates. Merged from two independent sets 2026-08-27. |
+| *09 — none* | **Book 3 has no chapter briefs.** The prequel-era set is archived at `archive/arc-02-prequel/`. 22 need writing against the rewritten Book 3 outline. |
+| `10-subplot-threading.md` | 11 arcs tracked across all 66 chapters. Rebuilt 2026-08-27 |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~20 key moments. Rebuilt 2026-08-27 |
-| `12-chatgpt-system-prompt.md` | Ready-to-paste system prompt for ChatGPT + drift corrections |
+| *12 — archived* | The ChatGPT system prompt. Dropped 2026-05-14 and **it duplicated the prose rules**, which is how one copy goes stale. In `archive/superseded-tooling/`. |
+| `13-arc-revision.md` | **The seven decisions of the 2026-08-26 pivot, plus the three open questions resolved 2026-08-27. Authoritative — outlines are rebuilt from it, not patched.** |
 | `character-image-prompts.md` | DALL-E/ChatGPT image prompts — dark gothic painterly style, all 12 characters (16 prompts) |
+| `archive/` | Every superseded arc, retired draft, and dropped tool. **Organised by when it died** — `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`. Read `archive/README.md` first; it explains why each arc failed. |
+
+**Numbering gaps at 09 and 12 are deliberate.** The numbers are stable identifiers referenced across the bible, so an archived file leaves its slot empty rather than causing a renumber.
 
 ## Writing Progress
 
@@ -188,7 +191,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 - Why she took Iris's love for Lena specifically — recognition, not collateral. Ch21 gets to within one step and stops.
 - What every environmental oddity in Book 1 Ch1 actually is
 
-**Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md` (mirrored in `12-chatgpt-system-prompt.md`). No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
+**Prose rules (adopted 2026-05-14, unchanged):** Book 2 onward follows **SENTENCE VARIETY** and **PROSE CONVENTIONS (HARD RULES)** in `series-bible/03-themes-and-tone.md`, which is now the **only** source for them. No default single-line fragmentation, no "Not X. Just Y." cadence, no "wrong"/"off" as shorthand, no "nodded once," no labeled pauses, no em dashes, no AI-writing tics, no repeated comparative crutches. Book 1 is published and stays as written; do not retro-edit it.
 
 **Book 2 hard audit gates (in addition to the standard passes):**
 0. **NO FRAGMENTATION.** Book 1's staccato voice does not carry into Book 2 in any form. Single-line fragment paragraphs are emphasis only, a few per chapter at most. Environmental description, physical sensation, and interiority are written in complete, joined, varied sentences. Highest risk: any Willow-adjacent passage, where a non-human perspective will tempt fragmentation, and any moment of grief or contact, where the instinct will be to break lines for weight. Read every page aloud. If it reads like a list, rewrite it.
@@ -209,7 +212,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ### The brief-set collision, and how it resolved
 
-Two complete, independent 22-brief sets were written for this arc in parallel sessions. **The set in `a5f0fd2` is the base and is the stronger of the two.** Four things were merged in from the other: the title, the Ch22 Lena plant, the Act III rename, and a worked prose example. The second set is archived at `series-bible/archive/08-book2-chapter-briefs-SEQUEL-B.md`.
+Two complete, independent 22-brief sets were written for this arc in parallel sessions. **The set in `a5f0fd2` is the base and is the stronger of the two.** Four things were merged in from the other: the title, the Ch22 Lena plant, the Act III rename, and a worked prose example. The second set is archived at `series-bible/archive/arc-03-superseded/08-book2-chapter-briefs-SEQUEL-B.md`.
 
 **Root cause worth remembering: a local checkout two commits behind.** Fetch before starting large planning work.
 
@@ -234,14 +237,14 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 |---|---|---|
 | `chapters-book2/04-intake.md` | 3,286 | **Portable** → Recovered R1, Ch4. Renumbered and moved 2026-08-27. Needs re-audit. |
 | `chapter_review.md` (Ch8 — Sessions) | 3,387 | **Portable** → Recovered R2, Ch8. Retitled 2026-08-27. **Never author-proofread.** |
-| `archive/DRAFT-prequel-ch02-recovery.md` | 2,855 | **Retired and moved out of `chapters-book2/`**, because `build-manuscript.js` was picking it up as chapter 2. Salvage assigned to Ch3, Ch5 and Ch19. |
+| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | **Retired and moved out of `chapters-book2/`**, because `build-manuscript.js` was picking it up as chapter 2. Salvage assigned to Ch3, Ch5 and Ch19. |
 
 ### Next work, in priority order
 
-1. **Draft Book 2 Ch1 — Aftermath.** Expand `archive/DRAFT-hunger-ch01-aftermath.md` (1,500 words) to 3,400, **by adding scene, not reflection.** That draft belongs to Book 2 Ch1, not Book 3 Ch1.
+1. **Draft Book 2 Ch1 — Aftermath.** Expand `archive/drafts/DRAFT-hunger-ch01-aftermath.md` (1,500 words) to 3,400, **by adding scene, not reflection.** That draft belongs to Book 2 Ch1, not Book 3 Ch1.
 2. **Re-audit the two portable chapters** (Ch4 Intake, Ch8 Sessions) against the current gates. Ch8 has never had an author pass.
 3. **Draft Act I forward** (Ch2, Ch3, Ch5, Ch6, Ch7), assessing length at the end of the act rather than per chapter.
-4. **Rebuild `09-book3-chapter-briefs.md`** against the rewritten Book 3 outline. It carries a staleness banner and must not be drafted from.
+4. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`. The prequel-era set was archived rather than patched — salvage from `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` is expected to be high, but it is a rewrite, not an edit.
 
 Items 5–7 of the previous list — the Book 3 outline rewrite, `02-characters.md`, and `10`/`11` — are **done**.
 
@@ -253,7 +256,7 @@ Items 5–7 of the previous list — the Book 3 outline rewrite, `02-characters.
 
 ## Book 3 — "The Silence"
 
-**Status:** Outline **rewritten 2026-08-27** in `series-bible/07-book3-outline.md` — new ending, Willow's killer escalation, Virek's recognition function, and everything Book 2 now absorbs removed. **The 22 briefs in `series-bible/09-book3-chapter-briefs.md` are STALE**, carry a banner, and must not be drafted from.
+**Status:** Outline **rewritten 2026-08-27** in `series-bible/07-book3-outline.md` — new ending, Willow's killer escalation, Virek's recognition function, and everything Book 2 now absorbs removed. **There are no Book 3 briefs.** The prequel-era set was archived at `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` rather than patched, because eight separate things in it were wrong.
 
 Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs to touch anyone** from the Act I turn; the city misdiagnoses the spread and then welcomes it; Lena is partially Taken at the midpoint; Rourke breaks in public and then does institutional damage; Kade attempts containment alone and is partially Taken; and Iris opens herself completely.
 
@@ -261,7 +264,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **Its engine is dramatic irony, reshaped by the pivot.** The reader finishes Book 2 knowing what Willow is — **and so does Iris**, who recovered the whole origin and felt none of it. What she never reaches is why Lena. Do not let the prose reach for the reader's knowledge.
 
-**~~Ch1 salvage~~ — CLAIM WITHDRAWN 2026-08-26.** `archive/DRAFT-hunger-ch01-aftermath.md` belongs to **Book 2 Ch1**, which is the book that now opens weeks after The Absence. Book 3 opens weeks after *Book 2* and needs a different chapter. See the Book 3 warning above; this whole section predates the pivot.
+**~~Ch1 salvage~~ — CLAIM WITHDRAWN 2026-08-26.** `archive/drafts/DRAFT-hunger-ch01-aftermath.md` belongs to **Book 2 Ch1**, which is the book that now opens weeks after The Absence. Book 3 opens weeks after *Book 2* and needs a different chapter. See the Book 3 warning above; this whole section predates the pivot.
 
 ## How to Review a Chapter
 

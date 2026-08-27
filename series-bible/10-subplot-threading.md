@@ -2,11 +2,11 @@
 
 Tracking every major arc across all 66 chapters.
 
-**Rebuilt 2026-08-27** against the sequel structure. The prequel-era version is archived at `archive/10-subplot-threading-PREQUEL.md`.
+**Rebuilt 2026-08-27** against the sequel structure. The prequel-era version is archived at `archive/arc-02-prequel/10-subplot-threading-PREQUEL.md`.
 
 **Reading order is publication order, and chronological order now matches it:** The Absence (B1) → The Ending (B2) → The Silence (B3).
 
-Book 1 is published and its rows are a record of what is on the page, not a plan. Book 2's rows are keyed to `08-book2-chapter-briefs.md`. Book 3's rows are keyed to `07-book3-outline.md` and are **ahead of** `09-book3-chapter-briefs.md`, which is stale and needs a rebuild pass.
+Book 1 is published and its rows are a record of what is on the page, not a plan. Book 2's rows are keyed to `08-book2-chapter-briefs.md`. Book 3's rows are keyed to `07-book3-outline.md`. **Book 3 has no chapter briefs** — the prequel-era set was archived on 2026-08-27 and 22 need writing.
 
 Book 2 chapters marked **[R]** are Recovered — Marin Halloway's thread, dramatized, delivered as scene.
 

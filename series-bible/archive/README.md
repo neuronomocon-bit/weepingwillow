@@ -1,116 +1,97 @@
-# ARCHIVE — SUPERSEDED SERIES ARC
+# ARCHIVE
 
-Archived 2026-08-04, when the series pivoted to a new Book 2 / Book 3 structure.
+**Nothing here is current. Nothing here has been deleted.**
 
-## What changed
+Book 2 has been planned three times. This folder holds every superseded version, plus prose drafted under retired arcs, plus tooling that is no longer used. It is organised by *when it died*, not by what it is.
 
-The original plan was:
-- **Book 2 — The Hunger:** Willow becomes strategic. Lena targeted at the midpoint. Virek surfaces. The origin is revealed secondhand in one chapter.
-- **Book 3 — The Silence:** The quiet world. Iris collapses. Final confrontation and destruction.
-
-The problem identified in review: the trilogy's emotional bomb (Willow was born from grief) was promised in Book 2 by `01-world.md`, `02-characters.md`, and the Book 2 outline, but briefed into Book 3 as a single chapter of Virek talking in a cabin. The most important material in the series was being reported rather than dramatized.
-
-## The new plan
-
-- **Book 2 — The Keeping:** Prequel. Dr. Marin Halloway, Meridian, and how Willow came to exist. Dual thread with Iris intact in the years before Book 1. Ends one beat before Book 1, Chapter 1.
-- **Book 3 — The Silence:** Everything after Book 1. Spread, selection, Lena targeted, Iris's collapse, the confrontation, the destruction.
-
-**Book 1 — The Absence is published and unchanged.** It remains chronologically second in the series and first in publication order.
-
-## Files here
-
-| File | Was |
-|------|-----|
-| `06-book2-outline-HUNGER.md` | Book 2 outline, "The Hunger" |
-| `07-book3-outline-SILENCE-original.md` | Book 3 outline, original version |
-| `08-book2-chapter-briefs-HUNGER.md` | 22 chapter briefs, "The Hunger" |
-| `09-book3-chapter-briefs-SILENCE-original.md` | 22 chapter briefs, Book 3 original |
-| `10-subplot-threading-original.md` | 10 arcs across the original 66 chapters |
-| `11-key-dialogue-notes-original.md` | Dialogue notes, original Book 2/3 sections |
-| `DRAFT-hunger-ch01-aftermath.md` | Claude's draft of "The Hunger" Ch1, never approved |
-
-## Salvage notes
-
-Material worth reusing rather than rewriting:
-
-- **`DRAFT-hunger-ch01-aftermath.md`** maps almost directly onto new Book 3 Ch1. Same beat: Iris weeks after Book 1, the note she doesn't remember writing, the Caleb visit, the unanswered Lena thread. Reusable with light continuity edits.
-- **Old Book 3's "quiet world" material** (Weston, the acceptance turn, the emotional volatility index) survives as new Book 3 Ch16.
-- **The locked destruction method** (overload through contradiction, the irreducible core) carries forward unchanged.
-- **Old Book 2's case characters** (Enzo, Joe E., Xander) carry forward into new Book 3.
+**Restructured 2026-08-27.** It was previously a flat folder of thirteen files spanning three arcs, which had become impossible to read.
 
 ---
 
-# SECOND REVISION — 2026-08-26
+## What is live, for contrast
 
-The prequel was dropped. Book 2 is now a **sequel** again, with Marin's origin delivered as dramatized chapters that Iris recovers off Meridian's drives.
-
-## Why
-
-The prequel's diagnosis was right — the origin needed dramatizing, not reporting — but it cost three things: no forward carry (its entire cast appears in no other book), dramatic irony as the sole engine across 70,000 words, and a Book 3 left carrying two books of plot. The revision keeps the dramatization and discards the stall.
-
-Full reasoning and all seven decisions are in `../13-arc-revision.md`.
-
-## Also changed
-
-- **Willow becomes a killer.** Her method is failing, so she increases the dose. Escalation ladder across all three books.
-- **Satisfaction, not pleasure.** A complete taking registers as completion; a partial one does not. She is finishing, not feeding.
-- **She resolves physically** toward Willow Halloway's face.
-- **New ending:** the compulsion trap, then the water.
-- **Caleb Ward dies** at Book 2's midpoint.
-- **Iris ends ambiguous.**
-
-## Files added here in this revision
-
-| File | Was |
-|------|-----|
-| `06-book2-outline-PREQUEL.md` | Book 2 outline, "The Keeping" as prequel |
-| `08-book2-chapter-briefs-PREQUEL.md` | 22 chapter briefs, prequel |
-
-## Salvage notes
-
-- **`../../chapters-book2/01-intake.md`** (3,286 w) and the drafted **Ch3 "Sessions"** (3,387 w) are Marin/Meridian scenes and port directly into the new recovered thread as R1 and R2.
-- **`chapters-book2/02-recovery.md`** (2,855 w) is retired — it is built on intact pre-Book-1 Iris, who no longer appears. The flooded sub-level job inside it is worth salvaging as a present-day chapter.
-- `DRAFT-hunger-ch01-aftermath.md` now maps onto **new Book 2 Ch1**, not Book 3 Ch1. Same beat, and it moved forward a book.
+| | Status |
+|---|---|
+| **Book 1 — The Absence** | Published 2026-05-14. 22 chapters in `chapters/`, 23,405 words. Its text is law. |
+| **Book 2 — The Ending** | Sequel. Outline and all 22 briefs current. **Drafting starts at Ch1.** |
+| **Book 3 — The Silence** | Outline current (rewritten 2026-08-27). **No chapter briefs — 22 need writing.** |
 
 ---
 
-# THIRD PASS — 2026-08-27 (rebuild and merge, not a pivot)
+## `arc-01-hunger/` — retired 2026-08-04
 
-No arc change. This pass rebuilt the downstream documents against the 2026-08-26 decisions, and resolved a collision.
+The original plan. Book 2 was **"The Hunger,"** a direct sequel in which Willow becomes strategic, Lena is targeted at the midpoint, and the origin is revealed secondhand in a single chapter.
 
-## The collision
-
-**Two complete, independent 22-brief sets were written for this arc**, in parallel sessions, because one session started from a checkout two commits behind and did not know the briefs already existed.
-
-They were reconciled rather than one being discarded. **The pushed set (`a5f0fd2`) is the base** — it is the stronger of the two, and its Investigation Spine, its Ch11, its un-warnable Lila Mercer scene, and its account of why the entity cannot complete Iris all survive intact. **Four things merged in from the other set:** the title, the Ch22 Lena plant, the Act III rename, and a worked prose example.
-
-## What was decided
-
-- **Title: "The Ending."** It names her turn to killing. "The Keeping" was retired with the prequel arc. Act III renamed to FINISHING, since the old act name was title-derived. Two colliding section headings — `07-book3-outline.md`'s "THE ENDING" and `13-arc-revision.md`'s "DECISION 5 — THE ENDING" — were renamed.
-- **Lena stays untouched through Book 2 and is located on its last page.** The place Willow's procedure will not return from is where Iris's love for her sister used to be, so that is where she gets stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.**
-- **Ch11 is Iris POV, not Caleb's.** A hollow POV rendered from inside for a whole chapter was considered and rejected.
-
-## Files added here in this pass
+**Why it died:** the series' emotional bomb — that Willow was born from grief — was *reported* rather than dramatized. One chapter of a man talking in a cabin. The diagnosis was correct, and every later arc is downstream of it.
 
 | File | Was |
-|------|-----|
-| `08-book2-chapter-briefs-SEQUEL-B.md` | The second, independently written brief set. Superseded by the merge; kept because its Book 3 groundwork and several chapter briefs were the source of the merged material. |
+|---|---|
+| `06-book2-outline-HUNGER.md` | Book 2 outline |
+| `08-book2-chapter-briefs-HUNGER.md` | 22 briefs |
+| `07-book3-outline-SILENCE-original.md` | Book 3 outline, first version |
+| `09-book3-chapter-briefs-SILENCE-original.md` | Book 3 briefs, first version |
+| `10-subplot-threading-original.md` | 10 arcs across 66 chapters |
+| `11-key-dialogue-notes-original.md` | Dialogue notes |
+
+---
+
+## `arc-02-prequel/` — retired 2026-08-26
+
+Book 2 became **"The Keeping,"** a prequel: twelve Marin Halloway chapters and six of intact pre-Book-1 Iris, ending one beat before Book 1's first page.
+
+**Why it died:** three costs. No forward carry — its entire cast appears in no other book. Dramatic irony as the sole engine across 70,000 words, with the Iris thread explicitly forbidden from carrying tension. And a Book 3 left holding two books of plot.
+
+| File | Was |
+|---|---|
+| `06-book2-outline-PREQUEL.md` | Book 2 outline |
+| `08-book2-chapter-briefs-PREQUEL.md` | 22 briefs. **Still referenced:** Ch4's "As Written" block lives here and is load-bearing for the drafted Intake chapter. |
+| `09-book3-chapter-briefs-PREQUEL-ERA.md` | Book 3 briefs. Archived 2026-08-27 rather than patched: eight separate things in it were wrong against the rewritten outline. **Salvage is expected to be high** — the Lena midpoint, the Willow conversation, and the closing Iris/Lena image all survive with edits. |
 | `10-subplot-threading-PREQUEL.md` | 10 arcs, keyed to the prequel's chapter numbers |
-| `11-key-dialogue-notes-PREQUEL.md` | Dialogue notes, prequel Book 2 section |
-| `DRAFT-prequel-ch02-recovery.md` | Drafted prequel Ch2 "Recovery" (2,855 w), retired |
+| `11-key-dialogue-notes-PREQUEL.md` | Dialogue notes |
 
-## Chapter file moves
+---
 
-- `chapters-book2/01-intake.md` → **`chapters-book2/04-intake.md`**, header renumbered to Ch4
-- `chapters-book2/02-recovery.md` → **`archive/DRAFT-prequel-ch02-recovery.md`**. It was moved out of `chapters-book2/` because `build-manuscript.js` picks up every numbered file in that folder and was building the retired draft into the manuscript as chapter 2.
-- `chapter_review.md` header renumbered Ch3 → **Ch8** (Sessions, still awaiting its first author proofread)
+## `arc-03-superseded/` — superseded 2026-08-27
 
-Its salvage is assigned: crate and manifest physicality to **Ch3**, the wet-drive procedure and the ninety-minute bridge to **Ch5**, and the **R. Oyelaran** material — a thorough man ignored who went on being thorough anyway — to **Ch19**, as the shape of Virek's closed ticket.
+Not a dead arc. **The current arc, with a duplicate.**
 
-## Also on a branch
+Two complete, independent 22-brief sets were written for the sequel in parallel sessions, because one session started from a checkout two commits behind and did not know the briefs already existed. They were reconciled rather than one being discarded.
 
-**`archive/bible-rebuild-2026-08-27`** holds the pre-merge state of the second session's work. Everything from it that survived reconciliation is on main; the branch is kept as the record of what the other set contained before it was merged.
+| File | Was |
+|---|---|
+| `08-book2-chapter-briefs-SEQUEL-B.md` | The second set. Four things from it were merged into the live briefs: the title, the Ch22 Lena plant, the Act III rename, and a worked prose example. Kept as the record of what it contained before the merge. |
 
-## Still stale, deliberately
+The pre-merge state of that session's wider work is on the git branch **`archive/bible-rebuild-2026-08-27`**.
 
-**`09-book3-chapter-briefs.md`** carries a staleness banner and has not been rebuilt. Book 3's outline only just changed, and its briefs should follow that deliberately rather than in the same pass. Salvage is expected to be high.
+---
+
+## `drafts/` — prose from retired arcs
+
+**This is the only folder here with live value.** Both files are assigned salvage for chapters that have not been drafted yet.
+
+| File | Words | Assigned to |
+|---|---|---|
+| `DRAFT-hunger-ch01-aftermath.md` | ~1,500 | **Book 2 Ch1.** A near-exact match for the brief. Wants roughly 1,900 more words, taken from the apartment and the drive, **not** from the Caleb scene, whose flatness is doing the work. |
+| `DRAFT-prequel-ch02-recovery.md` | 2,855 | **Ch3** (crate and manifest physicality), **Ch5** (the wet-drive procedure, the ninety-minute bridge, the dead-credential authentication), and **Ch19** (the R. Oyelaran material — a thorough man ignored who went on being thorough anyway — reused as the shape of Virek's closed ticket). |
+
+`DRAFT-prequel-ch02-recovery.md` was moved out of `chapters-book2/` on 2026-08-27 because `build-manuscript.js` picks up every numbered file in that folder and was building the retired draft into the manuscript as chapter 2. **Retired drafts do not live in `chapters-book2/`.**
+
+Two drafts from the current arc are **not** here, because they are live: `chapters-book2/04-intake.md` (Ch4) and the Sessions draft staged in `chapter_review.md` (Ch8).
+
+---
+
+## `superseded-tooling/`
+
+| File | Why |
+|---|---|
+| `12-chatgpt-system-prompt.md` | ChatGPT drafted Book 1's prose and was dropped on 2026-05-14 — it could not reliably hold the prose hard rules, defaulting to single-line fragmentation and AI-tics despite the prompt. The file also **duplicated the hard rules**, which is exactly how one copy goes stale. `03-themes-and-tone.md` is now the single source. |
+| `format-book.js` | Superseded by `format-book-v2.js`, which derives the running header from the manuscript's own title line instead of hardcoding it. Nothing referenced v1. |
+
+---
+
+## Rules for this folder
+
+1. **Archive, do not delete.** Git has everything anyway, but a named file in a labelled folder is findable and a reflog entry is not.
+2. **Archive by when it died.** A file that stops being true gets a dated folder and a reason, not a rename in place.
+3. **Never leave a retired draft in `chapters-book2/`.** The build script picks up every numbered file there.
+4. **If a live document points at something here, use the full path.** These paths moved once already.

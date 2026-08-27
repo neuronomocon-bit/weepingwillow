@@ -195,8 +195,8 @@ Caleb POV was considered — Book 1 Ch12 is the only chapter from his perspectiv
 
 | File | Words | Disposition |
 |---|---|---|
-| `chapters-book2/01-intake.md` | 3,286 | **Portable.** Marin/Meridian scene. Becomes recovered material. |
-| `chapters-book2/02-recovery.md` | 2,855 | **Retired.** Intact-Iris job and Lena call; Iris is post-Book-1 now. Salvage the flooded sub-level job as a later present-day chapter. |
+| `chapters-book2/04-intake.md` | 3,286 | **Portable.** Marin/Meridian scene, now Recovered Ch4. Renumbered and moved 2026-08-27. |
+| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | **Retired**, and moved out of `chapters-book2/` 2026-08-27 because the build script was picking it up as chapter 2. Salvage assigned to Ch3, Ch5 and Ch19. |
 | `chapter_review.md` (Ch3 — Sessions) | 3,387 | **Portable.** Marin/Feld/Virek/substrate. Becomes recovered material. |
 
 Roughly 6,700 of 9,528 drafted words carry forward. Archive the rest under `series-bible/archive/` with the same treatment the Hunger arc received.
