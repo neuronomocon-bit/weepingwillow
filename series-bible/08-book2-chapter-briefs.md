@@ -140,6 +140,8 @@ So Iris spends eleven chapters reading a woman's complete story with a number wh
 
 In Ch15 the index comes up and the number resolves.
 
+**The number is `MN-R-0338`**, planted on the page in Ch4 and read aloud by Willow herself. Every Recovered chapter Iris opens from Ch5 onward is filed under it. **The reader knows whose number it is from Ch4; Iris does not until Ch15.** That gap is the engine, and it only runs because the string is concrete.
+
 **Nobody explains the name. Iris finds it. That is not the same thing, and the distinction is the whole rule.**
 
 ---
@@ -287,17 +289,25 @@ Iris tells him what that means: the research data will come off in weeks, the in
 - Willow's originating trauma is **never named**. Only its shape appears: the medication page, the four jobs, the apartment above the laundromat, the birthdays checked in advance for whether they were survivable.
 - Twelve sessions, weekly, review at six. Referenced again in Ch8 and Ch10.
 - **"Can you see it?"** — Marin is deliberately off the clinical file, but the baseline map goes into the research archive **under a research identifier rather than a name**, with an access log. *"Would anyone read the log?" "Probably not." "I mostly wanted to know if you'd tell me the truth about it."*
+- **The identifier is `MN-R-0338`** (added in the 2026-08-31 re-audit). Willow reads it off the second page of the pack, under the barcode, in the institutional voice, and calls it a parking space. **This is the token the reader carries to Ch15.** House style matches Ch3's asset codes, `MN-C-0412` / `MN-C-0447`.
 - The argument: *"It removes the charge. It doesn't touch the memory." / "That sounds like the same thing."* Marin's case: **"an alarm that never got told the emergency ended."** Willow's counter: **"It hurting is how I know it counted."**
 - The last beat before signing, delivered light enough to be taken as a joke: **"What if I don't like who's left."**
 - Closing: relief, *"clean and specific and enormous."* **"Relief had not been on the list."**
 - Marin's **two o'clock procurement meeting**, deliberately echoed in Ch17. Do not let a later pass strip it as duplication.
 
-**Re-audit required before this counts as done.** It was written as a standalone opening chapter under the prequel arc, not as recovered material. Check specifically:
+**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,349 words.** Awaiting the author's proofread. What the four re-audit questions returned:
 
-1. **The research identifier.** Ch4 is now the plant for the entire Ch15 reveal. Confirm the drafted text establishes it clearly enough to carry eleven chapters, and strengthen it if it does not.
-2. Nothing in it assumes the reader has not met Iris. The reader has read a whole book about her.
-3. The frame rule. It must open as a scene, not as material.
-4. Current hard rules, which post-date the draft.
+1. **The research identifier — the one real failure, now fixed.** The draft established the *mechanism* (research archive under an identifier, clinical file under a name, and the two held apart) but never put the identifier on the page, so the reader had no token to carry. **Willow now reads her own identifier out of the consent pack in the institutional voice: `MN-R-0338`.** That is the string Iris reads for eleven chapters with no name attached to it, and the string the Ch15 join resolves. Marin's long speech was split around the exchange, so the access-log beat still closes the movement.
+2. **Assumes nothing about Iris.** She is not in it, and nothing reads as a book opening. Meridian alive and staffed is a payoff for a reader who has only seen the building dead, not an introduction.
+3. **Frame rule: clean.** Opens on the coast road in Marin's head, no timestamp, no header, no cut to Iris. POV named in the first sentence.
+4. **Hard rules.** Fixed: 216 straight double quotes and 96 straight apostrophes converted to curly (round-trip verified); six narration `-body` pronouns sent to *someone* / *no one* / *anyone*, with Willow's own `nobody` kept; all three `, which was` codas removed and three further `, which` glosses cut or recast; two `as though` interpretive glosses on gestures cut. Clean on em dashes, exclamation points, labeled silences, "nodded once", contrast framing, AI tics, and the run-on screen — the ten sentences over threshold are all colon lists, serial verbs, or Willow spilling.
+
+**Two things found that were not on the re-audit list:**
+
+- **A continuity error, corrected.** Marin said *"eleven more sessions"* at signing. Ch8 establishes two weeks between the baseline and the first session, so at signing none has happened. Now **"twelve sessions,"** matching the schedule on page three of the pack.
+- **`hands flat on the table` is load-bearing and was nearly cut.** It matches the gesture-vocabulary cut list, but Ch8 signals the echo directly: *"You explained it at me for twenty minutes with your hands flat on a table."* It is a rhyme, not a tic. **Do not trim it in either chapter.**
+
+**⚠️ Open, for Ch8's re-audit.** Ch8 has Virek reissue Willow's research identifier after a collision with a veterans'-cohort entry. With the string now planted in Ch4, a reissue changes the reader's token mid-book. Either the collision resolves against the *other* entry and `MN-R-0338` stands, or the reissue is kept and the two identifiers become the reason Iris's Ch15 join takes three checks. **The second is the better book and the more work. Author's call.**
 
 ---
 

@@ -63,7 +63,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,936** | **awaiting author pass** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,786** | **awaiting author pass** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,651** | **awaiting author pass** |
-| 4 | **RECOVERED: Intake** | Marin | 3,600 | PENDING 3,286 · in `archive/drafts/` | needs re-audit + author pass |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,349** | **awaiting author pass** |
 | 5 | Read | Iris | 3,600 | — | — |
 | 6 | Too Much | Iris | 3,400 | — | — |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
@@ -95,9 +95,9 @@ Legend: `—` not started · `WIP` in progress · `PENDING` drafted, held in `se
 
 Two chapters written under the prequel arc survive because they are Marin/Meridian scenes and the Recovered thread needs them nearly unchanged.
 
-**Ch4 — RECOVERED: Intake** · 3,286 words · **renumbered and moved 2026-08-27 to `chapters-book2/04-intake.md`**
+**Ch4 — RECOVERED: Intake** · **RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,349 words. Awaiting the author's proofread.**
 
-Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc. Needs a re-audit against the new gates before it counts as done — particularly the frame rule (it was written as a standalone opening chapter, not as recovered material) and whether anything in it assumes the reader has not met Iris yet.
+Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc, re-audited against the current gates before it moved. **Full record in the Ch4 brief.** Headlines: the research identifier is now a concrete string on the page, `MN-R-0338`, because the draft established the mechanism and never gave the reader a token to carry; a session-count continuity error was corrected against Ch8; and `hands flat on the table` was nearly cut as a generic gesture beat before Ch8 turned out to quote it back, which is Law 6 doing its job.
 
 **Ch8 — RECOVERED: Sessions** · 3,387 words · **at `series-bible/archive/drafts/DRAFT-sessions-ch8.md`**. **Pending, not retired.** Never author-proofread. Move it to `chapters-book2/08-sessions.md` when it comes up for its pass, and re-audit it against the current gates first.
 
@@ -138,7 +138,10 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 1 | 3,400 | 2,936 | 464 |
 | 2 | 3,400 | 2,786 | 614 |
 | 3 | 3,600 | 2,651 | 949 |
-| **Act I so far** | **10,400** | **8,373** | **2,027** |
+| 4 | 3,600 | 3,349 | 251 |
+| **Act I so far** | **14,000** | **11,722** | **2,278** |
+
+**Ch4 breaks the pattern and is the useful data point**, because it was not drafted under the current process: it came in at 3,286 under the prequel arc and the re-audit added a beat rather than description. **A chapter that was written to its beats lands 251 under; the three drafted this month land 676 under on average.** That points at the drafting compressing scenes rather than at the budgets being high. Not conclusive on one chapter. Still assess with Ch5 to Ch7 on the page.
 
 Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **But three in a row averaging 676 under is a pattern, not three coincidences.** Carried across 22 chapters it lands the book near 61,000 against a 78,000 floor.
 
@@ -146,7 +149,9 @@ Each was diagnosed rather than padded, and each time the diagnosis found somethi
 
 ---
 
-## ⚠️ THREE LIVE DEFECTS — fix during the Ch4 / Ch8 re-audit
+## ⚠️ THREE LIVE DEFECTS — Ch1–Ch4 clear, Ch8 outstanding
+
+> **Status 2026-08-31.** All three are fixed in Ch1, Ch2, Ch3 and Ch4. **`chapters-book2/` now measures: zero straight quotes, zero `, which was` codas, one `no one` per chapter at most, and every surviving `-body` pronoun in dialogue.** `DRAFT-sessions-ch8.md` still carries all three untouched — 200 straight double quotes and 107 straight apostrophes — and gets them when it comes up for its own re-audit.
 
 Found 2026-08-27 by measuring the drafted Book 2 chapters against published Book 1. **None of them is an error in the ordinary sense** — every instance is correct English that no reader would flag. They are series-voice divergences, and only the frequency comparison could surface them. Method and full numbers in `series-bible/14-audit-method.md`.
 
