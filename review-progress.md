@@ -64,7 +64,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,786** | **awaiting author pass** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,651** | **awaiting author pass** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,349** | **awaiting author pass** |
-| 5 | Read | Iris | 3,600 | — | — |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,084** | **awaiting author pass** |
 | 6 | Too Much | Iris | 3,400 | — | — |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
 | **ACT II — THE PROTOCOL** | | | | | |
@@ -131,7 +131,7 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 
 ---
 
-## ⚠️ LENGTH — three chapters in, a consistent shortfall
+## ⚠️ LENGTH — five chapters in, and the diagnosis is starting to name itself
 
 | Ch | Budget | Drafted | Under |
 |---|---|---|---|
@@ -139,13 +139,22 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 2 | 3,400 | 2,786 | 614 |
 | 3 | 3,600 | 2,651 | 949 |
 | 4 | 3,600 | 3,349 | 251 |
-| **Act I so far** | **14,000** | **11,722** | **2,278** |
+| 5 | 3,600 | 3,084 | 516 |
+| **Act I so far** | **17,600** | **14,806** | **2,794** |
 
-**Ch4 breaks the pattern and is the useful data point**, because it was not drafted under the current process: it came in at 3,286 under the prequel arc and the re-audit added a beat rather than description. **A chapter that was written to its beats lands 251 under; the three drafted this month land 676 under on average.** That points at the drafting compressing scenes rather than at the budgets being high. Not conclusive on one chapter. Still assess with Ch5 to Ch7 on the page.
+Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **Do not fix this by padding.**
 
-Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **But three in a row averaging 676 under is a pattern, not three coincidences.** Carried across 22 chapters it lands the book near 61,000 against a 78,000 floor.
+**Ch4 and Ch5 are the two useful data points, and they point the same way.**
 
-**Do not fix this by padding.** Two live possibilities: the per-chapter budgets are set high, or the drafting is compressing scenes that should breathe. **Assess at the end of Act I**, with Ch1 through Ch7 on the page, which is what the length rule already says to do.
+Ch4 was not drafted under the current process. It came in at 3,286 under the prequel arc and its re-audit added a beat, not description, and it lands **251 under**.
+
+**Ch5's first draft came in at 2,534**, which is 1,066 under and worse than anything before it. The diagnosis found two beats the brief asks for and the draft had skipped: the refusal to rush had nothing in the chapter to refuse, and the media-condition procedure had been summarised in one sentence instead of rendered. Putting both on the page took it to 3,084. **Nothing that went in was description. It was a consequence and a procedure, exactly as the word-target rule predicts.**
+
+**Five chapters in, the answer is the second of the two possibilities.** The budgets are not set high. **The drafting skips beats and then reads as finished**, because a chapter with a missing beat has no hole in it: it is shorter and it is smooth, and only counting the brief's beats against the page finds it. Every diagnosis so far has found something, and none has failed to.
+
+**What that changes, starting at Ch6: count the brief's beats against the draft before the word count, not after.** The word count is the symptom that prompts the check. It has never once been the defect.
+
+**Still assess formally at the end of Act I**, with Ch1 through Ch7 on the page. If the pattern holds after the beat check is applied at drafting time rather than at audit time, the budgets get revisited then.
 
 ---
 
