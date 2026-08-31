@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. Drafting can resume at Ch1. Per-chapter status in `review-progress.md`. Approved chapters save to `chapters-book2/`.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED: Ch1 through Ch7, 21,319 words, in `chapters-book2/` awaiting the author's proofread. Ch8 is next and exists as a pending draft.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -132,80 +132,100 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ---
 
-## WHERE WE LEFT OFF (2026-08-27)
+## WHERE WE LEFT OFF (2026-08-31)
 
-**Book 2 Ch1, Ch2 and Ch3 are drafted and pushed. 8,384 words. All three pass every mechanical gate.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place.
+**ACT I IS COMPLETE. Ch1 through Ch7 are drafted, audited and pushed. 21,319 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. Ch8 is the next chapter and it already exists as a pending draft.
 
-**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter carrying the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize. Then `series-bible/14-audit-method.md` before auditing anything.
+**Read first:** `series-bible/08-book2-chapter-briefs.md` — the briefs, plus front matter carrying the licensing rule, the investigation spine, and what the Recovered thread does *not* dramatize. Then `series-bible/14-audit-method.md` before auditing anything, and `03-themes-and-tone.md` → THE THREE MIGRATIONS before drafting anything.
 
 ### Drafted
 
-| Ch | Title | Words | Budget | State |
-|---|---|---|---|---|
-| 1 | Aftermath | 2,936 | 3,400 | Awaiting author pass |
-| 2 | Mortality | 2,786 | 3,400 | Awaiting author pass |
-| 3 | The Files | 2,651 | 3,600 | Awaiting author pass |
+| Ch | Title | Words | Budget | Under | State |
+|---|---|---|---|---|---|
+| 1 | Aftermath | 2,932 | 3,400 | 468 | Awaiting author pass |
+| 2 | Mortality | 2,761 | 3,400 | 639 | Awaiting author pass |
+| 3 | The Files | 2,932 | 3,600 | 668 | Awaiting author pass |
+| 4 | **RECOVERED: Intake** | 3,350 | 3,600 | 250 | Re-audited, awaiting author pass |
+| 5 | Read | 3,078 | 3,600 | 522 | Awaiting author pass |
+| 6 | Too Much | 3,006 | 3,400 | 394 | Awaiting author pass |
+| 7 | The Curve (ACT I TURN) | 3,260 | 3,600 | 340 | Awaiting author pass |
+| | **ACT I** | **21,319** | **24,600** | **3,281** | |
 
-### ⚠️ The open question the author should decide next
+### The two decisions waiting on the author
 
-**Act I is 2,027 words under budget across three chapters**, averaging 676 each. Every shortfall was diagnosed rather than padded, each diagnosis found something real, and **not once was the missing thing description** — it was a consequence, a payoff, or a beat the brief asked for and the draft skipped.
+**1. Narration contractions. This is the largest open voice question in the book.**
 
-Three in a row is a pattern. Carried across 22 chapters it lands the book near **61,000 against a 78,000 floor.**
+Measured across the whole of both books, split by register: **Book 2's narration runs 98 to 100% expanded** on *did not*, *was not*, *had not* and *could not*. **Book 1's narration runs 50 to 75%**, and says *didn't* **86 times in 18,953 words of narration.** Book 2 says it once in 16,631.
 
-**Do not fix it by padding.** Either the per-chapter budgets are set high, or the drafting compresses scenes that should breathe. **Assess at the end of Act I with Ch1–Ch7 on the page.** Full table in `review-progress.md`.
+`03-themes-and-tone.md` already contains the rule that resolves it: *ordinary action narration contracts; past-perfect reflective narration keeps the full form.* **Book 2 currently has no second half to that rule.** Against changing it: Iris is flat and the narration sits close to her. For changing it: Book 1's narration sat close to Iris too, and it contracted.
 
-### What changed structurally this session
+**It touches roughly a hundred sentences across seven chapters. It is a voice decision, not a cleanup, and it must not be swept.** Decide it, then apply per sentence.
 
-- **No staging file.** `chapter_review.md` is retired and deleted. Chapters are drafted straight into `chapters-book2/NN-slug.md` and proofread in place. **`build-manuscript.js` picks up every numbered file there, so an unreviewed draft is in the export path** — read the chapter numbers it prints before exporting.
-- **Book 1 is locked** in `book1-published/`, reference-only. See the SCOPE section at the top of this file.
-- **Rules imported** from the NeonVeil books into `03-themes-and-tone.md`, and a new `14-audit-method.md` holds the method. **The central method is measuring Book 2 against published Book 1**, because reading Book 2 alone cannot find a voice defect — nothing in it is wrong.
-- **The archive was restructured** by when each thing died: `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`.
+**2. Length. Act I came in 3,281 under, and the diagnosis has resolved.**
 
-### What the audit method has caught so far
+Every chapter has landed under after all its brief beats are on the page. The trend improves as the process tightened — Ch3 at 81% of budget, Ch7 at 91% — but the average holds around 87%.
 
-It earns its place. Live defects found by measuring against Book 1, not by reading:
+**The budgets were derived from the target (79,800 ÷ 22 ≈ 3,600), not from sizing the briefs. The briefs describe roughly 3,000-word chapters.** So this is a story-quantity question and cannot be fixed at the drafting stage without padding. Straight-line projection is **68,000 to 72,000 against a 78,000 floor.**
 
-- **Typography.** The drafts were 100% straight-quoted against Book 1's 92% curly. Fixed; all three chapters are now clean.
-- **Indefinite pronouns.** Book 1 never says *somebody* / *nobody* / *anybody* / *everybody*. The drafts had thirteen. Narration now says *someone* and *no one*; **dialogue keeps the -body forms**, and all nine surviving instances are Kade or Rourke speaking.
-- **`no one` became the substitution tic**, one chapter after the law predicting exactly that was written down. Peaked at 7.0 per 10k against Book 1's 2.6, and counted as a family all three were one construction. Deleted rather than substituted. **Now 2.4. On the watch list at cap 2 per chapter.**
-- **`, which was X`** — the relative-clause coda. Book 1 has zero. It reappeared in every chapter and in several of the fixes for it.
-- **A continuity error in the Ch3 brief.** It said the crates were palletized six years ago; published Book 1 says three. Chapter and brief both corrected.
+Three ways out: accept 70k and revise the target; enrich specific briefs (Ch6 and Ch7 both gained real material from setups their briefs had left unpaid, so others likely have latent beats); or add two or three chapters. **A brief-by-brief under-specification audit of all 22 is available and has not been run.**
+
+### The drafting discipline that came out of Act I
+
+**Count the brief's beats against the draft BEFORE the word count, not after.** The word count is the symptom that prompts the check and has never once been the defect. Ch6 came in at 2,220 with three beats missing and finished at 3,006; Ch7 came in at 2,329 with three setups unpaid and finished at 3,260. **A chapter with a missing beat has no hole in it. It is simply shorter and smooth, and only counting beats finds it.**
+
+### What the full audit found, 2026-08-31
+
+Full record in `14-audit-method.md`; the mechanisms are in `03-themes-and-tone.md` → THE THREE MIGRATIONS. **The comparison is now a committed tool: `node tools/voice-audit.js --per-ch`.**
+
+- **Three tic migrations, all caused by our own rules.** `nobody` → `no one` → **`anyone`** (18 against Book 1's 1, thirteen of them one construction). The em-dash ban relocating the parenthetical into **`, which`** (11 against Book 1's 0). The fragmentation ban relocating emphasis into the **copular opener** (37 against 9) — **half legitimate**, because Book 2 writes *"It was a compliment."* where Book 1 wrote *"A compliment."*
+- **Rourke's voice had drifted and it is a continuity defect against a published book.** Book 1: **7% expanded**. Book 2 was **61%**. Now 21%, and the residual is her recitation register.
+- **Ch3 was missing a beat the outline says it owes** — the deliberate site-spread behind Book 1 Ch5's *"From themselves."* Added as evidence, not dialogue. It is now the reason the archive and the index were separated at all.
+- **A protected line in the records was wrong.** *"You don't have to optimize the answer"* has never existed as a contiguous string. **The list was wrong, not the book.**
+- **⚠️ Never run a check containing curly quotes through a shell heredoc.** One did, reported zero for a form the corpus contains 86 times, and did not error. Caught only because a second implementation disagreed.
+
+### Continuity corrections made this session
+
+Three separate instances of the same **stale six**, all now fixed with the reasoning recorded next to them:
+
+- **Ch5 brief** said *"six years of nobody asking."* The archive has been unread for **three**.
+- **Pell**, in both `02-characters.md` and the Ch7 brief, was dated **six years ago** and *"three years before Rourke's set."* He cannot precede the deviation at Year −5, and his Taking is what moves the shutdown to Year −3, so the record is **three and a half years old** and precedes Rourke's earliest case by **about eighteen months.**
+- **Ch4** said *"eleven more sessions"* at signing. Ch8 puts two weeks between the baseline and the first session, so it is **twelve.**
+
+**Six is the age of the program, from Willow Halloway's intake at Year −6. It is not the age of anything else.** Check any future six against the master timeline.
+
+### Canon set this session
+
+**The research identifier is `MN-R-0338`.** Willow reads it off the second page of the consent pack in Ch4, in the institutional voice, and calls it a parking space. Iris reads it for eleven chapters with no name attached. **Ch15 resolves it.** House style matches Ch3's asset codes, `MN-C-0412` / `MN-C-0447`.
+
+**⚠️ Open, for Ch8's re-audit:** Ch8 has Virek reissue Willow's identifier after a collision with a veterans'-cohort entry, which would change the reader's token mid-book. Either the collision resolves against the other entry and `MN-R-0338` stands, or the reissue is kept and the two identifiers become the reason Iris's Ch15 join takes three checks. **The second is the better book and the more work. Author's call.**
 
 ### Decisions in force
 
 Book 2 is a sequel with the origin recovered off the drives · Willow becomes a killer because her protocol is failing · satisfaction not pleasure · her face resolves toward Willow Halloway's · Book 3 ends with the compulsion trap then the water · Caleb dies at Book 2's midpoint · Iris ends ambiguous · **the title is "The Ending."**
 
-**From the brief pass:**
-- **The investigation spine.** Kade's crates hold two media classes: the research archive (intact, filed under research identifiers) and the clinical index that maps identifiers to patients (badly degraded, and now on a clock — Ch3 establishes that it is still corroding and is the only copy). Iris reads Marin's whole story for eleven chapters with a number where the name should be, and Ch15 is the join resolving. **This is what makes the name found rather than explained.**
-- **Reallocation.** Pell (Ch7), the shutdown (Ch3), the substrate's growth (Ch5), the read-only months (Ch17) and the reclassification form (Ch14) reach the reader through the Present thread as facts Iris establishes through her profession.
-- **Ch11 is Iris POV, not Caleb's.** He calls her, she arrives after, and he answers questions about his own emptying until he stops. A hollow POV rendered from inside for a whole chapter was considered and rejected.
-- **Ch20's source.** Marin left a record before she went down. It licenses Ch20 and it is what Iris reads in Ch21.
-- **Ch6 and Ch11 are two different escalations** — the dose and the return — discovered in that order and never conflated.
-- **The Ch22 Lena plant.** The place Willow's procedure will not return from is where Iris's love for her sister used to be, so that is where she gets stuck, and being stuck there is how she learns Iris has a sister. **The failure and the plant are the same moment.** Lena is never approached and is never in danger; she is *located*. **Nothing explains it, and Iris registers only a duration.**
-
 ### Pending prose, held outside the working folder
 
 | File | Words | Status |
 |---|---|---|
-| `archive/drafts/DRAFT-intake-ch4.md` | 3,286 | **Ch4.** Approved under the *prequel* arc, never re-audited against the sequel gates. **Pending, not retired.** |
-| `archive/drafts/DRAFT-sessions-ch8.md` | 3,387 | **Ch8.** Never author-proofread. **Pending, not retired.** |
-| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | Retired. Salvage assigned to Ch3 (spent), Ch5 and Ch19. |
-
-Move a pending one to `chapters-book2/NN-slug.md` when it comes up, and re-audit it against the current gates first.
+| `archive/drafts/DRAFT-sessions-ch8.md` | 3,387 | **Ch8.** Never author-proofread, and **still carries all three of the original defects** — 200 straight double quotes, 107 straight apostrophes, untouched pronouns and codas. Re-audit against the current gates, then move to `chapters-book2/08-sessions.md`. |
+| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | Retired. Salvage assigned to Ch3 and Ch5 (both spent) and Ch19 (the R. Oyelaran material, unspent). |
+| `archive/drafts/DRAFT-hunger-ch01-aftermath.md` | 1,500 | Spent on Ch1. |
 
 ### Next work, in priority order
 
-1. **Ch4 — RECOVERED: Intake.** The first Marin chapter. A drafted version exists and needs a **re-audit, not a fresh draft**: check the research-identifier plant is strong enough to carry eleven chapters, that nothing assumes the reader has not met Iris, that it opens as a scene rather than as material, and that it meets the current hard rules, which post-date it.
-2. **Ch5 — Read**, then **Ch6** and **Ch7** to close Act I.
-3. **Assess Act I length** with all seven on the page.
-4. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`. Salvage from `archive/arc-02-prequel/09-book3-chapter-briefs-PREQUEL-ERA.md` is expected to be high, but it is a rewrite, not an edit.
+1. **Ch8 — RECOVERED: Sessions.** Re-audit the pending draft, not a fresh one. It predates every current rule. Settle the identifier-reissue question above while you are in it. Locked line to preserve verbatim: *"It's still there. I just can't find the handle on it anymore."*
+2. **Ch9 — Lena**, then Ch10 to Ch15 to close Act II.
+3. **Decide the two open questions above** — narration contractions and the length strategy.
+4. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 
 ### Open questions
 
 1. ~~**The title.**~~ **RESOLVED: "The Ending."**
 2. ~~**Does Lena stay untouched through Book 2?**~~ **RESOLVED: untouched, and located on the last page.**
 3. **Does Iris learn who signed the reclassification form?** **Not in Book 2** — the signature is on the degraded index. Available to Book 3, and the kind of thing Virek could tell her.
-4. **NEW — the Act I length shortfall.** See above.
+4. ~~**The Act I length shortfall.**~~ **DIAGNOSED, not resolved.** The briefs are sized for 3,000-word chapters and the budgets came from the target. See the two decisions above.
+5. **NEW — narration contractions.** See above. The largest open voice question in the book.
+6. **NEW — the Ch8 identifier reissue.** See above.
 
 ## Book 3 — "The Silence"
 
