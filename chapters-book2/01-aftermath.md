@@ -10,7 +10,7 @@ The order was the part that mattered. Left to her own sequence she had begun arr
 
 She filled the kettle and stood at the window while it worked. Three weeks since the outer zone. Below her the lot took its usual morning traffic: two men loading a van with the doors open on both sides, a woman crossing at an angle to save herself four steps, the fog off the harbor thinning into the flat gray that would not commit to rain until afternoon. None of it had changed. She had walked out of an abandoned corridor carrying less than she brought in, and the city had registered none of it, and the men with the van had loaded the van every morning since.
 
-The coffee went cold on the sill. She found it there at the point where the list said *Check device*, which put the interval at eleven minutes, and she wrote that on a card and pinned it with the others.
+The coffee went cold on the sill. She found it there at the point where the list said *Check device*. That put the interval at eleven minutes, and she wrote it on a card and pinned it with the others.
 
 That was the second system and it was newer than the list. The cards along the doorframe were not instructions. They were measurements. Each one carried a date, a duration and a category, in the shortest form that would still mean something to her in a week. *Retrieval, four seconds, site address.* *Sequence loss, cold coffee, approx. eleven minutes.* *Wrote note, cannot account for it.*
 
@@ -22,13 +22,13 @@ The device had two site coordinates on it from overnight. Kade never attached a 
 
 She put them up against the map.
 
-The first resolved inside a minute. It was a relay point on the northern spur, and she had cleared it in the second week and marked it herself, and her own marker came up on the overlay with her own date on it. Kade had sent her a site she had already stood in. She put two words in the reply field and moved on.
+The first resolved inside a minute. A relay point on the northern spur, cleared in the second week and marked by her, and her own marker came up on the overlay with her own date on it. Kade had sent her a site she had already stood in. She put two words in the reply field and moved on.
 
 The second did not resolve, and that was the interesting one.
 
 It sat four hundred meters off the industrial road with no service address, no utility connection she could find, and a footprint the wrong shape for storage. She pulled the parcel history and got a chain of holding companies that folded into each other three times and stopped at a name she had seen twice before on Meridian paperwork. The building had been bought eleven years ago and had never been assessed for anything since. Someone had been paying the standing charges on an empty lot for a decade, on time, every quarter, out of an account that did nothing else.
 
-She worked it the way she had always worked, which meant slowly at the front and fast at the back. She built the query properly before she ran it. She checked the overlay against the utility layer and then against the road layer, because the two disagreed by about twenty meters and one of them was always wrong. She cross-referenced the standing charges against the shutdown date and found that the payments had not stopped when Meridian stopped. They had continued for four months and then gone quarterly, and quarterly was what you set up when you did not intend to look at something again.
+She worked it the way she had always worked: slowly at the front and fast at the back. She built the query properly before she ran it. She checked the overlay against the utility layer and then against the road layer, because the two disagreed by about twenty meters and one of them was always wrong. She cross-referenced the standing charges against the shutdown date and found that the payments had not stopped when Meridian stopped. They had continued for four months and then gone quarterly, and quarterly was what you set up when you did not intend to look at something again.
 
 Twenty-two minutes from opening the file to writing the summary. She timed it because she timed everything now.
 
@@ -56,7 +56,7 @@ An index card, pinned at eye height where she would pass it on her way out. Her 
 
 She stood in front of it. She did not remember writing it.
 
-She turned the card over. There was a date on the back in the same hand, and it was last night’s. She had written it after the list, then. After the map, after whatever the evening had been. She tried to reconstruct the evening and got its shape without its content: the table, the screens on, a second coffee at some point because there was a second cup in the sink. Somewhere inside that she had decided Caleb mattered enough to fix in writing. The decision was hers. The reasoning behind it had not stayed.
+She turned the card over. The back carried a date in the same hand, and it was last night’s. She had written it after the list, then. After the map, after whatever the evening had been. She tried to reconstruct the evening and got its shape without its content: the table, the screens on, a second coffee at some point because there was a second cup in the sink. Somewhere inside that she had decided Caleb mattered enough to fix in writing. The decision was hers. The reasoning behind it had not stayed.
 
 She reduced it to two possibilities, because reduction was the method she still trusted.
 
@@ -84,7 +84,7 @@ She pulled over at the top of the street and wrote it down before it could round
 
 The earlier entries had all been delays without consequence. A name arriving after the sentence that needed it. An address that took four seconds and cost nothing, because nothing had been moving. This one had happened at speed with a car behind her. The category had not changed. The circumstances had.
 
-She read the card once more, put it in her pocket, and drove the last four blocks inside the speed limit.
+She read the card once more, folded it into her jacket, and drove the last four blocks inside the speed limit.
 
 ***
 

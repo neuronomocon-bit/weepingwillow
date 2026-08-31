@@ -44,6 +44,28 @@ Iris read the first sheet. It was three columns, and it was exactly what he had 
 
 He left it there and went back to what he had been doing, and Iris let him, because he had told her the useful part and everything after it was weather.
 
+She read the other two sheets before she put the wallet down, properly, rather than looking for the line she already wanted.
+
+One code series. Six destinations.
+
+The split was not by size. She checked that first, because size is the ordinary reason a load goes to more than one place, and the pallet counts against each destination were uneven in a way that had nothing to do with the capacity of anything. It was not by type. The same class of media appeared under four of the six.
+
+She read the codes across all of it and saw what it had been sorted on.
+
+“Did the client give you this split, or did your side build it?”
+
+“They gave it to us. Line by line, with a destination already against every code.” Kade came over and read the sheet upside down. “That was normal for them. It was normal for everything they ever sent us.”
+
+Iris went through the six destinations again.
+
+Nothing that would have been useful beside something else had gone to the same address. The research codes went one way and the codes that would have named the research went another, and neither sheet said so, because neither sheet had to. Someone had sat down with a full inventory and separated the things that only meant anything in each other’s company, and had done it carefully enough that six destinations looked like an accident of volume.
+
+“How many people would that take,” she said.
+
+“To build it, one. To move it, about forty, and not one of them would know.”
+
+She wrote the six destinations into her inventory in the order the sheet gave them.
+
 ***
 
 She spent the first hour on condition, because condition determined everything else and there was no point building a plan on top of a guess.

@@ -34,7 +34,7 @@ The lot had been laid out for a workforce four times the size of the one that us
 
 ***
 
-Inside was an improvement on the outside. The entrance corridor had been finished properly, wide and evenly lit, with a floor that took a shine and a row of frosted panels along one side that let a gray suggestion of the weather in without letting anyone see the parking lot. It smelled of nothing much, which had been expensive. Marin had sat in three separate meetings about the smell.
+Inside was an improvement on the outside. The entrance corridor had been finished properly, wide and evenly lit, with a floor that took a shine and a row of frosted panels along one side that let a gray suggestion of the weather in and kept the parking lot out of it. It smelled of nothing much, which had been expensive. Marin had sat in three separate meetings about the smell.
 
 Terri Roth was on the desk, as she was most mornings, with her reading glasses up in her hair and two screens angled where no one standing at the counter could read them.
 

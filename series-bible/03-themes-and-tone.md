@@ -367,6 +367,57 @@ So when one comes in short, ask two questions: **which beat in the brief is not 
 
 ---
 
+---
+
+## THE THREE MIGRATIONS — found 2026-08-31, in the Ch1–Ch7 full audit
+
+**Law 1 says a tic does not shrink when you cap one spelling, it migrates. Three migrations were found in one pass, and all three were created by rules in this file.** Each is recorded with the rule that caused it, because the next fix will do the same thing again if nobody is watching for it.
+
+### 1. `nobody` → `no one` → **`anyone`**
+
+The indefinite-pronoun rule sent narration from *-body* forms to *someone* / *no one*. The `no one` hop was caught in August and fixed by deleting rather than substituting. **The tic then hopped a second time, into `anyone`, and nothing was counting it.**
+
+| | Book 1 narration | Book 2 narration (Ch1–7, 21k words) |
+|---|---|---|
+| `anyone` | **1** | **18** |
+
+**And the count was again the wrong unit.** Thirteen of the eighteen were one construction: *[superlative or negation] + anyone + [past-perfect verb of recording or noticing]*. The last information anyone had. Nothing anyone had a category for. Not in any field anyone had thought to record. The most accurate sentence anyone had said. The nicest thing anyone had ever written down. **A semantic family, spelled nine ways, across four chapters.**
+
+**Fixed by deletion and recasting, down to eight, and the family is broken up.** Three instances stay because the generalized agent is the point, including the Pell line, which is the bible's own phrasing.
+
+**The rule: watch the whole indefinite-pronoun set, not the form the last fix targeted.** `someone`, `anyone`, `no one`, `everyone`, and the *-body* forms are one system. Fixing one moves the pressure onto the next.
+
+### 2. The em-dash ban → **`, which`**
+
+Book 1 uses **157 em dashes** and **zero** `, which` clauses in 23,322 words. Book 2 bans em dashes in prose and dialogue, and had **eleven** `, which` clauses in its first seven chapters.
+
+**The ban did not remove the parenthetical aside. It relocated it.** The same syntactic job, done by a subordinate clause instead of a pair of dashes, and the existing coda screen only ever looked for `, which was / which is`, which is why eight of the eleven were invisible to it.
+
+**Now eight, and each survivor adds or reverses rather than restating.** The relative-clause coda rule in this file still governs which ones go; this note exists so that the *family* gets counted, not the two spellings that were written down first.
+
+### 3. The fragmentation ban → **the copular opener**
+
+The most interesting of the three, because it is **half legitimate and the audit nearly over-corrected it.**
+
+| Sentence opener | Book 1 rate | Book 2 rate (before fix) |
+|---|---|---|
+| *There was a…* | 2.1 | 5.6 |
+| *It was a…* | 0.9 | 4.7 |
+| *That was the…* | 0.9 | 3.8 |
+| *It was the…* | 0.0 | 3.3 |
+
+Thirty-seven instances against Book 1's nine. But Book 1's own most-repeated openers are **actor-and-verb** — *"She did not…"* ×23, *"Iris looked at…"* ×13, *"She checked the…"* ×11 — and its emphatic beats land as **fragments**, which Book 2 has banned as default prose.
+
+**So Book 2 writes "It was a compliment." where Book 1 would have written "A compliment."** The copular short declarative is this book's legitimate replacement for the fragment, and stripping them out would be writing to a number (Law 4) and would flatten the register the sentence-variety rule asked for.
+
+**The ruling, and it splits by job:**
+- **Environmental and scene-setting description built out of stacked existentials is a defect** and is the checklist failure the SENTENCE VARIETY rule already bans, wearing complete sentences. *"There was a counter with six positions. There was a rail where a queue had once been managed."* Convert these to a concrete verb.
+- **The emphatic single-clause arrival is correct and stays.** *"It was a workaround." "That was the job." "There was no denominator." "It was a compliment."*
+
+**Eight descriptive instances were converted and every emphatic one was kept.** Do not run this check again without reading the contexts; the count alone cannot tell the two apart.
+
+---
+
 ## WORD OVERUSE
 
 Flag when they stack, and vary the language. Current watch list for this series: **shape**, **structure**, **pattern**, **weight**, **absence**. All five are load-bearing thematic words, which is exactly why they will over-accumulate without anyone noticing.

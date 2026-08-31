@@ -141,6 +141,93 @@ Book 1 kept the whole manuscript in a review file *alongside* the individual cha
 
 ---
 
+---
+
+## FULL AUDIT — Ch1 to Ch7, 2026-08-31
+
+**21,319 words of Book 2 against 23,322 words of published Book 1.** Run with `node tools/voice-audit.js --per-ch`, which is now committed. Everything below was found by frequency comparison; **not one of these was findable by reading Book 2 on its own**, which is the whole argument for the method.
+
+### Closed — the three defects from 2026-08-27
+
+| | Then | Now |
+|---|---|---|
+| Typography | 420 straight double quotes, 205 straight apostrophes, zero curly | **Zero straight quotes across all seven chapters** |
+| Indefinite `-body` forms in narration | 13 | **Zero.** All surviving instances are dialogue |
+| The relative-clause coda `, which was` | 7 | **One**, inside a quoted document, where document voice governs |
+
+### Found and fixed — three migrations, all created by our own rules
+
+Full write-up in `03-themes-and-tone.md` → THE THREE MIGRATIONS. In summary:
+
+1. **`nobody` → `no one` → `anyone`.** Book 1 narration says *anyone* once. Book 2's first seven chapters said it **eighteen** times, and **thirteen were one construction**. Reduced to eight and the family broken up.
+2. **The em-dash ban relocated the parenthetical into `, which`.** Book 1: 157 em dashes, **zero** `, which`. Book 2: zero em dashes, **eleven** `, which`. Now eight, each of which adds or reverses.
+3. **The fragmentation ban relocated emphasis into the copular opener.** *There was a / It was a / That was the / It was the* ran at 37 against Book 1's 9. **Half legitimate:** Book 2 writes *"It was a compliment."* where Book 1 wrote *"A compliment."* Eight stacked-existential *descriptions* were converted; every emphatic single-clause arrival was kept.
+
+### CONTRACTIONS — the open item, measured and now ruled
+
+The measurement the previous entry asked for, split by register and by speaker:
+
+| Form | B1 narration | B1 dialogue | B2 narration | B2 dialogue |
+|---|---|---|---|---|
+| did not | 98/98 · **50%** exp | 0/15 · 0% | 55/1 · **98%** | 4/7 · 36% |
+| was not | 13/9 · 59% | 0/2 · 0% | 32/0 · **100%** | 0/9 · 0% |
+| had not | 11/4 · 73% | — | 34/0 · **100%** | 0/2 · 0% |
+| could not | 4/3 · 57% | — | 25/0 · **100%** | 0/2 · 0% |
+| do not | 3/1 · 75% | 3/37 · 8% | 2/0 · 100% | 3/8 · 27% |
+| it is | 1/0 · 100% | 13/43 · 23% | 2/1 · 67% | 23/28 · 45% |
+
+**Two separate findings, and only one of them is a defect.**
+
+**1. Rourke's voice had drifted, and this is a continuity defect against a published book. FIXED.**
+
+She is a returning character with a measured baseline, and the numbers were not close:
+
+| | Book 1 | Book 2 before | Book 2 after |
+|---|---|---|---|
+| Rourke, dialogue | **7% expanded** | **61%** | **21%** |
+| Kade, dialogue | 10% expanded | 30% | 30% |
+
+Book 1's Rourke says *"you're connecting that to these cases"* and *"That's useful. It's part of what we do."* Book 2's was saying *"It is in who is having them"* and *"I am not being hard on you."* **Fourteen conversions by hand in Ch2, not a sweep.** The residual 21% is entirely her **recitation register** — reading findings off a screen, ruling a thing out, defining a term — which is a different speech act from conversation and is correct. *"reduced is not absent"* stays. *"That's not a mechanism"* changed.
+
+**Kade at 30% was left.** His expansions are few and they sit on his weighted lines, *"What I did not do,"* being the clearest. Revisit if he drifts further.
+
+**2. Narration at 98–100% expanded, against Book 1's 50–75%. NOT FIXED. This is the author's call and it is the largest open voice question in the book.**
+
+Book 1's narrator contracts about half the time on *did not* and says *didn't* 86 times in 18,953 words of narration. **Book 2's narrator says it once in 16,631.** This file's own rule already anticipates the split: *past-perfect reflective narration keeps the full form; ordinary action narration contracts.* Book 2 currently has no second half to that rule.
+
+Against changing it: Iris is flat, the narration sits close to her, and the formality is part of how the book sounds. For changing it: Book 1's narration sat close to Iris too, and it contracted. **It would touch roughly a hundred sentences across seven chapters, so it is a voice decision and not a cleanup. Do not sweep it. Decide it, then apply it per sentence.**
+
+### Verified clean
+
+Em dashes in prose **0** · exclamation points **0** · three-dot ellipsis **0** · British `-our` / `-ise` **0** · `-wards` **0** · *grey* **0** · *nodded once* **0** · *the kind of* **0** · labeled pauses **0** · hedging *seemed/appeared to* **0** · chapter ending registers never exceed a run of two.
+
+### Known-good hits — do not re-flag these
+
+**Every audit that runs these checks will surface them again, so they are written down once.**
+
+- **"Willow" spoken aloud in Ch4.** Terri says *"Willow Halloway."* The Book 1 lock is that **the entity's** name is never spoken. Ch4 is a Recovered chapter six years earlier and the person being named is Willow Halloway, alive, at a reception desk. **That is the design, not a violation.**
+- **"a description with a direction on it"**, three times across Ch2 and Ch6. Two are Rourke saying it and Iris giving it back; the third is Iris recalling it in Ch6. **The text signals the echo. Rhyme, not repeat.**
+- **"the difference is not direction"** in Ch6 is a deliberate echo of published Book 1 Ch13's *"The difference between them was not direction. Only distance."* The negation survives only inside a quoted case note, because Book 2 retired the construction. **Do not restore the banned shape and do not trim the note.**
+- **`, which is a first`** in Ch7 sits inside a quoted shift-handover note. Document voice keeps whatever it would really say.
+
+- **Book 1's fragmented voice breaks quotations across sentence boundaries**, so any verifier matching contiguous strings will report false misses against it. Book 1 Ch22 renders the lock as *"She was closer. To Willow. Than anyone else alive."* The record's *"closer to Willow than anyone else alive"* is accurate in substance and will never match as a string. **Check a Book 1 miss by eye before believing it.** That is how the genuine error below was separated from this false one.
+
+### Correction to this file's own PROTECTED LINES list
+
+**"You don't have to optimize the answer" was recorded as a locked line and has never existed in that form.** Published Book 1 Ch2 reads:
+
+> "If something's off, you can just say that. You don't have to—" he gestured vaguely "—optimize the answer."
+
+The line is broken by a gesture and by two em dashes. **Book 1 is correct and locked; the record was wrong.** This is precisely the failure this file warns about, arriving from the direction nobody was watching: not a line falling out of the manuscript, but **a list quoting a line that was never there.** Corrected here and in `CLAUDE.md`. The locked fragment is **"optimize the answer."**
+
+### ⚠️ A new entry for Law 7 — the tool broke a check during this very audit
+
+**Never run a check containing non-ASCII characters through a shell heredoc.** Curly quotes and apostrophes were mangled in transit, and one check reported **zero** instances of a form the corpus contains 86 times. It did not error. It returned a clean, plausible, wrong number, and it was caught only because a second implementation disagreed.
+
+**Write the check to a file and run the file.** `tools/voice-audit.js` is committed for exactly this reason. When a result surprises you, reproduce it a second way before acting on it.
+
+---
+
 ## PROTECTED LINES
 
 **A protected-lines list is a liability unless something re-verifies it.** On the other project, two "protected" lines had silently fallen out of the manuscript and survived several audits that way. **The failure mode is not someone deleting a line on purpose. It is a line quietly not being there any more while every audit reports clean.**
@@ -153,7 +240,7 @@ Weeping Willow's locked lines, which must exist verbatim and must not be improve
 | "It hurting is how I know it counted." | Book 2 Ch4 |
 | "an alarm that never got told the emergency ended" | Book 2 Ch4 |
 | "What if I don't like who's left." | Book 2 Ch4, delivered light enough to be taken as a joke |
-| "You don't have to optimize the answer" | Book 1 Ch2, published |
+| "optimize the answer" | Book 1 Ch2, published. ⚠️ **The full sentence is broken by a gesture and two em dashes** and has never existed as a contiguous string. See the correction above. |
 | "Willow Halloway" | Book 3 Ch21, said once, flat, in passing, **never explained** |
 
 **Verify these at every audit — that they are present, and that they still read exactly as written.**

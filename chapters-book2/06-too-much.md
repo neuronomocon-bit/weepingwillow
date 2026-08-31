@@ -12,7 +12,7 @@ That told her most of what she needed before she had the handbrake on. A crew th
 
 ***
 
-The paramedic at the back of the ambulance was writing on a tablet with her sleeves pushed up, and she looked at Iris with the flat attention anyone gives a woman getting out of an unmarked van with a case in her hand.
+The paramedic at the back of the ambulance was writing on a tablet with her sleeves pushed up, and she gave Iris the flat once-over that an unmarked van and a case in the hand earn.
 
 “You can’t be up there.”
 
@@ -168,7 +168,7 @@ He was not on Rourke’s list.
 
 He had never presented. He had never been flagged, never been referred, never carried a marker for behavioral flattening, and had never given a clinician anywhere a reason to write his name on anything. Rourke’s four hundred and sixteen were people who had survived a partial taking long enough to be noticed being strange. That was the entry criterion. That was the only entry criterion there had ever been.
 
-So the curve on Rourke’s middle screen counted deaths among the survivors of the small dose, and it could not see this at all. It had never been able to. A man taken to completion in one pass does not enter the cohort, because he is never a patient, because there is no interval in which anyone can observe him being different.
+So the curve on Rourke’s middle screen counted deaths among the survivors of the small dose, and it could not see this at all. It had never been able to. A man taken to completion in one pass does not enter the cohort, because he is never a patient, because there is no interval in which he can be observed being different.
 
 And there was nothing behind him. No referral, no episode, no stretch of months in which he had been slightly less than he was. The neighbor had four or five minutes on a staircase on Tuesday and years of the same man before that, and the crew had a full set of correct answers, and none of it described a person who had been touched before.
 

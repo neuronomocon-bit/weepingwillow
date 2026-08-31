@@ -317,7 +317,7 @@ Cut fence ("not recently") · selective neglect, thin dust, no drifted paper · 
 - Willow's face description template: "Features learned from observation rather than born to them"
 - Ch1 Taking memories: kitchen at 19, yellow mug, hospital corridor, red scarf on winter beach, two girls on a staircase
 - Ch1 time gap: 14:07 to 14:41
-- Caleb's key line: "You don't have to optimize the answer"
+- Caleb's key line, as published in Book 1 Ch2: "If something's off, you can just say that. You don't have to—" he gestured vaguely "—optimize the answer." **The locked fragment is "optimize the answer."** It is broken by a gesture and two em dashes and has never existed as one contiguous sentence; the old one-line quotation here was wrong and was corrected 2026-08-31.
 - Iris's report to Kade: "Something has been removed"
 - Ch5 Kade's office: second floor, repurposed building, keypad entry, layered maps on wall, boxes with site codes
 - Ch5 Meridian scope: multiple sites (primary, secondary storage, offsite data mirrors), six confirmed adjacent locations in Iris's folder

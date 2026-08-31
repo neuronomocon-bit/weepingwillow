@@ -60,13 +60,13 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,936** | **awaiting author pass** |
-| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,786** | **awaiting author pass** |
-| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,651** | **awaiting author pass** |
-| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,349** | **awaiting author pass** |
-| 5 | Read | Iris | 3,600 | **DRAFTED 3,084** | **awaiting author pass** |
-| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,013** | **awaiting author pass** |
-| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,263** | **awaiting author pass** |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,932** | **awaiting author pass** |
+| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,761** | **awaiting author pass** |
+| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,932** | **awaiting author pass** |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,350** | **awaiting author pass** |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,078** | **awaiting author pass** |
+| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,006** | **awaiting author pass** |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,260** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | PENDING 3,387 · in `archive/drafts/` | needs re-audit + author pass |
 | 9 | Lena | Iris/Lena | 3,600 | — | — |
@@ -135,14 +135,16 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 
 | Ch | Budget | Drafted | Under |
 |---|---|---|---|
-| 1 | 3,400 | 2,936 | 464 |
-| 2 | 3,400 | 2,786 | 614 |
-| 3 | 3,600 | 2,651 | 949 |
-| 4 | 3,600 | 3,349 | 251 |
-| 5 | 3,600 | 3,084 | 516 |
-| 6 | 3,400 | 3,013 | 387 |
-| 7 | 3,600 | 3,263 | 337 |
-| **ACT I COMPLETE** | **24,600** | **21,082** | **3,518** |
+| 1 | 3,400 | 2,932 | 468 |
+| 2 | 3,400 | 2,761 | 639 |
+| 3 | 3,600 | 2,932 | 668 |
+| 4 | 3,600 | 3,350 | 250 |
+| 5 | 3,600 | 3,078 | 522 |
+| 6 | 3,400 | 3,006 | 394 |
+| 7 | 3,600 | 3,260 | 340 |
+| **ACT I COMPLETE** | **24,600** | **21,319** | **3,281** |
+
+*Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
 Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **Do not fix this by padding.**
 
@@ -179,3 +181,23 @@ Found 2026-08-27 by measuring the drafted Book 2 chapters against published Book
 **Do not convert them into trailing sentences** — that moves the tic into the thing already banned. Cut, bare appositive, colon, or new sentence, chosen per sentence.
 
 **Also open, measured but NOT yet ruled: contractions.** The drafted chapters run 100% expanded on `was not` / `did not` / `had not` / `is not`; Book 1 runs 51.6% expanded on `did not`. **The measurement is whole-text and does not split narration from dialogue**, and some Book 2 formality is deliberate. Run the split before touching anything. **Never sweep dialogue.**
+
+---
+
+## FULL AUDIT — Ch1 to Ch7, 2026-08-31
+
+**All seven chapters audited against published Book 1.** Method and full numbers in `series-bible/14-audit-method.md`; the three tic migrations are written up in `03-themes-and-tone.md`. The comparison is now a committed tool: `node tools/voice-audit.js --per-ch`.
+
+**Closed:** the three defects from 2026-08-27 are all gone. Zero straight quotes, zero `-body` pronouns in narration, one `, which was` and it is inside a quoted document.
+
+**Fixed in this pass:**
+
+1. **Three tic migrations, every one of them caused by our own rules.** `nobody` → `no one` → **`anyone`** (18 instances against Book 1's 1, and thirteen of them one construction; now 8). The em-dash ban relocating the parenthetical into **`, which`** (11 against Book 1's 0; now 8). The fragmentation ban relocating emphasis into the **copular opener** (37 against Book 1's 9; eight stacked-existential descriptions converted, every emphatic arrival kept).
+2. **Rourke's voice had drifted badly and this is a continuity defect against a published book.** Book 1's Rourke is **7% expanded**; Book 2's was **61%**. Fourteen hand conversions in Ch2 brought her to **21%**, and the residual is her recitation register, which is correct.
+3. **Ch3 was missing a beat the outline says it owes** — the deliberate site-spread behind Book 1 Ch5's *"From themselves."* Now on the page as evidence rather than dialogue: one code series, six destinations, and nothing that would have been useful beside something else sent to the same address. **+281 words, and it is why the index and the archive were separated in the first place.**
+4. **A protected line in the records was wrong.** *"You don't have to optimize the answer"* has never existed as a contiguous string; published Book 1 breaks it with a gesture and two em dashes. Corrected in `CLAUDE.md`, `14-audit-method.md` and the briefs. **The list was wrong, not the book.**
+5. **Five As Written quotations had drifted** by concatenating across a dialogue tag. Normalised, and there is now a verifier for it.
+
+**Left for the author — the largest open voice question in the book:**
+
+**Book 2's narration is 98 to 100% expanded on `did not`, `was not`, `had not` and `could not`. Book 1's narration is 50 to 75%, and says `didn't` 86 times.** This file's own rule says ordinary action narration contracts and past-perfect reflective narration does not; Book 2 currently has no second half to that rule. It would touch roughly a hundred sentences across seven chapters, so it is a voice decision rather than a cleanup. **Do not sweep it.**

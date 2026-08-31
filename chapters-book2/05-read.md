@@ -16,7 +16,7 @@ She set the first cartridge at half past two and it came up in under a minute.
 
 Then the archive wanted to know who she was.
 
-That took the rest of the afternoon. None of it was difficult and all of it was slow. The access layer had been configured by an institution that expected to exist. It wanted a department. The department had been folded into another department twice since the last time anyone signed in, so the first name was refused and the second name was refused, and the third pass went through on a credential Kade had not used for anything in three years and had never had revoked. She watched the handshake complete with her hands off the keys and let the tree finish resolving on its own.
+That took the rest of the afternoon. None of it was difficult and all of it was slow. The access layer had been configured by an institution that expected to exist. It wanted a department. The department had been folded into another department twice since the last time it had been signed into, so the first name was refused and the second name was refused, and the third pass went through on a credential Kade had not used for anything in three years and had never had revoked. She watched the handshake complete with her hands off the keys and let the tree finish resolving on its own.
 
 It came up clean. Labels that had gone without an update for the last two years the building was open. Session data nested under a heading for a group that had been renamed out from under it. Underneath that, in the order a system writes things rather than the order a person would, six years of work.
 
@@ -88,7 +88,7 @@ At least ninety-four. The field for years since the index event was three charac
 
 The rest of the record was a map, and Iris could not read a map. She could read what the file said about one. The file said it was complete, that all six segments had been retained, that the target was well defined and stable across the acquisition, and that the subject had tolerated the session without incident.
 
-Underneath that, in a free-text field the schema had not asked anyone to fill, the operator had written four sentences.
+Underneath that, in a free-text field the schema did not require, the operator had written four sentences.
 
 *Segment 4 carries motion artifact from 03:12. Subject was laughing. Retained rather than re-acquired: the segment is usable, and she has been in the chair for three hours. Flag for review at six if the artifact affects the comparison, not before.*
 
@@ -116,11 +116,11 @@ Before she closed the terminal she checked the clock against her own benchmark f
 
 She was eleven hours inside it.
 
-She wrote the number on a card and put it above the doorframe, on the short row, with the four that had not moved.
+The number went onto a card and up above the doorframe, on the short row, with the four that had not moved.
 
 ***
 
-On the sixth day she took the empties back to the unit and brought the second batch out. The bay smelled as it had the first time. There was a fresh inch of water in the builder’s bucket in the corner.
+On the sixth day she took the empties back to the unit and brought the second batch out. The bay smelled as it had the first time. A fresh inch of water stood in the builder’s bucket in the corner.
 
 She spent an hour at the back stack before she loaded anything, with her light and a magnifier and both hands off the media.
 
@@ -128,7 +128,7 @@ The rig for the caddies was on her bench at home in pieces. Nine days, she had t
 
 She had four dead caddies off a scrap dealer for exactly that, and she was going to burn all four.
 
-Nothing in the back stack had improved while she worked on the archive. Nothing in it would. She wrote down the condition of two more caddies, put her light away, and left the stack in the order she had found it, because the order it was in was the last information anyone had about how it had been stored.
+Nothing in the back stack had improved while she worked on the archive. Nothing in it would. She wrote down the condition of two more caddies, put her light away, and left the stack in the order she had found it, because the order it was in was the last information about how it had been stored.
 
 The second batch was not sessions. It was the facilities side.
 

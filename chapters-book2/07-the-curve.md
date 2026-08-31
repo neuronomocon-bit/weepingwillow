@@ -28,7 +28,7 @@ She logged the null, put the second platter on, and went back to the wall.
 
 The first pass took four hours and produced a curve, and she spent the next two establishing that the curve was hers rather than the world’s.
 
-The measure was the problem. Magnitude was not something anyone had recorded, because no one except her had a reason to think the thing had one. So she built the measure herself, coarsely, on the principle that a coarse measure applied identically beats a fine one applied unevenly. Five bands, defined in advance, written on a card before she scored a single case, so that she could not adjust a definition to fit what she was finding.
+The measure was the problem. Magnitude was not in the record anywhere, because no one except her had a reason to think the thing had one. So she built the measure herself, coarsely, on the principle that a coarse measure applied identically beats a fine one applied unevenly. Five bands, defined in advance, written on a card before she scored a single case, so that she could not adjust a definition to fit what she was finding.
 
 Band one was a single function reduced. Band five was everything, at once, with the body still running.
 
@@ -72,7 +72,7 @@ Band five was a man in a chair on the north side, and it was not in this data, a
 
 Then she put her own map against it, because Rourke’s set could tell her when and how much and could not tell her whether she was looking at one thing.
 
-Her line had been built out of sites and dates and physical proximity and had nothing to do with anyone’s clinical scoring. She laid the two against each other by date and worked down them together. The line moved when the curve produced cases. The line did not move when the curve did not. That held all the way along, for nineteen months, on two records that had no way of agreeing by accident.
+Her line had been built out of sites and dates and physical proximity and had nothing to do with clinical scoring. She laid the two against each other by date and worked down them together. The line moved when the curve produced cases. The line did not move when the curve did not. That held all the way along, for nineteen months, on two records that had no way of agreeing by accident.
 
 It also did not move during the hundred and ten days.
 
@@ -108,9 +108,9 @@ What she had now was better than she had expected and useless in the specific wa
 
 It did not give her who.
 
-She went looking for that for three hours and found nothing that sorted. She ran the hundred and thirty-one against age and got a spread that matched the city. Against sex, nothing. Against district, a scatter with no center and no path through it, which she already knew from her own map, because her own map had one line on it and the line went everywhere. Against referral route, against household composition, against the presenting complaint Rourke’s clinicians had written down first: nothing, nothing, and nothing.
+She went looking for that for three hours and found nothing that sorted. She ran the hundred and thirty-one against age and got a spread that matched the city. Against sex, nothing. Against district, a scatter with no center and no path through it. She had already known that from her own map, because her own map had one line on it and the line went everywhere. Against referral route, against household composition, against the presenting complaint Rourke’s clinicians had written down first: nothing, nothing, and nothing.
 
-There was a criterion. A hundred and thirty-one people had been selected out of a city of two hundred thousand and something had done the selecting, and whatever it sorted on was not in any field anyone had thought to record.
+There was a criterion. A hundred and thirty-one people had been selected out of a city of two hundred thousand and something had done the selecting, and whatever it sorted on had never been written into a field.
 
 So she could tell Rourke that a person would be taken past the top of her scale within about ten days, and could not tell her which person, and a prediction with the name left out was not a prediction. It was a forecast about weather. Rourke would file it correctly, the way she had filed the nine names in February, and she would be right to.
 
