@@ -66,7 +66,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,349** | **awaiting author pass** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,084** | **awaiting author pass** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,013** | **awaiting author pass** |
-| 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,263** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | PENDING 3,387 · in `archive/drafts/` | needs re-audit + author pass |
 | 9 | Lena | Iris/Lena | 3,600 | — | — |
@@ -141,7 +141,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 4 | 3,600 | 3,349 | 251 |
 | 5 | 3,600 | 3,084 | 516 |
 | 6 | 3,400 | 3,013 | 387 |
-| **Act I so far** | **21,000** | **17,819** | **3,181** |
+| 7 | 3,600 | 3,263 | 337 |
+| **ACT I COMPLETE** | **24,600** | **21,082** | **3,518** |
 
 Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **Do not fix this by padding.**
 

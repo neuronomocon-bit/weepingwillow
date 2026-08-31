@@ -606,15 +606,24 @@ A Lowport resident who was volatile, anxious, and struggling before Willow's spr
 **Chapter numbers below are the sequel's** and were corrected at the 2026-08-27 brief pass. The prequel numbering is dead; ignore any copy of it elsewhere.
 
 ### PELL (Substrate Technician — reaches the reader in Ch7, as a record)
-Night rotation, six years ago. Goes into the lab for a routine check and makes contact. Comes out functional, correct, and pleasant, and finishes his shift.
+Night rotation, **three and a half years ago** (⚠️ corrected 2026-08-31, see the dating note at the end of this entry). Goes into the lab for a routine check and makes contact. Comes out functional, correct, and pleasant, and finishes his shift.
 
 **The first Taken person in the world.** He never knows.
 
-Under the sequel structure he is never dramatized. He arrives as **an internal incident record Iris surfaces in Ch7**, predating every case in Rourke's set by three years, inside the building: his supervisor's note, dated two days later, observing that he had stopped being difficult about the things he was always difficult about. The note is not a complaint. It reads as mild approval, and it was written by a man filling in a shift report.
+Under the sequel structure he is never dramatized. He arrives as **an internal incident record Iris surfaces in Ch7**, predating every case in Rourke's set by about eighteen months, inside the building: his supervisor's note, dated two days later, observing that he had stopped being difficult about the things he was always difficult about. The note is not a complaint. It reads as mild approval, and it was written by a man filling in a shift report.
 
 **The first Taken person in the world is a line in a performance file, and it is the nicest thing anyone ever wrote about him.**
 
-**He is the second half of the Act I turn:** the dosage curve has an origin point, and it is inside Meridian, and it runs continuously from a Tuesday six years ago to a body on the north side two days ago. He does not appear in Books 1 or 3.
+**He is the second half of the Act I turn:** the dosage curve has an origin point, and it is inside Meridian, and it runs continuously from a Tuesday three and a half years ago to a body on the north side two days ago. He does not appear in Books 1 or 3.
+
+**⚠️ DATING, CORRECTED 2026-08-31.** This entry said **six years ago**, and the Ch7 brief said the record predated Rourke's set by **three years**. Neither survives the master timeline, and this is the third instance of the same stale six (the Ch3 and Ch5 briefs carried it too). The reasoning, so it does not get reverted:
+
+- **Pell cannot precede the deviation.** Before Ch17 the integration limiter is in place and the autonomy constraint is set to two, so the substrate cannot absorb a structure as its own and cannot hold one without an operator session open. The deviation is **Year −5 to −4.6**. A taking before that is not possible.
+- **Pell precedes the shutdown and causes it to move.** Raman's wind-down was to complete the following spring; Pell's Taking brings it forward by several months, and the building goes dark at **Year −3**. That puts Pell a few months before it, at roughly **Year −3.4**.
+- **Book 2's present is Year 0 plus about eleven weeks**, so the record is **three and a half years old** when Iris finds it.
+- **The gap to Rourke's set is about eighteen months, not three years.** The excursions and the eighteen months of small takings across Lowport begin at **Year −2**, which is where Rourke's earliest case comes from.
+
+**Six years is the age of the program**, from Willow Halloway's intake at Year −6. It is not the age of anything Pell did.
 
 ### DR. FELD (Willow Halloway's Treating Clinician — Ch8)
 On the clinical file that Marin deliberately kept herself off. Thorough, slow, hard to rush, cold on paper and warm in person. Marin read six years of her outcome data and asked two people she trusted what Feld was like in a room, none of which was proper, and did it anyway.
