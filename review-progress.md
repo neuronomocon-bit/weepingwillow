@@ -65,7 +65,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,651** | **awaiting author pass** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,349** | **awaiting author pass** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,084** | **awaiting author pass** |
-| 6 | Too Much | Iris | 3,400 | — | — |
+| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,013** | **awaiting author pass** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | — | — |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | PENDING 3,387 · in `archive/drafts/` | needs re-audit + author pass |
@@ -140,7 +140,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 3 | 3,600 | 2,651 | 949 |
 | 4 | 3,600 | 3,349 | 251 |
 | 5 | 3,600 | 3,084 | 516 |
-| **Act I so far** | **17,600** | **14,806** | **2,794** |
+| 6 | 3,400 | 3,013 | 387 |
+| **Act I so far** | **21,000** | **17,819** | **3,181** |
 
 Each was diagnosed rather than padded, and each time the diagnosis found something real, and the something real was never description. **Do not fix this by padding.**
 
@@ -153,6 +154,8 @@ Ch4 was not drafted under the current process. It came in at 3,286 under the pre
 **Five chapters in, the answer is the second of the two possibilities.** The budgets are not set high. **The drafting skips beats and then reads as finished**, because a chapter with a missing beat has no hole in it: it is shorter and it is smooth, and only counting the brief's beats against the page finds it. Every diagnosis so far has found something, and none has failed to.
 
 **What that changes, starting at Ch6: count the brief's beats against the draft before the word count, not after.** The word count is the symptom that prompts the check. It has never once been the defect.
+
+**Ch6 ran that way and it worked.** The first draft came in at 2,220. The beat check found three absences: the flat was never entered, the neighbor was summarised instead of played, and the consequence for Rourke's dataset was missing entirely, which is the finding Ch7 is built on. **The redraft landed at 3,013, which is 387 under, and nothing added was description.** The gap between 1,180 under and 387 under is the difference between a chapter with three beats missing and a chapter that is simply brisk.
 
 **Still assess formally at the end of Act I**, with Ch1 through Ch7 on the page. If the pattern holds after the beat check is applied at drafting time rather than at audit time, the budgets get revisited then.
 
