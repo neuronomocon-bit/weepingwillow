@@ -432,7 +432,7 @@ Load-bearing elements:
 
 **Craft:** No dread, no ominous equipment, no foreshadowing, no lingering shot of anything.
 
-**As Written (3,346 words as it now stands in `chapters-book2/04-intake.md`; the prequel-era draft was 3,286):** Full detail block is preserved at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
+**As Written (3,394 words as it now stands in `chapters-book2/04-intake.md`; the prequel-era draft was 3,286):** Full detail block is preserved at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
 
 - **Nine years** is the duration Willow has been carrying it and Marin has been carrying her. Locked.
 - Willow's originating trauma is **never named**. Only its shape appears: the medication page, the four jobs, the apartment above the laundromat, the birthdays checked in advance for whether they were survivable.
@@ -444,7 +444,7 @@ Load-bearing elements:
 - Closing: relief, *"clean and specific and enormous."* **"Relief had not been on the list."**
 - Marin's **two o'clock procurement meeting**, deliberately echoed in Ch17. Do not let a later pass strip it as duplication.
 
-**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,346 words.** Awaiting the author's proofread. What the four re-audit questions returned:
+**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,394 words.** Awaiting the author's proofread. What the four re-audit questions returned:
 
 1. **The research identifier — the one real failure, now fixed.** The draft established the *mechanism* (research archive under an identifier, clinical file under a name, and the two held apart) but never put the identifier on the page, so the reader had no token to carry. **Willow now reads her own identifier out of the consent pack in the institutional voice: `MN-R-0338`.** That is the string Iris reads for eleven chapters with no name attached to it, and the string the Ch15 join resolves. Marin's long speech was split around the exchange, so the access-log beat still closes the movement.
 2. **Assumes nothing about Iris.** She is not in it, and nothing reads as a book opening. Meridian alive and staffed is a payoff for a reader who has only seen the building dead, not an introduction.
@@ -455,6 +455,29 @@ Load-bearing elements:
 
 - **A continuity error, corrected.** Marin said *"eleven more sessions"* at signing. Ch8 establishes two weeks between the baseline and the first session, so at signing none has happened. Now **"twelve sessions,"** matching the schedule on page three of the pack.
 - **`hands flat on the table` is load-bearing and was nearly cut.** It matches the gesture-vocabulary cut list, but Ch8 signals the echo directly: *"You explained it at me for twenty minutes with your hands flat on a table."* It is a rhyme, not a tic. **Do not trim it in either chapter.**
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. No hard continuity contradiction was found. The finding was an intent question and it is now answered.**
+
+**THE RULING: the consent gap is intentional and load-bearing, and the chapter now knows it.** Ch4 is not adequate informed consent. There is no risk section on the page, no uncertainty, no alternatives, and Marin answers in guarantees: *"It doesn't touch the memory." "You'll have everything you have now." "You'll be the one deciding."* **That is character evidence, not an oversight.** She is a researcher at second-year review giving her frightened sister the strongest formulation she has.
+
+**What was added is one beat of selection, and nothing else:**
+
+> *There was a version of it with the intervals in and a version without, and she had used both in the same week before now. She gave Willow the one without.*
+
+**No confession, no guilt, no comment.** Per the review: *"Do not make her confess or explain. A brief internal selection among possible answers would be enough."* **See the clarified Gate 1 in CLAUDE.md** — *never does the wrong thing* governs how the prose stages her, not whether she is ethically flawless.
+
+**And the counter-evidence was already on the page and stays.** On the one question that actually matters she refuses to overclaim: *"What if I don't like who's left." / "Then we've got twelve sessions to work with and a review at six. You can stop at any of them." / "That's not an answer either." / "It's the only one that's true, and you'd have known if I'd made a better one up."* **She is not overselling in bad faith. She is plain where she can be and strong where she wants it to work.**
+
+**The identifier is a known institutional vulnerability, not anonymization, and Marin says so herself.** *"It's how the work gets done without your name on it. On everyone who doesn't already know."* Then the honest answer, which was already there: a version of the data will exist in a system she has access to, she will not open it, there is a log, and **nobody reads the log.** ⚠️ **This is the plant for Ch15**, where she does not purge the baseline *"which was not hers to purge, which is technically true,"* and notices herself building the technicality while she is standing there.
+
+**A temporal anchor was added** because the Recovered chapters carry no dates and the program's age is plot-relevant: *"The program was six years old and had started as a veterans' cohort. It had been opened to referrals from outside that cohort two years before this."* **Six is the program's age at Year −6 and nothing else's.** This also removed a real ambiguity: *"opened up two years earlier"* could be read as the expansion or as the program's second year.
+
+**Two things the review raised that were deliberately not changed:**
+
+1. **The Terri exchange stays as written.** It was flagged as *"almost sitcom-clean"* because Terri matches Willow too quickly. **It is a planted runner: Ch8 pays it off** with *"Any word on that outcome measure?" / "These things go to a committee."* Terri matching her is what makes the callback land, and it is also the evidence that Meridian was a real workplace staffed by likeable people.
+2. **`correct` was measured and it is a series word, not Ch3's.** Published Book 1 runs it at **10.3 per 10k**; Book 2 averages about the same, and the highest chapters are Ch6 (23.3) and Ch9 (19.3), which are the flat-affect chapters where it is doing diagnostic work. **Ch3 concentrates it deliberately and does not own it. Nothing to reduce.**
+
+---
 
 **~~⚠️ Open, for Ch8's re-audit.~~ RESOLVED 2026-09-02, and by a third option neither of the two originals reached.** The question was whether Virek's reissue changes the reader's token mid-book. **Nothing is reissued. `MN-R-0338` was issued twice** — recycled off a closed veterans'-cohort course, with the closed record left sitting on the live index. Willow's string is stable from Ch4 to the end, and Ch15 still earns its three checks, because what Iris has to establish is the number's history rather than the number. See THE INVESTIGATION SPINE and the Ch8 and Ch15 briefs.
 

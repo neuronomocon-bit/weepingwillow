@@ -13,7 +13,7 @@ Book 2 has been planned three times. This folder holds every superseded version,
 | | Status |
 |---|---|
 | **Book 1 — The Absence** | Published 2026-05-14. 22 chapters, 23,405 words. **Locked in `book1-published/`** — reference-only, never edited. |
-| **Book 2 — The Ending** | Sequel. Outline and all 22 briefs current. **Ch1 to Ch10 drafted and audited, 31,348 words**, in `chapters-book2/` awaiting the author's proofread. |
+| **Book 2 — The Ending** | Sequel. Outline and all 22 briefs current. **Ch1 to Ch10 drafted and audited, 31,396 words**, in `chapters-book2/` awaiting the author's proofread. |
 | **Book 3 — The Silence** | Outline current (rewritten 2026-08-27). **No chapter briefs — 22 need writing.** |
 
 ---
@@ -77,7 +77,7 @@ The pre-merge state of that session's wider work is on the git branch **`archive
 |---|---|---|
 | `DRAFT-hunger-ch01-aftermath.md` | ~1,500 | **Book 2 Ch1.** A near-exact match for the brief. Wants roughly 1,900 more words, taken from the apartment and the drive, **not** from the Caleb scene, whose flatness is doing the work. |
 | ~~`DRAFT-sessions-ch8.md`~~ | 3,387 | **SPENT 2026-09-02. Gone from this folder.** Re-audited against the current gates and moved to `chapters-book2/08-sessions.md` at 3,608 words. What the re-audit changed is in the Ch8 "As Written" block. |
-| ~~`DRAFT-intake-ch4.md`~~ | 3,286 | **SPENT 2026-08-31. Gone from this folder.** Re-audited and moved to `chapters-book2/04-intake.md` at 3,346 words. Its original prequel-era "As Written" block is in `arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1; the current one is in the Ch4 brief. (This row said "PENDING" until 2026-09-02, four days after the file had already moved. **Retire the row in the same commit that spends the draft.**) |
+| ~~`DRAFT-intake-ch4.md`~~ | 3,286 | **SPENT 2026-08-31. Gone from this folder.** Re-audited and moved to `chapters-book2/04-intake.md` at 3,394 words. Its original prequel-era "As Written" block is in `arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1; the current one is in the Ch4 brief. (This row said "PENDING" until 2026-09-02, four days after the file had already moved. **Retire the row in the same commit that spends the draft.**) |
 | `DRAFT-prequel-ch02-recovery.md` | 2,855 | **Ch3** (crate and manifest physicality), **Ch5** (the wet-drive procedure, the ninety-minute bridge, the dead-credential authentication), and **Ch19** (the R. Oyelaran material — a thorough man ignored who went on being thorough anyway — reused as the shape of Virek's closed ticket). |
 
 `DRAFT-prequel-ch02-recovery.md` was moved out of `chapters-book2/` on 2026-08-27 because `build-manuscript.js` picks up every numbered file in that folder and was building the retired draft into the manuscript as chapter 2. **Retired drafts do not live in `chapters-book2/`.**

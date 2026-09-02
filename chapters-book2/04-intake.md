@@ -114,7 +114,7 @@ There were things she knew about her sister that were not on that page, and thin
 
 The rest went quickly, because most of it was procedural: identity confirmation, data handling, the withdrawal clause, contact preferences, next of kin. Willow put Marin down for next of kin, then held the pen over the box a second longer.
 
-The program had started as a veterans’ cohort. It had opened up two years earlier, when the results held and the second-year data survived review. Willow had come in through the expansion, on a referral from a practice in town. There was a line about that on the form as well. She read it and did not comment.
+The program was six years old and had started as a veterans’ cohort. It had been opened to referrals from outside that cohort two years before this, when the results held and the second-year data survived review. Willow had come in through the expansion, on a referral from a practice in town. There was a line about that on the form as well. She read it and did not comment.
 
 Then she got to the page about where the data went, and she put the pen down.
 
@@ -144,7 +144,7 @@ Willow turned back two pages and found the box. She read it out in the instituti
 
 “That’s a parking space.”
 
-“It’s how the work gets done without your name attached to it.”
+“It’s how the work gets done without your name on it. On everyone who doesn’t already know.”
 
 “I know what it’s for. I’m telling you what it sounds like.” She put her thumb over the box and took it off again. “Fine.”
 
@@ -173,6 +173,8 @@ Willow got to the last page and did not sign it. She squared it up with the edge
 “Is it going to change me?”
 
 Marin had an answer for this. She had given it perhaps two hundred times, to patients, to funders, to a hostile ethics panel in the second year, and to her own reflection in a train window once when the panel had gone badly. She had never had to say it to someone whose first word had been her name.
+
+There was a version of it with the intervals in and a version without, and she had used both in the same week before now. She gave Willow the one without.
 
 “It removes the charge,” she said. “It doesn’t touch the memory. You’ll have everything you have now. You’ll know what happened, you’ll know when, you’ll know it was bad. What comes off is the load that arrives with it.”
 
