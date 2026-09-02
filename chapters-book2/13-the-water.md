@@ -154,7 +154,7 @@ Raman brought her the four pages himself instead of having them sent.
 
 She understood it standing in the kitchen with the calendar on the counter, and it took about four seconds, and it did not change shape afterward.
 
-There is a moment in which a person stops. It is not a decision and it does not look like one from the outside and there is no name for it in any literature Marin had ever read. It is the thing that has kept alive every person who has ever stood somewhere they should not have been standing, and it does not announce itself, and no one has ever measured it because it only shows up when it is absent and then the person is not available to be asked.
+There is a moment in which a person stops. It is not a decision and it does not look like one from the outside and there is no name for it in any literature Marin had ever read. It is a thing that has kept people alive when they were standing somewhere they should not have been standing, and it does not announce itself, and she had never found a way to measure it, because it only shows up when it is absent and then the person is not available to be asked.
 
 For six years Marin had removed the charge from structures that were firing when they should not have been firing. She had done it correctly. She had done it on a program that worked, with consent, under review, on four hundred people and then on her sister.
 
@@ -178,7 +178,7 @@ She could have written all of it up. It would have been a clean case note. Every
 
 ***
 
-The Monday was three days after the call. She went to work.
+The Monday was four days after the call. She went to work.
 
 She was in at ten past eight, her normal time, and she had the consumables order signed by nine and took the ten o’clock, and at two she was on the lower level with Virek looking at a curve that had not moved.
 

@@ -144,7 +144,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
-# ⏳ CH13 IS DRAFTED AND SELF-AUDITED, 2,887 words, AWAITING THE AUTHOR'S REVIEW. Book total 41,267.
+# ✅ CH13 IS DRAFTED, REVIEWED AND REVISED, 2,883 words. Awaiting the word to lock. Book total 41,263.
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -190,8 +190,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
-| 13 | RECOVERED: The Water | 2,887 | 3,400 | 513 | ⏳ **Drafted, awaiting review** |
-| | **THROUGH CH13** | **41,267** | **46,200** | **4,933** | 89% of budget |
+| 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | ✅ **Reviewed and revised — awaiting lock** |
+| | **THROUGH CH13** | **41,263** | **46,200** | **4,937** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -289,7 +289,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
 2. **Ch14 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
 
-**⚠️ Ch13 is drafted and awaits the author's review pass.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
+**✅ Ch13 is reviewed and revised and awaits only the word to lock.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 4. **The brief-by-brief under-specification audit of all 22.** Still unrun. It is a defect check, not a length check — see decision 2.
 
@@ -445,7 +445,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 > Marin is no longer the POV protagonist of the book — she is the protagonist of the seven Recovered chapters. Iris carries the other fifteen.
 
 - **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. POV of the seven Recovered chapters. Consumed in the last of them. Never named in Books 1 or 3.
-- **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned **about six months after completion** (Year −5.2, and **four months after Ch10** — corrected 2026-09-02; the four months had been attached to completion, which the master timeline does not support). Report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
+- **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned **about six months after completion** (Year −5.2, and **about three and a half months after Ch10** — corrected 2026-09-02; the four months had been attached to completion, which the master timeline does not support, and the Ch10 figure was then tightened from four because three plus four reads as seven. **The three intervals must add: 3 + 3.5 = 6.5.**). **She died about three weeks after her six-month review, which she attended and at which she was fine.** Report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
 - **The name:** the entity is called Willow because Willow Halloway was a person. Never explained by anyone in any book. Book 1 uses the name in narration without introduction; Book 3 Ch21 has the entity say "Willow Halloway" once, flat, in passing, never returned to.
 - **The deviation:** two parameters, one afternoon, undocumented. Integration limiter removed, autonomy constraint widened. Marin's justification is coherent: patient deceased, no return path, integration required for full-fidelity rendering, sandbox isolated.
 - **Willow Halloway's line:** "It's still there. I just can't find the handle on it anymore." She means it as good news.

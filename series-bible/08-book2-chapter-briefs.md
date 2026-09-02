@@ -923,6 +923,10 @@ The As Written block already forbids the prose from calling Willow flat, absent 
 
 **⚠️ A dating error found and corrected while drafting.** The Ch13 brief and CLAUDE.md both said Willow drowned *"four months after completion."* The master timeline does not support it: intake Year −6.0, first session two weeks later, twelve weekly sessions, so completion is about Year −5.73, and Ch13 is Year −5.2. **That is about six months.** The four months is the **Ch10 to drowning** interval, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates. **Ch10 therefore sits three months after completion, in late May**, which is what the prose says.
 
+**⚠️ AND THE THREE FIGURES DID NOT ADD, which the author's Ch13 review caught by asking for the sweep.** The record carried *three months* (completion → Ch10), *four months* (Ch10 → drowning) and *about six months* (completion → drowning), **and three plus four is seven.** The Year notation settles it: completion ≈ −5.73, Ch10 = −5.5, Ch13 = −5.2, so Ch10 → drowning is **3.6 months**. It rounds to four, which is why it survived, **but a rounded figure printed beside the sum it belongs to invites the reader to add.** The Ch10 interval is now recorded as **about three and a half months**, and 3 + 3.5 = 6.5 ≈ six. **No prose changed: no chapter states either interval.**
+
+**The crisp fact, and the one to reach for instead of any of them: she died about three weeks after the six-month review she attended and at which she was fine.**
+
 ---
 
 ### Chapter 11 — MIDPOINT: Caleb
@@ -1092,7 +1096,7 @@ The second half is Rourke. Iris brings her Caleb, who was a documented Taken cas
 **Location:** The coast north of the Meridian site. Then a hospital corridor. Then Willow's apartment.
 **Goal:** Willow Halloway dies. Plainly.
 
-**Conflict:** She goes into the water off the rocks below the bluff, **about six months after completion and about four months after Ch10.** (⚠️ This line said *"four months after completion"* until 2026-09-02, and that is the wrong interval. Completion is roughly Year −5.73: intake at −6.0, first session two weeks later, twelve weekly sessions. Ch13 is Year −5.2. **The four months is Ch10 to the drowning**, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates.) She is found the same day. There is no note, no witness, and no way to establish intent. The tide was running and the rocks are what they are, and the report says accident, and **the report is probably right.**
+**Conflict:** She goes into the water off the rocks below the bluff, **about six months after completion and about three and a half months after Ch10.** (⚠️ This line said *"four months after completion"* until 2026-09-02, and that is the wrong interval. Completion is roughly Year −5.73: intake at −6.0, first session two weeks later, twelve weekly sessions. Ch13 is Year −5.2. **The four months is Ch10 to the drowning**, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates.) She is found the same day. There is no note, no witness, and no way to establish intent. The tide was running and the rocks are what they are, and the report says accident, and **the report is probably right.**
 
 **Outcome:** Marin has a dead sister and an open question she will never be able to close.
 
@@ -1108,7 +1112,19 @@ This is the drowning that Book 3's ending returns to. It is the load-bearing ima
 
 ---
 
-**AS WRITTEN (drafted 2026-09-02, 2,887 words).**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02, on the day it was drafted. One interval error, one epistemic overclaim, and a record defect the review's fourth item flushed out.**
+
+**1. Thursday to Monday is four days, not three.** The closing interval was written as three. **This is the same class as Ch2 and Ch12 and it is now the fourth instance: a stated weekday pair reads as considered and the count inside it is wrong.** Fri 1, Sat 2, Sun 3, Mon 4.
+
+**2. Two overclaims in the question paragraph, and the paragraph already showed how to fix them.** It contained *the thing that has kept alive **every person who has ever** stood somewhere they should not have been standing* and *no one has ever measured it.* **Neither is available to Marin**, and people survive dangerous positions for many reasons — reflex, balance, luck, a barrier, another person. **The paragraph's own first sentence was already calibrated** (*there is no name for it in any literature Marin had ever read*), so the two overclaims were inconsistent with the sentence beside them. Now *a thing that has kept people alive when they were standing somewhere they should not have been standing*, and *she had never found a way to measure it.* **The precision is Marin's characterization, so an overclaim is a defect in her, and this chapter is built on her distinguishing what she knows from what she cannot.**
+
+**3. ⚠️ THE FOURTH ITEM ASKED FOR AN INTERVAL SWEEP OF THE RECOVERED DATES AND IT FOUND THAT THE RECORD'S THREE FIGURES DID NOT ADD.** *Three months* (completion → Ch10) plus *four months* (Ch10 → drowning) does not make *about six months* (completion → drowning). **All three were in the record and had been for weeks.** The Year notation settles it — completion ≈ −5.73, Ch10 = −5.5, Ch13 = −5.2 — so Ch10 → drowning is **3.6 months**, which rounds to four and is why it survived every previous pass. **A rounded figure printed beside the sum it belongs to invites the reader to add.** Corrected to *about three and a half months* in CLAUDE.md, this file, and `10-subplot-threading.md`. **No prose changed: no chapter states either interval.** The fact to reach for instead of any of them is **she died about three weeks after the six-month review she attended and at which she was fine.**
+
+**Confirmed unchanged, and named here so no later pass touches them:** the next-of-kin form and Willow's extra second over the box (**the text never says whether she hesitated over Marin, considered someone else, or simply needed time — preserve that**); *the report is probably right*; the water-through-the-floor passage and its deliberate deflation (**do not add a second water image anywhere in the chapter**); the apartment's four two-way objects; *a search with no defined target is not a search*; *a person can be fine in a room with a clinician on a Tuesday and it tells you about the room*, **which is what stops the repeated *fine* becoming authorial certification**; Neal's *People say that. I didn't push it*; the impossible same-person study and ***There is one of her. There was one of her***; the outcome-measure grief passage including the unaffected appetite (**mixed findings read as observed; uniformly worsening ones read as designed**); and *"Log it." / "It's logged."* with no narration after.
+
+**And the length was ruled on rather than fixed:** 2,883 against a 3,400 brief, and **it does not get expanded.** Every evidentiary channel has enough space and more apartment objects, witnesses or session observations would dilute the two-way ambiguity. **A chapter is not too short because a number in a brief is larger.**
+
+**AS WRITTEN (drafted 2026-09-02, revised the same day, 2,883 words).**
 
 **The drowning is not on the page and neither is the water.** The chapter is the telephone call and the days after it. Willow goes in off the rocks below the bluff on the north stretch, a mile and a half up the coast from the site; a man walking a dog sees a coat at ten past one; she is found the same afternoon, a little under half a mile down, consistent with the tide. **No note, nothing in her pockets but keys and a bus ticket, no one saw her go in.** The report says accident and **the prose says the report is probably right.**
 

@@ -75,7 +75,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **✅ LOCKED 2026-09-02** |
 | 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **✅ LOCKED 2026-09-02** |
-| 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,887** | ⏳ Awaiting author review |
+| 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | ✅ Reviewed and revised — awaiting lock |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
 | 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
@@ -157,8 +157,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 10 | 3,400 | 3,042 | 358 |
 | 11 | 3,800 | 3,099 | 701 |
 | 12 | 3,600 | 2,734 | 866 |
-| 13 | 3,400 | 2,887 | 513 |
-| **THROUGH CH13** | **46,200** | **41,267** | **4,933** |
+| 13 | 3,400 | 2,883 | 517 |
+| **THROUGH CH13** | **46,200** | **41,263** | **4,937** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -247,6 +247,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch12 | 4 | **A chronology conflict, not an arithmetic slip.** Day 42 is a Tuesday, so Day 45 is a Friday, and the draft said Thursday throughout while spanning a whole week inside a Days 46–48 chapter. Day 48 protected and the later-week material moved onto the spine. **Also surfaced three interval errors in locked chapters.** |
 | Ch11 | 3 + 1 | **The one that mattered was not arithmetic.** Iris sat and watched a pulse fall from forty-four to thirty-one without calling anyone, which made her non-intervention the largest moral act on the page and swamped the band-five score. **She cannot accept his refusal, because a refusal requires wanting an outcome and she has spent an hour documenting that he cannot produce one.** She calls; it does not arrive. |
 | Ch10 | **0** | **The first with no hard error.** One epistemic breach instead: *"and she meant it"* certified Willow's interior in a chapter built on Marin not being able to tell. **The gate runs both ways — do not name what is missing and do not certify what is there.** All three calendar items checked out. |
+| Ch13 | 1 + 1 | **An interval error and an epistemic overclaim, and the fourth review item found a defect in the record rather than the prose.** Thursday to Monday counted as three days. *Every person who has ever* and *no one has ever measured it* both exceeded Marin, in a paragraph whose own first sentence was already calibrated to her. **And the requested interval sweep showed the record's three Recovered figures did not add: 3 + 4 ≠ 6.** Ch10 → drowning is 3.6 months, rounds to four, printed beside the sum. **A clean chapter can still sit on a stale record.** |
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |

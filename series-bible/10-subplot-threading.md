@@ -287,5 +287,5 @@ Things planted early that only detonate later. **None of them may be underlined 
 | B2 19. One asset line moved from portable to fixed | Why the substrate was still in the building when Iris cut the fence. |
 | B2 20. Marin is happy | B3 21. Willow's belief that she is helping is inherited, not invented. |
 | B1 Ch16. "It's one." | B3 17. Two contacts, forty miles apart, inside an hour. The door the series name holds open. |
-| B2 10. Willow Halloway calm, reduced, and doing well four months before she drowned | B3 6, 16. The question the series never answers. |
+| B2 10. Willow Halloway calm, reduced, and doing well about three and a half months before she drowned | B3 6, 16. The question the series never answers. |
 | The program's purpose: neutralize suffering | B3 22. She completes her original clinical function on herself and goes into the water. |
