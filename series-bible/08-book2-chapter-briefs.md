@@ -130,6 +130,28 @@ Ch15 closes with a short Iris coda. Ch22 closes with a short Willow coda. Those 
 | 21 | 72 | Why Lena. |
 | 22 | 74 | The second visit. |
 
+### ⚠️ THE CALENDAR — set 2026-09-02, off the author's Ch2 review
+
+**Published Book 1 gives no month and almost no elapsed time** — two instances of *"two days"* in the whole novel and not one month name. **Book 2 therefore sets the series calendar, and it had already drifted once.**
+
+| | When |
+|---|---|
+| Book 1 Ch1 — Iris is Taken | **First week of January.** Fixed by Ch1's photograph *"on the dashboard since January"* and Ch9's *"on the dash for eleven weeks"* at Day 42. |
+| Book 1 Ch10 — the café with Lena | Late January. Ch9: *"as it had been in the café in January."* |
+| Book 1 Ch22 — Day 0 | **Second week of February.** Book 1 spans about five weeks. |
+| Book 2 Ch1 — Day 21 | Early March. *"Three weeks since the outer zone."* |
+| Book 2 Ch2 — Day 24 | Early March. Rourke's ten-week mortality window opens in **late December**. |
+| Book 2 Ch9 — Day 42 | Late March. |
+| Book 2 Ch22 — Day 74 | Early May. |
+
+**What this fixes.** Ch2 said Iris's nine-name list was given *"in February"* and also *"ten months ago"*, which put the scene in December and threw the bench death in the first week of February outside the ten-week window. **February is five weeks back, not ten months.** Corrected in both places, and the correction is the better book: Iris flags the man in February, Rourke files it correctly, and he is dead inside five weeks.
+
+**Every other anchor already agreed with this spine and none of them moved**: *since the winter* (Ch6, Ch7), *in February* for Joel and for Rourke's tablet (Ch6, Ch7), the map on the wall *since January* (Ch7), and Lena *since January* (Ch9).
+
+**Check any new month or interval against this table.** The stale-six lesson applies to the calendar too.
+
+---
+
 **Recovered thread.** Anchored to the published Book 1 Ch1 detail: a wall calendar stopped three years earlier. Meridian goes dark at **Year −3**; Book 1 opens at **Year 0**. Marin's material spans Year −6 to Year −3.
 
 ---
@@ -302,7 +324,7 @@ Iris has the mechanism. She cannot say it in this room, and she also cannot not 
 
 **Craft:** Rourke is not converted and is not an obstacle for its own sake either. She is a competent person whose model is failing and who is behaving well about it. No scene where she is wrong on purpose.
 
-**As Written (2,757 words, drafted 2026-08-30, `chapters-book2/02-mortality.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (2,951 words, drafted 2026-08-30, `chapters-book2/02-mortality.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
 
 - **Lowport Public Health is the top two floors of a former bank**, and the ground floor is still laid out like one: a counter with six positions and two staffed, a rail where a line used to be managed, and eighty years of polish running from the door to the counter and nowhere else.
 - **Three requests to get in.** The first unanswered, the second produced a form, the third produced a Thursday at a quarter past nine. **"No one offers a quarter past nine to a person they intend to spend long with."**
@@ -317,6 +339,15 @@ Iris has the mechanism. She cannot say it in this room, and she also cannot not 
 - **The records room.** Free-standing shelving bought in a hurry, four rows, filled from the door end backward so the oldest material is furthest in. One intake category runs the length of the fourth row and turns the corner onto the fifth, and **the fifth is two thirds empty because it has not been filled yet.** Four hundred and sixteen people is a number for six minutes and then it is two hundred feet of paper. **Unindexed for eighteen months and eleven months behind: "I know where things are. That works until I'm not here."**
 - **THE TEST, which is the chapter's outcome:** *"Bring me one before it happens."* A name off Rourke's own cohort, a prediction of death inside six weeks, and a reason. If Iris can do it, everything in that room. If she is wrong, no fourth appointment. **Iris recognizes it as the test she would have designed, and that Rourke designed it knowing that.**
 - **The assessment at the door**, run on Iris in the tone Rourke used for the woman with the foot, with her weight off the desk. Six hours, sometimes seven, not broken. Appetite unchanged. Working, and *"the work is the only thing that hasn't changed speed."* **Rourke writes three lines and turns the pad face down.** *"When there's enough of it to be worth telling you, I'll tell you."*
+- **⚠️ THE TEST WAS REDESIGNED 2026-09-02 and the old version must not come back.** It used to read *"tell me that person is going to die in the next six weeks… and then let us both wait and see."* **A clinician cannot identify a patient at imminent risk of a preventable death and wait for the death as validation**, and the causes here are all actionable: malnutrition, an untreated infection, a missed medication. It also contradicted everything else about her. As it stands now:
+
+  Iris brings **a person by name, off her own material**, and Rourke says only whether they are in her set. Iris then names **the function that will stop** — eating, a medication, a dressing, the appointment they keep moving — and roughly when. **Rourke goes and sees them, does whatever the visit turns out to need, and does not say what she did.** The prediction succeeds if the named function had already started stopping when she got there.
+
+  Iris objects that the intervention takes the result out of the test. *"The intervention takes the result out of the death."* **Iris treating a rescue as noise in the data is the best character beat in the chapter and Rourke corrects it without moralizing.** Then the closing: *"It was a fair test, and it was not the test she would have designed. Hers would have been cleaner and would have required someone to die inside it. She could see the difference between the two and could not produce a reason to prefer her own. She took Rourke's."*
+
+  **This also solves how Iris can name someone off a cohort she has no access to** — she works from her own material and Rourke only confirms membership, which is a one-way valve and exactly what Rourke would build.
+- **⚠️ The test is never formally passed, and that is the design.** Ch12 overtakes it: Iris brings Rourke **Caleb**, a documented Taken case, alive on a Tuesday and dead on a Friday with everything removed. **Ch7 is Iris failing it honestly** — she can predict magnitude and date and not the subject, and *"a prediction with the name left out was not a prediction."*
+- **⚠️ Rourke's statistical caution was rebased 2026-09-02.** She used to call eleven against three *"exactly the size of thing that turns out to be nothing four times out of five,"* which is not true: on that base it is nearly four times the expected count and a genuine signal. She now says it is **a real signal and a small number at the same time, and a small number is where you go and look for the boring answer first** — a late batch of records, a caseload reassigned off a clinician who left *because the deaths follow the file and arrive in a lump*, a change in what gets coded as a cohort death. **She has excluded all three.** The four-year line is also now explicitly the model's baseline, *"fitted on four years of everyone I see, not on them,"* rather than implying the cohort is four years old.
 - **⚠️ Rourke's contraction rate is a continuity lock against published Book 1**, where she runs 7% expanded. This chapter drifted to 61% and was brought to 21% by fourteen hand conversions in the 2026-08-31 audit. **The residual is her recitation register, where she is reading case material aloud, and it is correct. Do not sweep it further.**
 
 ---

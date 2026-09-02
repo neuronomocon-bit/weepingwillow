@@ -63,7 +63,7 @@ Checked on every chapter of this book in addition to the standard passes:
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **✅ LOCKED 2026-09-02** |
-| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,757** | **awaiting author pass** |
+| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,951** | **awaiting author pass** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,927** | **awaiting author pass** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,346** | **awaiting author pass** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,073** | **awaiting author pass** |
@@ -144,17 +144,17 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | Ch | Budget | Drafted | Under |
 |---|---|---|---|
 | 1 | 3,400 | 2,931 | 469 |
-| 2 | 3,400 | 2,757 | 643 |
+| 2 | 3,400 | 2,951 | 449 |
 | 3 | 3,600 | 2,927 | 673 |
 | 4 | 3,600 | 3,346 | 254 |
 | 5 | 3,600 | 3,073 | 527 |
 | 6 | 3,400 | 3,000 | 400 |
 | 7 | 3,600 | 3,253 | 347 |
-| **ACT I COMPLETE** | **24,600** | **21,287** | **3,313** |
+| **ACT I COMPLETE** | **24,600** | **21,481** | **3,119** |
 | 8 | 3,800 | 3,608 | 192 |
 | 9 | 3,600 | 3,108 | 492 |
 | 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **31,026** | **4,374** |
+| **THROUGH CH10** | **35,400** | **31,220** | **4,180** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 

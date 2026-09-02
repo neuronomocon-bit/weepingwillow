@@ -445,6 +445,16 @@ Flag when they stack, and vary the language. Current watch list for this series:
 
 **The defect is the other kind:** the same abstraction used for an *ordinary* noun, where a concrete word was available and would have been sharper. *"a thing she could not remember losing was a thing she could not measure"* went to *"what she could not measure."*
 
+**⚠️ Count it split by register, added 2026-09-02 off the Ch2 review.** Ch2 ran `thing` at 60.6 per 10k whole-text, which looked alarming and was the wrong unit. Split:
+
+| | narration | dialogue |
+|---|---|---|
+| **Book 1** | **2.1** | 23.0 |
+| **Ch2 before** | **36.4** | 90.8 |
+| **Ch2 after** | **18.2** | 68.2 |
+
+**Narration is where the defect lives and dialogue is mostly idiom.** *"Thing"* is ordinary spoken English and Rourke is a plain clinician in a chapter that is one long conversation with her; flattening that would cost her voice for a number. **Fix narration to the Book 1 rate and read the dialogue before touching it** — the same split that already governs indefinite pronouns and contractions.
+
 **And the metaphor rule underneath it:** `instrument` is the chapter's closing image. **Every earlier use spends it.** Ch1 used it four times and the last one had nothing left to land on; it now appears once. **Count a controlling metaphor and keep the last use the strongest.**
 
 ### ⚠️ `no one` — added to the watch list 2026-08-27, and already actioned once

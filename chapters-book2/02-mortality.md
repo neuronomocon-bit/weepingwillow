@@ -30,7 +30,7 @@ Rourke did not sit. She stood at the second desk with one hand on the back of th
 
 The plot had time along the bottom and a count up the side, and two lines on it. One was flat and slightly rising, and it had been flat and slightly rising for four years. The other came off it about ten weeks back and went up.
 
-“That’s my cohort,” Rourke said. “Four hundred and sixteen people carrying a presentation I have been calling behavioral flattening for two years. Flat line is what the cohort should do. Any population that size produces deaths. Old people, sick people, people who were already going to die of the thing they had before they ever came to me. Three in ten weeks. That is the number. That is what the model says and the model has been right since I built it.”
+“That’s my cohort,” Rourke said. “Four hundred and sixteen people carrying a presentation I have been calling behavioral flattening for two years. The flat line is what a cohort like that should do, and it is fitted on four years of everyone I see, not on them. Any population that size produces deaths. Old people, sick people, people who were already going to die of the thing they had before they ever came to me. Three in ten weeks. That is the number. That is what the model says and the model has been right since I built it.”
 
 “And the second line.”
 
@@ -38,7 +38,11 @@ The plot had time along the bottom and a count up the side, and two lines on it.
 
 She let it sit there long enough for Iris to do the arithmetic she had already done.
 
-“Eleven in ten weeks,” Rourke said, “in a cohort of four hundred and sixteen, against an expectation of three. It is not a large number. I want to be accurate about that, because it is exactly the size of thing that turns out to be nothing four times out of five. Eleven is what you get from a bad month and a reporting change and one clinician retiring. So I checked the reporting change and there wasn’t one, and I checked the clinician and she didn’t, and I ran the whole thing again against last year with the same filters.”
+“Eleven in ten weeks,” Rourke said, “in a cohort of four hundred and sixteen, against an expectation of three. Nearly four times the count. That is not something I can wave off and it is not something I can publish either, because eleven is a real signal and a small number at the same time, and a small number is where you go and look for the boring answer first.”
+
+“Which is.”
+
+“A batch of records arriving late. A caseload reassigned off a clinician who left, because the deaths follow the file and arrive in a lump. A change in what gets coded as a cohort death.” She counted them without any performance in it. “There was no late batch. Nobody left. The coding is the same coding I have used since I opened the cohort. And I ran the whole thing against last year with the same filters.”
 
 “And it held.”
 
@@ -52,7 +56,7 @@ She read them from the screen, and she read them at the pace of something she ha
 
 A man of fifty-one had stopped eating. Not refused. Stopped. He had gone eleven days on tea and half a sandwich a neighbor brought him, and when the neighbor finally called someone he was cooperative and pleasant and answered every question, and he had not been aware of the eleven days as a thing that had happened to him. He died in the hospital of an electrolyte imbalance. That is what the certificate says and the certificate is correct.
 
-A woman of thirty-eight had walked into traffic on the Halstead crossing. Not run. There was camera footage and Rourke had watched it eight times. The woman steps off, and a car is coming, and she does not hurry and she does not stop. There is no moment where she reacts to the car. The coroner had gone through it twice looking for the thing that would let him call it deliberate and had not found it, because the woman had come off a shift, was carrying groceries, and had a dentist’s appointment in her calendar for the Tuesday.
+A woman of thirty-eight had walked into traffic on the Halstead crossing. Not run. There was camera footage and Rourke had watched it eight times. The woman steps off, and a car is coming, and she does not hurry and she does not stop. There is no moment where she reacts to the car. The coroner had gone through it twice looking for whatever would let him call it deliberate and had not found it, because the woman had come off a shift, was carrying groceries, and had a dentist’s appointment in her calendar for the Tuesday.
 
 A woman of sixty-four had died of sepsis from an infected foot. She had been seen for it. She had been given the antibiotics and the instruction to come back if it got worse. It got worse. She did not come back.
 
@@ -74,7 +78,7 @@ Rourke put her hand flat on the desk and left it there.
 
 “The pattern isn’t in the deaths.”
 
-“No,” Rourke said. “It’s in who is having them. And I have no mechanism that connects the one to the other. I’ve been looking for eight weeks, and I’m a good enough clinician to know the difference between not having found a thing and the thing not being there. I haven’t decided which this is.”
+“No,” Rourke said. “It’s in who is having them. And I have no mechanism that connects the one to the other. I’ve been looking for eight weeks, and I’m a good enough clinician to know the difference between a mechanism I haven’t found and a mechanism that isn’t there. I haven’t decided which this is.”
 
 She looked at the screen rather than at Iris.
 
@@ -90,7 +94,7 @@ Rourke went to the second desk and came back with a single sheet, and she did no
 
 “I remember.”
 
-“The man who stopped eating is on it.” Rourke put the sheet down on the desk between them, face up, and Iris saw her own handwriting from ten months ago. “Fourth line. You wrote *early, mild, no request for help* next to him, and I read that as a layperson describing someone who was coping.”
+“The man who stopped eating is on it.” Rourke put the sheet down on the desk between them, face up, and Iris saw her own handwriting from five weeks ago. “Fourth line. You wrote *early, mild, no request for help* next to him, and I read that as a layperson describing someone who was coping.”
 
 “It was.”
 
@@ -98,11 +102,11 @@ Rourke went to the second desk and came back with a single sheet, and she did no
 
 Iris looked at the fourth line of her own handwriting.
 
-She had sat across a table from that man for forty minutes in February. She could produce the room: a kitchen with the extractor fan running because the switch was shared with the light. She had written *no request for help* because he had told her, pleasantly, that he did not need any, and she had believed him accurately and recorded it accurately, and ten months later he had gone eleven days without eating and had not been aware of it.
+She had sat across a table from that man for forty minutes in February. She could produce the room: a kitchen with the extractor fan running because the switch was shared with the light. She had written *no request for help* because he had told her, pleasantly, that he did not need any, and she had believed him accurately and recorded it accurately, and five weeks later he had gone eleven days without eating and had not been aware of it.
 
 She ran the check. There was a place where something should have arrived about a man she had met and marked and failed to do anything for, and she went and looked at it, and it was smooth.
 
-The finding was useful. It meant her judgment in February had been sound, and the reason it had produced nothing was that she had handed it to the only person in Lowport who could have acted on it and that person had filed it correctly. Both halves were true and neither of them was at fault, and she could hold the whole of it and get no more out of it than she got out of the plot on the screen.
+The finding was useful. Her judgment in February had been sound, and she had handed it to the only person in Lowport who could have acted on it, and that person had filed it correctly. She could hold the whole of it and get no more out of it than she got out of the plot on the screen.
 
 She put the sheet back down on the desk.
 
@@ -110,9 +114,9 @@ She put the sheet back down on the desk.
 
 Iris looked at the plot again while Rourke drank cold coffee from a cup she had clearly poured that morning.
 
-There was a version of the answer she could give in this room and a version she could not. The second one required the word for the thing, and she had no word for the thing, and the closest she could have come would have cost her the appointment and every appointment after it.
+There was a version of the answer she could give in this room and a version she could not. The second one required a name for the thing, and she did not have one, and the closest she could have come would have cost her the appointment and every appointment after it.
 
-She said the smallest true thing instead.
+She gave the smallest true version instead.
 
 “They didn’t seek help,” she said. “Not one of them. The man on the bench, the woman with the foot, all of them. Somewhere in each of those there was a moment where an ordinary person turns around and goes back inside, or gets up, or picks up a phone. The thing that would have made them turn around is what was taken.”
 
@@ -126,7 +130,7 @@ Rourke set the cup down.
 
 “Yes.”
 
-“Where mine falls apart,” Rourke said, “is that reduced is not absent. My people aren’t catatonic. They hold jobs. They answer the phone. The woman with the foot came in the first time, and she came in on her own, and she made the appointment herself. So the thing that was working then isn’t working now, and I can’t tell you what changed between one and the other, and neither can you.”
+“Where mine falls apart,” Rourke said, “is that reduced is not absent. My people aren’t catatonic. They hold jobs. They answer the phone. The woman with the foot came in the first time, and she came in on her own, and she made the appointment herself. So whatever was working then isn’t working now, and I can’t tell you what changed between one and the other, and neither can you.”
 
 “No.”
 
@@ -158,13 +162,27 @@ Not the files. The plot, both lines, the ten weeks, the base rate, and the four 
 
 “Understood.”
 
-“Here is what I want. Bring me one before it happens.” Rourke leaned back against the second desk. “Anybody can build a story out of eleven deaths after the fact. I could build four. Bring me a name off my own cohort and tell me that person is going to die in the next six weeks, and tell me why, and then let us both wait and see. If you can do that we are having a completely different conversation and I will give you everything in that room.”
+“Here is what I want. Bring me one before it happens.” Rourke leaned back against the second desk. “Anyone can build a story out of eleven deaths after the fact. I could build four. So bring me a person by name, off your own material, and I will tell you whether they are in my set. That is the only thing I will tell you.”
+
+“And then.”
+
+“And then you tell me what is going to stop in them. Specifically, and roughly when. Not that they will die.” She held up a hand before Iris could take it any further. “Eating. A medication. A dressing they have been told to change. The appointment they keep moving. Name the function.”
+
+“And you go and see them.”
+
+“I go and see them, because that is what I am for, and I do whatever the visit turns out to need, and I do not tell you what I did.”
+
+“Then the intervention takes the result out of the test.”
+
+“The intervention takes the result out of the death.” Rourke said it without any weight on it. “You will have told me what was going to stop. Either it had already started stopping when I got there or it had not. That is the part I can check, and it is the only part I have any business checking.”
 
 “And if I’m wrong.”
 
 “Then you were wrong, and I’ll have learned something, and you won’t get a fourth appointment.” Rourke shrugged with one shoulder. “I’m not being hard on you. That’s just what a prediction is for.”
 
-Iris folded the paper again and put it in her jacket. It was a fair test. It was better than fair, because it was the test she would have designed, and she was aware that Rourke had designed it knowing that.
+Iris folded the paper again and put it in her jacket.
+
+It was a fair test, and it was not the test she would have designed. Hers would have been cleaner and would have required someone to die inside it. She could see the difference between the two and could not produce a reason to prefer her own. She took Rourke’s.
 
 She was at the door when Rourke spoke again.
 
