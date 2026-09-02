@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 32,528 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 32,547 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -130,6 +130,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
    The gate is that **every one of them is what a competent, decent person does under that specific pressure**, and the prose never stages it as a lapse: no hubris, no ignored warning played for effect, no line that knows more than the character. Marin giving her frightened sister the plain version of an answer instead of the version with the intervals in it **is what any decent clinician does**, and it is also the thing that turns out to matter. **Show the choice. Say nothing about it.**
 
    **The test:** if a reader can see the failure and cannot find a moment where Marin behaved badly, the gate is holding. If the prose points at the failure, it has broken.
+
+   **⚠️ AND IT RUNS BOTH WAYS, added 2026-09-02 off the Ch10 review.** The rule that the prose must never call Willow flat, absent or gone has an inverse that is just as binding: **it must not certify that she is present either.** Ch10 had *"and she meant it"* about her thanks, in a chapter whose whole discipline is that Marin cannot tell correct affect from remembered affect. **Do not name what is missing and do not vouch for what is there.** Render behavior. The reader decides.
 2. **No frame device inside a Recovered chapter.** They are scenes, not documents. The moment one opens with a timestamp or breaks to Iris mid-scene, the design has failed.
 3. **The reader must like Willow Halloway.**
 4. **Nobody explains the name.** Iris *finds* it in Ch15. That is not the same thing, and nobody ever explains it.
@@ -160,8 +162,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | | **ACT I** | **22,325** | **24,600** | **2,275** | 87% of budget |
 | 8 | **RECOVERED: Sessions** | 3,851 | 3,800 | -51 | **LOCKED 2026-09-02** |
 | 9 | Lena | 3,329 | 3,600 | 271 | **LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | 3,023 | 3,400 | 377 | Awaiting author pass |
-| | **THROUGH CH10** | **32,528** | **35,400** | **2,872** | 88% of budget |
+| 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | Awaiting author pass |
+| | **THROUGH CH10** | **32,547** | **35,400** | **2,853** | 88% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -187,7 +189,7 @@ The first join in Ch15 now **returns a man**, provably wrong on dates. Then the 
 
 ### The drafting discipline that came out of Act I
 
-**Count the brief's beats against the draft BEFORE the word count, not after.** The word count is the symptom that prompts the check and has never once been the defect. Ch6 came in at 2,220 with three beats missing and finished at 3,280; Ch7 came in at 2,329 with three setups unpaid and finished at 3,529; Ch10 came in at 2,137 with **five** things missing and finished at 3,023. **A chapter with a missing beat has no hole in it. It is simply shorter and smooth, and only counting beats finds it.**
+**Count the brief's beats against the draft BEFORE the word count, not after.** The word count is the symptom that prompts the check and has never once been the defect. Ch6 came in at 2,220 with three beats missing and finished at 3,280; Ch7 came in at 2,329 with three setups unpaid and finished at 3,529; Ch10 came in at 2,137 with **five** things missing and finished at 3,042. **A chapter with a missing beat has no hole in it. It is simply shorter and smooth, and only counting beats finds it.**
 
 **Three refinements from Ch10, which came in at 63% and was the worst case so far:**
 
@@ -332,7 +334,7 @@ A chapter is not finished when the prose is finished. It is finished when the br
 | `tools/voice-audit.js` · `tools/number-check.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
 | `tools/verify-record.py` | The REVIEW LEDGER row, and the lock, when a chapter is approved. |
 
-**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (32,571 against 32,528 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
+**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (32,590 against 32,547 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
 
 **Check a drafted chapter against the brief AND the dialogue notes.** They hold different beats, and a beat present only in `11-key-dialogue-notes.md` has been missed this way once already.
 

@@ -72,7 +72,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,023** | **awaiting author pass** |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **awaiting author pass** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
@@ -153,8 +153,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | **ACT I COMPLETE** | **24,600** | **22,325** | **2,275** |
 | 8 | 3,800 | 3,851 | -51 |
 | 9 | 3,600 | 3,329 | 271 |
-| 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **32,528** | **2,872** |
+| 10 | 3,400 | 3,042 | 358 |
+| **THROUGH CH10** | **35,400** | **32,547** | **2,853** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -272,7 +272,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 ## CH10 — RECOVERED: CALM, drafted 2026-09-02
 
-**3,023 words against a 3,400 budget, all 27 beats present.** Full record in the Ch10 brief. What belongs here:
+**3,042 words against a 3,400 budget, all 27 beats present.** Full record in the Ch10 brief. What belongs here:
 
 **⚠️ The first draft came in at 2,137 words, 63% of budget, with three beats missing** — the eleven o'clock phone calls, Marin waiting for the rest of her sister to come back, and the book that Ch13 needs to invert. **A fourth, "stopped playing," passed the first beat check on a false regex match and was not actually on the page.** After those, a second pass found two more the brief had not asked for and the chapter plainly needed: the date three weeks out, and the supervisor course. **Final draft 2,792 at 82%.**
 

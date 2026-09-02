@@ -881,7 +881,7 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 
 **Placement note:** this chapter sits directly before the midpoint on purpose. The reader watches a woman be gently emptied by people who love her, and then watches Caleb be emptied by the thing that woman's grief built.
 
-**As Written (3,023 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
+**As Written (3,042 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
 
 - **She has moved out of the apartment above the laundromat**, and that is the single clearest proof the treatment worked. Ch4 established that leaving would have required *"one clear month in which nothing went wrong,"* and she had not had one since she was twenty-three. **Then she had three in a row and she moved in April.** Marin gets to be right about this, and she is right.
 - **The joke, and why it is that joke.** For six or seven years Willow sent Marin photographs of badly worded signs, at all hours, without comment. **The last one came in February.** So Marin does the institutional drone at a shellfish closure notice on the path, badly, which was always half the point, because the voice has belonged to Willow since she was fourteen. The arrangement was: Marin does it badly, Willow shoves her, Willow does it properly and makes it worse. **She is still turned toward the sign and she is waiting for the shove.** *"That's funny," Willow said.*
@@ -893,6 +893,22 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 - **The Lila Mercer rhyme is the prompt-and-answer sequence**, run in a kitchen by a sister who does not know she is running it: sleeping, appetite, *"Do you think about it."* *"No. Not really. Not unless someone brings it up."* Then Marin notices she has delivered the fourth item on a review schedule on a Saturday and puts it down.
 - **Ch4 payoff, unaskable:** *"What if I don't like who's left."* Marin has an answer for it now and there is no version of the room in which she can ask the question in order to give it.
 - **Ch13 setups planted, for the same apartment to invert:** the mail slit and sorted into a system, the calendar with her shifts on it, a paperback face-down a third of the way in with an accurate summary and no opinion attached. Ch13 finds unopened mail, an empty calendar, and a book with the receipt in it at page four. **Do not add the fourth (food) here; three is enough and four would be a pattern the reader notices.**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. The first chapter to come through with no hard error.** No arithmetic, no chronology, no access chain. One epistemic breach and three calendar items, all three of which checked out.
+
+**⚠️ THE BREACH, and it is the gate failing in the other direction.** *"She said all of it warmly. She stood with one hand on the roof of the car while she said it, **and she meant it**, and Marin could not have said which part of it she would have changed."*
+
+The As Written block already forbids the prose from calling Willow flat, absent or gone. **This is the same rule inverted: it certifies her interior as present**, in a chapter whose entire discipline is that Marin cannot tell correct affect from remembered affect. The sign scene has just established that Willow can recognise a joke, smile at the right moment, produce the correct-sized expression, and not do the thing that was hers. **After that, nobody in or out of the chapter can say what she meant.**
+
+***"And she meant it"* is cut.** The clause after it was already doing the work: *"Marin could not have said which part of it she would have changed."* **⚠️ The gate runs both ways. Do not name what is missing and do not certify what is there.**
+
+**The three calendar items, checked and clean:**
+
+1. **The twenty-first is a Saturday.** Three weeks from any Saturday is a Saturday, so *"the twenty-first in three weeks"* on the last Saturday in May puts that Saturday at May 31 and the twenty-first at June 21. **The series names no year anywhere, so nothing else constrains it.**
+2. **The course reconciles.** Intake Year −6 in the fog, first session two weeks after the baseline, twelve weekly sessions, completion about February. Ch10 is Year −5.5 and the last Saturday in May, which is the three months the chapter claims. Three clear months of January to March, a move in April, six weeks in the apartment by the end of May.
+3. **March.** The three clear months are about nothing going wrong, not about everything being well, so a clear March and bad sleep are not in tension. **Made explicit anyway, in one line: the sleep was the last thing to come back and it came back all at once, about six weeks after everything else.** That also sets up her *"I slept eight hours last night"* later in the chapter.
+
+**And one defect found by reading the diff rather than the review:** *"Walk?" she said instead* had lost its referent when the anniversary beat was inserted before it in an earlier pass. **The "instead" is gone.**
+
 - **The gate held: the prose never names it.** No sentence in this chapter calls Willow flat, absent, empty, hollow, missing or gone. Every observation is behavior, and every judgment on the page is Marin's and is favorable. **Keep it that way in any later pass.**
 
 **⚠️ A dating error found and corrected while drafting.** The Ch13 brief and CLAUDE.md both said Willow drowned *"four months after completion."* The master timeline does not support it: intake Year −6.0, first session two weeks later, twelve weekly sessions, so completion is about Year −5.73, and Ch13 is Year −5.2. **That is about six months.** The four months is the **Ch10 to drowning** interval, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates. **Ch10 therefore sits three months after completion, in late May**, which is what the prose says.

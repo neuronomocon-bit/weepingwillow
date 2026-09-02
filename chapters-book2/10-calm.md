@@ -2,7 +2,7 @@ Chapter 10 — Calm
 
 Marin drove inland on the Saturday with a box on the passenger seat and had to check the address twice, because she had only been to the new place once and the turning came earlier off the county road than she expected.
 
-It was a low brick block set back behind a strip of grass, six units, built in the seventies for people who worked at the mill and kept afterward for people who worked wherever there was work. Second floor, on the end. A parking space came with it and Willow’s car was in it, so she was up, and at eleven on a Saturday that would not have been true in March.
+It was a low brick block set back behind a strip of grass, six units, built in the seventies for people who worked at the mill and kept afterward for people who worked wherever there was work. Second floor, on the end. A parking space came with it and Willow’s car was in it, so she was up, and at eleven on a Saturday that would not have been true in March. The sleep had been the last thing to come back. It had come back all at once and about six weeks after everything else.
 
 She had lived above the laundromat for six years. Marin had gone over the reasons with her perhaps thirty times across those years, and every one of them had been correct, and none of them had ever been the reason. Leaving would have taken one clear month in which nothing went wrong, and Willow had not had one clear month since she was twenty-three. Then she had three in a row and she moved in April.
 
@@ -110,7 +110,7 @@ Marin sat with a plan she had built over three days and rehearsed in a car, and 
 
 “Okay.”
 
-“Walk?” she said instead.
+“Walk?” she said.
 
 “Sure.”
 
@@ -218,7 +218,7 @@ It was the longest thing she had said since Marin arrived. Every part of it was 
 
 “Thank you.”
 
-At the car Willow said thank you for the colander, and for the lamp bulb she had needed for six weeks and had not gotten around to, and for coming out on a Saturday. She said all of it warmly. She stood with one hand on the roof of the car while she said it, and she meant it, and Marin could not have said which part of it she would have changed.
+At the car Willow said thank you for the colander, and for the lamp bulb she had needed for six weeks and had not gotten around to, and for coming out on a Saturday. She said all of it warmly. She stood with one hand on the roof of the car while she said it, and Marin could not have said which part of it she would have changed.
 
 “I’ll come out again in a couple of weeks,” Marin said. “I’ll bring the other lamp.”
 
