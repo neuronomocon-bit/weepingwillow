@@ -1048,6 +1048,26 @@ The second half is Rourke. Iris brings her Caleb, who was a documented Taken cas
 **Not for style, not for a later rule, and never as part of a sweep.** ⚠️ **It may be changed for a genuine consistency defect** under the standing permission in CLAUDE.md, and only on those four conditions: verify the referent first, re-lock in the same commit, and name the change to the author.
  All 33 beats verified present. Load-bearing elements:
 
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02, on the day it was drafted. One chronology conflict and three continuity errors.**
+
+**⚠️ THE CHRONOLOGY, and it was a spine problem rather than a set of slips.** Ch11 fixes **Day 42 as a Tuesday**, so Day 45 is a Friday and Day 48 is a Monday — **and this brief's own words are "alive on a Tuesday and dead on a Friday."** The draft said Thursday throughout, and then spanned a full week (certificate by Monday, a decision on Tuesday, Kade on Wednesday, a service and Rourke on Thursday) inside a chapter dated Days 46 to 48.
+
+**Day 48 is protected and the later-week material was moved onto the spine**, which is the right trade because the ending depends on the third check being the third day:
+
+- The administration takes **the weekend**.
+- **Kade comes out on the Monday morning because she asked him to**, not because it is his day at the unit.
+- **Rourke is the Monday afternoon.**
+- The service is **forthcoming on the Thursday** rather than already attended, and she works out on the Sunday that she is not going.
+- **Five weekday references corrected to Friday**, including one inside Iris's own account of the drive to Rourke.
+
+**⚠️ Fix the spine first and the references second, or you chase them one at a time.**
+
+**The certificate went to future tense and it fixed two things at once.** A post-mortem cannot produce a certificate over a weekend, **and** it removed a contradiction inside the chapter: the pronouncement was called *the last accurate thing anyone recorded about Caleb Ward* and then a correct certificate followed it. It is now **the last accurate time anyone recorded for him**, and *"They would find it. It would be true"* is stronger unwritten.
+
+**Three smaller ones.** Caleb is the **twelfth** death and the curve keeps its eleven, so Rourke says so rather than letting the total read as unchanged. Rourke no longer puts her second arm into her coat twice. And **the paramedic now asks Iris to find a next of kin while he watches**, because it is his form to fill in, instead of Iris constructing lawful-enough cover for going into a dead man's phone.
+
+**⚠️ AND IT SURFACED THREE INTERVAL ERRORS IN LOCKED CHAPTERS**, fixed under the author's standing permission and re-locked in the same commit: **Ch6's *three weeks ago* → two** (the visit is Ch1, Day 21; Ch6 is Day 37), **Ch11's *built the band nine days ago* → six** (Ch7 is Day 39), and **Ch11's *the lot on the north side nine days ago* → eight** (Ch6 is Day 37). See `14-audit-method.md` → THE INTERVAL PHRASE, and `tools/interval-check.py`.
+
 - **⚠️ THE CH11 CASCADE, handled.** Ch11's revision put a crew on the way, so this chapter opens with them: **seven minutes past four, nineteen minutes of work, and a time written on a form at twenty-nine minutes past four.** *"the time on the form was correct, and it was the last accurate thing anyone recorded about Caleb Ward."* The older paramedic asks Iris the questions **in the order she asked Caleb them**, which means the order is standard and they learned it in the same place. *"Most people don't,"* he says, when she has the times.
 - **The sister is Dana Ward**, from Ch11's canon, eleven hours away and about to start a shift. She asks four questions and Iris answers them accurately, and then the fifth: *"Was he on his own?"* / *"No. I was there for about fifty minutes."* **Iris registers that she has supplied the only useful thing in the call and that it cost her nothing and was not kindness in any sense she could locate.**
 - **The certificate is correct and Ch6 pays.** They find a cardiac cause and it is real. *"They had found it. It was true."* Against the paramedic on the north side nine days earlier: it would be true, and it would not be the reason he was sitting there.
