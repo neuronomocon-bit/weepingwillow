@@ -68,7 +68,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **✅ LOCKED 2026-09-02** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **✅ LOCKED 2026-09-02** |
-| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,253** | **awaiting author pass** |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,608** | **awaiting author pass** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,108** | **awaiting author pass** |
@@ -149,12 +149,12 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 4 | 3,600 | 3,394 | 206 |
 | 5 | 3,600 | 3,185 | 415 |
 | 6 | 3,400 | 3,280 | 120 |
-| 7 | 3,600 | 3,253 | 347 |
-| **ACT I COMPLETE** | **24,600** | **22,049** | **2,551** |
+| 7 | 3,600 | 3,529 | 71 |
+| **ACT I COMPLETE** | **24,600** | **22,325** | **2,275** |
 | 8 | 3,800 | 3,608 | 192 |
 | 9 | 3,600 | 3,108 | 492 |
 | 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **31,788** | **3,612** |
+| **THROUGH CH10** | **35,400** | **32,064** | **3,336** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 

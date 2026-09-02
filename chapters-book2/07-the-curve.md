@@ -20,7 +20,7 @@ The first drive off the index had finished on Wednesday and she ran it before sh
 
 Eleven percent came back readable, and the read errors distributed exactly as she had told Kade they would, in bands across the surface with the outer tracks worst. Eleven percent of a set that maps numbers to people demonstrates that the media can still be read. It does not produce a name.
 
-She ran what she had against the identifiers she had anyway. Two hundred and six of the fragment’s records carried enough structure to resolve a field, and none of them was MN-R-0338, and there was no reason any of them should have been. The fragment was a strip off one drive of eleven, and the eleven were a fraction of the stack, and the stack had spent a winter in water.
+She ran what she had against the identifiers she had anyway. Seventy-eight of the fragment’s records carried enough structure to resolve a field, and none of them was MN-R-0338, and there was no reason any of them should have been. The fragment was a strip off one drive of eleven, and the eleven were a fraction of the stack, and the stack had spent a winter in water.
 
 She logged the null, put the second drive on, and went back to the wall.
 
@@ -28,9 +28,9 @@ She logged the null, put the second drive on, and went back to the wall.
 
 The first pass took four hours and produced a curve, and she spent the next two establishing that the curve was hers rather than the world’s.
 
-The measure was the problem. Magnitude was not in the record anywhere, because no one except her had a reason to think the thing had one. So she built the measure herself, coarsely, on the principle that a coarse measure applied identically beats a fine one applied unevenly. Five bands, defined in advance, written on a card before she scored a single case, so that she could not adjust a definition to fit what she was finding.
+The measure was the problem. Magnitude was not in the record anywhere, because no one except her had a reason to think the thing had one. So she built the measure herself, coarsely, on the principle that a coarse measure applied identically beats a fine one applied unevenly. Five bands, defined in advance, written on a card before she scored a single case, together with the rule for what to do about a case she scored differently twice, so that she could not adjust a definition or a rule to fit what she was finding.
 
-Band one was a single function reduced. Band five was everything, at once, with the body still running.
+Band one was a single function reduced. Band two was more than one, with the life around it still running. Band three was the life around it no longer running. Band four was self-preservation gone, the band that killed people slowly and the one Rourke’s eleven had come out of. Band five was everything, at once, with the body still running.
 
 Then she scored two hundred and six cases against date, and the plot came up as a line going up.
 
@@ -42,7 +42,7 @@ A richer record scores higher, and what that measures is the recorder.
 
 Her cases were also the recent ones, because she had only started in January.
 
-She sat with that. The curve she had built could be produced in full by a woman who had begun paying attention nine months ago and had gotten better at it since, and nothing in the first pass could tell that apart from an escalation.
+She sat with that. The curve she had built could be produced in full by a woman who had begun paying attention nine weeks ago and had gotten better at it since, and nothing in the first pass could tell that apart from an escalation.
 
 She wrote *first pass is contaminated, and by me* on a card, pinned it where she would see it, and started again.
 
@@ -50,9 +50,11 @@ She wrote *first pass is contaminated, and by me* on a card, pinned it where she
 
 The second pass used one source.
 
-She dropped every case she had assessed herself, including the man on the north side, and scored only from Rourke’s redacted summaries: one clinician, one house style, four lines each, the same amount of information about every person in the set. That left her a hundred and thirty-one usable cases. Fewer than she wanted, and enough to work with.
+She dropped every case she had assessed herself, including the man on the north side, and scored only from Rourke’s redacted summaries. Rourke had given her the set entire in February, consecutive and with nothing lifted out: one clinician, one house style, four lines each, the same amount of information about every person in it. A set someone had chosen from would have been worth nothing, and she would have had no way to tell. A hundred and sixty-eight summaries, of which a hundred and thirty-one had all four lines filled in. Fewer than she wanted, and enough to work with.
 
-She rescored all of them blind to the date, with a strip of card taped over the date column and the pages worked through from the top, and she did the whole set twice on separate evenings before she compared either pass to anything at all. Her two passes agreed on a hundred and twenty-four of the hundred and thirty-one. The seven that disagreed she scored down, on the principle that a case you cannot place twice is a case arguing against your own finding.
+She rescored all of them blind to the date, and blind to the date meant more than a strip of card over the date column. The summaries had reached her in the order Rourke’s system produced them, and that order was itself a date. So she gave every case a temporary number, shuffled the numbers, and worked the set in whatever order the shuffle handed her. She did the whole thing twice on separate evenings, reshuffled in between, and did not put either pass against anything until both were closed.
+
+Her two passes agreed on a hundred and twenty-four of the hundred and thirty-one. The seven that disagreed she scored down, because the card said to and because a case you cannot place twice is a case arguing against your own finding.
 
 It cost her most of two days. She could not have said, on Thursday, why she was doing it in the order she was doing it in, except that doing it in any other order would have produced a number she could not defend to a woman who had been doing this for nineteen years and had told her exactly what a prediction was for.
 
@@ -62,7 +64,7 @@ The line went up in steps.
 
 There were runs of cases sitting at one band. Then a short interval with nothing in it. Then a run at the next band, longer or shorter, and another interval, and another band. The runs varied. The intervals did not vary much at all.
 
-She measured them. Nineteen days. Twenty-three. Seventeen. Twenty-six.
+She measured them. Nineteen days. Twenty-three. Seventeen.
 
 Then a stretch of a hundred and ten days with nothing in it whatsoever, in the second summer, which she circled and left alone, because she had no account of it and inventing one would have cost her everything else on the page.
 
@@ -70,13 +72,17 @@ After the gap the steps resumed at the band they had stopped at, and went on cli
 
 Band five was a man in a chair on the north side, and it was not in this data, and it was never going to be, and she knew precisely why.
 
+She put him back on the page in a different color, because he came off different evidence and the entire point of the last two days had been not to mix them. The interval from the last band-four case in Rourke’s set to Thursday morning was twenty-six days. That was one number off one man and it did not belong to the series.
+
+It sat where the series said it would.
+
 Then she put her own map against it, because Rourke’s set could tell her when and how much and could not tell her whether she was looking at one thing.
 
-Her line had been built out of sites and dates and physical proximity and had nothing to do with clinical scoring. She laid the two against each other by date and worked down them together. The line moved when the curve produced cases. The line did not move when the curve did not. That held all the way along, for nineteen months, on two records that had no way of agreeing by accident.
+Her line had been built out of sites and dates and physical proximity and had nothing to do with clinical scoring. She laid the two against each other by date and worked down them together. The line moved when the curve produced cases. The line did not move when the curve did not. That held all the way along, for nineteen months, on two records that had no reason to agree at all, through too many changes on both sides to put down to accident.
 
 It also did not move during the hundred and ten days.
 
-She went back to that twice. Rourke’s set going quiet for a summer had four ordinary explanations and she could name all of them: a clinician on leave, a district that stopped referring, a change in what got coded, a run of people who simply never went to a doctor. Her own map going quiet in the same window could not be any of those, because her map was built from different evidence by a different person for a different purpose, and the two sets had no mechanism for failing together.
+She went back to that twice. Rourke’s set going quiet for a summer had four ordinary explanations and she could name all of them: a clinician on leave, a district that stopped referring, a change in what got coded, a run of people who simply never went to a doctor. Her own map going quiet in the same window could not be any of those, because her map was built from different evidence by a different person for a different purpose. The ordinary explanations for either record going quiet did not explain both of them going quiet in the same window.
 
 So the gap was real. It belonged to the thing rather than to the record of it, and she had no account of it whatsoever.
 
@@ -120,9 +126,9 @@ Iris wrote it down as it stood, because a negative result is a result.
 
 She put herself on the plot before she closed it, as a point outside the sample, because leaving herself off would have been a decision and she did not want to find out later that she had made one.
 
-Her date was January. Her band was two, and she could defend two, because she had scored it off the definition on the card rather than off how it felt, and how it felt was the least reliable instrument in the apartment.
+Her date was January. Her band was two, and she could defend two, because she had scored it off the definition on the card rather than off how it felt, and how it felt was not evidence.
 
-January, band two, four increases below the top of the range, in a set she was not otherwise part of.
+January, band two, three increases below the top of the range, in a set she was not otherwise part of.
 
 It told her nothing she could use. She wrote it down and pinned it with the rest, because the record was the point, and went back to the archive.
 
@@ -144,7 +150,7 @@ Two days later, at the bottom of a night-shift handover, in the free-text box wh
 
 Iris read it four times.
 
-It was the first observation of the effect from the outside by any human being anywhere in the world. It was a compliment. It had been written by a man filling in a form at the end of a night shift with his mind mostly on getting home, and it was, as far as she could establish from anything else in that archive, the nicest thing anyone had ever written down about Pell.
+It was the earliest observation of the effect from the outside that she had, and she had spent three weeks looking for an earlier one. It was a compliment. It had been written by a man filling in a form at the end of a night shift with his mind mostly on getting home, and it was, as far as she could establish from anything else in that archive, the nicest thing anyone had ever written down about Pell.
 
 She checked the date against everything else she had.
 
@@ -172,7 +178,7 @@ She called Kade at twenty past six and he picked up on the first tone.
 
 “All right.”
 
-“The second is how it increases. It goes up in steps. It holds a step across a run of people, and then it goes up again, and the intervals between the increases are consistent.” She had the card in front of her and did not need it. “Nineteen days. Twenty-three. Seventeen. Twenty-six. Something is holding a level long enough to see what it produces, and then raising it.”
+“The second is how it increases. It goes up in steps. It holds a step across a run of people, and then it goes up again, and the intervals between the increases are consistent.” She had the card in front of her and did not need it. “Nineteen days. Twenty-three. Seventeen. Then twenty-six to the man on the north side, and that last one is off different evidence and is not part of the set. Something is holding a level long enough to see what it produces, and then raising it.”
 
 Kade said nothing for a moment. She could hear him somewhere with a hard floor.
 
@@ -182,7 +188,7 @@ Kade said nothing for a moment. She could hear him somewhere with a hard floor.
 
 “You’re saying it started in there.”
 
-“I am saying the record starts in there. And the record runs from that Tuesday night to a man in a chair on the north side on Thursday morning without a gap in it I can’t account for, except one hundred and ten days in the second summer.”
+“I am saying the record starts in there. And then it stops for eighteen months and I cannot read the eighteen months at all. After that it runs to a man in a chair on the north side on Thursday morning with one gap in it, a hundred and ten days in the second summer, and I cannot read that either.”
 
 She stopped and let him have it.
 

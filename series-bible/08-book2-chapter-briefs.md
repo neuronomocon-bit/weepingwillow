@@ -649,7 +649,42 @@ Kade asks what that makes it. She says it makes it a method.
 
 **Craft:** The irony here is structural and must stay unspoken. Iris has just described Marin's escalation, in Marin's logic, without having reached Marin's deviation in the archive. **No character notices. No sentence points at it.**
 
-**As Written (3,253 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`, awaiting the author's pass):**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. Fifteen changes, the largest pass on any chapter.** The review's framing was the right one: **the manuscript has made rigor part of Iris's character, so this chapter's reasoning has to survive being checked line by line.** Everything below was verified against the prose and the locked calendar before it was changed.
+
+**Three numerical errors, all confirmed:**
+
+1. ***"nine months ago"* against *"she had only started in January."*** Ch7 is Day 39, which the locked calendar puts in late March. **January is nine weeks back.**
+2. **Four intervals on a five-band scale whose data tops out at band four.** Runs at 1, 2, 3 and 4 give **three** transitions, not four. Now three inside Rourke's set — nineteen, twenty-three, seventeen — and **the fourth is the north-side man, marked as coming off other evidence**: *"She put him back on the page in a different color, because he came off different evidence and the entire point of the last two days had been not to mix them… That was one number off one man and it did not belong to the series. It sat where the series said it would."* **This is better than the original: the fourth interval is now a prediction confirmed rather than a data point assumed.**
+3. **Band two is three increases below band five, not four.**
+
+**⚠️ THE METHODOLOGICAL PROBLEM, which was the most serious thing in the chapter.** Taping a card over the date column does not blind her if the summaries are in the order Rourke's system produced them, **because that order is itself a date** — and working them twice in the same order invites memory rather than excluding it. Now: *"blind to the date meant more than a strip of card over the date column… So she gave every case a temporary number, shuffled the numbers, and worked the set in whatever order the shuffle handed her. She did the whole thing twice on separate evenings, reshuffled in between."* **Without this the second curve is not earned and the Act I turn rests on nothing.**
+
+**The scale is now auditable.** Only bands one and five were defined, and the whole finding is movement through the middle. **Band two is more than one function with the life around it still running; band three is the life around it no longer running; band four is self-preservation gone** — *"the band that killed people slowly and the one Rourke's eleven had come out of,"* which ties the scale back to Ch2.
+
+**The disagreement rule is prespecified.** Scoring the seven down is a real analytical choice and it was being made after the fact. It is now on the card with the band definitions, before she scores anything.
+
+**The sample is now described.** A hundred and sixty-eight summaries, consecutive, given entire in February with nothing lifted out — *"A set someone had chosen from would have been worth nothing, and she would have had no way to tell"* — of which a hundred and thirty-one had all four lines filled in. **⚠️ And the arithmetic now reconciles: 168 of Rourke's plus 38 of her own is the 206 of the first pass.**
+
+**⚠️ A number collision fixed.** *Two hundred and six* was doing duty for both the index-fragment records and the first-pass case count, which are unrelated sets. The index fragment is now **seventy-eight**.
+
+**Three absolute claims calibrated**, because the chapter's credibility is Iris's:
+
+- *"two records that had no way of agreeing by accident"* → *"no reason to agree at all, through too many changes on both sides to put down to accident."*
+- *"the two sets had no mechanism for failing together"* → *"The ordinary explanations for either record going quiet did not explain both of them going quiet in the same window."*
+- *"the first observation of the effect from the outside by any human being anywhere in the world"* → ***"the earliest observation of the effect from the outside that she had, and she had spent three weeks looking for an earlier one."*** She says four paragraphs later that she is not certain Pell was first; the two could not both stand.
+
+**⚠️ A contradiction in her own report to Kade.** She told him the record ran from Pell to Thursday *"without a gap in it I can't account for, except one hundred and ten days"* — in a chapter that has just said the eighteen months after Pell were *"nothing, and the nothing had a shape she could not read."* **Both gaps are now in the report**, and the shape is better for it: the record appears inside Meridian, vanishes for eighteen months, and comes out into the city.
+
+**`instrument` was spent again** — *"the least reliable instrument in the apartment"* — where Ch1's closing use is protected as the strongest. Now *"how it felt was not evidence,"* which is flatter and more hers.
+
+**⚠️ PROTECTED, and one of these the review offered to change:**
+
+- ***"A richer record scores higher, and what that measures is the recorder."*** and the card, ***"first pass is contaminated, and by me."*** The chapter's spine is Iris destroying a result that confirmed her.
+- **The hundred and ten days stay unexplained.** She circles it and leaves it, *"because she had no account of it and inventing one would have cost her everything else on the page."*
+- **Pell's supervisor's note, and *"It was a compliment."***
+- **⚠️ Iris overstating the third finding to Kade and immediately correcting it stays exactly as written.** *"The third is that it has a starting point, and the starting point is inside Meridian." / "You're saying it started in there." / "I am saying the record starts in there."* This is not slipping judgment. **It is the precise inverse of Ch4**: Marin gave her sister the strong version and let it stand; Iris gives Kade the strong version and takes it back the moment he repeats it. **Same move, opposite outcome, and the book should keep both.**
+
+**As Written (3,529 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`, awaiting the author's pass):**
 
 - **The measure is built on the page, and the first version is thrown away.** Five bands, defined in advance and written on a card **before a single case is scored**, so a definition cannot be adjusted to fit the finding. Band one is a single function reduced; band five is everything at once with the body still running. The first pass scores two hundred and six cases and produces the curve she wants, **and she takes it apart, because the top of it is almost entirely her own cases** and her own notes run to pages where Rourke's summaries run to four lines. *A richer record scores higher, and what that measures is the recorder.* Her card: ***first pass is contaminated, and by me.***
 - **The second pass is the finding.** One source, one house style, her own cases dropped including the north side man, **a hundred and thirty-one cases rescored blind with a strip of card taped over the date column**, twice, on separate evenings, compared against each other before being compared to anything. The seven disagreements get scored **down**, because a case you cannot place twice argues against your own finding.
