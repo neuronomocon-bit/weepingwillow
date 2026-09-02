@@ -74,7 +74,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **✅ LOCKED 2026-09-02** |
-| 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **awaiting author pass** |
+| 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **✅ LOCKED 2026-09-02** |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
 | 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
@@ -242,6 +242,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
 | Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
 | Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch12 | 4 | **A chronology conflict, not an arithmetic slip.** Day 42 is a Tuesday, so Day 45 is a Friday, and the draft said Thursday throughout while spanning a whole week inside a Days 46–48 chapter. Day 48 protected and the later-week material moved onto the spine. **Also surfaced three interval errors in locked chapters.** |
 | Ch11 | 3 + 1 | **The one that mattered was not arithmetic.** Iris sat and watched a pulse fall from forty-four to thirty-one without calling anyone, which made her non-intervention the largest moral act on the page and swamped the band-five score. **She cannot accept his refusal, because a refusal requires wanting an outcome and she has spent an hour documenting that he cannot produce one.** She calls; it does not arrive. |
 | Ch10 | **0** | **The first with no hard error.** One epistemic breach instead: *"and she meant it"* certified Willow's interior in a chapter built on Marin not being able to tell. **The gate runs both ways — do not name what is missing and do not certify what is there.** All three calendar items checked out. |
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
@@ -269,7 +270,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 9 | Lena | 3,329 | **2026-09-02** |
 | 10 | **RECOVERED: Calm** | 3,042 | **2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | **2026-09-02** |
-| | **ALL ELEVEN LOCKED** | **35,646** | |
+| 12 | After | 2,734 | **2026-09-02** |
+| | **ALL TWELVE LOCKED** | **38,380** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 

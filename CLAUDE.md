@@ -142,7 +142,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-02)
 
-# ✅ CH1 TO CH11 ARE REVIEWED, REVISED AND LOCKED. 35,646 words. The midpoint is in.
+# ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -187,7 +187,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 9 | Lena | 3,329 | 3,600 | 271 | **LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
-| 12 | After | 2,734 | 3,600 | 866 | Drafted, awaiting author pass |
+| 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
 | | **THROUGH CH12** | **38,380** | **42,800** | **4,420** | 90% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02

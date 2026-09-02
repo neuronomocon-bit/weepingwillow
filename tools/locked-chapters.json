@@ -42,5 +42,9 @@
   "11-caleb.md": {
     "sha256": "5fc26276017e51bcdd60e45bc6bf72b1aa6824047fb68c362aeae0d429056241",
     "words": 3099
+  },
+  "12-after.md": {
+    "sha256": "b1a90e98ab6469fe1efe1140e895c9dd3477b0a0626aa41d375eb6a5174f64a2",
+    "words": 2734
   }
 }
