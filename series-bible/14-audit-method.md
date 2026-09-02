@@ -283,6 +283,14 @@ On the other project the largest single prose tic — 148 instances of the expla
 - **`tools/number-check.js`** pulls every number-bearing sentence out of a chapter so the arithmetic can be read in a column, and `--calendar` does the same for intervals and month names. **Three of the eleven errors would have been visible in that column in a minute.**
 - **`tools/verify-record.py` gained a REVIEW LEDGER check**, because the rule that every tracked file moves with the prose was stated and then not followed for seven chapters running.
 
+### ⚠️ What locking does to a revision, found on Ch8
+
+**A locked chapter is a constraint on the fix, and that is a feature.** Ch8's review found Marin opening a clinical file she is barred from. The obvious repair is to rename the file — but **Ch4 is locked and puts her off the clinical record, and Ch5 is locked and says her identifier carries nine operator notes and that no other identifier carries more than one.** So the note could go in neither, and the search had to continue until it found a third record class that already existed in the protocol.
+
+**The result is better than either obvious fix**, because the witness form makes a sentence true that was not available before: the note is not an observation of a session she witnessed, because Willow said it in a corridor afterward, to her sister.
+
+**The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
+
 ### The rule that came out of it
 
 **Two of the five categories cannot be mechanized and both are read-aloud questions:**

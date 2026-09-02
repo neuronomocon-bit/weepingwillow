@@ -22,5 +22,9 @@
   "06-too-much.md": {
     "sha256": "94ee9dd2486a6c66c1736cf81355bcad96eb61a162ca2cfc66a596dc17748074",
     "words": 3280
+  },
+  "08-sessions.md": {
+    "sha256": "1c949e86c600ee4dad38f0b40315b0f73c9700de02144f310ceb96686f7b5d8b",
+    "words": 3851
   }
 }

@@ -157,11 +157,13 @@ Then, later, the line the book turns on:
 
 **"It's still there. I just can't find the handle on it anymore."**
 
-She means it as good news. She is not wrong. Marin writes it down as an outcome measure.
+She means it as good news. She is not wrong.
+
+**⚠️ Corrected 2026-09-02: Marin does NOT write it into an outcome measure.** The measures are the research side's and they are already written. **She puts it in the witness form**, in the field for anything the observer considers material, having left that field empty on the three she signed before. **It is not an observation of the session**, because Willow says it in a corridor twenty minutes afterward, to her sister. **She saves it anyway.** See the Ch8 brief for why it cannot be either of the other two records.
 
 **Iris's Book 1 register lives in that sentence. Do not let anyone in the scene notice.**
 
-**Dr. Feld's first line about Marin observing:** "You'll hate it." Then she goes in and starts the session. That is the whole of the disclosure conversation and it should be over in four lines.
+**Dr. Feld's first line about Marin observing:** "You'll hate it." Then she goes in and starts the session. **The disclosure is over in five lines and one of them is an omission** (corrected 2026-09-02): *"She did not say why it could not be avoided, and Feld did not ask her to."* **The exception Marin wrote covers observation that cannot be avoided, and hers can be. Neither of them says so.**
 
 ---
 

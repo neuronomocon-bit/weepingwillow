@@ -738,7 +738,12 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**As Written (3,851 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
+**As Written (3,851 words). Re-audited 2026-09-02 and moved into `chapters-book2/`.**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+ All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
 
 - **The identifier question is resolved, and not with either of the two options that were on the table.** Neither "the collision resolves against the other entry" nor "reissue Willow's number." **`MN-R-0338` was issued twice** — a veterans'-cohort course that closed three years earlier, the identifier recycled on schedule, and the closed record never came off the live index. **Willow's string never changes**, so the reader still carries one token, and Ch15 still gets its three checks because the number's *history* is what is contested. Full mechanism and the three consequences are in THE INVESTIGATION SPINE above. Virek raises it, puts it to records, and the narration adds one dry line about how long records take. **That is the entire plant.**
 - **The locked line is verbatim and is the chapter's fourth-session beat:** *"It's still there. I just can't find the handle on it anymore."* Willow delivers it as good news, in a corridor, on the way to a bus.

@@ -700,6 +700,7 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **For nine years she called Marin at about eleven at night**, two to four times a week, never about anything. Marin used to complain about it to colleagues.
 - **A date on the twenty-first**, three weeks after Ch10, which for nine years had a two-week run-up worse than the day itself. **What it is the anniversary of is never named, in any book.**
 - **Post-treatment she takes the flat-affect punctuation** (periods on questions). Pre-treatment she takes question marks.
+- **⚠️ `MN-R-0338` is not globally unique and nothing disambiguates it but dates.** Settled 2026-09-02. The number was issued to a veterans'-cohort patient, recycled on schedule when the retention window closed, and issued again to Willow. Virek, in Ch8: *"Once a number goes back in the pool, the only thing holding two people apart is the dates on their records."* **There is no course key and there is not meant to be one.** The dates are sufficient for a careful person and useless in a degraded index, **which is exactly what makes Ch15's first join wrong and provably wrong.**
 
 ## Dr. Elena Rourke
 
@@ -727,7 +728,8 @@ He is the first death that is unambiguously a killing: everything removed at onc
 
 ## Dr. Marin Halloway
 
-- **She wrote the family-observation paragraph herself**, in her second year, and it is on page six.
+- **She wrote the family-observation paragraph herself**, in her second year, and it is on page six. **⚠️ And she breaks it.** The exception covers observation that cannot be avoided; a fellow is already in the room as the required witness, so hers can be. *"She did not say why it could not be avoided, and Feld did not ask her to."*
+- **⚠️ What she can and cannot touch, settled 2026-09-02 and load-bearing for Ch15 and Ch17.** She is **off Willow's clinical file** by her own request (Ch4). The **research side is hers**, or hers and about nine other people's, and she reads the outcome measures there. The **witness form** is the third record and the only one she has standing to write into, which is where the corridor quotation goes in Ch8. **Witness forms are administrative, so they sit in the degraded index rather than the research archive: Iris does not have that note and may get it.**
 - **She timed her sister's first complete account at eleven minutes and forty seconds** and filed it in the observation column. **This is the whole of the cost in Ch8.**
 - **She reaches for procedure when she is in pain**, and the prose never says so. Ch10 has her deliver the fourth item of a review schedule in her sister's kitchen before she notices she is doing it.
 
