@@ -378,7 +378,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
-**As Written (2,927 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (3,055 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
 
 - **The unit:** third row of a storage yard off the industrial road, one of forty identical bays, behind a gate that takes a code and does not record it. **Kade's own name, monthly, for three years.** He says so in the parking lot before he opens it, in the flat voice of a man getting a thing said early so it will not have to be said later.
 - **The wet corner**, which is the chapter's clock: the roof sheet meets the wall badly, a dark patch two feet across, a builder's bucket with an inch of water in it. On the account. Nothing under it, because he moved that row in the first month.
@@ -395,6 +395,22 @@ Iris tells him what that means: the research data will come off in weeks, the in
 - **The plan, and its costs said out loud:** image everything before reading anything, nothing powered up in a bay with a wet corner and one working light, the cartridges out in four batches so a fire costs a quarter of the material, and **nine days to build the rig properly, which she is not going to shorten.**
 - **THE CLOCK, and the book's central asymmetry:** *"The archive will wait for me. The index is the only thing in this room that can put a name on anything, it is the only copy, and it is spending every day I do not get to it becoming a smaller answer."* — ***"So it's a race." / "It's an appointment I don't know the date of."***
 - **Closing:** `MN-C-0447` on the outer, written into her inventory, **and she ticks the line the way the coordinator ticked hers.**
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02.** Two internal contradictions and a terminology problem, all fixed. What changed:
+
+- **She powered a cartridge inside the bay and then said nothing gets powered up in the bay.** The read now happens **out in the van, off the van's power, with the door open and the drive on the passenger seat**, which demonstrates the rule before she states it. The later plan line is unchanged and is now true.
+- **Kade could not have decided four years ago about a three-year-old event.** *"I've had three years to decide whether I did the right thing and I decided inside a week, and I haven't moved off it since."* The bitterness survives and the impossibility is gone.
+- **⚠️ TERMINOLOGY, and it propagated across four chapters.** A platter is the disk inside a drive; **you image a drive.** Ch3's *"imaged the first four platters"*, Ch6's *"eleven hours left on the first platter"* and Ch7's three uses are all **drives** now. **Ch5 keeps its platters and heads and is correct**, because in Ch5 she is inside the drives.
+- **⚠️ The level of intervention is now named in Ch3, and Ch5 already executes it.** The book had committed to full physical recovery — corroded platters, donor heads matching a discontinued caddy model, an enclosure holding its own humidity, four scrap drives burned to prove the rig — and Ch3 had only said *"a rig"*. Ch3 now says what the nine days buy: **cleaned, reterminated, read on donor hardware, one attempt each and no second pass.**
+- **⚠️ And she is given a ceiling, which she has not had before.** *"A drive that seized in the water is a job for somebody with a clean room and a budget, and I am neither. I will know which ones those are when I open them. Not before."* **Her technical certainty had been cumulative and total across three chapters.** This is the first stated limit and it sets up Ch5's four burned scrap drives. **Later recovery work should carry verification, uncertainty or real failure. Do not let her be infallible at the one thing still working.**
+- Also: *"These are the sibling sites to the one you sent me into"* replaces the ambiguous *"the siblings" / "to yours"*, the corrosion claim is no longer categorical (*"What I can see is the outside. What has got into the sealed part of one of these I find out when I open it and not before"*), and the gloss on Iris having nothing to offer Kade was compressed, because the dialogue after it does that work.
+
+**⚠️ PROTECTED IN THIS CHAPTER — do not strip either in a repetition pass:**
+
+1. **The repeated "correct."** *Heavy at the bottom, correct. Fragile on top, correct.* · *the correct thing to do* · a schedule followed correctly · a tick against every line. **"Correct" is the chapter's controlling word: correctness at every step is what produced the outcome.** It is structure, not a tic.
+2. **The final tick.** Iris writes the code into her inventory and ticks the line the way the coordinator ticked hers, and **nothing explains the parallel.** The question it leaves open — whether she is reversing the machinery by restoring names or becoming it, because ticking the line is the part of her that still works — is the chapter's ending and it is not to be closed.
+
+**On `thing`, split by register:** Ch3 narration ran 4 instances at 23.4 per 10k against Book 1's 2.1, and one was recast. **The rest stay.** Kade's *"a code for a thing that lived in a room"* and Iris's *"a thing that happened and a thing that happened to somebody"* are the chapter's thematic vocabulary, not placeholders. **Do not normalize this chapter mechanically.**
 
 ---
 

@@ -34,9 +34,9 @@ He had the schedules. He had them in a plastic wallet inside a box file, and the
 
 Iris read the first sheet. It was three columns, and it was exactly what he had said it was: a code, a destination, and a date. Each line had been ticked by hand. At the bottom of the third page the same hand had written *38 pallets ex. clinical wing, ex. lower level as marked* and a set of initials.
 
-“These are the siblings,” she said.
+“These are the sibling sites to the one you sent me into,” she said.
 
-“To yours. Yes.” Kade did not soften it. “The job I sent you on was MN-44-7. Same client, same schedule series. You were retrieving out of one of the sites these things went to. I didn’t know that when I sent you and I knew it eleven days after.”
+“Yes.” Kade did not soften it. “The job I sent you on was MN-44-7. Same client, same schedule series. You were retrieving out of one of the sites these things went to. I didn’t know that when I sent you and I knew it eleven days after.”
 
 “And the codes still open.”
 
@@ -72,9 +72,9 @@ She spent the first hour on condition, because condition determined everything e
 
 The good news was on the third and fourth pallets in. The research archive had left that building on archival cartridge, in rigid cases, in cardboard outers with the desiccant sachets still rattling in the bottom. That media had been specified deliberately and paid for out of a research grant, and the budget had held, because grants have line items that survive the people who wrote them. She opened four cases at random. The cartridges were clean, the shells were undistorted, and the write-protect tabs were where they had been left.
 
-She set up on the flat crates and read one, because condition you can see is a guess and condition you have read is a fact.
+She took one out to the van and read it there, off the van’s power, with the door open and the drive on the passenger seat. Condition you can see is a guess and condition you have read is a fact, and nothing was going to be powered up in a bay with a wet corner in it.
 
-It came off at full rate. No retries, no soft errors, a clean index at the head and a directory structure that had been thought about by someone who expected it to be read. She let it run four minutes and stopped it.
+It came off at full rate. No retries, no soft errors, a clean index at the head and a directory structure that had been thought about by someone who expected it to be read. She let it run four minutes, stopped it, and carried the cartridge back in.
 
 “This is fine,” she said. “This is better than fine. Whoever bought this bought it to last thirty years and it’s three years old.”
 
@@ -92,7 +92,7 @@ He knew which pallets and he did not want to walk her to them, and he walked her
 
 The second class of material was in the back stack, and it had been in water.
 
-Not submerged. Standing damp, for a period that was never measured, in a transfer point on the eastern spur where a service duct backed up in the second winter after the shutdown. The cases had been dried and restacked, and whoever did it had done a decent job with what they had. The outers were gone. The drives were consumer-grade, spinning disks in plastic caddies, the sort you buy in a hurry when the thing you actually specified is on a six-week lead time.
+Not submerged. Standing damp, for a period that was never measured, in a transfer point on the eastern spur where a service duct backed up in the second winter after the shutdown. The cases had been dried and restacked, and whoever did it had done a decent job with what they had. The outers were gone. The drives were consumer-grade, spinning disks in plastic caddies, the sort you buy in a hurry when the part you actually specified is on a six-week lead time.
 
 She turned one over and read the corrosion on the connector pins with her light.
 
@@ -116,7 +116,7 @@ She put her hand flat on the good pallet.
 
 “Meaning a number.”
 
-“Meaning a number.” She moved to the back stack. “This is the clinical and administrative index. It is the set that maps a number to a person. Name, intake date, next of kin, referral. It is on the worst media in the building and it spent a winter in water, and I will get some of it, and I do not know how much, and I am not going to be able to tell you until I have imaged the first four platters and seen how the read errors distribute.”
+“Meaning a number.” She moved to the back stack. “This is the clinical and administrative index. It is the set that maps a number to a person. Name, intake date, next of kin, referral. It is on the worst media in the building and it spent a winter in water, and I will get some of it, and I do not know how much, and I am not going to be able to tell you until I have imaged the first four drives and seen how the read errors distribute.”
 
 “How long.”
 
@@ -148,7 +148,7 @@ Iris kept writing.
 
 He put the flattened outer on the pile.
 
-“I still have that copy. It’s in the box file. I’ve had three years to decide whether I did the right thing and I decided about four years ago that I did. I asked twice. Nobody asks three times. There isn’t a version of me on that floor in that week who asks three times.”
+“I still have that copy. It’s in the box file. I’ve had three years to decide whether I did the right thing and I decided inside a week, and I haven’t moved off it since. I asked twice. Nobody asks three times. There isn’t a version of me on that floor in that week who asks three times.”
 
 “No,” Iris said. “There isn’t.”
 
@@ -158,7 +158,7 @@ He said it as a finished thing, something he had done all his feeling about year
 
 Iris could see the whole structure of what he was doing. He had brought her here, and paid for this unit for three years, and kept the queried copy, and told her about the row before she found it herself, and every one of those was the same act performed four different ways.
 
-She had nothing to put against it. The thing a person is supposed to have ready in that moment was not available to her, and she was not going to manufacture a version of it for him, because he would have known and it would have been worse.
+She had nothing to put against it, and she was not going to manufacture something, because he would have known and it would have been worse.
 
 “The crates you moved were manifest lines,” she said. “You matched a code to a sheet. That is the job. If you had opened one you would have been fired that afternoon and the twelve crates would have gone to secondary anyway, with somebody else’s initials on the line.”
 
@@ -174,7 +174,9 @@ Kade laughed, once, with no humor in it at all.
 
 She worked until the light through the roller door had gone orange, and then she built the plan out loud so he could hear the parts that would cost money.
 
-Image everything before reading anything. Nothing gets powered up in this unit, because this unit has a wet corner and no bench and one working light. The archival cartridges go out in four batches so that a fire in her apartment costs her a quarter of the material instead of all of it. The wet drives do not get powered up at all until she has built a rig for them, and she was going to build the rig properly, and that would take nine days she was not going to shorten.
+Image everything before reading anything. Nothing gets powered up in this unit, because this unit has a wet corner and no bench and one working light. The archival cartridges go out in four batches so that a fire in her apartment costs her a quarter of the material instead of all of it. The wet drives do not get powered up at all. Putting current through a corroded drive is how a bad drive becomes no drive, and these were going to have to come apart: cleaned, reterminated, and read on donor hardware inside an enclosure that held its own humidity, one attempt each and no second pass. That was a bench she did not have. Building it properly would take nine days and she was not going to shorten them.
+
+“And some of them will not come off at all,” she said. “A drive that seized in the water is a job for somebody with a clean room and a budget, and I am neither. I will know which ones those are when I open them. Not before.”
 
 “Nine days,” Kade said.
 
@@ -184,7 +186,7 @@ Image everything before reading anything. Nothing gets powered up in this unit, 
 
 She had been, and he had noticed, and she was going to have to revise upward what he caught.
 
-“The cartridges are stable. Whatever they lose in a shed, they lose over decades, and I have decades.” She turned her light on the back stack and left it there. “That is not stable. Corrosion does not stop when a thing dries out. It slows down and it keeps going, and every winter in an unheated bay walks it a little further along, and the platters are where the damage lands last and worst. There is a version of that stack I can read today. There is a smaller version I can read next winter, and I cannot tell you how much smaller, and there is no point at which anybody rings a bell.”
+“The cartridges are stable. Whatever they lose in a shed, they lose over decades, and I have decades.” She turned her light on the back stack and left it there. “That is not stable. Corrosion does not stop when a drive dries out. It slows down and it keeps going, and every winter in an unheated bay walks it a little further along. What I can see is the outside. What has got into the sealed part of one of these I find out when I open it and not before. There is a version of that stack I can read today. There is a smaller version I can read next winter, and I cannot tell you how much smaller, and there is no point at which anybody rings a bell.”
 
 “So it’s a race.”
 

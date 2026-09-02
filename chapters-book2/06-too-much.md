@@ -200,4 +200,4 @@ Then she sent Kade two words, because he had sent her the address and would be w
 
 *It’s worse.*
 
-She drove back toward the harbor inside the speed limit and got in at twenty to four, and the rig had run clean all day and had eleven hours left on the first platter.
+She drove back toward the harbor inside the speed limit and got in at twenty to four, and the rig had run clean all day and had eleven hours left on the first drive.

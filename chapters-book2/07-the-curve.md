@@ -16,13 +16,13 @@ She made coffee and stood at the window while it went cold, and got back to it a
 
 ***
 
-The first platter off the index had finished on Wednesday and she ran it before she started, because it took nine minutes and because there was a version of the day where it made everything else unnecessary.
+The first drive off the index had finished on Wednesday and she ran it before she started, because it took nine minutes and because there was a version of the day where it made everything else unnecessary.
 
 Eleven percent came back readable, and the read errors distributed exactly as she had told Kade they would, in bands across the surface with the outer tracks worst. Eleven percent of a set that maps numbers to people demonstrates that the media can still be read. It does not produce a name.
 
-She ran what she had against the identifiers she had anyway. Two hundred and six of the fragment’s records carried enough structure to resolve a field, and none of them was MN-R-0338, and there was no reason any of them should have been. The fragment was a strip off one platter of eleven, and the eleven were a fraction of the stack, and the stack had spent a winter in water.
+She ran what she had against the identifiers she had anyway. Two hundred and six of the fragment’s records carried enough structure to resolve a field, and none of them was MN-R-0338, and there was no reason any of them should have been. The fragment was a strip off one drive of eleven, and the eleven were a fraction of the stack, and the stack had spent a winter in water.
 
-She logged the null, put the second platter on, and went back to the wall.
+She logged the null, put the second drive on, and went back to the wall.
 
 ***
 
