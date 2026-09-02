@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 32,547 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACTS I AND II ARE DRAFTED AND REVIEWED. Ch1 through Ch14 are locked and Ch15 is reviewed and awaiting the word to lock. Ch1 through Ch15, 47,444 words, in `chapters-book2/`. Act III opens at Ch16 — The Name; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -142,15 +142,13 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-02)
 
-# ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
-
 # ✅ CH1 TO CH14 ARE REVIEWED, REVISED AND LOCKED. 44,561 words.
 
 # ✅ CH15 IS DRAFTED, REVIEWED AND REVISED, 2,883 words. Awaiting the word to lock. Book total 47,444. **ACT II IS CLOSED.**
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
-**⚠️ Ch11 is the first chapter drafted under everything those reviews established. Read the WHAT CH11 INHERITS block in its brief before drafting a word of it.**
+**⚠️ Ch16 inherits five sessions of author reviews. Read `14-audit-method.md` end to end before drafting — it gained six findings this session, and three of them are about the checks rather than the prose.**
 
 ### What the ten reviews actually found
 
@@ -290,8 +288,12 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
 ### Next work, in priority order
 
-1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
-2. **Ch16 — The Name**, and Act III. Read its brief and check `11-key-dialogue-notes.md` for every chapter that refers back to it.
+1. **⚠️ LOCK CH15 FIRST.** It is reviewed, revised and verifying clean, and the author has not yet given the word. `python tools/verify-record.py --lock 15-the-map.md`, then update the two status tables here and the LOCKED CHAPTERS table in `review-progress.md` in the same commit.
+2. **Ch16 — The Name.** Act III opens. **Do all three of these before drafting**, because each one caught something in the last two chapters:
+   - Read the Ch16 brief **and grep `11-key-dialogue-notes.md` for every chapter that refers back to Ch16.** Ch14's largest obligation was recorded only in **Ch22's** note.
+   - Read the **prose** of the chapters that introduced anything Ch16 reuses, not their briefs. Ch15's largest payoff was a line of **Ch4 dialogue** that no brief mentions.
+   - Run `node tools/voice-audit.js --per-ch` and `python tools/verify-record.py`, **and read all of the output, including the FAIL block.**
+3. **Ch17 to Ch22.** Ch17 is the deviation (RECOVERED: The Limiter), Ch20 is Marin's consumption and the longest chapter, Ch21 is Why Lena, Ch22 is the third refusal and pays off Ch14's four option cards.
 
 **✅ Ch15 is reviewed, revised and awaiting the word to lock. It sits at 76% of budget, the lowest of any chapter, with all 29 beats present** — the first draft was 43% and five *consequences* were missing rather than beats. **Two facts it sets are load-bearing for Act III:** the research-archive access log now has two lines in it and **no one reads the log**, which is the mechanism the deviation runs through; and **the withdrawal route Marin did not take exists, is one side of A4, and she approved its wording.**
 
@@ -381,7 +383,7 @@ A chapter is not finished when the prose is finished. It is finished when the br
 | `tools/voice-audit.js` · `tools/number-check.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
 | `tools/verify-record.py` | The REVIEW LEDGER row, and the lock, when a chapter is approved. |
 
-**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (32,590 against 32,547 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
+**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (47,511 against 47,444 at Ch15) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
 
 **Check a drafted chapter against the brief AND the dialogue notes.** They hold different beats, and a beat present only in `11-key-dialogue-notes.md` has been missed this way once already.
 
