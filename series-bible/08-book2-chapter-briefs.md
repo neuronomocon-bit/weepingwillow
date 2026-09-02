@@ -378,7 +378,13 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
-**As Written (3,055 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (3,055 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
+Load-bearing elements:
 
 - **The unit:** third row of a storage yard off the industrial road, one of forty identical bays, behind a gate that takes a code and does not record it. **Kade's own name, monthly, for three years.** He says so in the parking lot before he opens it, in the flat voice of a man getting a thing said early so it will not have to be said later.
 - **The wet corner**, which is the chapter's clock: the roof sheet meets the wall badly, a dark patch two feet across, a builder's bucket with an inch of water in it. On the account. Nothing under it, because he moved that row in the first month.

@@ -6,5 +6,9 @@
   "02-mortality.md": {
     "sha256": "93e77787c8dfe5817c0e5aaf2edd60dea4cf15471a106f7d69697f8529c8a1b7",
     "words": 2951
+  },
+  "03-the-files.md": {
+    "sha256": "ec67fc35767d11a467609e458ec1c3229c135b5de54e0b69920eb976a1c167d7",
+    "words": 3055
   }
 }
