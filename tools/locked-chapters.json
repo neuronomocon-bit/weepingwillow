@@ -10,5 +10,13 @@
   "03-the-files.md": {
     "sha256": "ec67fc35767d11a467609e458ec1c3229c135b5de54e0b69920eb976a1c167d7",
     "words": 3055
+  },
+  "04-intake.md": {
+    "sha256": "08bd4616ace7e94a7886bd8b3bf576ddfc704d0de07fcb7c3e12cdd421fb400f",
+    "words": 3394
+  },
+  "05-read.md": {
+    "sha256": "09b283ac75f56b325d39ae852b4f73525527ea6757f102464a3a37d2700dac5c",
+    "words": 3185
   }
 }

@@ -65,8 +65,8 @@ Checked on every chapter of this book in addition to the standard passes:
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **✅ LOCKED 2026-09-02** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,951** | **✅ LOCKED 2026-09-02** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,055** | **✅ LOCKED 2026-09-02** |
-| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **awaiting author pass** |
-| 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **awaiting author pass** |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **✅ LOCKED 2026-09-02** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,000** | **awaiting author pass** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,253** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
@@ -237,6 +237,9 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 1 | Aftermath | 2,931 | **2026-09-02** |
 | 2 | Mortality | 2,951 | **2026-09-02** |
 | 3 | The Files | 3,055 | **2026-09-02** |
+| 4 | **RECOVERED: Intake** | 3,394 | **2026-09-02** |
+| 5 | Read | 3,185 | **2026-09-02** |
+| | **FIVE LOCKED** | **15,516** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 

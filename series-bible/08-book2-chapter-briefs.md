@@ -444,7 +444,13 @@ Load-bearing elements:
 - Closing: relief, *"clean and specific and enormous."* **"Relief had not been on the list."**
 - Marin's **two o'clock procurement meeting**, deliberately echoed in Ch17. Do not let a later pass strip it as duplication.
 
-**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,394 words.** Awaiting the author's proofread. What the four re-audit questions returned:
+**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,394 words.**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
+What the 2026-08-31 re-audit found: What the four re-audit questions returned:
 
 1. **The research identifier — the one real failure, now fixed.** The draft established the *mechanism* (research archive under an identifier, clinical file under a name, and the two held apart) but never put the identifier on the page, so the reader had no token to carry. **Willow now reads her own identifier out of the consent pack in the institutional voice: `MN-R-0338`.** That is the string Iris reads for eleven chapters with no name attached to it, and the string the Ch15 join resolves. Marin's long speech was split around the exchange, so the access-log beat still closes the movement.
 2. **Assumes nothing about Iris.** She is not in it, and nothing reads as a book opening. Meridian alive and staffed is a payoff for a reader who has only seen the building dead, not an introduction.
@@ -525,7 +531,12 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 **The operator's first note is the chapter's best beat and is untouched:** she keeps flawed data rather than making Willow repeat part of a four-hour procedure, explains the deviation, defers correction unless it becomes material, and calls her **she**. **A tiny act of care surviving in a system that had otherwise turned her into an identifier.**
 
-**As Written (3,185 words, drafted 2026-08-31, `chapters-book2/05-read.md`, awaiting the author's pass):**
+**As Written (3,185 words, drafted 2026-08-31, `chapters-book2/05-read.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
 
 - **Six days in six movements:** the bench and the authentication (Day 29) · the belt (Day 30) · the sequencing (Days 31 to 32) · the read (Day 33) · the back stack and the rig (Day 35) · the facilities logs and Kade.
 - **The salvage was adapted rather than lifted, in two places, and both changes are Ch3's fault in the right way.** The ninety-minute bridge trip became a **cartridge throwing a soft error at ninety-one minutes on three consecutive passes**, which turns out to be a glazed belt in her own reader and not damage to the media: *an error at a consistent offset is not damage, because damage does not keep an appointment.* It costs her a day and buys her nothing, and it is where the refusal to rush is rendered instead of asserted. The **wet-drive procedure** could not be used as written, because Ch3 establishes the caddies were dried and restacked years ago. It became the rig: **one attempt per drive**, donor heads for a discontinued caddy model, four dead caddies off a scrap dealer to burn proving it, and the back stack left in the order she found it because that order is the last information anyone has about how it was stored.
