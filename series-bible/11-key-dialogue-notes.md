@@ -264,6 +264,21 @@ She goes back and watches the last session recording. Willow is fine in it. Will
 
 ---
 
+### B2 Ch14 — The Warning That Cannot Land
+*Written after drafting, because this file had no Ch14 entry and the chapter turned out to need two.*
+
+**ROURKE, ON THE PHONE, AND SHE IS RIGHT TO REFUSE.** Iris asks for the four hundred names. **The refusal is instant and it is correct** — they are her patients and there is no lawful route — and Iris knew that before dialing and dialed anyway, *because not calling would have been a decision made without the answer in it.* **Then Rourke gives her the part she did not call for:** *"If I could hand you four hundred names tomorrow morning, I would not know what to tell you to say to them."* Iris: *"I have the thing to say."* Rourke: *"Then go and say it to one of the five, and call me back and tell me how it went."*
+
+**⚠️ IRIS NEVER CALLS HER BACK.** The chapter does not mention it again and no later chapter resolves it. **Do not close this.**
+
+**LILA — the register is Book 1 Ch4 and only ONE of its lines may be reused.** The chapter uses *"I respond when required."* Do not add *"I don't have that information"* or *"It is appropriate"* on a later pass; the brief caps it at one and the cap is doing work.
+
+**The clarifying question is the whole scene:** Lila repeats the warning back in order with nothing missing, and asks **"Is there a date."** Flat-affect punctuation, period not question mark. Told the intervals run four to eleven weeks and cannot be narrowed, she says **"Then I will continue as normal."**
+
+**⚠️ Iris does not raise her voice, does not press, and does not try a second framing.** She states it once, completely, in the plainest available register, and it lands perfectly and changes nothing. **The failure is not in the delivery and no line may suggest a better delivery existed.**
+
+---
+
 ### B2 Ch15 — RECOVERED: The Map (ACT II TURN)
 *The name.*
 

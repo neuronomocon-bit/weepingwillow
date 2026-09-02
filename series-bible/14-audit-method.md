@@ -293,6 +293,27 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
 
+### ⚠️ CONTRAST FRAMING SURVIVES A PERIOD, AND NO SCREEN WAS LOOKING ACROSS ONE
+
+`03-themes-and-tone.md` has banned **`X was not Y. It was Z.`** since Book 2 began, and it was listed there explicitly. **Every screen we had looked inside a single sentence**, so the split form read as two clean declaratives and passed. Ch14 carried *"four was not a ceiling. It was a stage."* through three passes.
+
+**`contrast framing, split` is now a line in `tools/voice-audit.js`.** With it running: **Book 1 four, Book 2 six** — a *lower* rate than the published baseline, so this is not a runaway tic. **But it is banned outright for Book 2 regardless of rate**, and the six are all in locked chapters (Ch1 ×2, Ch5 ×2, Ch7, Ch12). **They are reported and left alone: this is style, not a consistency defect, so the standing permission does not reach them.**
+
+### ⚠️ `\b` IN A PYTHON STRING IS A BACKSPACE, AND THE SCREEN REPORTED CLEAN
+
+The screen above was written into `voice-audit.js` by a Python script and reported **0 against a corpus containing seven instances.** The cause: in a non-raw Python string `\b` is **0x08**, so the regex literal in the file demanded a literal backspace character on both ends and could never match. **`\s` in the same string survived intact**, because `\s` is not a valid Python escape and is left alone — which is why the line *looked* right in every editor and in `grep`. It took `cat -A` to see the `^H`.
+
+**This is the sibling of the curly-quote heredoc failure and it has the same shape: a tool reported clean and the corpus was not.** Two rules follow:
+
+1. **Write regexes into tool files with a Python raw string (`r"..."`) or not with Python at all.**
+2. **⚠️ A NEW SCREEN IS NOT TRUSTED UNTIL IT HAS CAUGHT A KNOWN INSTANCE.** Before believing a zero, feed the screen the defect that motivated it. A screen that has never matched anything has not been tested; it has only been written.
+
+### ⚠️ A CHAPTER'S OBLIGATIONS CAN LIVE IN A LATER CHAPTER'S NOTES
+
+**Ch14 owed a beat that appears nowhere in the Ch14 brief.** The **Ch22** dialogue note explains why Iris neither runs nor fights at the climax: *"both were assessed and discarded in writing, in Ch14, when she still had a working process and no fear to interfere with it."* **Ch22 is eight chapters downstream and it is the only place that obligation is written down.** Had it been missed, Ch22 would have had to invent the assessment retroactively or lose its best structural payoff.
+
+**The rule already said to check the brief AND `11-key-dialogue-notes.md`. It now says more than that: check the notes for EVERY chapter that refers back to the one being drafted.** A grep of both bible files for the chapter number, before drafting, costs a minute. **Setups are recorded where they pay off at least as often as where they are planted.**
+
 ### ⚠️ A CHAPTER CAN PASS ITS BEAT COUNT AND STILL BE MISSING WHAT ITS OWN EVENTS WOULD CAUSE
 
 **Ch13 came in at 2,255 words, 66% of budget, with every single brief beat and dialogue note already on the page.** The beat count returned zero missing and the shortfall was real. **This is the second variant of the Act I diagnosis and it needs a separate check**, because the first variant (Ch6, Ch7: a beat is absent and the chapter is simply shorter and smooth) is found by counting the brief, and this one is not.

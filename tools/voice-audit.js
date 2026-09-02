@@ -97,6 +97,11 @@ const PATTERNS = [
   // "Nought point four" and "car park" are not misspellings of anything; they
   // are the wrong words, spelled perfectly. Any hit below is a defect, not a
   // candidate. Grow this list every time one gets through.
+  // Contrast framing that survives a period. 03-themes-and-tone.md already bans
+  // "X was not Y. It was Z." but every screen we had looked inside ONE sentence,
+  // so the split form read as two clean declaratives. Found in Ch14 after three
+  // passes ("four was not a ceiling. It was a stage.").
+  ["contrast framing, split", /\b(?:was|were|is|are|had|did)\s+not\s+(?:a|an|the)?\s*[a-z]+\.\s+(?:It|That|They|He|She)\s+(?:was|were|is|are)\b/gi],
   ["British lexis", /\b(per cent|fortnight|fortnightly|windscreen|nought|maths|whilst|amongst|kerb|kerbs|storey|storeys|aeroplane|lorry|lorries|petrol|motorway|carriageway|roundabout|spanner|dustbin|nappy|plimsolls|aluminium|rota|rotas|chemist|chemists|car park|car parks|estate agent|zebra crossing|pillar box|holidaymaker)\b/gi],
   // The words below are British only in one sense and ordinary American in
   // another, so they are CANDIDATES and must be read in context: lift (the

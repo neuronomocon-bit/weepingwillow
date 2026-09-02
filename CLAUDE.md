@@ -144,7 +144,9 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
-# ✅ CH1 TO CH13 ARE REVIEWED, REVISED AND LOCKED. 41,263 words. Ch14 is next.
+# ✅ CH1 TO CH13 ARE REVIEWED, REVISED AND LOCKED. 41,263 words.
+
+# ⏳ CH14 IS DRAFTED AND SELF-AUDITED, 3,023 words, AWAITING THE AUTHOR'S REVIEW. Book total 44,286.
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -191,7 +193,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
-| | **THROUGH CH13** | **41,263** | **46,200** | **4,937** | 89% of budget |
+| 14 | Open Jobs | 3,023 | 3,600 | 577 | ⏳ **Drafted, awaiting review** |
+| | **THROUGH CH14** | **44,286** | **49,800** | **5,514** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -287,7 +290,9 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 ### Next work, in priority order
 
 1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
-2. **Ch14 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
+2. **Ch15 — RECOVERED: The Map (ACT II TURN)**, which closes Act II. **It carries the three identifier checks and the false positive that returns a man, and the warning to run all three flat.** Read its brief and its dialogue-notes entry before drafting.
+
+**⚠️ Ch14 is drafted and awaits the author's review pass.** Two things in it are load-bearing downstream: **Iris has four hundred and nine people and five names**, because Rourke's summaries are de-identified and the traffic has only ever run one way — that is why the warning cannot be delivered. And **the four option cards (Leave, Refuse, Resist, Hide) are what Ch22 pays off**; that obligation was recorded only in Ch22's dialogue note and is now in the Ch14 record too.
 
 **✅ Ch13 is locked.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
