@@ -27,8 +27,10 @@ Book 2 follows the **PROSE CONVENTIONS (HARD RULES)** and **SENTENCE VARIETY** s
 2. **Sentence variety:** Single-line fragments are emphasis only. Environmental description must flow. Apply the read-aloud test.
 
 3. **Punctuation:**
-   - Full-sentence questions use question marks for ALL characters, including flat-affect
-   - Short/tonal probes keep periods: "How." / "Why." / "Where."
+   - **⚠️ CORRECTED 2026-09-02.** This line used to read *"Full-sentence questions use question marks for ALL characters, including flat-affect."* **That is not what the book does and has not been since Ch1.** It contradicted CLAUDE.md and it contradicted eight drafted chapters, which are consistent with each other and with published Book 1. The rule below is the one actually in force, measured off the prose.
+   - **Flat-affect characters take periods on questions, full-sentence or not.** Iris throughout the present thread, and post-treatment Willow Halloway: *"Do you see it." "How far behind." "Who writes this." "Where are you." "What time was the first." "When did you last see him before this morning."*
+   - **Warm characters take question marks, including on short ones.** Lena, Kade, Rourke, Marin, pre-treatment Willow Halloway: *"How are you sleeping?" "Can you see it?" "Is it going to change me?" "Who are you with?"*
+   - Short tonal probes may keep periods in any mouth: "How." / "Why." / "Where."
    - Dialogue tags: "said" not "asked" for flat-affect characters
    - **Book 2 note (CHANGED at the 2026-08-26 reset):** Iris is post-Book-1 and flat throughout this book — the flat-affect convention now applies to her in every present-day chapter. Lena, Kade, and Rourke are warm. In the Recovered chapters, Marin and pre-treatment Willow Halloway are intact and use question marks normally; post-treatment Willow Halloway is flat.
 
@@ -69,7 +71,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,260** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,610** | **awaiting author pass** |
-| 9 | Lena | Iris/Lena | 3,600 | — | — |
+| 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,111** | **awaiting author pass** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
@@ -221,6 +223,21 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 **Fixed:** a `British lexis` line was added to `tools/voice-audit.js` covering *per cent, fortnight, windscreen, nought, maths, whilst, amongst, kerb, storey, aeroplane*. **The list is open and should grow every time one gets through.**
 
 **And the general form of it, which is the more useful lesson:** a clean screen is evidence about the screen, not about the prose.
+
+## CH9 — LENA, drafted 2026-09-02
+
+**3,111 words against a 3,600 budget, 86% of budget, all 30 beats present.** Full record in the Ch9 brief. What belongs here:
+
+**The chapter's engine is a mechanism the book had already established and had not yet used on Iris.** Retrieval is intact and only the charge is gone, so the one thing she can still give her sister is the account. She searches, finds the memory Lena reached for and failed to hold at dinner, and hands it back whole at the moment it will do the most good. **Ch9 opens with Iris reading Willow Halloway's "I just can't find the handle on it anymore" as a clinical record and closes with Iris doing the same thing to Lena. The prose never connects them.**
+
+**Two record errors found while drafting, both corrected against the prose rather than the other way round:**
+
+1. **The Ch9 brief gave the wrong location** — "Lena's place," when every beat in it requires Iris's apartment. Nobody stays the night on their own couch.
+2. **This file's punctuation rule contradicted eight drafted chapters and published Book 1.** It said full-sentence questions take question marks for all characters including flat-affect ones. **The book has never done that**: Iris takes periods on questions of any length, warm characters take question marks on questions of any length, and the drafted chapters are entirely consistent about it. Corrected above.
+
+**Three payoffs the brief did not ask for and the chapter needed** — the Ch8 session record as Iris's opening material, the photograph on the van dashboard from published Book 1 Ch1, and Ch1's card wall. **That is now four consecutive chapters where the under-budget draft was short a payoff rather than short description.** The pattern is stable enough to plan around: draft, count beats, then ask what earlier chapters set up that this one could pay.
+
+---
 
 ### FULL US-ENGLISH SWEEP — Ch1 to Ch8, 2026-09-02
 

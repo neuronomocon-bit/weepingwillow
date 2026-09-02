@@ -508,7 +508,7 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 ### Chapter 9 — Lena
 
 **POV:** Iris, Lena present throughout · **When:** Day 42 · **Length:** 3,600
-**Location:** Lena's place. An evening that runs longer than Iris planned for.
+**Location:** **Iris's apartment.** An evening that runs longer than Iris planned for. (⚠️ This line said *"Lena's place"* until 2026-09-02 and it was wrong. Every beat in the brief requires Iris's apartment: Lena *"has driven over,"* she *"brought food,"* she will not leave *"on the schedule Iris built the evening around,"* and she *"stays the night on the couch without asking, which is not a question Iris can decline."* Nobody stays the night on their own couch, and nobody declines a question about their own home. **The location was the only wrong word; the beats were right.**)
 **Goal:** Iris performs a sister for three hours. Lena is not convinced and stays anyway.
 
 **Conflict:** Lena has stopped asking and started arriving. She has driven over, she has brought food, and she is not leaving on the schedule Iris built the evening around. She is doing the thing people do when they have decided that presence is the only remaining instrument.
@@ -526,6 +526,22 @@ Iris can identify exactly what that costs Lena, and can identify that a person w
 **Continuity:** Book 1 Ch10 was Iris performing and Lena *almost* convinced, then not. This is the escalation: Lena knows, and has decided. **Lena remains untouched through all of Book 2.** Book 3 partially Takes her at its midpoint and needs her intact to do it. See OPEN QUESTIONS.
 
 **Craft:** No confession scene. No breakdown. The chapter's power is that both women are behaving well and it is not enough. **Do not let Lena be shrill and do not let her be a saint.** She is irritating at least once.
+
+**As Written (3,111 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
+
+- **The constructed response is a memory, and that is the whole mechanism.** Retrieval is intact and only the charge is gone, so the one thing Iris can still give her sister is the account. **She runs a search, finds the memory Lena wants back, and hands it over at the moment it will do the most good.** It is complete, it is accurate, it is assembled for effect, and none of it came from anywhere. *"She would have called it a lie if there had been anything false in it."*
+- **⚠️ The silent rhyme, which the prose never touches.** Ch8 is Willow Halloway saying she can give the whole account, dates and everything, and cannot find the handle. Ch9 opens with Iris reading that sentence as a clinical record, and closes with her doing exactly the same thing to Lena. **Nothing in the chapter connects them. Do not let a later pass connect them.**
+- **The memory: the eleven days the pipes froze.** Lena was nine, not ten, with a cast on since October. One room, the heater with the bar that worked on one side, their mother in the chair. **On the fourth night Lena said she wanted it to last until her birthday.** She has always been this person, and the prose does not say so. **Planted at dinner as a half-memory Lena gets wrong and Iris does not correct**, then given back whole ninety minutes later. The reader watches retrieval and deployment happen as two separate mechanical acts an hour apart; Lena sees her sister remembering.
+- **Lena's true thing, and it carries no frame** (self-annotation is Marin's and Rourke's): *"I'd rather have the person who answers correctly than nothing, and I'm not going to keep testing you to find out how much of you is in there, because that was for me and it wasn't doing you any good."* Then: *"So I'm going to stop asking if you're okay. And I'm going to keep coming over."*
+- **How Lena is irritating, and it is the same move three times.** She announces the criticism before it can be made (the parking, the too much food), and at full size she converts her sister's disintegration into something to be enthusiastic about inside four seconds, because the alternative is being afraid in a doorway in front of someone who cannot help her. *"Because you're keeping data on yourself. Which means you know."* **None of the enthusiasm is fake. It is scaffolding and it holds all evening.** And then, flat: *"It was also extremely irritating."*
+- **The wall is the cost of Lena arriving instead of asking.** Arriving means seeing. Forty-one days of measurements pinned at eye height, and Lena reads them out loud and gets a date wrong.
+- **Three payoffs the brief did not ask for**, all of which the chapter needed: the Ch8 session record as Iris's opening material (**she has forty words of a document out of a whole lived afternoon** — the design of the book in one image); **the photograph on the van's dashboard from published Book 1 Ch1**, which Lena reads as sentiment and Iris lets her, a miniature of the evening's big fabrication; and Ch1's card wall and its short top row for readings that have not moved. **Iris files the evening in the top row.**
+- Lena's own life is deliberately dull and real: the clinic, the scheduling system, the spring position she will not apply for, and Dana.
+
+**⚠️ Two errors found in the record while drafting, both corrected:**
+
+1. **This brief said the location was Lena's place.** See the Location line above. Every beat required Iris's apartment.
+2. **`review-progress.md` carried a punctuation rule that contradicted eight drafted chapters** — that full-sentence questions take question marks for all characters including flat-affect ones. **The book has never done that.** Iris takes periods on questions of any length and the warm characters take question marks on questions of any length, consistently, from Ch1 on and in published Book 1. The rule was corrected off the prose, not the other way round.
 
 ---
 

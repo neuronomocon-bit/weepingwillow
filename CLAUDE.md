@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND CH8 IS IN: Ch1 through Ch8, 24,927 words, in `chapters-book2/` awaiting the author's proofread. Ch9 — Lena is next and is a fresh draft; no pending drafts remain for chapters that have come up.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch9, 28,039 words, in `chapters-book2/` awaiting the author's proofread. Ch10 — RECOVERED: Calm is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -134,7 +134,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-02)
 
-**ACT I IS COMPLETE AND CH8 IS IN. Ch1 through Ch8 are drafted, audited and pushed. 24,927 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. **There are no pending drafts left for chapters that have come up** — Ch8 was the last one and it is spent. **Ch9 — Lena is next and it is a fresh draft.**
+**ACT I IS COMPLETE AND ACT II IS UNDER WAY. Ch1 through Ch9 are drafted, audited and pushed. 28,039 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. **There are no pending drafts left** — Ch8 was the last one and it is spent, so every chapter from here is a fresh draft. **Ch10 — RECOVERED: Calm is next.**
 
 **All three open decisions were ruled by the author on 2026-09-02 and are recorded below.**
 
@@ -153,6 +153,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 7 | The Curve (ACT I TURN) | 3,260 | 3,600 | 340 | Awaiting author pass |
 | | **ACT I** | **21,319** | **24,600** | **3,281** | |
 | 8 | **RECOVERED: Sessions** | 3,610 | 3,800 | 182 | Re-audited, awaiting author pass |
+| 9 | Lena | 3,111 | 3,600 | 489 | Awaiting author pass |
 
 ### The three decisions, ruled by the author 2026-09-02
 
