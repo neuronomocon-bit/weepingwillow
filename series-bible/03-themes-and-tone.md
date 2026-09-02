@@ -437,6 +437,16 @@ Thirty-seven instances against Book 1's nine. But Book 1's own most-repeated ope
 
 Flag when they stack, and vary the language. Current watch list for this series: **shape**, **structure**, **pattern**, **weight**, **absence**. All five are load-bearing thematic words, which is exactly why they will over-accumulate without anyone noticing.
 
+### ⚠️ `thing` / `instrument` / `reading` / `space` — added 2026-09-02, off the author's Ch1 review
+
+**The abstraction set is the biggest of these and nothing was counting it.** Ch1 ran **`thing` at 37.5 per 10k against published Book 1's 6.0**, plus `instrument` ×4 and `reading` ×6 where **Book 1 has zero of either**.
+
+**Why it happens here specifically, and why some of it is correct:** Iris is trying to describe internal phenomena that are missing. *The place where it belonged was smooth.* *It was the shape of concern with the concern lifted out.* Vagueness is sometimes the accurate rendering of her experience and those instances stay.
+
+**The defect is the other kind:** the same abstraction used for an *ordinary* noun, where a concrete word was available and would have been sharper. *"a thing she could not remember losing was a thing she could not measure"* went to *"what she could not measure."*
+
+**And the metaphor rule underneath it:** `instrument` is the chapter's closing image. **Every earlier use spends it.** Ch1 used it four times and the last one had nothing left to land on; it now appears once. **Count a controlling metaphor and keep the last use the strongest.**
+
 ### ⚠️ `no one` — added to the watch list 2026-08-27, and already actioned once
 
 The register rule above sends narration from *nobody* to *no one*, and a one-for-one substitution is how a tic migrates rather than shrinking. **It happened immediately.** By Ch2 the drafted chapters ran `no one` at 7.0 per 10k against Book 1's 2.6.

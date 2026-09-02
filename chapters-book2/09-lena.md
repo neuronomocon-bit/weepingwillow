@@ -62,7 +62,7 @@ The cards ran along the doorframe at eye height and had gone around the corner o
 
 Lena went and stood in front of the doorframe with her coat still on.
 
-“*Retrieval, four seconds, site address,*” she read. “*Sequence loss, cold coffee, approximately eleven minutes.* What does that mean, sequence loss?”
+“*Retrieval, four seconds, site address,*” she read. “*Sequence loss, cold coffee, approx. eleven minutes.* What does that mean, sequence loss?”
 
 “I had made coffee and I did not remember making it. Eleven minutes was the gap.”
 

@@ -14,7 +14,7 @@ The coffee went cold on the sill. She found it there at the point where the list
 
 That was the second system and it was newer than the list. The cards along the doorframe were not instructions. They were measurements. Each one carried a date, a duration and a category, in the shortest form that would still mean something to her in a week. *Retrieval, four seconds, site address.* *Sequence loss, cold coffee, approx. eleven minutes.* *Wrote note, cannot account for it.*
 
-She had started the record because a thing she could not remember losing was a thing she could not measure, and a thing she could not measure was not available to the work. The wall now held nineteen days. She read all of it once a week and had learned, from the reading rather than from the living, that the intervals were getting shorter.
+She had started the record because what she could not measure was not available to the work. The wall held nineteen days. She read all of it once a week and had learned, from the reading rather than from the living, that the intervals were getting shorter.
 
 ***
 
@@ -26,19 +26,19 @@ The first resolved inside a minute. A relay point on the northern spur, cleared 
 
 The second did not resolve, and that was the interesting one.
 
-It sat four hundred meters off the industrial road with no service address, no utility connection she could find, and a footprint the wrong shape for storage. She pulled the parcel history and got a chain of holding companies that folded into each other three times and stopped at a name she had seen twice before on Meridian paperwork. The building had been bought eleven years ago and had never been assessed for anything since. Someone had been paying the standing charges on an empty lot for a decade, on time, every quarter, out of an account that did nothing else.
+It sat four hundred meters off the industrial road with no service address and no utility connection she could find. The footprint made no sense for storage: eighty meters deep against a frontage of twenty, with its own access road off a road that went nowhere. She pulled the parcel history and got a chain of holding companies that folded into each other three times and stopped at a name she had seen twice before on Meridian paperwork. The building had been bought eleven years ago and had never been assessed for anything since. Someone had been paying the standing charges on an empty lot for a decade, on time, every quarter, out of an account that did nothing else.
 
 She worked it the way she had always worked: slowly at the front and fast at the back. She built the query properly before she ran it. She checked the overlay against the utility layer and then against the road layer, because the two disagreed by about twenty meters and one of them was always wrong. She cross-referenced the standing charges against the shutdown date and found that the payments had not stopped when Meridian stopped. They had continued for four months and then gone quarterly, and quarterly was what you set up when you did not intend to look at something again.
 
 Twenty-two minutes from opening the file to writing the summary. She timed it because she timed everything now.
 
-She wrote the number on a card and put it above the doorframe rather than along it, on the short row she had started for the measurements that had not moved. There were four cards in that row. This was the fifth. The work was the only thing she had found that still ran at its old speed, and it ran at its old speed every time she tested it, and she tested it in case the day came when it did not.
+She wrote the number on a card and put it above the doorframe rather than along it, on the short row she had started for the measurements that had not moved. There were four cards in that row. This was the fifth. The work still ran at its old speed. It ran at its old speed every time she tested it, and she tested it in case the day came when it did not.
 
 Then she opened the message thread with Lena.
 
 The most recent was from yesterday. *Call me when you can.* Four days before that: *I’m not angry. I just want to know you’re okay.* Behind that a longer one she had read once and closed. Behind that, others, stacked back through the weeks to the night she had sat in the café and not answered the first.
 
-She read yesterday’s again and understood all of it. The request was in the first three words and the restraint was in the last four. The restraint had cost Lena something to keep in place, and Lena had kept it in place anyway, across nine messages and three weeks, and had not once let it slip into the thing she actually wanted to say.
+She read yesterday’s again and understood all of it. The request was in the first three words and the restraint was in the last four. The restraint had cost Lena something to hold. She had held it anyway, across nine messages and three weeks, and had not once let it slip into what she actually wanted to say.
 
 She checked for the movement that should have answered it. The place where it belonged was smooth.
 
@@ -62,9 +62,11 @@ She reduced it to two possibilities, because reduction was the method she still 
 
 Either the note was sound and she had lost the path back to it, or the note was a product of the same erosion that had made her start writing things down, and following it meant following an error.
 
-She could not test either one from inside the apartment. What she had was a card in her own hand instructing her to do a small, specific, verifiable thing. Set against her own live judgment, which she trusted less every week and had nineteen days of wall to justify it, the card was the stronger source.
+She could not test either one from inside the apartment. What she had was a card in her own hand instructing her to do a small, specific, verifiable thing. Her own live judgment had nineteen days of wall arguing against it. The card was the stronger source.
 
-She took her jacket off the back of the chair. On her way past she added a line to the record, because the record was the point. *Note in own hand, no account of writing it. Following it.*
+The parcel on the industrial road had been the day’s work, and it would keep. A lot that had sat unlooked-at for ten years was not going to change between now and four.
+
+She took her jacket off the back of the chair. On her way past she added a line to the record. *Note in own hand, no account of writing it. Following it.*
 
 ***
 
@@ -74,7 +76,7 @@ She had driven the route to Caleb’s enough times that it ran on its own. She l
 
 It was quieter than she remembered. She held the observation loosely. The quiet might be the city. It might be her. Three weeks ago she had decided she could no longer reliably tell the difference, and nothing since had given her cause to revise it.
 
-What she could do was count, so she counted. Fourteen people on the sidewalk between the rail crossing and the yards. She had recorded fourteen twice before and eleven once, and eleven had been a Sunday. Six vehicles at the light. Two of the four units above the hardware store were lit at eight in the morning. They had been lit the last three times she looked. She had started counting things that could be counted, on the principle that a damaged instrument can still take a reading if the reading is simple enough.
+What she could do was count, so she counted. Fourteen people on the sidewalk between the rail crossing and the yards. She had recorded fourteen twice before and eleven once, and eleven had been a Sunday. Six vehicles at the light. Two of the four units above the hardware store were lit at eight in the morning. They had been lit the last three times she looked. She had started counting what could be counted, on the principle that the simpler the measure, the less of her own state could get into it.
 
 At the crossing near the rail line she reached for the next turn and it did not arrive.
 
@@ -98,13 +100,15 @@ Caleb’s building was a converted block near the outer maintenance yards, three
 
 His apartment was clean. Surfaces clear, nothing left out mid-task, the chairs square to the table. Three weeks ago she had gone through this room and arrived at the same word. It had bothered her then and did not now. It was the cleanliness of a room no one fully inhabited.
 
-“You want coffee?” he said.
+“You want coffee?” he said, and the second cup was already down off the shelf, because he had always taken two down before anyone answered. She had told him once it was the only pushy thing about him.
 
 “No.”
 
+He left the cup where it was.
+
 He sat. She took the chair across from him and ran the assessment she had used on him before, the same one she had used on Joel and on Lila a long time ago now. Sleep. Memory. Appetite. The small structural questions that do not sound like questions if you ask them in the right order.
 
-He answered each one cleanly and stopped. Seven hours, most nights. No gaps he was aware of. He ate at the times he had always eaten. The answers were correct, none of them extended past the edge of the question, and none of them arrived late.
+He answered each one cleanly and stopped. Seven hours, most nights. No gaps he was aware of. He ate at the times he had always eaten. The answers were correct and none of them extended past the edge of the question.
 
 “You’re checking on me,” he said.
 
@@ -116,9 +120,9 @@ He answered each one cleanly and stopped. Seven hours, most nights. No gaps he w
 
 He took it without friction, as he took everything now.
 
-There was one more test and it was hers rather than his. She let her attention go loose at the front of her skull and held it there, as she had taught herself to do in the second week, and waited for the pressure that came when the thing was near. Nothing came. The reading was clean and it was worth having, because a clean reading from an instrument she still trusted was one of the few facts she could put on the map without a qualifier. Whatever had emptied Caleb was not in this building and had not been recently.
+There was one more test and it was hers rather than his. She let her attention go loose at the front of her skull and held it there, as she had taught herself to do in the second week, and waited for the pressure that came when it was near. Nothing came. Whatever had emptied Caleb was not in this building and had not been recently.
 
-She watched him take it and found the assessment already finished. He was stable. Whatever the note had wanted her to confirm, this was it. Three weeks on, Caleb had settled at the level Willow had left him. No further loss. No recovery. From the outside the settling looked like a man who had become calm.
+She looked back at him and found the assessment already finished. He was stable. Whatever the note had wanted her to confirm, this was it. Three weeks on, Caleb had settled at the level Willow had left him. No further loss. No recovery. From the outside the settling looked like a man who had become calm.
 
 She had one more question and it was not on the list. She asked it anyway, because the visit was cheap and the data was not.
 
@@ -140,7 +144,7 @@ She stayed a few minutes more. Leaving at once would have been data she did not 
 
 “How are you doing?” he said.
 
-The question was placed correctly. It arrived at the point in the visit where it belonged, in the tone it should have carried, after the small talk and before the standing up. She looked for the thing underneath it, the reason a person asks that question, the part that wants the answer.
+The question was placed correctly. It arrived at the point in the visit where it belonged, in the tone it should have carried, after the small talk and before the standing up. She looked for what was underneath it, the reason a person asks that question, the part that wants the answer.
 
 The question did not have one. It was the shape of concern with the concern lifted out.
 
@@ -148,7 +152,7 @@ The question did not have one. It was the shape of concern with the concern lift
 
 “Good.” He nodded. “That’s good.”
 
-When she stood, he stood with her.
+The second cup was still on the counter when she stood, and he stood with her, and neither of them looked at it.
 
 “Good seeing you,” he said at the door. They were the words he had used last time, and a hundred times before the change, when they had meant something specific and unrepeated at each use. Now they were a fixed unit. He would say them to the next person in the same shape.
 
@@ -162,7 +166,9 @@ The note had been sound. She could see that now and could build the case for it 
 
 What she could not do was confirm that the argument she had just built was the one she had held last night, when her hand moved the pen.
 
-She had arrived at a logic that fit the note. The original logic had not come back. She had filled the space with something that worked, and the something that worked was sound, and it was hers, and it was not the thing it replaced. Behind Caleb’s questions there was a space of the same kind. He filled it the same way and did not know he was doing it either.
+She had arrived at a logic that fit the note. The original had not come back. What she had built instead was sound, and was hers, and was not what it replaced.
+
+The same gap sat behind Caleb’s questions. He filled it the same way and did not know he was doing it either.
 
 From the outside, the two operations were beginning to converge.
 
@@ -172,6 +178,6 @@ Then she wrote a second card, and this one was an instruction rather than a meas
 
 She started the engine.
 
-The investigation continued. She had a lot on the industrial road that someone had been paying for since before any of this, a map that still held its single line, and by every measure she could apply to herself she remained the only person in Lowport able to follow it. That had not changed.
+The investigation continued. She had a lot on the industrial road that someone had been paying for since before any of this, and a map that still held its single line. By every measure she could apply to herself she remained the only person in Lowport able to follow it. That had not changed.
 
 What had changed was the instrument. For months she had read the damage in other people and filed it. She was the damaged instrument now, and still the only one able to take the reading, and she drove back toward the harbor carrying both facts and nothing attached to either.

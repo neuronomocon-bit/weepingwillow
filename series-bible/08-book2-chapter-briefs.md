@@ -241,7 +241,7 @@ She reduces it to two possibilities, because reduction is the method she still t
 
 **Note:** CLAUDE.md's Book 3 section also claims this draft for Book 3 Ch1. That claim is stale, written before the pivot made Book 2 the sequel. **Book 2 Ch1 owns it.** Book 3 now opens weeks after Book 2, not weeks after Book 1, and needs a different chapter.
 
-**As Written (2,928 words, drafted 2026-08-27, `chapters-book2/01-aftermath.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (2,931 words, drafted 2026-08-27, `chapters-book2/01-aftermath.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
 
 - **Two systems, and they do different jobs.** The morning list beside the light switch is instructions: *Water. Coffee. Check device. Check the map. Eat.* The index cards along the doorframe at eye height are **measurements**, each carrying a date, a duration and a category in the shortest form that will still mean something in a week. *Retrieval, four seconds, site address.* *Sequence loss, cold coffee, approx. eleven minutes.* *Wrote note, cannot account for it.*
 - **The wall holds nineteen days at Day 21**, and she reads all of it once a week. **She has learned from the reading rather than from the living that the intervals are getting shorter.**
@@ -257,6 +257,20 @@ She reduces it to two possibilities, because reduction is the method she still t
 - **The Caleb check becomes scheduled here.** *Caleb. Three weeks.* A thing checked on a schedule produces a series; a thing checked when she happens to think of it produces an anecdote. **Ch11 collects on it.**
 - **Proximity sense:** attention loose at the front of the skull, a technique she taught herself in the second week. Clean reading at Caleb's.
 - **Closing:** for months she read the damage in other people and filed it. **She is the damaged instrument now, and still the only one able to take the reading.**
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. Sixteen revisions, almost all subtractive.** The verdict was that the architecture and the central conceit are right and **the chapter explains several ideas after the scene has already made them clear.** What changed:
+
+- **The interpretive repetition was cut so the payoffs land.** The proximity test lost its entire explanation (*"a clean reading from an instrument she still trusted was one of the few facts she could put on the map without a qualifier"*), the card-record sentence lost three `thing`s, and the convergence passage was compressed into three short paragraphs so that **"From the outside, the two operations were beginning to converge"** arrives on its own. **`instrument` now appears once in the chapter, at the end**, where it is doing the work.
+- **A measured defect, not a matter of taste.** `thing` ran at **37.5 per 10k against published Book 1's 6.0** — six times the rate — with `instrument` at 4 and `reading` at 6 where Book 1 has **zero** of each. Now 4, 1 and 2. **This is a new watch item; see WORD OVERUSE in `03-themes-and-tone.md`.**
+- **A real clarity bug fixed.** *"She watched him take it and found the assessment already finished"* had no antecedent for *it*; the proximity test before it is silent and internal. Now *"She looked back at him."*
+- **The industrial-road lead stays alive across the Caleb sequence.** Iris now defers it explicitly rather than simply following the note, so the chapter's most active question is parked rather than dropped.
+- **⚠️ Caleb gets one concrete remnant of who he was, and it is a Ch11 setup.** *"the second cup was already down off the shelf, because he had always taken two down before anyone answered. She had told him once it was the only pushy thing about him."* Then *"He left the cup where it was,"* and at the door **the cup is still on the counter and neither of them looks at it.** This rhymes with published Book 1 Ch12's Taking memory — coffee on a late shift, *the warmth of it, the fact that they had noticed*. **Do not cut it and do not explain it.**
+- Also: the property's footprint is now concrete (eighty meters deep against a frontage of twenty), the awkward *"had nineteen days of wall to justify it"* is split into two sentences, and four long `and`-chains were broken so the discoveries get their own beats.
+
+**Two continuity questions raised by the review, both checked and both clean:**
+
+1. **The proximity sense is established in published Book 1**, Ch7 (*"Something in the direction held. Recognition. Faint… Location: frontal."*) and Ch8. Book 2 Ch1's *front of her skull* matches it. **What is new is the technique, not the ability** — holding attention there deliberately is something she taught herself in the second week after Book 1, which is a development rather than a new power.
+2. **The symptom categories are distinct and consistently used.** **`Retrieval`** is a delay in producing something stored; **`Sequence loss`** is a gap in the record of what happened. Those are the two card categories across all ten drafted chapters and they never blur. *Erosion* appears once, as Iris's general word for the whole process. **Keep them apart.**
 
 ---
 
