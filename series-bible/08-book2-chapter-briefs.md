@@ -603,7 +603,12 @@ Also: raw image versus usable index clarified (the image closes that evening; an
 
 **On `nothing`:** the review is right that it is concentrated and that the structural uses carry the chapter — his apology for being called out *for nothing*, *"There was no event"*, the null proximity check, his honest report that nothing had changed, and the absence of anyone to receive Iris's account. **If a compression pass runs, take incidental ones and leave those five.**
 
-**As Written (3,280 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`, awaiting the author's pass):**
+**As Written (3,280 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
 
 - **The clock, locked.** Door standing open at **twenty past five** on Thursday morning. Neighbor goes up at **half six**. First crew at **ten past seven**. Second call at **half eleven**. The body runs about **six hours** after he is found. The neighbor last saw him on **Tuesday**, on the stairs with his shopping, in a four-or-five-minute conversation about the bin store: **thirty-six hours at the outside**, and possibly a great deal less.
 - **The line, as briefed:** *"He apologized to us on the way out." / "He said he was sorry we'd been called out for nothing."* Iris's read of it is that it was the most accurate sentence anyone said all day, because from where he was sitting it had been nothing.

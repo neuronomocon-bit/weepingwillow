@@ -67,7 +67,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,055** | **✅ LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **✅ LOCKED 2026-09-02** |
-| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **awaiting author pass** |
+| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **✅ LOCKED 2026-09-02** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,253** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,608** | **awaiting author pass** |
@@ -239,7 +239,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 3 | The Files | 3,055 | **2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | **2026-09-02** |
 | 5 | Read | 3,185 | **2026-09-02** |
-| | **FIVE LOCKED** | **15,516** | |
+| 6 | Too Much | 3,280 | **2026-09-02** |
+| | **SIX LOCKED** | **18,796** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 

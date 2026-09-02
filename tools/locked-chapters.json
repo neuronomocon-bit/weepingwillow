@@ -18,5 +18,9 @@
   "05-read.md": {
     "sha256": "09b283ac75f56b325d39ae852b4f73525527ea6757f102464a3a37d2700dac5c",
     "words": 3185
+  },
+  "06-too-much.md": {
+    "sha256": "94ee9dd2486a6c66c1736cf81355bcad96eb61a162ca2cfc66a596dc17748074",
+    "words": 3280
   }
 }
