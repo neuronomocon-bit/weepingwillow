@@ -101,6 +101,26 @@ The reveal is incremental. Not a dramatic entrance. Iris's eyes adjust. A shape 
 
 *(Rebuilt for the sequel. Chapter numbers are the sequel's.)*
 
+### B2 Ch2 — Rourke's Test
+*Added 2026-09-02. Its exact terms are load-bearing for Ch6, Ch7 and Ch12, so it belongs here rather than only in the brief.*
+
+**Tone:** A scientist with a number she cannot explain, being scrupulous in front of someone she has no reason to trust.
+
+**⚠️ The old version had her wait for a preventable death and it is gone.** Do not let it back. The terms now:
+
+- Iris brings **a person by name, off her own material.** Rourke says only whether they are in her set. *"That is the only thing I will tell you."*
+- Iris names **the function that will stop** — eating, a medication, a dressing, the appointment they keep moving — and roughly when. **Not that they will die.**
+- **Rourke goes and sees them**, does whatever the visit turns out to need, and does not say what she did.
+- It succeeds if the named function had already started stopping when she got there.
+
+**The beat the exchange exists for:** Iris says *"Then the intervention takes the result out of the test."* Rourke answers *"The intervention takes the result out of the death."* **Iris is treating a rescue as noise in the data and does not hear herself do it.** Rourke corrects her without a word of moralizing and moves on.
+
+**And the close, which is Iris's condition rather than Rourke's ethics:** *"It was a fair test, and it was not the test she would have designed. Hers would have been cleaner and would have required someone to die inside it. She could see the difference between the two and could not produce a reason to prefer her own. She took Rourke's."*
+
+**Payoffs:** Ch6 uses the membership check on the man on the north side and gets one word back. Ch7 is Iris failing the test honestly, with magnitude and date and no subject. Ch12 overtakes it entirely when she brings Rourke a dead Caleb.
+
+---
+
 ### B2 Ch4 — RECOVERED: Intake
 *The reader meets Willow Halloway. Everything depends on liking her.*
 

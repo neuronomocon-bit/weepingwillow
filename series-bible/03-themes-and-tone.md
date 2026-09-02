@@ -433,6 +433,25 @@ Thirty-seven instances against Book 1's nine. But Book 1's own most-repeated ope
 
 ---
 
+## ⚠️ OVERCLAIMING — added 2026-09-02, off the author's chapter reviews
+
+**Iris's rigor is her characterization, so a sentence she could not defend is a defect in her and not only in the prose.**
+
+Four came out of two chapters: *"two records that had no way of agreeing by accident"*, *"the two sets had no mechanism for failing together"*, *"the first observation of the effect from the outside by any human being anywhere in the world"*, and a whole page of magnitude findings asserted before there was a post-mortem.
+
+**The test, applied to every conclusion she reaches on the page:** *could this be wrong?* If it could and the sentence says it could not, calibrate it. The calibrated version is almost always stronger, because it sounds like someone who has actually thought about it:
+
+| Overclaimed | Calibrated |
+|---|---|
+| no way of agreeing by accident | no reason to agree at all, through too many changes to put down to accident |
+| no mechanism for failing together | the ordinary explanations for either did not explain both |
+| the first observation anywhere in the world | the earliest she had, and she had spent three weeks looking for an earlier one |
+| the magnitude had changed, that was a fact | if the magnitude could change, then |
+
+**⚠️ And the paired rule, which is the one that cannot be mechanized: for every fact a character states, name the sentence that gave it to them.** Iris concluded a dead man was outside Rourke's cohort in a book that had spent a chapter establishing Rourke would not give her the caseload. **If no sentence gave it to them, either write that sentence or take the fact out.**
+
+---
+
 ## WORD OVERUSE
 
 Flag when they stack, and vary the language. Current watch list for this series: **shape**, **structure**, **pattern**, **weight**, **absence**. All five are load-bearing thematic words, which is exactly why they will over-accumulate without anyone noticing.

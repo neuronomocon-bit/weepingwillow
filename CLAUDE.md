@@ -302,9 +302,19 @@ and re-lock in the same commit as the change.
 
 ---
 
-## ⚠️ KEEPING THE RECORD CURRENT — a standing instruction (author, 2026-09-02)
+## ⚠️ KEEPING THE RECORD CURRENT — a HARD RULE (author, 2026-09-02, restated and enforced the same day)
 
-**Every change to the prose updates the record in the same commit. Not later, not at the end of the act.**
+**Every change to the prose updates the record in the same commit. Not later, not at the end of the act. This is a gate, not a preference.**
+
+**⚠️ It was stated once and then not followed, which is why it is now checked.** Seven chapters were reviewed and revised while `02-characters.md`, `11-key-dialogue-notes.md`, `14-audit-method.md` and `voice-audit.js` were never touched — and the reason it went unnoticed is that nothing was looking. **A rule nobody checks is a rule that drifts, which is this project's oldest lesson and it applies to the rules as much as to the prose.**
+
+**`python tools/verify-record.py` now enforces it.** It reports:
+
+- **REVIEW LEDGER** — every locked chapter must have an `AUTHOR'S REVIEW PASS` block in its brief *and* a row in the REVIEW LEDGER in `review-progress.md`. A chapter cannot be reviewed and locked without the record following it.
+- **Tracker staleness** — any tracked file with no commit since the last prose change is named. **If a change genuinely did not affect one, say so in the commit message. Do not leave it implicit.**
+- Plus the word-count cross-check and the lock hashes.
+
+**Run it before every commit that touches prose.**
 
 A chapter is not finished when the prose is finished. It is finished when the brief, the bible, the trackers and the tools all say what is actually true. **The record going stale is the failure mode this project has hit most often**, and every instance of it has been the same shape: a fact was correct when it was written down and something else moved.
 
@@ -319,9 +329,10 @@ A chapter is not finished when the prose is finished. It is finished when the br
 | `series-bible/14-audit-method.md` | Anything learned about **how defects are found**, as distinct from what the prose must do. |
 | `series-bible/03-themes-and-tone.md` | Any new tic, migration or ruling. **A new wording goes in the same sitting as the prose fix** (Law 2). |
 | `review-progress.md` · `CLAUDE.md` | Status tables, word counts, next work, open questions. |
-| `tools/voice-audit.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
+| `tools/voice-audit.js` · `tools/number-check.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
+| `tools/verify-record.py` | The REVIEW LEDGER row, and the lock, when a chapter is approved. |
 
-**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (31,831 against 32,064 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
+**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (32,107 against 32,064 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
 
 **Check a drafted chapter against the brief AND the dialogue notes.** They hold different beats, and a beat present only in `11-key-dialogue-notes.md` has been missed this way once already.
 

@@ -661,7 +661,7 @@ Unnamed, and stays unnamed. A man on the north side who was fine yesterday, foun
 
 He is the first death that is unambiguously a killing: everything removed at once, on a first visit. **He is not in Rourke's caseload and was never partially Taken.**
 
-**Do not give him a name or a scene of his own.** The most frightening line available is a paramedic quoting something ordinary and correct that he said while he was already gone. Iris arrives in time to be told what he said, not in time to hear it.
+**⚠️ He has a name and the reader never gets it.** The neighbor gives it to Iris in Ch6, she writes it down, and she uses it once: to send it to Rourke and get back one word. **Do not put it on the page and do not give him a scene of his own.** The most frightening line available is a paramedic quoting something ordinary and correct that he said while he was already gone. Iris arrives in time to be told what he said, not in time to hear it.
 
 
 ---
@@ -680,6 +680,8 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **Proximity sense:** attention held loose at the front of the skull, a technique she taught herself in the second week after Book 1.
 - **She drives the van from published Book 1.** The photograph of the two sisters on the seawall has been on its dashboard since January, and she has never decided anything about it.
 - **She schedules the Caleb check at three weeks** in Ch1, which is what Ch11 collects on.
+- **The five-band magnitude scale is hers** (Ch7), built because magnitude was in no record anywhere. One function reduced · more than one with the life around it still running · the life around it no longer running · self-preservation gone, which is where Rourke's eleven came from · everything at once with the body still running. **Defined on a card before she scored anything, together with the rule for a case she scored differently twice.**
+- **Her working method, and it is characterization:** she discards results that confirm her when her own record-keeping produced them, randomizes case order rather than trusting a covered date column, and writes findings down with the *if* still in front of them.
 
 ## Lena Vale
 
@@ -706,6 +708,8 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **Her records room:** free-standing shelving in four rows, filled from the door end backward. **Unindexed for eighteen months and eleven months behind.** *"I know where things are. That works until I'm not here."*
 - **The test she set in Ch2 is still open:** a name off her own cohort, a predicted death inside six weeks, and a reason. Everything in that room if Iris can do it; no fourth appointment if she is wrong.
 - **She keeps a pad on the second desk and turned it face down** after writing three lines about Iris.
+- **⚠️ Her test is a live instrument and Iris has already used it (Ch6).** The terms, exactly: Iris brings **a person by name off her own material**, and Rourke says only whether they are in her set. Iris names **the function that will stop** and roughly when. **Rourke goes and sees them, does whatever the visit needs, and does not say what she did.** The prediction succeeds if the named function had already started stopping when she arrived. **She will not wait for a preventable death and the old version of the test, which did, must not come back.**
+- **The set she gave Iris in February was 168 consecutive redacted summaries, entire, with nothing lifted out**, of which 131 have all four lines filled in. **That it was not curated is the only reason it is worth anything**, and Iris knows it.
 - **⚠️ Contraction lock:** published Book 1 runs her at **7% expanded**. Book 2 sits at 21% and the residual is her recitation register. **Do not sweep it further and do not let it drift back up.**
 
 ## Daniel Kade

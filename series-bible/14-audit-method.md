@@ -258,6 +258,40 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 ---
 
+## THE THIRD METHOD — the author's chapter review, 2026-09-02
+
+**This project had two ways of finding defects and has now been shown a third.**
+
+| | Finds | Cannot see |
+|---|---|---|
+| **Frequency comparison** against published Book 1 | Voice defects. Constructions this book reaches for that the finished one never does. | Anything true of both books, and anything that is not a word-frequency phenomenon at all. |
+| **Beat counting** against the brief and the dialogue notes | Missing beats, unpaid setups, absent payoffs. | Anything present on the page but wrong. |
+| **⚠️ The author's chapter review** | **Arithmetic. Chronology. Access chains. Overclaiming. Domain plausibility.** | Nothing yet, which is why it is now part of the process. |
+
+**Seven chapters reviewed. Five carried a hard error. Not one was findable by either of the other two methods**, because every one of them was a perfectly well-formed sentence that happened to be false.
+
+### What the class actually is
+
+1. **Arithmetic that does not add up.** Three retries described as four. A thirty-one-hour benchmark beaten by two hours reported as eleven. Four intervals on a scale with three transitions in it. Band two called four increases below band five.
+2. **Chronology against the calendar.** February called ten months back in a March scene. *Nine months* where *nine weeks* was meant. A man deciding four years ago about a three-year-old event.
+3. **⚠️ The access chain — a character knowing something no established channel gave them.** This is the most dangerous of the five, because it reads perfectly. Iris concluded a dead man was outside Rourke's cohort in a book that had spent a chapter establishing that Rourke refused her the caseload.
+4. **Overclaiming — an inference stated as a fact.** *"No way of agreeing by accident."* *"No mechanism for failing together."* *"The first observation anywhere in the world"*, four paragraphs before she says she is not certain. **This one matters here more than it would elsewhere, because rigor is Iris's characterization. A sentence she could not defend is a defect in her, not just in the prose.**
+5. **Domain plausibility.** A repeatable error said to rule out damaged media. A blind scoring pass that was not blind because the case order was itself a date. *No arrest* said of a dead man. Orientation offered as capacity. A platter where a drive was meant, four chapters deep.
+
+### What was built out of it
+
+- **`tools/number-check.js`** pulls every number-bearing sentence out of a chapter so the arithmetic can be read in a column, and `--calendar` does the same for intervals and month names. **Three of the eleven errors would have been visible in that column in a minute.**
+- **`tools/verify-record.py` gained a REVIEW LEDGER check**, because the rule that every tracked file moves with the prose was stated and then not followed for seven chapters running.
+
+### The rule that came out of it
+
+**Two of the five categories cannot be mechanized and both are read-aloud questions:**
+
+- **For every fact a character states, name the sentence that gave it to them.** If there is not one, either write it or take the fact out.
+- **For every conclusion, ask whether it survives being wrong.** *Could this agree by accident? Could both records fail for one reason I have not thought of?* If the answer is yes and the prose says no, the prose is overclaiming on a character whose whole value is that she does not.
+
+---
+
 ## AUDIT LOG — Ch8, Ch9, Ch10, 2026-09-02
 
 **The section above is the Ch1–Ch7 pass, 21,284 words. The corpus is now Ch1 to Ch10, 31,023 words**, against the same 23,322 words of published Book 1. Run `node tools/voice-audit.js --per-ch`.

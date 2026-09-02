@@ -228,6 +228,24 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 **And the general form of it, which is the more useful lesson:** a clean screen is evidence about the screen, not about the prose.
 
+## REVIEW LEDGER — the author's chapter reviews
+
+**One row per chapter reviewed.** The full record of each is the **AUTHOR'S REVIEW PASS** block in that chapter's brief. This table exists so that a reviewed chapter cannot be locked without the record following it, and `python tools/verify-record.py` checks both.
+
+| Ch | Hard errors found | The one that mattered most |
+|---|---|---|
+| Ch1 | 0 | No contradiction. Emphasis only: the chapter explained ideas it had already dramatized. `thing` at six times Book 1's rate was the measurable half of that. |
+| Ch2 | 2 | **Rourke could not wait for a preventable death.** Also *"ten months ago"* against *"in February"*, which put the scene in the wrong season and set the series calendar. |
+| Ch3 | 2 | **She powered a cartridge in the bay and then said nothing gets powered up in the bay.** Also Kade deciding four years ago about a three-year-old event, and *platter* for *drive* across four chapters. |
+| Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
+| Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
+| Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
+
+**⚠️ Five of seven chapters carried a hard error, and not one was findable by either check this project already had.** See `14-audit-method.md` → THE THIRD METHOD.
+
+---
+
 ## LOCKED CHAPTERS
 
 **A locked chapter has been reviewed and approved by the author and is closed to editing** — the same treatment `book1-published/` gets. Not a typo, not a later rule applied retroactively, and **especially not a sweep across all chapters**, which is how an approved chapter realistically gets edited by accident.

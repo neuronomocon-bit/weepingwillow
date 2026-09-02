@@ -105,8 +105,68 @@ if fails:
 else:
     print("  clean, every recorded number matches the prose")
 
-# ---------------------------------------------------------------- locks
+# ---------------------------------------------------------------- review ledger
+#
+# ⚠️ THE RULE THIS ENFORCES (author, 2026-09-02): when a chapter is reviewed,
+# every file that tracks it is updated in the SAME commit. This check exists
+# because that rule was stated and then not followed: seven chapters were
+# reviewed and revised while 14-audit-method.md, 02-characters.md,
+# 11-key-dialogue-notes.md and voice-audit.js were never touched. A rule nobody
+# checks is a rule that drifts, which is this project's own oldest lesson.
+
+import subprocess
+
+
+def last_commit_epoch(path):
+    try:
+        out = subprocess.check_output(
+            ['git', 'log', '-1', '--format=%ct', '--', path],
+            stderr=subprocess.DEVNULL).decode().strip()
+        return int(out) if out else 0
+    except Exception:
+        return 0
+
+
+TRACKERS = ['series-bible/08-book2-chapter-briefs.md',
+            'series-bible/02-characters.md',
+            'series-bible/11-key-dialogue-notes.md',
+            'series-bible/14-audit-method.md',
+            'series-bible/03-themes-and-tone.md',
+            'review-progress.md', 'CLAUDE.md']
+
 locks = load_locks()
+
+print("\nREVIEW LEDGER")
+ledger = io.open('review-progress.md', encoding='utf-8').read()
+ledger_gaps = []
+for name in sorted(locks):
+    n = int(re.match(r'(\d+)', name).group(1))
+    m = re.search(u'### Chapter %d [—-].*?(?=\n### Chapter |\\Z)' % n, briefs, re.S)
+    blk = m.group(0) if m else u''
+    has_pass = u"AUTHOR'S REVIEW PASS" in blk
+    has_row = (u'| Ch%d |' % n) in ledger
+    if has_pass and has_row:
+        print("  ok        Ch%-2d recorded in its brief and in the ledger" % n)
+    else:
+        ledger_gaps.append(n)
+        print("  GAP       Ch%-2d %s%s" % (
+            n,
+            "" if has_pass else "no AUTHOR'S REVIEW PASS block in its brief. ",
+            "" if has_row else "no row in the REVIEW LEDGER in review-progress.md."))
+
+newest_chapter = max(last_commit_epoch(os.path.join('chapters-book2', f))
+                     for f in os.listdir('chapters-book2') if re.match(r'\d', f))
+stale = [t for t in TRACKERS if last_commit_epoch(t) < newest_chapter]
+if stale:
+    print("\n  These tracked files have not been committed since the last prose change:")
+    for t in stale:
+        print("       " + t)
+    print("  If a change genuinely did not affect one, say so in the commit message.")
+    print("  Do not leave it implicit. That is how the record goes stale.")
+elif not ledger_gaps:
+    print("  every tracked file has moved with the prose")
+
+# ---------------------------------------------------------------- locks
 print("\nLOCKED CHAPTERS")
 if not locks:
     print("  none")
