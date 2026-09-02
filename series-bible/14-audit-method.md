@@ -293,6 +293,19 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
 
+### ⚠️ THE INFERENCE CHAIN IS A DEFECT CLASS OF ITS OWN, AND IT IS THE HARDEST ONE YET
+
+**Ch14's central derivation was circular and passed every check this project had.** Iris read Willow's intention off the fact of her return, then used that intention to prove the first result had been incomplete. **The beat count passed** — the brief's beats were all present. **The frequency comparison passed.** **The number check passed, because every number in it was arithmetically correct.** The defect was in the *provenance of a conclusion*, not in any sentence.
+
+**Two named sub-classes, both found in one chapter:**
+
+1. **One case promoted to a program.** Caleb establishes a single return. The draft turned it into universal intention and a citywide roster of unfinished subjects. **The test: for every general claim, count the cases it actually rests on, and check whether the prose says that number out loud.**
+2. **⚠️ A DATA TYPE SILENTLY CHANGING LEVEL.** Ch7's intervals are between *increases across a population*. Ch14 used them as intervals between *visits to one person*, and then quoted a return window off them to a character. **The numbers were real and the arithmetic was right and the level was wrong.** Nothing flags this: it is the access-chain defect one layer up, where the channel exists but carries a different kind of fact than the one being claimed.
+
+**The fix is never to soften the plot's answer.** The model stays; what changes is that the chapter separates **observed**, **consistent with**, and **hypothesis**, and then argues the decision to act on an unproven model as its own question with its own standard. **Iris acting responsibly on one confirmed return while stating exactly what remains unknown is more frightening than certainty, and it is more in character.** Rigor is her characterization, so an unearned conclusion is a defect in her before it is a defect in the plot.
+
+**⚠️ And the gate ran a third time.** *"present… in the sense that a room is present"* certified Lila's absence by image rather than by adjective. **Do not name what is missing and do not certify what is there — including by simile.**
+
 ### ⚠️ CONTRAST FRAMING SURVIVES A PERIOD, AND NO SCREEN WAS LOOKING ACROSS ONE
 
 `03-themes-and-tone.md` has banned **`X was not Y. It was Z.`** since Book 2 began, and it was listed there explicitly. **Every screen we had looked inside a single sentence**, so the split form read as two clean declaratives and passed. Ch14 carried *"four was not a ceiling. It was a stage."* through three passes.

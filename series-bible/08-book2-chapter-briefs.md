@@ -1181,7 +1181,35 @@ The reclassification form is Marin's doing, from the shutdown, and Iris will nev
 
 ---
 
-**AS WRITTEN (drafted 2026-09-02, 3,023 words, Day 51, a Thursday).**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02, on the day it was drafted. Two hard continuity errors, one numerical representation problem, and — the real finding — a central derivation that did not survive Iris's own evidentiary standard.**
+
+**⚠️ THE DERIVATION WAS CIRCULAR AND IT IS THE MOST IMPORTANT DEFECT FOUND IN THIS BOOK SO FAR.** The draft read Willow's *intention* off the fact of her return (*"band two was not what the thing had been trying to produce, or it would have stopped"*) and then used that inferred intention to prove the first result had been partial. **Caleb establishes one return. The chapter was converting it into universal intention, a citywide roster of unfinished subjects, and a four-to-eleven-week return window.**
+
+**Rebuilt as three labeled lines and a separately argued decision**, which is what Iris would actually write:
+
+- ***Observed.*** One man, two contacts, nine weeks apart, band two holding and then band five. **One person, and the chapter says so.**
+- ***Consistent with.*** Rourke's curve steps, stops for a hundred and ten days, resumes at the band it stopped at — **but those intervals sit between increases in a population, and a population is not a person.** *"It failed to contradict her, and failing to contradict is not support."*
+- ***Hypothesis.*** It returns to subjects it has not finished with and finishes them. **She cannot promote it**, and the chapter names the live alternatives: chosen again for an inaccessible reason, a second contact simply doing more without completion being the point, or Caleb as the one exception four hundred cases were always going to throw up. *"A single case is exactly the shape a coincidence takes."*
+- **Then the risk decision, on a different standard.** Wrong one way is a person frightened for nothing; wrong the other way is a person. *"A decision taken on an unproven model is a decision that has to say so on the paper."*
+
+**⚠️ THE PROVENANCE ERROR TO WATCH FOR AGAIN: a population escalation schedule was silently converted into a subject-level revisit schedule.** Ch7's intervals are twenty-three, seventeen and twenty-six days *between increases across Rourke's set*, plus the hundred-and-ten-day gap. **They are not intervals between a first and second visit to the same person, and nothing in the record is.** The invented *"four to eleven weeks"* is deleted; Iris now tells Lila **"I have one interval and it is nine weeks, and one interval is not a range. I cannot give you a date and I am not going to invent one."** **Keep data types inside their own boundaries.**
+
+**Two hard continuity errors:**
+
+1. **Iris could not have scored Caleb band two in January.** The five-band scale is built in Ch7 on **Day 39**. The January and March assessments predate the definitions, so the banding is now explicitly retrospective: *she had scored it band two off the definition on the card in April, because in January there had been no card and no definition and no scale to hang either on.*
+2. **Caleb did not die on the north side.** He died **in his apartment** (Ch11: *"In the apartment"*). **The north side belongs to the unrelated man in Ch6** — straightforward case-location contamination between two of Iris's own cases, and it read perfectly.
+
+**The population is now a range.** 404 of Rourke's alive, plus herself, plus four named cases whose overlap with Rourke's cohort cannot be resolved, gives **405 to 409 unique living subjects**. She writes *405 to 409* with *deduplication unresolved* under it. **And *"None finished"* was a claim of the hypothesis wearing the clothes of a count**, so the card now reads ***405 to 409 living partials. Return status unknown.***
+
+**Three smaller calibrations.** *"Four was a stage"* asserted the escalation model as fact and is now *"on the model she now had and could not prove, four was a stage."* The **`knew`** card was broader than the form can carry — the reclassification proves someone knew the asset would stay, not that they knew what it was becoming — and is now ***knew it would stay***, with the chapter saying why in the same sentence. And Iris's *"it does not do that once"* was a generalization contradicted by the very next sentence she speaks; it is gone.
+
+**⚠️ AND ONE EPISTEMIC GATE BREACH, which is the third time this exact gate has caught something.** *"She was present in January and she was present now, in the sense that a room is present."* **Comparing Lila to an inanimate room certifies the absence the series refuses to certify** — the same defect as Ch10's *"and she meant it"*, running the other direction. **Cut.** *"She waited without impatience and without expectation, exactly as she had waited in January"* carries the whole effect and claims nothing.
+
+**Confirmed unchanged, and named so no later pass touches them:** the four option cards; Rourke's *"go and say it to one of the five, and call me back and tell me how it went"* and the fact that **Iris never calls back**; Lila's *"That is useful information"*, her accurate repetition, *"Is there a date"*, *"Then I will continue as normal. I respond when required."*, and *"I can provide more information if necessary."*; **the two-sentence mirror** (*"She had delivered an accurate warning to someone who could not use it. And she had built that warning out of a case series she was inside."*); the Book 1 Ch4 physical inversion; **Lena unwarned with no reason given — do not resolve it**; and the reused blank card as the final line.
+
+**The revision made the chapter longer and better: 3,023 to 3,298 words, 92% of budget.** **Restoring the uncertainty added forward pressure rather than softening the chapter** — Iris now has a model that may be wrong, cannot afford to wait for another death to test it, and finds out from Lila that warning alone is not an intervention.
+
+**AS WRITTEN (drafted 2026-09-02, revised the same day, 3,298 words, Day 51, a Thursday).**
 
 **⚠️ THE OBLIGATION THIS CHAPTER OWED WAS NOT IN ITS OWN BRIEF.** The **Ch22** dialogue note says Iris does not run and does not fight because *"both were assessed and discarded in writing, in Ch14, when she still had a working process and no fear to interfere with it."* **Nothing in the Ch14 brief says so.** Four cards now carry it — **Leave, Refuse, Resist, Hide** — each assessed cold and each closed on a stated reason: no established range in the record (the eighteen months of small takings respected no boundary); *no instance of refusal on file*, then, underneath, *no mechanism identified by which refusal would operate*; a pulse coming down from forty-four to thirty-one with no contact and nothing in the room to put a hand on; and *not tested*, then *the first visit found me at home*, which closes it. **She builds the whole assessment in about nine minutes without losing the thread**, and the chapter names the cost directly: there is a version of this where the fear would have made her stupid, she was that person in the second week of January, and **the work she did then was worse work, done faster, with more of it wrong.**
 

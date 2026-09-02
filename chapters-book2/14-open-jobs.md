@@ -2,31 +2,39 @@ Chapter 14 — Open Jobs
 
 The three readings on Caleb Ward were on the table in front of her in order, and she had been looking at them since half past six.
 
-The first was from January, four days after the thing on the access road. She had run the assessment properly: sleep unchanged, appetite unchanged, memory intact and retrievable on demand, recall of the event itself complete and flat. One function reduced and the whole of the rest of him still running. She had scored it band two off the definition on the card, and the notes ran to three pages because she had written down everything, including the things that turned out not to matter.
+The first was from January, four days after the thing on the access road. She had run the assessment properly: sleep unchanged, appetite unchanged, memory intact and retrievable on demand, recall of the event itself complete and flat. One function reduced and the whole of the rest of him still running. She had scored it band two off the definition on the card in April, because in January there had been no card and no definition and no scale to hang either on, and the notes ran to three pages because she had written down everything, including the things that turned out not to matter.
 
 The second was the third of March, in his kitchen, and it was the same assessment and it came back the same. She had noted a delay on two answers and had not been able to defend a change on either.
 
-The third was the north side on Day 45, and it was four lines long, because four lines was all there had been.
+The third was his apartment on Day 45, and it was four lines long, because four lines was all there had been.
 
 Nine weeks from the first to the last. Eight of those weeks were flat and the last one was not, and in it the man had gone from a specific removal to everything at once with the body still running, and then the body had stopped.
 
 She had spent Tuesday and Wednesday looking for a fourth. There was not one. The check that would have made it had been scheduled for Day 42 and had not happened, and she had written that down already and got nothing out of it. So she stopped looking for the reading she did not have and worked with the three she did.
 
-She wrote the sequence out to see whether it survived being written down: *a partial result, a gap, and then the same subject completed.* It survived.
+She wrote the sequence out to see whether it survived being written down: *a partial result, a gap, and then the same subject completed.* It survived, and it was still only Caleb.
 
-The gap was where the argument lived. Something had been done to Caleb Ward in January and had produced band two, and band two was not what the thing had been trying to produce, or it would have stopped. It had not stopped. It had gone away, and it had come back, and the second time it had finished.
+Then she wrote the model out, and underneath it what the model was not, because the second list is the one that keeps you honest.
 
-She checked the shape of that against everything she had. The intervals on the curve went up in steps with a flat stretch in the middle and then resumed at the band they had stopped at. She had read that flat stretch as a pause, and had said so out loud to Rourke, and Rourke had not corrected her because there was nothing to correct it with.
+*Observed.* One man, two contacts, nine weeks apart. The first produced band two and the first held. The second produced band five and he died in it. That was the whole of the evidence and it was one person.
 
-The flat stretch was an interval, and what it lay between was a first visit and a second one.
+*Consistent with.* Rourke’s curve went up in steps, stopped for a hundred and ten days, and resumed at the band it had stopped at. But those intervals sat between increases in a population, and a population is not a person. Nothing in that curve said that any individual inside it had been visited twice. It failed to contradict her, and failing to contradict is not support.
 
-She sat with that for the length of time she gave things now, long enough to be sure the second reading of it matched the first.
+*Hypothesis.* It returns to subjects it has not finished with, and finishes them.
+
+She read the three lines back and could not promote the third one. One case does not make a program. Caleb might have been chosen a second time for a reason she had no access to. A second contact might do more than a first without completion being the point of it. Caleb might be the one exception a set of four hundred was always going to produce, and a single case is exactly the shape a coincidence takes.
+
+She could not get from what she had to what she believed, and she went round it twice looking for the step and there was no step.
+
+So she stopped trying to prove it and asked the other question instead. That one has a different standard.
+
+If she acted on the model and the model was wrong, she had frightened someone for nothing. If she declined to act and the model was right, the cost was a person. She did not need it proven to move on a gap that size. She wrote that down underneath the three lines, in those words, because a decision taken on an unproven model is a decision that has to say so on the paper.
 
 ***
 
 Then she ran the population, because the derivation was worth nothing until she knew how many people it applied to.
 
-Rourke had four hundred and sixteen. Twelve of them were dead and the other four hundred and four were not, and every one of the four hundred and four had been assessed once and filed at whatever band they had presented at. Rourke’s set had never shown Iris anything above four. That had bothered her in March and she had put it down to a clinical population being a filtered one, and it was still true that a clinical population is filtered. Four was a stage.
+Rourke had four hundred and sixteen. Twelve of them were dead and the other four hundred and four were not, and every one of the four hundred and four had been assessed once and filed at whatever band they had presented at. Rourke’s set had never shown Iris anything above four. That had bothered her in March and she had put it down to a clinical population being a filtered one, and it was still true that a clinical population is filtered. On the model she now had and could not prove, four was a stage.
 
 Her own cases were smaller and better. Joel, in February, case ref K-01, a specific removal and the rest of him working and his wife four months into a word she could not find. Lila Mercer, in January, on the second floor of a building two blocks off the main road, complete and polite and entirely correct. Caleb, three times. The two out of the outer zone.
 
@@ -38,15 +46,15 @@ January. Band two. Three increases below the top of the range, in a set she was 
 
 She could not total it cleanly. Rourke’s summaries ran to four lines with the identifying material stripped out, so there was no way to tell whether Joel was inside the four hundred and sixteen or beside it, and the same was true of Lila and of the two out of the outer zone. What she could defend was four hundred and four of Rourke’s still alive, and herself, and a margin of four she could not resolve in either direction.
 
-She wrote *409* and then put a mark against it, because a figure she could not deduplicate was a figure that went up with a mark against it.
+She wrote *405 to 409* and under it *deduplication unresolved*, because a figure she could not deduplicate went up as a range or it did not go up at all.
 
-The mark did not change what the number was for. Four hundred people in this city had been visited once and left in a condition that was not the condition the thing was trying to produce, and not one of them was finished. It took her under a minute to get there and it did not go anywhere afterward. She read it back twice and could not find the error.
+The range did not change what the number was for. Four hundred people in this city were alive and carrying a partial result, and on her model not one of them was finished, and the model was the part she could not stand behind. It took her under a minute to get there and it did not go anywhere afterward. She read it back twice and could not find an error in the arithmetic, and the arithmetic was the only part of it that could have one.
 
 ***
 
 Then she went to make the list and found out that she did not have one.
 
-Four hundred and nine people, and five names. Joel. Lila Mercer. The two out of the outer zone. Herself. Everything else was four lines with the identifying material stripped out, because that is what you do with a clinical record leaving the service, and Rourke had done it correctly every time.
+Four hundred people, give or take four, and five names. Joel. Lila Mercer. The two out of the outer zone. Herself. Everything else was four lines with the identifying material stripped out, because that is what you do with a clinical record leaving the service, and Rourke had done it correctly every time.
 
 The traffic had only ever run in one direction. Iris put a name in and Rourke told her whether it was in the set. She had done that nine times in February and Rourke had confirmed six of them and had never once sent a name the other way, and there had never been a version of the arrangement in which she would.
 
@@ -104,7 +112,7 @@ The slice the signature sat in was one of the degraded ones. She had known that 
 
 So she did not have a name. She had the form, and she had a date three weeks ahead of a seal, and she had the fact that the reclassification was correct. No one had falsified anything. The asset genuinely was not going to be moved, and someone had made the paperwork say the true thing, and the true thing was that it was staying.
 
-She wrote *knew* on a card and put it up with the others.
+She wrote *knew it would stay* on a card and put it up with the others, and she wrote the object of it out in full because *knew* on its own was a bigger word than the form could carry.
 
 ***
 
@@ -126,7 +134,7 @@ They sat where they had sat in January.
 
 Iris had decided in the van what she was going to say and had decided to say it plainly, because everything she knew about this woman said that plainly was the only register that would reach her, and because she had nothing else. She put both hands flat on the table.
 
-“I have information that concerns you and I am going to give you all of it,” she said. “In January something came to you and took something. You know that part. What I have found since is that it does not do that once. It comes back to the same person and completes what it started. I have one case I watched from the first visit to the end of it, and eleven more that fit and that I cannot prove.”
+“I have information that concerns you and I am going to give you all of it,” she said. “In January something came to you and took something. You know that part. What I have found since is this. I have one case where it came back to the same person and completed what it started, and I watched the end of that one myself. Eleven more deaths fit it and none of them prove it. I think you should act as though it will come back to you.”
 
 “All right,” Lila said.
 
@@ -146,7 +154,7 @@ Lila listened the whole way through. She did not interrupt and she did not look 
 
 Iris looked at her.
 
-“No,” she said. “The intervals in the record are between four and eleven weeks and they are not regular and I cannot narrow them.”
+“No,” she said. “I have one interval and it is nine weeks, and one interval is not a range. I cannot give you a date and I am not going to invent one.”
 
 Lila took that in.
 
@@ -164,7 +172,7 @@ She noted the location and the duration and the absence, because those were the 
 
 Then she sat in the chair opposite a woman she had come to warn and understood two things with complete clarity and no accompanying sensation whatsoever. She had delivered an accurate warning to someone who could not use it. And she had built that warning out of a case series she was inside.
 
-Lila waited. She waited without impatience and without expectation. She was present in January and she was present now, in the sense that a room is present.
+Lila waited. She waited without impatience and without expectation, exactly as she had waited in January.
 
 “Is there anything else you need,” Lila said.
 
@@ -178,7 +186,7 @@ At the door Lila stood in the frame with the hallway light behind her, exactly a
 
 Iris went down the stairs and out through the gravel to the van and sat with the keys in her hand.
 
-She had told her. Every word of it had been true and in the right order, and she had not left anything out to make it easier.
+She had told her. Every word of it had been true and in the right order, and she had not left anything out to make it easier, including the part where she could not prove any of it.
 
 The woman upstairs had received all of it and filed it. She would prepare food now, and go for a walk, and return.
 
@@ -190,7 +198,7 @@ She started the van.
 
 At home she took Lena’s number up on the phone and looked at it for a while, and then put the phone face-down on the table and went to the wall.
 
-She wrote *409, marked. None finished.* on one card and put it in the row.
+She wrote *405 to 409 living partials. Return status unknown.* on one card and put it in the row.
 
 The blank card from Monday was still on the table where she had left it, the one that was supposed to have carried the third check on Caleb. She had not been able to write on it because the check no longer had a subject. She picked it up now and turned it over and used the other side, and what she wrote on it was *first visit January. Second visit not yet.*
 
