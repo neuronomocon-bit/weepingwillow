@@ -448,7 +448,7 @@ Four came out of two chapters: *"two records that had no way of agreeing by acci
 | the first observation anywhere in the world | the earliest she had, and she had spent three weeks looking for an earlier one |
 | the magnitude had changed, that was a fact | if the magnitude could change, then |
 
-**⚠️ And the paired rule, which is the one that cannot be mechanized: for every fact a character states, name the sentence that gave it to them.** Iris concluded a dead man was outside Rourke's cohort in a book that had spent a chapter establishing Rourke would not give her the caseload. **If no sentence gave it to them, either write that sentence or take the fact out.**
+**⚠️ Both rules are live from Ch11 on and neither can be mechanized. For every fact a character states, name the sentence that gave it to them.** Iris concluded a dead man was outside Rourke's cohort in a book that had spent a chapter establishing Rourke would not give her the caseload. **If no sentence gave it to them, either write that sentence or take the fact out.**
 
 ---
 

@@ -68,11 +68,11 @@ Checked on every chapter of this book in addition to the standard passes:
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **✅ LOCKED 2026-09-02** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **✅ LOCKED 2026-09-02** |
-| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **awaiting author pass** |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **✅ LOCKED 2026-09-02** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **awaiting author pass** |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
@@ -240,6 +240,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
 | Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
 | Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch10 | **0** | **The first with no hard error.** One epistemic breach instead: *"and she meant it"* certified Willow's interior in a chapter built on Marin not being able to tell. **The gate runs both ways — do not name what is missing and do not certify what is there.** All three calendar items checked out. |
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
@@ -261,8 +262,10 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 5 | Read | 3,185 | **2026-09-02** |
 | 6 | Too Much | 3,280 | **2026-09-02** |
 | 8 | **RECOVERED: Sessions** | 3,851 | **2026-09-02** |
+| 7 | The Curve (ACT I TURN) | 3,529 | **2026-09-02** |
 | 9 | Lena | 3,329 | **2026-09-02** |
-| | **EIGHT LOCKED** | **25,976** | |
+| 10 | **RECOVERED: Calm** | 3,042 | **2026-09-02** |
+| | **ALL TEN LOCKED** | **32,547** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 

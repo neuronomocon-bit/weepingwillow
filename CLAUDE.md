@@ -142,7 +142,30 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-02)
 
-**ACT I IS COMPLETE AND ACT II IS UNDER WAY. Ch1 through Ch10 are drafted, audited and pushed. 30,833 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. **There are no pending drafts left** — Ch8 was the last one and it is spent, so every chapter from here is a fresh draft. **Ch11 — MIDPOINT: Caleb is next, and it MUST close on dialogue** (Ch8, Ch9 and Ch10 all close on narration, which is the cap of three).
+# ✅ CH1 TO CH10 ARE REVIEWED, REVISED AND LOCKED. 32,547 words.
+
+**The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
+
+**⚠️ Ch11 is the first chapter drafted under everything those reviews established. Read the WHAT CH11 INHERITS block in its brief before drafting a word of it.**
+
+### What the ten reviews actually found
+
+**Eleven hard errors across five chapters, and not one was findable by either check this project already had.** The frequency comparison finds voice defects. The beat count finds missing beats. Neither can see arithmetic, chronology, an access chain, an overclaim, or a domain implausibility, **because every one of those is a well-formed sentence that happens to be false.** Full taxonomy in `14-audit-method.md` → THE THIRD METHOD; the per-chapter table is the REVIEW LEDGER in `review-progress.md`.
+
+**The five categories, in the order they will bite again:**
+
+1. **Arithmetic** — three retries called four; a two-hour margin reported as eleven; four intervals on a scale with three transitions.
+2. **Chronology** — February called ten months back in a March scene. **The calendar is now a locked table in the briefs. Check every interval against it.**
+3. **⚠️ The access chain** — a character knowing something no channel gave them. The most dangerous, because it reads perfectly. **For every fact a character states, name the sentence that gave it to them.**
+4. **Overclaiming** — inference stated as fact. **Rigor is Iris's characterization, so a sentence she could not defend is a defect in her.**
+5. **Domain plausibility** — a repeatable error said to rule out media damage; a blind pass that was not blind; *no arrest* said of a dead man.
+
+**And two rules that came out of our own mistakes rather than the prose:**
+
+- **⚠️ A fix in one chapter is a change to every chapter that depends on it.** The Ch8 record-architecture fix silently invalidated Ch9's opening and nothing caught it. **After revising, grep the other chapters for the facts you changed, before the commit.**
+- **⚠️ The gate runs both ways.** Do not name what is missing and do not certify what is there. Ch10 had *"and she meant it"* about Willow, in a chapter built on nobody being able to tell.
+
+**New tooling:** `tools/number-check.js` (every number-bearing sentence in a column, `--calendar` for intervals) and the REVIEW LEDGER and staleness checks in `tools/verify-record.py`.
 
 **All three open decisions were ruled by the author on 2026-09-02 and are recorded below.**
 
@@ -158,11 +181,11 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 4 | **RECOVERED: Intake** | 3,394 | 3,600 | 206 | **LOCKED 2026-09-02** |
 | 5 | Read | 3,185 | 3,600 | 415 | **LOCKED 2026-09-02** |
 | 6 | Too Much | 3,280 | 3,400 | 120 | **LOCKED 2026-09-02** |
-| 7 | The Curve (ACT I TURN) | 3,529 | 3,600 | 71 | Awaiting author pass |
+| 7 | The Curve (ACT I TURN) | 3,529 | 3,600 | 71 | **LOCKED 2026-09-02** |
 | | **ACT I** | **22,325** | **24,600** | **2,275** | 87% of budget |
 | 8 | **RECOVERED: Sessions** | 3,851 | 3,800 | -51 | **LOCKED 2026-09-02** |
 | 9 | Lena | 3,329 | 3,600 | 271 | **LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | Awaiting author pass |
+| 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
 | | **THROUGH CH10** | **32,547** | **35,400** | **2,853** | 88% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
@@ -258,7 +281,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
 ### Next work, in priority order
 
-1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled.
+1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
 2. **Ch12 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 4. **The brief-by-brief under-specification audit of all 22.** Still unrun. It is a defect check, not a length check — see decision 2.
@@ -290,7 +313,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**Locked so far: Ch1 to Ch6, Ch8 and Ch9 (all 2026-09-02), 25,976 words.** Aftermath, Mortality, The Files, RECOVERED: Intake, Read, Too Much, RECOVERED: Sessions, Lena. **Ch7 is reviewed and revised but not yet locked. Ch10 has not been reviewed.**
+**✅ ALL TEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (2026-09-02). 32,547 words.** Ch1 to Ch10 are closed to editing. **Ch11 is the first chapter drafted under everything the reviews established.**
 
 **The lock is enforced, not just recorded.** `tools/locked-chapters.json` holds a hash of each locked chapter and `python tools/verify-record.py` reports any that have moved. If a lock breaks, **the default assumption is that something edited an approved chapter by mistake — read the diff before doing anything else.** When the author has genuinely approved a change:
 

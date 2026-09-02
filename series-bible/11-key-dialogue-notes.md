@@ -202,6 +202,8 @@ She means it as good news. She is not wrong.
 ---
 
 ### B2 Ch11 — MIDPOINT: Caleb
+
+**⚠️ Added 2026-09-02, after Ch1 to Ch10 were locked: the gate runs both ways here.** Caleb answers correctly until he stops. **No line may call him empty, hollow, absent or gone, and no line may vouch for anything still being in him either.** Render the answers. The reader decides what was behind them. See the Ch11 brief's WHAT CH11 INHERITS block for the coffee cup, the missed three-week check, and band five.
 *The first deliberate killing. **Iris POV, not his.***
 
 **The call, and it is the whole opening:** Caleb phones her. **He does not call people.** He calls because a fact requires reporting, and he reports it in the flat correct register he has used since Book 1 Ch13.

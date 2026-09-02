@@ -686,7 +686,12 @@ Kade asks what that makes it. She says it makes it a method.
 - **Pell's supervisor's note, and *"It was a compliment."***
 - **⚠️ Iris overstating the third finding to Kade and immediately correcting it stays exactly as written.** *"The third is that it has a starting point, and the starting point is inside Meridian." / "You're saying it started in there." / "I am saying the record starts in there."* This is not slipping judgment. **It is the precise inverse of Ch4**: Marin gave her sister the strong version and let it stand; Iris gives Kade the strong version and takes it back the moment he repeats it. **Same move, opposite outcome, and the book should keep both.**
 
-**As Written (3,529 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`, awaiting the author's pass):**
+**As Written (3,529 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
 
 - **The measure is built on the page, and the first version is thrown away.** Five bands, defined in advance and written on a card **before a single case is scored**, so a definition cannot be adjusted to fit the finding. Band one is a single function reduced; band five is everything at once with the body still running. The first pass scores two hundred and six cases and produces the curve she wants, **and she takes it apart, because the top of it is almost entirely her own cases** and her own notes run to pages where Rourke's summaries run to four lines. *A richer record scores higher, and what that measures is the recorder.* Her card: ***first pass is contaminated, and by me.***
 - **The second pass is the finding.** One source, one house style, her own cases dropped including the north side man, **a hundred and thirty-one cases rescored blind with a strip of card taped over the date column**, twice, on separate evenings, compared against each other before being compared to anything. The seven disagreements get scored **down**, because a case you cannot place twice argues against your own finding.
@@ -881,7 +886,12 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 
 **Placement note:** this chapter sits directly before the midpoint on purpose. The reader watches a woman be gently emptied by people who love her, and then watches Caleb be emptied by the thing that woman's grief built.
 
-**As Written (3,042 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
+**As Written (3,042 words). Drafted and audited 2026-09-02.**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+ All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
 
 - **She has moved out of the apartment above the laundromat**, and that is the single clearest proof the treatment worked. Ch4 established that leaving would have required *"one clear month in which nothing went wrong,"* and she had not had one since she was twenty-three. **Then she had three in a row and she moved in April.** Marin gets to be right about this, and she is right.
 - **The joke, and why it is that joke.** For six or seven years Willow sent Marin photographs of badly worded signs, at all hours, without comment. **The last one came in February.** So Marin does the institutional drone at a shellfish closure notice on the path, badly, which was always half the point, because the voice has belonged to Willow since she was fourteen. The arrangement was: Marin does it badly, Willow shoves her, Willow does it properly and makes it worse. **She is still turned toward the sign and she is waiting for the shove.** *"That's funny," Willow said.*
@@ -943,6 +953,23 @@ Willow's face: **first change.** Caleb is the first whole structure she has ever
 
 **⚠️ Ch11 MUST CLOSE ON DIALOGUE.** Ch8, Ch9 and Ch10 all close on narration, which is the cap of three consecutive in one register. This costs nothing here and may be the better ending anyway: the brief already ends the chapter on Caleb answering accurately until he stops, so close on his last correct answer and let the silence after it be the chapter's.
 
+**⚠️ WHAT CH11 INHERITS FROM THE TEN REVIEWED CHAPTERS.** Added 2026-09-02, after Ch1 to Ch10 were reviewed, revised and locked. **Ch11 is the first chapter drafted under all of it.**
+
+**Four things the drafted chapters have set up and this one collects:**
+
+1. **⚠️ THE SECOND COFFEE CUP.** Ch1 gives Caleb one concrete remnant: he offers coffee and *"the second cup was already down off the shelf, because he had always taken two down before anyone answered,"* and Iris had told him once **it was the only pushy thing about him.** He leaves it where it is, and at the door it is still on the counter and neither of them looks at it. **It rhymes with published Book 1 Ch12's Taking memory — coffee on a late shift, the warmth of it, the fact that they had noticed. Ch11 is where it pays. Do not explain it.**
+2. **⚠️ THE THREE-WEEK CHECK CAME DUE ON DAY 42 AND SHE DID NOT GO.** The card is written on Day 21 (*Caleb. Three weeks.*), Ch5 confirms it is not up yet, and Day 42 is the evening Lena arrives and stays. Caleb calls on Day 45. **⚠️ This is not a near-miss and must not read as one.** The brief already says she is not late because she failed. It is a scheduled measurement that did not happen because she was performing a sister for four hours forty, **and she can state that flatly and get nothing from it.**
+3. **⚠️ THE FIVE-BAND SCALE IS HERS AND CALEB IS BAND FIVE.** Built in Ch7 off the man on the north side: one function reduced · more than one with the life around it still running · the life around it no longer running · self-preservation gone · **everything, at once, with the body still running.** That last definition is Caleb in this chapter, written before she had a second case for it. **She scores him. It costs her nothing and it is the worst thing she does.**
+4. **The stable row.** Ch9 leaves it at five cards, *"and they were not the same five."*
+
+**Three rules the reviews produced that bear hardest here:**
+
+- **⚠️ THE GATE RUNS BOTH WAYS.** Ch10 established it: **do not name what is missing and do not certify what is there.** No sentence may call Caleb empty, hollow, absent or gone, **and none may vouch for anything still being in him either.** Render behavior. He answers correctly until he stops. The reader decides what that was.
+- **⚠️ OVERCLAIMING.** Iris does **not** understand the return in this chapter, she understands it in Ch14, and every inference she does reach has to be one she could defend. **For every fact she states, name the sentence that gave it to her.** She has a phone call, a proximity reading, a body, and a schedule card. She does not have a mechanism.
+- **The abstraction watch.** `thing` runs at 2.1 per 10k in published Book 1's narration. Split by register before touching anything, and **do not spend `instrument`** — Ch1's closing use is the controlling image and it appears once.
+
+**And the mechanical checks, before the commit:** `node tools/number-check.js 11-*.md` for the arithmetic and the intervals, `node tools/voice-audit.js --per-ch`, the beat count against **this brief and `11-key-dialogue-notes.md` both**, and the cascade grep on anything the chapter changes about a locked chapter's facts.
+
 **Book 1 Ch12 was Caleb's Taking from inside his own head, and this is the same man being finished from outside it.** The reader has already grieved him once and accepted a diminished version back. This takes him a second time. **Do not have anyone say that. Do not have Iris reflect on it.** The structure delivers it.
 
 ---
@@ -958,6 +985,8 @@ Willow's face: **first change.** Caleb is the first whole structure she has ever
 **She writes down that she found nothing, because the note is the only part of grieving she can still perform.** She reads it back later and it is accurate and she cannot get anything else out of it.
 
 The second half is Rourke. Iris brings her Caleb, who was a documented Taken case, alive on a Tuesday and dead on a Friday with everything removed. Rourke's framework has no mechanism and no longer has a way of saying so that satisfies her.
+
+**⚠️ This is where Ch2's test gets overtaken, and it should be visible.** The terms were: a name off Iris's own material, a named function that would stop, and Rourke going to see them. **Iris never met them.** Ch7 has her failing it honestly with magnitude and date and no subject. **What arrives instead is a man Rourke already had in her cohort, dead, with a completed taking on him and no prediction attached.** The test is not passed and is not withdrawn. It is simply no longer the thing either of them is doing. **Nobody says so.**
 
 **Rourke's crack is not an admission. It is a question.** She asks Iris what the delay is like, and does not ask as a clinician, and Iris tells her, and Rourke does not write it down.
 
@@ -1096,6 +1125,8 @@ She stays on the line anyway. **She does not know why she stays on the line, and
 ---
 
 ### Chapter 17 — RECOVERED: The Limiter
+
+**⚠️ WHAT MARIN CAN AND CANNOT TOUCH, settled 2026-09-02 and binding here.** She is **off Willow's clinical file** by her own request (Ch4). The **research side is hers**, or hers and about nine other people's, which is where the baseline map lives and is the whole reason Ch15 and this chapter are possible. The **witness form** is the third record and the only one she has standing to write into. **The months of read-only visits that open this chapter are visits to the research archive, and every one of them is inside her access. That is the point: nothing she does here requires her to break a rule until the afternoon she changes two parameters.**
 
 **POV:** Marin · **When:** Year −5 to −4.6 · **Length:** 3,400
 **Location:** Meridian. The substrate archive after hours, across months. Then her own terminal, on an ordinary afternoon.

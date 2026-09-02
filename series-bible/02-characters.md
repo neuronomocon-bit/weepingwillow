@@ -682,6 +682,8 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **She schedules the Caleb check at three weeks** in Ch1, which is what Ch11 collects on.
 - **The five-band magnitude scale is hers** (Ch7), built because magnitude was in no record anywhere. One function reduced · more than one with the life around it still running · the life around it no longer running · self-preservation gone, which is where Rourke's eleven came from · everything at once with the body still running. **Defined on a card before she scored anything, together with the rule for a case she scored differently twice.**
 - **Her working method, and it is characterization:** she discards results that confirm her when her own record-keeping produced them, randomizes case order rather than trusting a covered date column, and writes findings down with the *if* still in front of them.
+- **⚠️ Her Caleb check runs on a three-week schedule from Ch1**, and **the one due on Day 42 did not happen**, because that was the evening Lena arrived and stayed. Caleb calls on Day 45. **This is not a near-miss and Ch11 must not play it as one.**
+- **⚠️ She is band two on her own scale**, scored off the card rather than off how it felt, three increases below the top, in a set she is not otherwise part of.
 
 ## Lena Vale
 

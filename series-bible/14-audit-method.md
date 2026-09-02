@@ -260,6 +260,8 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 ## THE THIRD METHOD — the author's chapter review, 2026-09-02
 
+**⚠️ COMPLETE: Ch1 to Ch10 were reviewed, revised and locked on 2026-09-02.** Eleven hard errors across five chapters. The per-chapter table is the REVIEW LEDGER in `review-progress.md`; the full record of each is the AUTHOR'S REVIEW PASS block in that chapter's brief.
+
 **This project had two ways of finding defects and has now been shown a third.**
 
 | | Finds | Cannot see |
