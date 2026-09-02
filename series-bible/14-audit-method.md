@@ -145,7 +145,7 @@ Book 1 kept the whole manuscript in a review file *alongside* the individual cha
 
 ## FULL AUDIT — Ch1 to Ch7, 2026-08-31
 
-**21,319 words of Book 2 against 23,322 words of published Book 1.** Run with `node tools/voice-audit.js --per-ch`, which is now committed. Everything below was found by frequency comparison; **not one of these was findable by reading Book 2 on its own**, which is the whole argument for the method.
+**Act I of Book 2 against 23,322 words of published Book 1.** (⚠️ This section originally read *"21,319 words of Book 2"*. Act I is **21,284** words by the counter settled on 2026-09-02; the old figure came from the second, now-retired word counter. The comparison and every finding below are unaffected.) Run with `node tools/voice-audit.js --per-ch`, which is now committed. Everything below was found by frequency comparison; **not one of these was findable by reading Book 2 on its own**, which is the whole argument for the method.
 
 ### Closed — the three defects from 2026-08-27
 
@@ -254,3 +254,41 @@ Weeping Willow's locked lines, which must exist verbatim and must not be improve
 On the other project the largest single prose tic — 148 instances of the explanatory coda — **was found by a person reading thirty-one chapters in a row**, not by any check, because no check was counting it, because nobody had written the rule down. Every other tic in that book was caught by counting. That one was not.
 
 **Read the whole book at least once, in order, in one pass.** Nothing else finds the thing nobody thought to look for.
+
+
+---
+
+## AUDIT LOG — Ch8, Ch9, Ch10, 2026-09-02
+
+**The section above is the Ch1–Ch7 pass, 21,284 words. The corpus is now Ch1 to Ch10, 31,023 words**, against the same 23,322 words of published Book 1. Run `node tools/voice-audit.js --per-ch`.
+
+### The single largest finding: every US-English screen we had was the wrong kind
+
+Three British forms were in the prose and **all of them survived every check**: *nought* (Ch8, five times), *per cent* (Ch7, twice) and *fortnight* (Ch7). A full sweep afterward found twelve more across five chapters, including *car park* three times, *lift* for an elevator, *queue* for a line of people, *storeys*, *travelling*, *cancelling*, *straight away*, *"was sat in the chair"*, and the bare clock forms *"Half eleven"* and *"half six"*.
+
+**Book 1 has zero hits in all fourteen categories.** Every one was a divergence from a published baseline.
+
+**Why nothing caught them.** Every screen in the tool was **morphological** — `-our`, `-ise`, `-wards`, gray/grey, toward/towards. All of them reported clean, correctly. **These are lexical substitutions with no affix to match.** *"Nought point four"* is not a misspelling of anything. It is the wrong word, spelled perfectly.
+
+**This is Law 2 in a new coat**, and it deserves stating in its own terms: **a screen built on word *shape* is blind to a substitution that changes the word.** Eight new categories are now in the tool — British lexis, US/UK ambiguous, `-ll-`, `-ce/-se`, `-re`, `ae/oe`, `-t` past participles, idiom and clock. **The lexical lists are open. Grow them every time one gets through.**
+
+**Three standing false positives, documented so nobody "fixes" them:** `flat` (the adjective, this series' central word), `different to see it` (the American infinitive, not the British comparative), and `a good deal of` (standard American).
+
+### Law 7 collected, twice
+
+- **The protected-lines list had been reporting a defect that was ruled a records error two days earlier.** *"You don't have to optimize the answer"* was corrected in the prose records on 2026-08-31 and **the checker was not**, so every run since printed MISSING against published Book 1. It now matches the fragment `optimize the answer`, which is what is actually locked.
+- **The repo had two word counters.** This file's tool matched `[A-Za-z’']+` and `build-manuscript.js` split on whitespace, so every recorded per-chapter figure disagreed with the build total and drifted further with each chapter. **Settled 2026-09-02: the canonical count is whitespace-separated tokens over the chapter body with the heading dropped, which is the build's method.** `tools/voice-audit.js --per-ch` now prints it and **the number in an "As Written" block is that number.** Never count by hand.
+
+### A defect class the frequency method cannot see, and what does see it
+
+**Beat loss.** Ch10's first draft was 2,137 words, 63% of budget, with three brief beats missing and a fourth that the beat check reported present on a **false regex match** (the pattern for "stopped playing" matched the word *sign*). A fifth beat, specified in `11-key-dialogue-notes.md` rather than in the brief, was missing from two consecutive drafts and was found only by checking the chapter against the dialogue notes as well.
+
+**Three rules out of it:**
+
+1. **Write a beat check against a phrase that can only exist if the beat is written**, never against a word the beat happens to contain.
+2. **Check the chapter against the brief AND the dialogue notes.** They hold different beats. The brief had the joke; only `11-key-dialogue-notes.md` had Willow saying the good news out loud, which is the chapter's likeability gate.
+3. **Treat anything under about 75% of budget as structurally incomplete rather than brisk.** The 86% drafts were each missing one payoff. A 63% draft was missing four things, and the gap alone was diagnostic before any beat was counted.
+
+### The running figure
+
+**Ten chapters at 88% of budget, every one of them under, and not one short of a beat once it was checked.** That is what produced the retarget to 68,000–72,000 rather than a padding instruction.

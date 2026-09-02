@@ -663,3 +663,70 @@ He is the first death that is unambiguously a killing: everything removed at onc
 
 **Do not give him a name or a scene of his own.** The most frightening line available is a paramedic quoting something ordinary and correct that he said while he was already gone. Iris arrives in time to be told what he said, not in time to hear it.
 
+
+---
+
+# DRAFTED CANON — Ch1 to Ch10
+
+**Added 2026-09-02. This is an index, not a second copy.** The authoritative record of each chapter is its **"As Written" block** in `08-book2-chapter-briefs.md`, and every one of Ch1 to Ch10 now has one. What is listed here is the narrow subset a drafter needs while writing a *later* chapter: **concrete, contradictable facts about people.** If this section and an "As Written" block ever disagree, **the "As Written" block is right** and this one gets fixed.
+
+**Rule: when a chapter is drafted, its "As Written" block is written in the same commit, and anything in it that a later chapter could contradict is added here.**
+
+## Iris Vale
+
+- **Two systems on the apartment wall.** A morning list beside the light switch (*Water. Coffee. Check device. Check the map. Eat.*) which is instructions, and index cards along the doorframe at eye height which are measurements: date, duration, category. **Nineteen days of cards at Day 21, forty-one at Day 42**, and the row has turned the corner onto the return of wall.
+- **A short second row above the doorframe** for readings that have not moved. Five cards by Ch9.
+- She counts countable things on the drive, on the principle that a damaged instrument can still take a reading if the reading is simple enough.
+- **Proximity sense:** attention held loose at the front of the skull, a technique she taught herself in the second week after Book 1.
+- **She drives the van from published Book 1.** The photograph of the two sisters on the seawall has been on its dashboard since January, and she has never decided anything about it.
+- **She schedules the Caleb check at three weeks** in Ch1, which is what Ch11 collects on.
+
+## Lena Vale
+
+- **She works at a clinic**, front office and scheduling. A new scheduling system sold on saving an hour a day that costs about that. A patient who has come twice a week for nine months and brings pastries for the front desk.
+- **A colleague named Dana.** There is a position opening in the spring that Lena will not apply for, because Dana would have to report to her and Lena would then spend two years being the person who is fine with that.
+- **Her signature move: she announces the criticism first so that it cannot be made** (the parking, the too much food). She has done it since she was about fifteen and it works because there is no good answer to it.
+- **Their childhood, established in Ch9 and available to Book 3:** the eleven days the pipes froze, the January after their mother's car was totaled. Lena was **nine**, with a cast on since October. One room, the heater with the bar that worked on one side, their mother in the chair saying she preferred the chair, water carried up from the store in a blue cooler. **On the fourth night Lena said she wanted it to last until her birthday.**
+- From Ch9 she is **inside the situation and close**, by her own announced decision, and she is untouched for the rest of Book 2.
+
+## Willow Halloway
+
+- **She left the apartment above the laundromat in April**, three months after completion, for a low brick block inland: six units, built in the seventies for mill workers, second floor on the end, a parking space with it. Ch4 established that leaving required one clear month in which nothing went wrong. **She had three in a row.**
+- **She works evenings at a store**, four to close, five days, moved off the register onto ordering for better money and worse hours. **Her manager is Neal.** Two places on a supervisor course in the fall, and she does not mind either way.
+- **The institutional drone voice is hers**, since she was fourteen. Used on school letters, appliance warranties, and the entire order of service at their grandmother's funeral in the car afterward. **The arrangement with Marin: Marin does it badly, Willow shoves her, Willow does it properly and makes it worse.**
+- **For six or seven years she sent Marin photographs of badly worded signs**, at all hours, without comment. **The last one came in February.**
+- **For nine years she called Marin at about eleven at night**, two to four times a week, never about anything. Marin used to complain about it to colleagues.
+- **A date on the twenty-first**, three weeks after Ch10, which for nine years had a two-week run-up worse than the day itself. **What it is the anniversary of is never named, in any book.**
+- **Post-treatment she takes the flat-affect punctuation** (periods on questions). Pre-treatment she takes question marks.
+
+## Dr. Elena Rourke
+
+- **Cohort of 416.** Base rate flat and slightly rising for four years; **eleven deaths in ten weeks against an expectation of three.** Every certificate correct and defensible.
+- **The Halstead crossing** is where the woman of thirty-eight walked into traffic without hurrying. **A man of seventy sat down on a bench on the harbor road in the first week of February and did not get up.**
+- **Her records room:** free-standing shelving in four rows, filled from the door end backward. **Unindexed for eighteen months and eleven months behind.** *"I know where things are. That works until I'm not here."*
+- **The test she set in Ch2 is still open:** a name off her own cohort, a predicted death inside six weeks, and a reason. Everything in that room if Iris can do it; no fourth appointment if she is wrong.
+- **She keeps a pad on the second desk and turned it face down** after writing three lines about Iris.
+- **⚠️ Contraction lock:** published Book 1 runs her at **7% expanded**. Book 2 sits at 21% and the residual is her recitation register. **Do not sweep it further and do not let it drift back up.**
+
+## Daniel Kade
+
+- **The storage unit is in his own name**, paid monthly for three years, third row of a yard off the industrial road, behind a gate that takes a code and does not record it. It has a wet corner that is on the account.
+- **He kept his own copy** of the twelve-crate query: *queried twice, confirmed secondary*, with the time, signed. **He asked twice. He did not open one.** He has done all his feeling about it already.
+- **His Meridian credentials still work** after three years and have never been revoked, per published Book 1 Ch8. He has stopped assuming that is an oversight.
+- He sends Iris site coordinates overnight with no message attached, which is the arrangement.
+
+## Caleb Ward
+
+- **Settled exactly where Willow left him** as of Ch1: no further loss, no recovery, and from outside it looks like a man who has become calm.
+- *"Good seeing you"* is a fixed unit he will say to the next person in the same shape. His *"How are you doing?"* is placed correctly and is the shape of concern with the concern lifted out.
+- **Iris checks him on a three-week schedule** from Ch1. **Ch11 is the visit that does not happen on schedule.**
+
+## Dr. Marin Halloway
+
+- **She wrote the family-observation paragraph herself**, in her second year, and it is on page six.
+- **She timed her sister's first complete account at eleven minutes and forty seconds** and filed it in the observation column. **This is the whole of the cost in Ch8.**
+- **She reaches for procedure when she is in pain**, and the prose never says so. Ch10 has her deliver the fourth item of a review schedule in her sister's kitchen before she notices she is doing it.
+
+## Dr. Feld
+
+- **Ch8 is her only appearance in the book.** Thorough, slow, hard to rush, cold on paper and warm in person. **She has noticed Marin's timer and does not stop her.** *"Ask me at six sessions and I'll have something worth telling you."* / *"You're allowed to be pleased about it. It doesn't compromise anything."*

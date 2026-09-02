@@ -62,17 +62,17 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,932** | **awaiting author pass** |
-| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,761** | **awaiting author pass** |
-| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,932** | **awaiting author pass** |
-| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,350** | **awaiting author pass** |
-| 5 | Read | Iris | 3,600 | **DRAFTED 3,078** | **awaiting author pass** |
-| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,006** | **awaiting author pass** |
-| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,260** | **awaiting author pass** |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,928** | **awaiting author pass** |
+| 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,757** | **awaiting author pass** |
+| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,927** | **awaiting author pass** |
+| 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,346** | **awaiting author pass** |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,073** | **awaiting author pass** |
+| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,000** | **awaiting author pass** |
+| 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,253** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
-| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,610** | **awaiting author pass** |
-| 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,111** | **awaiting author pass** |
-| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 2,792** | **awaiting author pass** |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,608** | **awaiting author pass** |
+| 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,108** | **awaiting author pass** |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,023** | **awaiting author pass** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
@@ -97,11 +97,11 @@ Legend: `—` not started · `WIP` in progress · `PENDING` drafted, held in `se
 
 Two chapters written under the prequel arc survive because they are Marin/Meridian scenes and the Recovered thread needs them nearly unchanged.
 
-**Ch4 — RECOVERED: Intake** · **RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,349 words. Awaiting the author's proofread.**
+**Ch4 — RECOVERED: Intake** · **RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,346 words. Awaiting the author's proofread.**
 
 Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc, re-audited against the current gates before it moved. **Full record in the Ch4 brief.** Headlines: the research identifier is now a concrete string on the page, `MN-R-0338`, because the draft established the mechanism and never gave the reader a token to carry; a session-count continuity error was corrected against Ch8; and `hands flat on the table` was nearly cut as a generic gesture beat before Ch8 turned out to quote it back, which is Law 6 doing its job.
 
-**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,610 words (from 3,387). Awaiting the author's proofread.**
+**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,608 words (from 3,387). Awaiting the author's proofread.**
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld; Raman first named; the substrate parameters established as furniture. **Full record in the Ch8 brief.** Headlines:
 
@@ -143,14 +143,18 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 
 | Ch | Budget | Drafted | Under |
 |---|---|---|---|
-| 1 | 3,400 | 2,932 | 468 |
-| 2 | 3,400 | 2,761 | 639 |
-| 3 | 3,600 | 2,932 | 668 |
-| 4 | 3,600 | 3,350 | 250 |
-| 5 | 3,600 | 3,078 | 522 |
-| 6 | 3,400 | 3,006 | 394 |
-| 7 | 3,600 | 3,260 | 340 |
-| **ACT I COMPLETE** | **24,600** | **21,319** | **3,281** |
+| 1 | 3,400 | 2,928 | 472 |
+| 2 | 3,400 | 2,757 | 643 |
+| 3 | 3,600 | 2,927 | 673 |
+| 4 | 3,600 | 3,346 | 254 |
+| 5 | 3,600 | 3,073 | 527 |
+| 6 | 3,400 | 3,000 | 400 |
+| 7 | 3,600 | 3,253 | 347 |
+| **ACT I COMPLETE** | **24,600** | **21,284** | **3,316** |
+| 8 | 3,800 | 3,608 | 192 |
+| 9 | 3,600 | 3,108 | 492 |
+| 10 | 3,400 | 3,023 | 377 |
+| **THROUGH CH10** | **35,400** | **31,023** | **4,377** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -226,7 +230,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 ## CH10 — RECOVERED: CALM, drafted 2026-09-02
 
-**2,792 words against a 3,400 budget, all 27 beats present.** Full record in the Ch10 brief. What belongs here:
+**3,023 words against a 3,400 budget, all 27 beats present.** Full record in the Ch10 brief. What belongs here:
 
 **⚠️ The first draft came in at 2,137 words, 63% of budget, with three beats missing** — the eleven o'clock phone calls, Marin waiting for the rest of her sister to come back, and the book that Ch13 needs to invert. **A fourth, "stopped playing," passed the first beat check on a false regex match and was not actually on the page.** After those, a second pass found two more the brief had not asked for and the chapter plainly needed: the date three weeks out, and the supervisor course. **Final draft 2,792 at 82%.**
 
@@ -245,7 +249,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 ## CH9 — LENA, drafted 2026-09-02
 
-**3,111 words against a 3,600 budget, 86% of budget, all 30 beats present.** Full record in the Ch9 brief. What belongs here:
+**3,108 words against a 3,600 budget, 86% of budget, all 30 beats present.** Full record in the Ch9 brief. What belongs here:
 
 **The chapter's engine is a mechanism the book had already established and had not yet used on Iris.** Retrieval is intact and only the charge is gone, so the one thing she can still give her sister is the account. She searches, finds the memory Lena reached for and failed to hold at dinner, and hands it back whole at the moment it will do the most good. **Ch9 opens with Iris reading Willow Halloway's "I just can't find the handle on it anymore" as a clinical record and closes with Iris doing the same thing to Lena. The prose never connects them.**
 

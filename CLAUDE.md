@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 30,833 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 31,023 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -144,17 +144,18 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 | Ch | Title | Words | Budget | Under | State |
 |---|---|---|---|---|---|
-| 1 | Aftermath | 2,932 | 3,400 | 468 | Awaiting author pass |
-| 2 | Mortality | 2,761 | 3,400 | 639 | Awaiting author pass |
-| 3 | The Files | 2,932 | 3,600 | 668 | Awaiting author pass |
-| 4 | **RECOVERED: Intake** | 3,350 | 3,600 | 250 | Re-audited, awaiting author pass |
-| 5 | Read | 3,078 | 3,600 | 522 | Awaiting author pass |
-| 6 | Too Much | 3,006 | 3,400 | 394 | Awaiting author pass |
-| 7 | The Curve (ACT I TURN) | 3,260 | 3,600 | 340 | Awaiting author pass |
-| | **ACT I** | **21,319** | **24,600** | **3,281** | |
-| 8 | **RECOVERED: Sessions** | 3,610 | 3,800 | 182 | Re-audited, awaiting author pass |
-| 9 | Lena | 3,111 | 3,600 | 489 | Awaiting author pass |
-| 10 | **RECOVERED: Calm** | 2,792 | 3,400 | 608 | Awaiting author pass |
+| 1 | Aftermath | 2,928 | 3,400 | 472 | Awaiting author pass |
+| 2 | Mortality | 2,757 | 3,400 | 643 | Awaiting author pass |
+| 3 | The Files | 2,927 | 3,600 | 673 | Awaiting author pass |
+| 4 | **RECOVERED: Intake** | 3,346 | 3,600 | 254 | Re-audited, awaiting author pass |
+| 5 | Read | 3,073 | 3,600 | 527 | Awaiting author pass |
+| 6 | Too Much | 3,000 | 3,400 | 400 | Awaiting author pass |
+| 7 | The Curve (ACT I TURN) | 3,253 | 3,600 | 347 | Awaiting author pass |
+| | **ACT I** | **21,284** | **24,600** | **3,316** | 87% of budget |
+| 8 | **RECOVERED: Sessions** | 3,608 | 3,800 | 192 | Re-audited, awaiting author pass |
+| 9 | Lena | 3,108 | 3,600 | 492 | Awaiting author pass |
+| 10 | **RECOVERED: Calm** | 3,023 | 3,400 | 377 | Awaiting author pass |
+| | **THROUGH CH10** | **31,023** | **35,400** | **4,377** | 88% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -180,7 +181,13 @@ The first join in Ch15 now **returns a man**, provably wrong on dates. Then the 
 
 ### The drafting discipline that came out of Act I
 
-**Count the brief's beats against the draft BEFORE the word count, not after.** The word count is the symptom that prompts the check and has never once been the defect. Ch6 came in at 2,220 with three beats missing and finished at 3,006; Ch7 came in at 2,329 with three setups unpaid and finished at 3,260. **A chapter with a missing beat has no hole in it. It is simply shorter and smooth, and only counting beats finds it.**
+**Count the brief's beats against the draft BEFORE the word count, not after.** The word count is the symptom that prompts the check and has never once been the defect. Ch6 came in at 2,220 with three beats missing and finished at 3,000; Ch7 came in at 2,329 with three setups unpaid and finished at 3,253; Ch10 came in at 2,137 with **five** things missing and finished at 3,023. **A chapter with a missing beat has no hole in it. It is simply shorter and smooth, and only counting beats finds it.**
+
+**Three refinements from Ch10, which came in at 63% and was the worst case so far:**
+
+1. **Write the beat check against a phrase that can only exist if the beat is written**, never against a word the beat happens to contain. Ch10's check for "stopped playing" matched the word *sign* and reported the beat present when it was not.
+2. **Check against the brief AND `11-key-dialogue-notes.md`.** They hold different beats. Ch10's likeability gate — Willow saying the good news out loud — was specified only in the dialogue notes and was missing from two drafts.
+3. **Under about 75% of budget is structurally incomplete, not brisk.** The 86% drafts were each missing one payoff. A 63% draft was missing four.
 
 ### What the full audit found, 2026-08-31
 
@@ -237,7 +244,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
 | File | Words | Status |
 |---|---|---|
-| ~~`archive/drafts/DRAFT-sessions-ch8.md`~~ | 3,387 | **SPENT 2026-09-02.** Re-audited and moved to `chapters-book2/08-sessions.md` at 3,610. Gone from the archive. |
+| ~~`archive/drafts/DRAFT-sessions-ch8.md`~~ | 3,387 | **SPENT 2026-09-02.** Re-audited and moved to `chapters-book2/08-sessions.md` at 3,608. Gone from the archive. |
 | `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | Retired. Salvage assigned to Ch3 and Ch5 (both spent) and Ch19 (the R. Oyelaran material, **unspent** — the only live claim on any archived draft). |
 | `archive/drafts/DRAFT-hunger-ch01-aftermath.md` | 1,500 | Spent on Ch1. |
 
@@ -271,12 +278,35 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **~~Ch1 salvage~~ — CLAIM WITHDRAWN 2026-08-26.** `archive/drafts/DRAFT-hunger-ch01-aftermath.md` belongs to **Book 2 Ch1**, which is the book that now opens weeks after The Absence. Book 3 opens weeks after *Book 2* and needs a different chapter. See the Book 3 warning above; this whole section predates the pivot.
 
+## ⚠️ KEEPING THE RECORD CURRENT — a standing instruction (author, 2026-09-02)
+
+**Every change to the prose updates the record in the same commit. Not later, not at the end of the act.**
+
+A chapter is not finished when the prose is finished. It is finished when the brief, the bible, the trackers and the tools all say what is actually true. **The record going stale is the failure mode this project has hit most often**, and every instance of it has been the same shape: a fact was correct when it was written down and something else moved.
+
+**When a chapter is drafted or changed, update all of these in the same sitting:**
+
+| File | What it needs |
+|---|---|
+| `series-bible/08-book2-chapter-briefs.md` | **The "As Written" block.** Every drafted chapter has one. It is the authoritative record of what is on the page. Also fix any line in the brief the drafting proved wrong. |
+| `series-bible/02-characters.md` | **DRAFTED CANON** at the foot of the file — any new concrete, contradictable fact about a person. An index, never a second copy. |
+| `series-bible/11-key-dialogue-notes.md` | If the drafting changed a scene this file directs, or if a beat here was missed. **It holds beats the briefs do not.** |
+| `series-bible/10-subplot-threading.md` | Only if a drafted chapter diverged from the planned beat. It is a plan, not a record. |
+| `series-bible/14-audit-method.md` | Anything learned about **how defects are found**, as distinct from what the prose must do. |
+| `series-bible/03-themes-and-tone.md` | Any new tic, migration or ruling. **A new wording goes in the same sitting as the prose fix** (Law 2). |
+| `review-progress.md` · `CLAUDE.md` | Status tables, word counts, next work, open questions. |
+| `tools/voice-audit.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
+
+**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (31,066 against 31,023 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
+
+**Check a drafted chapter against the brief AND the dialogue notes.** They hold different beats, and a beat present only in `11-key-dialogue-notes.md` has been missed this way once already.
+
 ## How to Review a Chapter
 
 When the user says a chapter is ready to review (it will be in `chapters-book2/`):
 
 1. Read the chapter
-2. Read the corresponding brief in `series-bible/08-book2-chapter-briefs.md`
+2. Read the corresponding brief in `series-bible/08-book2-chapter-briefs.md`, **and the entry in `series-bible/11-key-dialogue-notes.md` if the chapter has one**
 3. Audit against:
    - Brief compliance (POV, location, goal, conflict, outcome, emotional beat)
    - Tone compliance (see `03-themes-and-tone.md`: grounded, quiet, absence-as-horror, no spectacle)
@@ -287,7 +317,7 @@ When the user says a chapter is ready to review (it will be in `chapters-book2/`
    - **Sentence variety check (Book 2 onward):** Flag pages where single-line fragments stack as default prose, or environmental description reads as a checklist instead of flowing sentences. Fragments are emphasis only. Apply the read-aloud test.
    - **Bloat & repetition pass:** Flag prose that doesn't earn its space, and any image/observation/thesis that lands twice without evolution. Recurring beats (fear-checks, "Expected/Observed" logs) must vary or advance — never repeat verbatim.
 4. Flag any issues: name conflicts, tone drift, missing beats, continuity breaks, hard-rule violations
-5. After approval, add an "As Written" block to the chapter brief with key prose details
+5. Add the "As Written" block to the chapter brief, **and everything else in the table above, in the same commit as the prose**
 6. Commit and push when asked
 
 > **Book 1 note:** The Absence was written before the hard rules and is published — its sparser, more fragmented voice is intentional and stays. The PROSE HARD RULES and sentence-variety checks apply to Book 2 onward only.

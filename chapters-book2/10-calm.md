@@ -194,6 +194,30 @@ Somewhere on the last half mile Marin caught herself waiting. She had been doing
 
 Three months was not long. People took a year to come out from under nine.
 
+“You keep looking at me,” Willow said.
+
+“I do not.”
+
+“You’ve done it about nine times today. You do it when you think I’m reading something.” She was not annoyed about it. “I know what you’re waiting for.”
+
+Marin did not have an answer ready. That happened rarely enough that she noticed it happening.
+
+“I’m better,” Willow said. “That’s it. That’s the whole thing. I’ve got a place with a door that locks and a job I’m good at, and I slept eight hours last night and I’m going to sleep eight hours tonight. I know how that sounds coming from me. I’ve said versions of it before and they weren’t true. This one’s true.”
+
+She stopped walking to say the rest of it, and she had not stopped walking all afternoon.
+
+“I’ve been keeping score on this for nine years and I know exactly what the numbers are,” she said. “This is the best they have ever been. You did that. You should take it.”
+
+It was the longest thing she had said since Marin arrived. Every part of it was accurate, and she was offering it as good news, because by every measure she had ever used on herself it was the best news of her adult life.
+
+“Okay,” Marin said.
+
+“Okay.” Willow started walking again. “Say it back, then. You’re worse at this than I am.”
+
+“You’re better.”
+
+“Thank you.”
+
 At the car Willow said thank you for the colander, and for the lamp bulb she had needed for six weeks and had not gotten around to, and for coming out on a Saturday. She said all of it warmly. She stood with one hand on the roof of the car while she said it, and she meant it, and Marin could not have said which part of it she would have changed.
 
 “I’ll come out again in a couple of weeks,” Marin said. “I’ll bring the other lamp.”

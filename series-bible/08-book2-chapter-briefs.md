@@ -241,6 +241,23 @@ She reduces it to two possibilities, because reduction is the method she still t
 
 **Note:** CLAUDE.md's Book 3 section also claims this draft for Book 3 Ch1. That claim is stale, written before the pivot made Book 2 the sequel. **Book 2 Ch1 owns it.** Book 3 now opens weeks after Book 2, not weeks after Book 1, and needs a different chapter.
 
+**As Written (2,928 words, drafted 2026-08-27, `chapters-book2/01-aftermath.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+
+- **Two systems, and they do different jobs.** The morning list beside the light switch is instructions: *Water. Coffee. Check device. Check the map. Eat.* The index cards along the doorframe at eye height are **measurements**, each carrying a date, a duration and a category in the shortest form that will still mean something in a week. *Retrieval, four seconds, site address.* *Sequence loss, cold coffee, approx. eleven minutes.* *Wrote note, cannot account for it.*
+- **The wall holds nineteen days at Day 21**, and she reads all of it once a week. **She has learned from the reading rather than from the living that the intervals are getting shorter.**
+- **The short row above the doorframe** is for the measurements that have not moved. Four cards, and the twenty-two minutes on the industrial-road parcel makes five. **Ch9 puts the Lena evening in this row**, which is its only other addition so far.
+- **The second site:** four hundred meters off the industrial road, no service address, footprint the wrong shape for storage, holding companies folding into each other three times. Bought eleven years ago, never assessed since, standing charges paid on time for four months after the shutdown and then quarterly. **"Quarterly was what you set up when you did not intend to look at something again."**
+- **Lena's thread:** nine messages across three weeks. *Call me when you can.* *I'm not angry. I just want to know you're okay.* Iris understands the request in the first three words and the restraint in the last four, and that the restraint cost Lena something to keep in place across all nine. She checks. The place is smooth. **She does not reply.** Ch9 is what Lena does about it.
+- **The note:** *See Caleb. Today.* Her own hand, dated last night, no memory of writing it. She reduces it to two possibilities and follows it, **because set against her own live judgment the card is the stronger source.**
+- **The drive: she counts things that can be counted**, on the principle that a damaged instrument can still take a reading if the reading is simple enough. Fourteen people, six vehicles, two of four units lit above the hardware store.
+- **The first functional cost.** The route turn arrives three seconds late at the rail crossing and the car behind adjusts first. *Retrieval, three seconds, route turn. First functional cost.* **The category had not changed. The circumstances had.**
+- **Caleb is settled exactly where Willow left him.** No further loss, no recovery. *"From the outside the settling looked like a man who had become calm."* His answers are correct, none extends past the edge of the question, none arrives late. *"Do you want anything." / "Nothing I can think of." / "Is that a symptom?" / "It's information." / "Then write it down."* — **said because it followed, with no joke inside it waiting to be found.**
+- ***"How are you doing?"* is placed correctly and arrives in the right tone, and it is the shape of concern with the concern lifted out.** *"Good seeing you"* has become a fixed unit he will say to the next person in the same shape.
+- **The convergence, stated once and never again:** she builds a sound case for the note and cannot confirm it is the case she held last night. *"Behind Caleb's questions there was a space of the same kind. He filled it the same way and did not know he was doing it either. From the outside, the two operations were beginning to converge."*
+- **The Caleb check becomes scheduled here.** *Caleb. Three weeks.* A thing checked on a schedule produces a series; a thing checked when she happens to think of it produces an anecdote. **Ch11 collects on it.**
+- **Proximity sense:** attention loose at the front of the skull, a technique she taught herself in the second week. Clean reading at Caleb's.
+- **Closing:** for months she read the damage in other people and filed it. **She is the damaged instrument now, and still the only one able to take the reading.**
+
 ---
 
 ### Chapter 2 — Mortality
@@ -265,6 +282,23 @@ Iris has the mechanism. She cannot say it in this room, and she also cannot not 
 
 **Craft:** Rourke is not converted and is not an obstacle for its own sake either. She is a competent person whose model is failing and who is behaving well about it. No scene where she is wrong on purpose.
 
+**As Written (2,757 words, drafted 2026-08-30, `chapters-book2/02-mortality.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+
+- **Lowport Public Health is the top two floors of a former bank**, and the ground floor is still laid out like one: a counter with six positions and two staffed, a rail where a line used to be managed, and eighty years of polish running from the door to the counter and nowhere else.
+- **Three requests to get in.** The first unanswered, the second produced a form, the third produced a Thursday at a quarter past nine. **"No one offers a quarter past nine to a person they intend to spend long with."**
+- **Rourke's office has changed and Iris reads why without being told:** the previous room was chosen for meeting people and this one was chosen for working.
+- **"Say that back."** Rourke's method, used before she shows anything.
+- **The numbers, locked.** Cohort **416**, carrying behavioral flattening for two years. Base rate flat and slightly rising for four years, **three deaths expected in ten weeks. Eleven observed.** Rourke's exclusions, in order: the reporting change (there wasn't one), the clinician (she didn't retire), and a rerun against last year with the same filters.
+- **Five of the eleven read out, and the other six are the same:** a man of 51 who stopped eating and went eleven days without being aware of it, dead of an electrolyte imbalance; a woman of 38 on the Halstead crossing who does not hurry and does not stop, with groceries and a dentist's appointment in her calendar for the Tuesday; a woman of 64 dead of sepsis from a foot she was treated for once and told to come back about; a man of 29 who stopped a nine-year medication without deciding to; **a man of 70 who sat down on a bench on the harbor road in the first week of February and did not get up.**
+- ***"Every one of them has a cause."*** Every certificate correct and defensible to a review board without a single lie. No signature, no toxicology, no anatomical finding any two of them share. **The pattern is not in the deaths. It is in who is having them.**
+- **Iris's nine-name list from February**, handed over with no clinical standing. **Rourke filed it, and filing it was the right answer, and she says so.** The man who stopped eating is the fourth line: *early, mild, no request for help.* **"One out of nine is not a result."** Iris runs the check on a man she met, marked and failed, and it is smooth. **Both halves were true and neither of them was at fault.**
+- **⚠️ THE LINE, which Ch13 echoes and must never point at:** *"The thing that would have made them turn around is what was taken."* Rourke: *"That's not a mechanism."* / *"It's a description with a direction on it."* And Rourke's own account is the same sentence in a register she can publish.
+- **Where Rourke's framework fails, in her own words:** reduced is not absent. Her people hold jobs and answer the phone, and the woman with the foot came in the first time on her own and made the appointment herself. **Something that was working then is not working now.**
+- **The records room.** Free-standing shelving bought in a hurry, four rows, filled from the door end backward so the oldest material is furthest in. One intake category runs the length of the fourth row and turns the corner onto the fifth, and **the fifth is two thirds empty because it has not been filled yet.** Four hundred and sixteen people is a number for six minutes and then it is two hundred feet of paper. **Unindexed for eighteen months and eleven months behind: "I know where things are. That works until I'm not here."**
+- **THE TEST, which is the chapter's outcome:** *"Bring me one before it happens."* A name off Rourke's own cohort, a prediction of death inside six weeks, and a reason. If Iris can do it, everything in that room. If she is wrong, no fourth appointment. **Iris recognizes it as the test she would have designed, and that Rourke designed it knowing that.**
+- **The assessment at the door**, run on Iris in the tone Rourke used for the woman with the foot, with her weight off the desk. Six hours, sometimes seven, not broken. Appetite unchanged. Working, and *"the work is the only thing that hasn't changed speed."* **Rourke writes three lines and turns the pad face down.** *"When there's enough of it to be worth telling you, I'll tell you."*
+- **⚠️ Rourke's contraction rate is a continuity lock against published Book 1**, where she runs 7% expanded. This chapter drifted to 61% and was brought to 21% by fourteen hand conversions in the 2026-08-31 audit. **The residual is her recitation register, where she is reading case material aloud, and it is correct. Do not sweep it further.**
+
 ---
 
 ### Chapter 3 — The Files
@@ -287,11 +321,29 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
+**As Written (2,927 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+
+- **The unit:** third row of a storage yard off the industrial road, one of forty identical bays, behind a gate that takes a code and does not record it. **Kade's own name, monthly, for three years.** He says so in the parking lot before he opens it, in the flat voice of a man getting a thing said early so it will not have to be said later.
+- **The wet corner**, which is the chapter's clock: the roof sheet meets the wall badly, a dark patch two feet across, a builder's bucket with an inch of water in it. On the account. Nothing under it, because he moved that row in the first month.
+- **The stacking tells the story of the decommissioning.** Loaded in the order things came off a truck, which was the order they came out of a building, which was emptied by people being made redundant on a schedule they had been given in writing.
+- **Every label is an asset code and none is a description.** `MN-C-0412`. *"That's a code for a thing that lived in a room. That's all it ever was."* The manifests are three columns ticked by hand: code, destination, date. At the foot of the third sheet, *38 pallets ex. clinical wing, ex. lower level as marked* and a set of initials.
+- **`MN-44-7`** — the published Book 1 job Kade sent her on, same client, same schedule series. **He knew eleven days after.**
+- **His credentials still work.** Three years, never used, never revoked. *"I've stopped assuming that's an oversight."* Mentioned once and not dwelt on, per published Book 1 Ch8.
+- **⚠️ THE SITE-SPREAD BEAT, added in the 2026-08-31 audit because the outline owes it.** One code series, six destinations. **Not split by size** (the pallet counts have nothing to do with the capacity of anything) and **not by type** (the same class of media appears under four of the six). *"Nothing that would have been useful beside something else had gone to the same address."* The research codes went one way and the codes that would have named the research went another, and neither sheet says so because neither sheet has to. *"How many people would that take." / "To build it, one. To move it, about forty, and not one of them would know."* **This is published Book 1 Ch5's "From themselves," delivered as evidence rather than as dialogue, and it is the reason the archive and the index were separated at all.**
+- **THE TWO SETS, which the rest of the book runs on.** The **research archive** left on archival cartridge in rigid cases with the desiccant still rattling, specified deliberately and paid out of a research grant whose line items survived the people who wrote them. Rated thirty years, three years old, reads at full rate with a clean index and a directory structure someone expected to be read. **Every record filed under a research identifier.** The **clinical and administrative index** is consumer-grade spinning disks in plastic caddies, bought in a hurry when the specified part was on a six-week lead time, and it stood damp in a transfer point on the eastern spur where a service duct backed up in the second winter after the shutdown. Corrosion on the connector pins.
+- **The decision that produced that, and nobody was wrong at the time:** *"Somebody decided which of these two things was worth archival media and which one wasn't, and they were not wrong at the time, because one of them had resale value and a citation trail and the other one was paperwork about people."*
+- ***"Between a thing that happened and a thing that happened to somebody."*** Kade holding a caddy in both hands, having just been told what it is worth and being unable to see it.
+- **Kade's twelve crates.** Second week of the decommissioning, one code series, the schedule said secondary, the code was one character off a series going to the mirror site. **He asked the coordinator twice.** Same answer both times, no hesitation, no irritation. He wrote *queried twice, confirmed secondary* on his own copy with the time and signed it, and he still has it. *"Nobody asks three times. There isn't a version of me on that floor in that week who asks three times."* Then: ***"What I did not do was open one."*** **He is not confessing. He did all his feeling about it years ago, and that is the only reason the room is bearable.**
+- **Iris has nothing to put against it and does not manufacture any**, because he would have known and it would have been worse. She gives him the structural answer instead. *"That's not comfort." / "No." / "It's better than comfort. Don't get better at it."*
+- **The plan, and its costs said out loud:** image everything before reading anything, nothing powered up in a bay with a wet corner and one working light, the cartridges out in four batches so a fire costs a quarter of the material, and **nine days to build the rig properly, which she is not going to shorten.**
+- **THE CLOCK, and the book's central asymmetry:** *"The archive will wait for me. The index is the only thing in this room that can put a name on anything, it is the only copy, and it is spending every day I do not get to it becoming a smaller answer."* — ***"So it's a race." / "It's an appointment I don't know the date of."***
+- **Closing:** `MN-C-0447` on the outer, written into her inventory, **and she ticks the line the way the coordinator ticked hers.**
+
 ---
 
 ### Chapter 4 — RECOVERED: Intake
 
-**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words, `archive/drafts/DRAFT-intake-ch4.md`**
+**POV:** Marin Halloway · **When:** Year −6 · **Length:** 3,600 · **Drafted: 3,286 words (prequel-era draft), `archive/drafts/DRAFT-intake-ch4.md`**
 **Location:** Meridian Neurological, Lowport coast. Reception, intake suite, the corridor after.
 **Goal:** Establish the program as legitimate and working, and introduce both sisters through the act of one admitting the other. **The reader must like Willow Halloway immediately, and must believe the science. Both are load-bearing.**
 
@@ -301,7 +353,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No dread, no ominous equipment, no foreshadowing, no lingering shot of anything.
 
-**As Written (3,286 words):** Full detail block is preserved at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
+**As Written (3,346 words as it now stands in `chapters-book2/04-intake.md`; the prequel-era draft was 3,286):** Full detail block is preserved at `archive/arc-02-prequel/08-book2-chapter-briefs-PREQUEL.md` under Chapter 1 and carries forward unchanged. Load-bearing elements:
 
 - **Nine years** is the duration Willow has been carrying it and Marin has been carrying her. Locked.
 - Willow's originating trauma is **never named**. Only its shape appears: the medication page, the four jobs, the apartment above the laundromat, the birthdays checked in advance for whether they were survivable.
@@ -313,7 +365,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 - Closing: relief, *"clean and specific and enormous."* **"Relief had not been on the list."**
 - Marin's **two o'clock procurement meeting**, deliberately echoed in Ch17. Do not let a later pass strip it as duplication.
 
-**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,349 words.** Awaiting the author's proofread. What the four re-audit questions returned:
+**RE-AUDITED 2026-08-31 and moved to `chapters-book2/04-intake.md`. 3,346 words.** Awaiting the author's proofread. What the four re-audit questions returned:
 
 1. **The research identifier — the one real failure, now fixed.** The draft established the *mechanism* (research archive under an identifier, clinical file under a name, and the two held apart) but never put the identifier on the page, so the reader had no token to carry. **Willow now reads her own identifier out of the consent pack in the institutional voice: `MN-R-0338`.** That is the string Iris reads for eleven chapters with no name attached to it, and the string the Ch15 join resolves. Marin's long speech was split around the exchange, so the access-log beat still closes the movement.
 2. **Assumes nothing about Iris.** She is not in it, and nothing reads as a book opening. Meridian alive and staffed is a payoff for a reader who has only seen the building dead, not an introduction.
@@ -353,7 +405,7 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 **Craft:** Do not let her grieve on the page. Do not let the prose grieve for her either.
 
-**As Written (3,084 words, drafted 2026-08-31, `chapters-book2/05-read.md`, awaiting the author's pass):**
+**As Written (3,073 words, drafted 2026-08-31, `chapters-book2/05-read.md`, awaiting the author's pass):**
 
 - **Six days in six movements:** the bench and the authentication (Day 29) · the belt (Day 30) · the sequencing (Days 31 to 32) · the read (Day 33) · the back stack and the rig (Day 35) · the facilities logs and Kade.
 - **The salvage was adapted rather than lifted, in two places, and both changes are Ch3's fault in the right way.** The ninety-minute bridge trip became a **cartridge throwing a soft error at ninety-one minutes on three consecutive passes**, which turns out to be a glazed belt in her own reader and not damage to the media: *an error at a consistent offset is not damage, because damage does not keep an appointment.* It costs her a day and buys her nothing, and it is where the refusal to rush is rendered instead of asserted. The **wet-drive procedure** could not be used as written, because Ch3 establishes the caddies were dried and restacked years ago. It became the rig: **one attempt per drive**, donor heads for a discontinued caddy model, four dead caddies off a scrap dealer to burn proving it, and the back stack left in the order she found it because that order is the last information anyone has about how it was stored.
@@ -393,7 +445,7 @@ She has the comparison nobody else has. Joel, Lila, Caleb, herself: partial, sur
 
 **Craft:** No gore, no spectacle, no scene rendered for effect. The most frightening line available is a paramedic quoting something ordinary and correct that the man said while he was already gone.
 
-**As Written (3,013 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`, awaiting the author's pass):**
+**As Written (3,000 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`, awaiting the author's pass):**
 
 - **The clock, locked.** Door standing open at **twenty past five** on Thursday morning. Neighbor goes up at **half six**. First crew at **ten past seven**. Second call at **half eleven**. The body runs about **six hours** after he is found. The neighbor last saw him on **Tuesday**, on the stairs with his shopping, in a four-or-five-minute conversation about the bin store: **thirty-six hours at the outside**, and possibly a great deal less.
 - **The line, as briefed:** *"He apologized to us on the way out." / "He said he was sorry we'd been called out for nothing."* Iris's read of it is that it was the most accurate sentence anyone said all day, because from where he was sitting it had been nothing.
@@ -434,7 +486,7 @@ Kade asks what that makes it. She says it makes it a method.
 
 **Craft:** The irony here is structural and must stay unspoken. Iris has just described Marin's escalation, in Marin's logic, without having reached Marin's deviation in the archive. **No character notices. No sentence points at it.**
 
-**As Written (3,263 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`, awaiting the author's pass):**
+**As Written (3,253 words, drafted 2026-08-31, `chapters-book2/07-the-curve.md`, awaiting the author's pass):**
 
 - **The measure is built on the page, and the first version is thrown away.** Five bands, defined in advance and written on a card **before a single case is scored**, so a definition cannot be adjusted to fit the finding. Band one is a single function reduced; band five is everything at once with the body still running. The first pass scores two hundred and six cases and produces the curve she wants, **and she takes it apart, because the top of it is almost entirely her own cases** and her own notes run to pages where Rourke's summaries run to four lines. *A richer record scores higher, and what that measures is the recorder.* Her card: ***first pass is contaminated, and by me.***
 - **The second pass is the finding.** One source, one house style, her own cases dropped including the north side man, **a hundred and thirty-one cases rescored blind with a strip of card taped over the date column**, twice, on separate evenings, compared against each other before being compared to anything. The seven disagreements get scored **down**, because a case you cannot place twice argues against your own finding.
@@ -461,7 +513,7 @@ Kade asks what that makes it. She says it makes it a method.
 
 ### Chapter 8 — RECOVERED: Sessions
 
-**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,610 words.**
+**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,608 words.**
 **Location:** Meridian. Session rooms, the observation side, the substrate lab on the lower level.
 **Goal:** Show the treatment working, show what working costs, and establish Virek, the substrate, and the limiter as ordinary operational facts.
 
@@ -486,7 +538,7 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**As Written (3,610 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
+**As Written (3,608 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
 
 - **The identifier question is resolved, and not with either of the two options that were on the table.** Neither "the collision resolves against the other entry" nor "reissue Willow's number." **`MN-R-0338` was issued twice** — a veterans'-cohort course that closed three years earlier, the identifier recycled on schedule, and the closed record never came off the live index. **Willow's string never changes**, so the reader still carries one token, and Ch15 still gets its three checks because the number's *history* is what is contested. Full mechanism and the three consequences are in THE INVESTIGATION SPINE above. Virek raises it, puts it to records, and the narration adds one dry line about how long records take. **That is the entire plant.**
 - **The locked line is verbatim and is the chapter's fourth-session beat:** *"It's still there. I just can't find the handle on it anymore."* Willow delivers it as good news, in a corridor, on the way to a bus.
@@ -527,7 +579,7 @@ Iris can identify exactly what that costs Lena, and can identify that a person w
 
 **Craft:** No confession scene. No breakdown. The chapter's power is that both women are behaving well and it is not enough. **Do not let Lena be shrill and do not let her be a saint.** She is irritating at least once.
 
-**As Written (3,111 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
+**As Written (3,108 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
 
 - **The constructed response is a memory, and that is the whole mechanism.** Retrieval is intact and only the charge is gone, so the one thing Iris can still give her sister is the account. **She runs a search, finds the memory Lena wants back, and hands it over at the moment it will do the most good.** It is complete, it is accurate, it is assembled for effect, and none of it came from anywhere. *"She would have called it a lie if there had been anything false in it."*
 - **⚠️ The silent rhyme, which the prose never touches.** Ch8 is Willow Halloway saying she can give the whole account, dates and everything, and cannot find the handle. Ch9 opens with Iris reading that sentence as a clinical record, and closes with her doing exactly the same thing to Lena. **Nothing in the chapter connects them. Do not let a later pass connect them.**
@@ -569,13 +621,14 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 
 **Placement note:** this chapter sits directly before the midpoint on purpose. The reader watches a woman be gently emptied by people who love her, and then watches Caleb be emptied by the thing that woman's grief built.
 
-**As Written (2,792 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
+**As Written (3,023 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
 
 - **She has moved out of the apartment above the laundromat**, and that is the single clearest proof the treatment worked. Ch4 established that leaving would have required *"one clear month in which nothing went wrong,"* and she had not had one since she was twenty-three. **Then she had three in a row and she moved in April.** Marin gets to be right about this, and she is right.
 - **The joke, and why it is that joke.** For six or seven years Willow sent Marin photographs of badly worded signs, at all hours, without comment. **The last one came in February.** So Marin does the institutional drone at a shellfish closure notice on the path, badly, which was always half the point, because the voice has belonged to Willow since she was fourteen. The arrangement was: Marin does it badly, Willow shoves her, Willow does it properly and makes it worse. **She is still turned toward the sign and she is waiting for the shove.** *"That's funny," Willow said.*
 - **She then starts composing a second one and stops**, because setting it up would have made it a test and a test would have required a result. **Marin never runs the experiment.** That is the chapter's discipline and it is why she can dismiss it honestly.
 - **The date, three weeks out.** Ch4's *"birthdays checked in advance for whether they were survivable"* paid in full. Marin cleared the day, built a plan over three days and rehearsed it in the car so it would not sound suggested. Willow says *"Sure. Either's fine. I'm off Saturdays now,"* and it takes her no time at all. **Marin sits with a plan she built over three days and there is nothing in the room for it to be for.**
-- **The supervisor course.** The one thing the treatment was supposed to give her is a future, and she has one, and *"I don't mind either way."* Nine years of being unable to choose anything because every option had a trapdoor under it, resolved into a woman who can take the job or leave it and would be fine.
+- **The supervisor course.** The one thing the treatment was supposed to give her is a future, and she has one, and *“I don’t mind either way.”* Nine years of being unable to choose anything because every option had a trapdoor under it, resolved into a woman who can take the job or leave it and would be fine.
+- **⚠️ Willow gets to say the good news herself, and it is the chapter's likeability gate.** She has noticed Marin watching her, says so without annoyance, and answers it: *“I’m better. That’s it. That’s the whole thing.”* A place with a door that locks, a job she is good at, eight hours’ sleep. *“I’ve been keeping score on this for nine years and I know exactly what the numbers are. This is the best they have ever been. You did that. You should take it.”* **It is the longest thing she says in the chapter, every word of it is accurate, and by every measure she has ever used on herself it is the best news of her adult life.** (⚠️ This beat is specified in `11-key-dialogue-notes.md` and **was missing from the first two drafts.** It was caught on 2026-09-02 by checking the chapter against the dialogue notes rather than against the brief alone. **Check both.**)
 - **The eleven o'clock calls.** Nine years of them, never about anything, and Marin had told colleagues she would give a year of her life for eight uninterrupted hours. **The chapter's last three words are "She slept through."** Marin does not connect it and nothing in the prose connects it either.
 - **The Lila Mercer rhyme is the prompt-and-answer sequence**, run in a kitchen by a sister who does not know she is running it: sleeping, appetite, *"Do you think about it."* *"No. Not really. Not unless someone brings it up."* Then Marin notices she has delivered the fourth item on a review schedule on a Saturday and puts it down.
 - **Ch4 payoff, unaskable:** *"What if I don't like who's left."* Marin has an answer for it now and there is no version of the room in which she can ask the question in order to give it.

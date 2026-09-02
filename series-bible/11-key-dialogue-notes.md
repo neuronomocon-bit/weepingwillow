@@ -224,7 +224,11 @@ She goes back and watches the last session recording. Willow is fine in it. Will
 
 The technicality is constructed while Marin is standing there, in about nine seconds, and it is airtight, and she knows exactly what it is. **The prose renders the nine seconds and does not comment on them.**
 
-**Iris's half — no dialogue at all.** She is cross-referencing identifiers, which is the least dramatic activity available to a human being, and it is how the entire book turns. An identifier resolves. An index entry carries an intake record. The record has a name and a next-of-kin field and the two names share a surname.
+**Iris's half — no dialogue at all.** She is cross-referencing identifiers, which is the least dramatic activity available to a human being, and it is how the entire book turns.
+
+**⚠️ UPDATED 2026-09-02: the join takes three checks and the first one is wrong.** `MN-R-0338` was issued twice — recycled off a closed veterans'-cohort course whose record never came off the live index. See THE INVESTIGATION SPINE and the Ch8 and Ch15 briefs. So: the join returns **a man**, provably wrong on dates. Iris checks whether the identifier was ever reissued. It was. She reconstructs the second mapping off the degraded slice. Only then does the record carry a name and a next-of-kin field, and the two names share a surname.
+
+**Run all three flat.** The false positive is two sentences of procedure. **Iris does not experience it as a setback**, any more than she experiences the real answer as an arrival. If check one reads as a twist, it has failed.
 
 **Willow Halloway. Next of kin: Halloway, M.**
 

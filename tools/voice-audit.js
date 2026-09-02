@@ -39,7 +39,15 @@ function readChapters(dir) {
     });
 }
 
-const words = (s) => (s.match(/[A-Za-z’']+/g) || []).length;
+// ⚠️ CANONICAL WORD COUNT, settled 2026-09-02. Whitespace-separated tokens, the
+// same method build-manuscript.js uses, applied to the chapter BODY with the
+// heading line dropped. Until this date the repo had two counters — this file
+// matched [A-Za-z’']+ and the build split on whitespace — so every recorded
+// per-chapter figure disagreed with the build total by a few words and drifted
+// further with each chapter. Two counters is how one of them goes stale.
+// **The number in an "As Written" block is this number.** Read it off
+// `node tools/voice-audit.js --per-ch`; never count by hand.
+const words = (s) => s.split(/\s+/).filter(Boolean).length;
 
 // Split a body into narration and dialogue. Curly and straight quotes both.
 function split(body) {
