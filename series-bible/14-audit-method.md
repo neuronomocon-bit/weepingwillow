@@ -291,6 +291,16 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
 
+### ⚠️ A FIX IN ONE CHAPTER IS A CHANGE TO EVERY CHAPTER THAT DEPENDS ON IT
+
+**Found on Ch9, and the cascade was ours.** The Ch8 review moved Marin's corridor quotation from the session file onto a witness form, which is administrative, which is the degraded index. **That was the right fix and it silently invalidated the opening of Ch9**, where Iris was still reading the same quotation off the research archive and counting it against four hundred and eleven research records.
+
+**Nothing caught it. The author's Ch9 review did, one chapter later.**
+
+**The rule, and it is cheap to follow:** after revising a chapter, **grep the other chapters for the facts the revision changed.** For Ch8 that was three strings — `MN-R-0338`, *session file*, *outcome measures* — and any one of them would have surfaced Ch9's opening in seconds.
+
+**⚠️ Do it before the commit, in the same sitting.** A cascade is not a new defect, it is the old one moving, and it is at its cheapest in the minute after the change that caused it.
+
 ### The rule that came out of it
 
 **Two of the five categories cannot be mechanized and both are read-aloud questions:**

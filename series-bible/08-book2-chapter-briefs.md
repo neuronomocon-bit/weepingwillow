@@ -810,9 +810,33 @@ Iris can identify exactly what that costs Lena, and can identify that a person w
 
 **Craft:** No confession scene. No breakdown. The chapter's power is that both women are behaving well and it is not enough. **Do not let Lena be shrill and do not let her be a saint.** She is irritating at least once.
 
-**As Written (3,108 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
+**As Written (3,329 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
 
 - **The constructed response is a memory, and that is the whole mechanism.** Retrieval is intact and only the charge is gone, so the one thing Iris can still give her sister is the account. **She runs a search, finds the memory Lena wants back, and hands it over at the moment it will do the most good.** It is complete, it is accurate, it is assembled for effect, and none of it came from anywhere. *"She would have called it a lie if there had been anything false in it."*
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. Three continuity errors and a duration, one of them caused by our own Ch8 fix.**
+
+**⚠️ THE CASCADE, and it was ours.** Ch9 opened with Iris reading Marin's corridor quotation off the research page. **The Ch8 revision earlier the same day moved that quotation onto a witness form** — administrative, therefore the degraded index — **and nothing checked what that did downstream.** Ch9 was still reading it out of the research archive and calling it *"the second time in four hundred and eleven records."*
+
+**Repaired, and the repair is the better opening**, because it pays Ch5, Ch7 and Ch8 at once. The measures come off the research cartridges. **The quotation comes off the second index drive**, on a witness form, in fragments. **The name field did not survive**, which is exactly what Ch7 said the index would do: *"Eleven percent of a set that maps numbers to people demonstrates that the media can still be read. It does not produce a name."* And she has to join it by **date**, because the identifier alone puts the form in two places six years apart — **the weakness Virek named in Ch8, surfacing for the first time.** *"It was the first thing the damaged side had given her that was a person instead of a number, and it did not have a name on it."*
+
+**⚠️ Iris does not generalise from it.** She resolves this one document. She does **not** learn that the identifier was formally reissued or that a second person's records exist, **because Ch15 needs that step.**
+
+**⚠️ THE LEDGER, and it reconciles two locked chapters.** Ch1 says the short row held four and the twenty-two minutes made **five**. Ch5 adds the cataloguing benchmark *"with the four that had not moved"* — implying four. **Both are locked and they disagree, and there is exactly one reading that makes both true: a card came off the row in between.** Ch9 now says so, and it is the best thing in the closing movement:
+
+> *The short one above the frame was for the readings that had not, and it held five, and the last thing she had put on it was the cataloguing time off the first batch.*
+>
+> ***It had held five in the third week as well. They were not the same five.***
+
+**One of her stable readings stopped being stable and the prose does not say which.**
+
+**Two smaller corrections:** Lena's *"you always answer"* contradicted Ch1's nine unanswered messages and is now *"when I get you in a room, you answer."* And the evening ran 7:20 to past midnight, so the card says **four hours forty**, not three.
+
+**⚠️ Lena is not passive, and the chapter now says so.** She asked Iris to see someone in February and again in March, was refused both times, went and read enough to know Iris was right about why ordinary medicine could not touch it, and is **out of things to do that Iris would let her do.** *"So I'm not pretending nothing's wrong."* **This is why presence is her instrument and not her first resort. Do not cut it: without it her acceptance reads as incuriosity in a woman who works at a clinic.**
+
+Also: the *"a person would have come apart"* paragraph was compressed so *"There was nothing under her ribs"* arrives sooner, and *"the same instrument as the parking"* is now *"the same move"*, because Ch1's `instrument` is protected as its controlling image.
+
+**⚠️ PROTECTED — the review named these:** Lena's relational diagnosis (*"You don't ask me things you already know the answer to anymore"*), the whole childhood account, ***"It was the best work she had done in months,"*** the silent decision to stay, and the final front-room image. **And the three-way ambiguity of the memory — performance, love, and excellent work — is not to be resolved. The chapter is strongest when a reader can argue all three.**
+
 - **⚠️ The silent rhyme, which the prose never touches.** Ch8 is Willow Halloway saying she can give the whole account, dates and everything, and cannot find the handle. Ch9 opens with Iris reading that sentence as a clinical record, and closes with her doing exactly the same thing to Lena. **Nothing in the chapter connects them. Do not let a later pass connect them.**
 - **The memory: the eleven days the pipes froze.** Lena was nine, not ten, with a cast on since October. One room, the heater with the bar that worked on one side, their mother in the chair. **On the fourth night Lena said she wanted it to last until her birthday.** She has always been this person, and the prose does not say so. **Planted at dinner as a half-memory Lena gets wrong and Iris does not correct**, then given back whole ninety minutes later. The reader watches retrieval and deployment happen as two separate mechanical acts an hour apart; Lena sees her sister remembering.
 - **Lena's true thing, and it carries no frame** (self-annotation is Marin's and Rourke's): *"I'd rather have the person who answers correctly than nothing, and I'm not going to keep testing you to find out how much of you is in there, because that was for me and it wasn't doing you any good."* Then: *"So I'm going to stop asking if you're okay. And I'm going to keep coming over."*

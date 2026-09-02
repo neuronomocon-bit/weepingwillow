@@ -1,14 +1,20 @@
 Chapter 9 — Lena
 
-The week-four outcome measures for MN-R-0338 ran to a single page, and Iris had been looking at the last four lines of it for eleven minutes.
+The week-four outcome measures for MN-R-0338 had come off the research cartridges in the first batch and she had read them in the second week without stopping on them. Retrieval intact, sequence intact, affective load reduced against baseline, patient-reported distress reduced against baseline, no reported change to declarative content. A page built to be scanned by someone with nine others to get through.
 
-Everything above them was numbers. Retrieval intact, sequence intact, affective load reduced against baseline, patient-reported distress reduced against baseline, no reported change to declarative content. The page was built to be scanned by someone with nine other pages to get through. Then, at the bottom, a free-text field, and someone had actually filled it in.
+What had come off the second index drive on Tuesday was forty pages of administrative paper in fragments, and Iris had been looking at four lines of one of them for eleven minutes.
+
+It was a witness form. The name field had not survived and was not going to. What had survived was an identifier, a date, a line confirming attendance and protocol compliance, and a field at the bottom for anything the observer considered material, and someone had filled that in.
 
 *Patient reports target structure fully accessible with no experienced affective engagement. “It’s still there. I just can’t find the handle on it anymore.” Patient volunteers this as a positive outcome.*
 
-It was a good record. Whoever wrote it had put the patient’s own words in rather than translating them, and had not editorialized around them. The quotation marks were doing real work: the clinician was saying that this was said, in this order, and that they were not going to improve it.
+Putting it against the research page had taken her longer than it should have, because the identifier on its own put the form in two possible places six years apart and could not tell her which. The date did it. A form dated inside the week-four window belonged to the course that was running in the week-four window.
 
-So the program removed the charge on a memory and left the memory. That was consistent with everything else in the archive. In four hundred and eleven records it was the second time a patient had described the result instead of a clinician summarizing it, and the first time one of them had sounded pleased.
+It was the first thing the damaged side had given her that was a person instead of a number, and it did not have a name on it.
+
+It was also a good record. Whoever wrote it had put the patient’s own words in rather than translating them, and had not editorialized around them. The quotation marks were doing real work: the writer was saying that this was said, in this order, and that they were not going to improve it.
+
+So the program removed the charge on a memory and left the memory. That was consistent with the whole of the research side, which held four hundred and eleven records of the program working and not one line of anyone’s opinion about it.
 
 Iris wrote the identifier and the phrase on a card and put it on the table rather than the wall, because it belonged to the case and not to her.
 
@@ -132,7 +138,7 @@ She made tea instead. Lena had moved to the end of the couch with her feet up li
 
 Lena took a moment to get it in the right order.
 
-“I’ve been talking to you since January,” she said. “And you answer. You always answer. You answer really well, actually. You’re better at it than you were, and I noticed that about three weeks ago and it took me a while to work out why I didn’t like noticing it.” She was looking at the cup and not at Iris. “You don’t ask me things you already know the answer to anymore. You used to ask me things you already knew the answer to, all the time, because you wanted to hear me say it. That’s gone. Everything else is here and that’s gone.”
+“I’ve been talking to you since January,” she said. “And when I get you in a room, you answer. You answer really well, actually. You’re better at it than you were, and I noticed that about three weeks ago and it took me a while to work out why I didn’t like noticing it.” She was looking at the cup and not at Iris. “You don’t ask me things you already know the answer to anymore. You used to ask me things you already knew the answer to, all the time, because you wanted to hear me say it. That’s gone. Everything else is here and that’s gone.”
 
 “I hadn’t noticed that.”
 
@@ -140,11 +146,15 @@ Lena took a moment to get it in the right order.
 
 She drank some of the tea.
 
+“And before you say it, I did the other thing first. I asked you to see somebody in February and you said no, and I asked again in March and you said no and told me why, and I went and read enough to know that you were right about the why.” She put the cup down. “So I’m not pretending nothing’s wrong. I’m out of things to do about it that you’d let me do.”
+
+She picked the cup back up again without drinking from it.
+
 “So I’m going to stop asking if you’re okay,” she said. “And I’m going to keep coming over.”
 
 Iris sat with it.
 
-Lena had carried a thing for a month, alone, arrived at the correct answer, and then said it out loud to the person it was about, on the assumption that it would be received. Iris could account for every part of that. She could account for what it had cost to reach and what it would cost to hold. She could account for the fact that Lena had chosen the smaller version of her sister deliberately and had made peace with the choice. She could account for what a person would feel on being told it. A person would not have been able to sit through it. A person would have come apart somewhere around *I’d rather have the person who answers correctly*, and would have said something ruinous, and the evening would have gone another way entirely.
+Lena had carried a thing for a month, alone, arrived at the correct answer, and then said it out loud to the person it was about, on the assumption that it would be received. Iris could account for every part of that. She could account for what it had cost to reach and what it would cost to hold. She could account for the fact that Lena had chosen the smaller version of her sister deliberately and had made peace with the choice. She could account for what a person would feel on being told it, and for the fact that a person would not have been able to sit through it.
 
 There was nothing under her ribs. She had the cup, and the sound the building made at that hour, and her sister on the end of the couch waiting for whatever came next and prepared to accept that it might be nothing.
 
@@ -178,7 +188,7 @@ It was the best work she had done in months. She was aware of that while she was
 
 Lena stayed.
 
-She did not ask, and she did not announce it, the same instrument as the parking and the too much food, deployed for the last time that evening and with the most skill. At some point after eleven she stopped being someone who was about to leave, and then it was midnight, and then Iris was getting the spare blanket out of the closet by the door without either of them having said anything about it.
+She did not ask, and she did not announce it, the same move as the parking and the too much food, made for the last time that evening and with the most skill. At some point after eleven she stopped being someone who was about to leave, and then it was midnight, and then Iris was getting the spare blanket out of the closet by the door without either of them having said anything about it.
 
 “The couch is bad,” Iris said.
 
@@ -192,9 +202,11 @@ Iris did not answer that. She turned the lamp off and stood for a moment in the 
 
 Then she went to the table and wrote the card.
 
-*Day 42. Evening, three hours forty. Constructed responses throughout, no failure observed.* She looked at it. She added, on the second line, *L. did not leave.*
+*Day 42. Evening, four hours forty. Constructed responses throughout, no failure observed.* She looked at it. She added, on the second line, *L. did not leave.*
 
-The long row along the doorframe was everything that had moved, and it now went around the corner. The short one above the frame was for the readings that had not, and it held five cards, and she had not added to it since the twenty-two minutes in the third week.
+The long row along the doorframe was everything that had moved, and it now went around the corner. The short one above the frame was for the readings that had not, and it held five, and the last thing she had put on it was the cataloguing time off the first batch.
+
+It had held five in the third week as well. They were not the same five.
 
 She put the card up there, squared it against the others, and went to bed.
 

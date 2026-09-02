@@ -71,7 +71,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
-| 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,108** | **awaiting author pass** |
+| 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **awaiting author pass** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,023** | **awaiting author pass** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
@@ -152,9 +152,9 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 7 | 3,600 | 3,529 | 71 |
 | **ACT I COMPLETE** | **24,600** | **22,325** | **2,275** |
 | 8 | 3,800 | 3,851 | -51 |
-| 9 | 3,600 | 3,108 | 492 |
+| 9 | 3,600 | 3,329 | 271 |
 | 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **32,307** | **3,093** |
+| **THROUGH CH10** | **35,400** | **32,528** | **2,872** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -240,6 +240,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
 | Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
 | Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
 
@@ -289,7 +290,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 ## CH9 — LENA, drafted 2026-09-02
 
-**3,108 words against a 3,600 budget, 86% of budget, all 30 beats present.** Full record in the Ch9 brief. What belongs here:
+**3,329 words against a 3,600 budget, 86% of budget, all 30 beats present.** Full record in the Ch9 brief. What belongs here:
 
 **The chapter's engine is a mechanism the book had already established and had not yet used on Iris.** Retrieval is intact and only the charge is gone, so the one thing she can still give her sister is the account. She searches, finds the memory Lena reached for and failed to hold at dinner, and hands it back whole at the moment it will do the most good. **Ch9 opens with Iris reading Willow Halloway's "I just can't find the handle on it anymore" as a clinical record and closes with Iris doing the same thing to Lena. The prose never connects them.**
 

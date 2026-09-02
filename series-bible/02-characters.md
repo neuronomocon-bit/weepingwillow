@@ -689,6 +689,7 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **A colleague named Dana.** There is a position opening in the spring that Lena will not apply for, because Dana would have to report to her and Lena would then spend two years being the person who is fine with that.
 - **Her signature move: she announces the criticism first so that it cannot be made** (the parking, the too much food). She has done it since she was about fifteen and it works because there is no good answer to it.
 - **Their childhood, established in Ch9 and available to Book 3:** the eleven days the pipes froze, the January after their mother's car was totaled. Lena was **nine**, with a cast on since October. One room, the heater with the bar that worked on one side, their mother in the chair saying she preferred the chair, water carried up from the store in a blue cooler. **On the fourth night Lena said she wanted it to last until her birthday.**
+- **⚠️ She tried the other thing first, and it failed.** She asked Iris to see someone in **February** and again in **March**, was refused both times, and then read enough to understand that Iris was right about why ordinary medicine could not reach it. **Presence is what she has left, not what she reached for first.** *"I'm not pretending nothing's wrong. I'm out of things to do about it that you'd let me do."*
 - From Ch9 she is **inside the situation and close**, by her own announced decision, and she is untouched for the rest of Book 2.
 
 ## Willow Halloway
