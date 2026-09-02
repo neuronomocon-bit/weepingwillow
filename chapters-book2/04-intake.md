@@ -200,7 +200,7 @@ Willow turned the pen over once and set it down parallel to the edge of the page
 
 “Do you? Because that’s the actual thing. If I can talk about it like it’s the weather then it wasn’t anything, and if it wasn’t anything then the last nine years were me being dramatic, and I would rather have it hurt than have it turn out I did all of that for no reason.”
 
-Not answering straight away was the correct thing to do and also all Marin was capable of.
+Not answering right away was the correct thing to do and also all Marin was capable of.
 
 “It counted,” she said. “And it counts whether or not it’s still costing you. Those are two separate facts and you’ve had them welded together so long you think they’re one. The record of what happened to you doesn’t need you to keep paying for it in order to stay true.”
 

@@ -51,7 +51,7 @@ Checked on every chapter of this book in addition to the standard passes:
 
 ## Length Target
 
-**78,000–85,000 words**, roughly 3,600 per chapter. A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.
+**68,000–72,000 words** (revised 2026-09-02 by the author; was 78,000–85,000), roughly 3,100 per chapter. **The per-chapter budgets in the table below are unchanged and are now a ceiling and a diagnostic, not a target** — a chapter at 87% of budget with every brief beat present is finished. A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.
 
 ---
 
@@ -68,7 +68,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,006** | **awaiting author pass** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,260** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
-| 8 | **RECOVERED: Sessions** | Marin | 3,800 | PENDING 3,387 · in `archive/drafts/` | needs re-audit + author pass |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,610** | **awaiting author pass** |
 | 9 | Lena | Iris/Lena | 3,600 | — | — |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
@@ -99,9 +99,15 @@ Two chapters written under the prequel arc survive because they are Marin/Meridi
 
 Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc, re-audited against the current gates before it moved. **Full record in the Ch4 brief.** Headlines: the research identifier is now a concrete string on the page, `MN-R-0338`, because the draft established the mechanism and never gave the reader a token to carry; a session-count continuity error was corrected against Ch8; and `hands flat on the table` was nearly cut as a generic gesture beat before Ch8 turned out to quote it back, which is Law 6 doing its job.
 
-**Ch8 — RECOVERED: Sessions** · 3,387 words · **at `series-bible/archive/drafts/DRAFT-sessions-ch8.md`**. **Pending, not retired.** Never author-proofread. Move it to `chapters-book2/08-sessions.md` when it comes up for its pass, and re-audit it against the current gates first.
+**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,610 words (from 3,387). Awaiting the author's proofread.**
 
-Sessions one through four from the observation side, then the substrate lab. Dr. Feld introduced; Raman first named; the substrate parameters established as furniture. Drafted 2026-08-06, **never author-proofread** — it was awaiting a proofread when the arc was re-examined. Same re-audit needed.
+Sessions one through four from the observation side, then the substrate lab. Dr. Feld; Raman first named; the substrate parameters established as furniture. **Full record in the Ch8 brief.** Headlines:
+
+- **All 33 brief beats were verified present before the word count was looked at**, per the Act I discipline. It came in 182 under budget with nothing missing, which under the retarget is a finished chapter.
+- **The identifier question resolved to a third option.** `MN-R-0338` was *issued twice*, not reissued. The reader's token never changes and Ch15 still earns its three checks, because the number's history is the contested thing rather than the number. Ch15's brief now carries the first join returning a man.
+- **The substrate hall was environmental description written in two fragments** — the book's first hard gate, in a draft that predates the gate. Rewritten joined.
+- **Two setups the draft had left unpaid**: the witness chair (the protocol requires one for the first four sessions and nobody was ever in it) and Dr. Feld, who had one line in the only chapter she appears in. Both paid. **This is the third consecutive chapter where the short draft was missing a person or a payoff and not description.**
+- **Three British forms got through every existing screen**, two of them into audited Ch7. See the warning below.
 
 **Retired: Ch2 — Recovery** · 2,855 words · **archived 2026-08-27 to `series-bible/archive/drafts/DRAFT-prequel-ch02-recovery.md`**
 
@@ -198,6 +204,53 @@ Found 2026-08-27 by measuring the drafted Book 2 chapters against published Book
 4. **A protected line in the records was wrong.** *"You don't have to optimize the answer"* has never existed as a contiguous string; published Book 1 breaks it with a gesture and two em dashes. Corrected in `CLAUDE.md`, `14-audit-method.md` and the briefs. **The list was wrong, not the book.**
 5. **Five As Written quotations had drifted** by concatenating across a dialogue tag. Normalised, and there is now a verifier for it.
 
-**Left for the author — the largest open voice question in the book:**
+**~~Left for the author — the largest open voice question in the book.~~ RULED 2026-09-02: match Book 2.**
 
-**Book 2's narration is 98 to 100% expanded on `did not`, `was not`, `had not` and `could not`. Book 1's narration is 50 to 75%, and says `didn't` 86 times.** This file's own rule says ordinary action narration contracts and past-perfect reflective narration does not; Book 2 currently has no second half to that rule. It would touch roughly a hundred sentences across seven chapters, so it is a voice decision rather than a cleanup. **Do not sweep it.**
+Book 2's narration is 98 to 100% expanded on `did not`, `was not`, `had not` and `could not` where Book 1's is 50 to 75%. **Book 2's own register is the standard and nothing is swept in either direction.** The hundred-odd Act I sentences stay as written, Ch8 already conformed, and the rule now has its second half in `03-themes-and-tone.md`: **Book 2 narration keeps the full form as its default, in both registers.** Dialogue is untouched and runs the other way, as it must. **Do not reopen this by measuring it again** — the measurement was never in dispute.
+
+---
+
+## CH8 RE-AUDIT — 2026-09-02
+
+Full record in the Ch8 brief. The chapter's own findings are in the tracker entry above. Two things belong here because they are about the *checks* rather than the chapter:
+
+**⚠️ Three British forms got through every existing screen, and two of them were in already-audited Ch7.** `nought` (Ch8 draft, five times), `per cent` (Ch7, twice) and `fortnight` (Ch7, once). Book 1 has none of them and runs `percent` five times and `windshield` twice.
+
+**Why nothing caught it.** The US-English screens were all **morphological** — `-our`, `-ise`, `-wards`, `gray/grey`, `toward/towards` — and every one of them reported clean, correctly, because these are **lexical** substitutions with no affix to match. *"Nought point four"* is not a misspelling of anything. It is the wrong word, spelled perfectly.
+
+**Fixed:** a `British lexis` line was added to `tools/voice-audit.js` covering *per cent, fortnight, windscreen, nought, maths, whilst, amongst, kerb, storey, aeroplane*. **The list is open and should grow every time one gets through.**
+
+**And the general form of it, which is the more useful lesson:** a clean screen is evidence about the screen, not about the prose.
+
+### FULL US-ENGLISH SWEEP — Ch1 to Ch8, 2026-09-02
+
+**Run after the three above, on the author's instruction that American English is a hard requirement.** Fourteen categories, both books, and **Book 1 has zero hits in every category**, so each one below is a divergence from the published baseline.
+
+**Fifteen defects found and fixed across six chapters.** The three above plus twelve more:
+
+| Chapter | Was | Now |
+|---|---|---|
+| Ch2 | a **lift** retrofitted into the stairwell | an **elevator** |
+| Ch2 | where a **queue** had once been managed | a **line** |
+| Ch2 | arrived without **travelling** | **traveling** |
+| Ch3 ×2, Ch5 | the **car park** | the **parking lot** |
+| Ch4 | not answering **straight away** | **right away** |
+| Ch5 | self-**cancelling** | self-**canceling** |
+| Ch6 | four **storeys** | four **stories** |
+| Ch6 | **"Half eleven."** | **"Eleven thirty."** |
+| Ch6 ×2 | at **half six** | at **six thirty** |
+| Ch5, Ch6 | at **half past two** | at **two thirty** |
+| Ch6 | **"He was sat in the chair"** | **"He was sitting in the chair"** |
+
+**What was deliberately NOT changed, because converting it would be over-correction:** *quarter past nine*, *twenty past five*, *twenty to four*, *twenty to six*, *ten past five*. These are ordinary American English. **Only the bare *half six* / *half eleven* form is British-only**, and *half past two* was converted for register consistency rather than because it was wrong.
+
+**Three standing false positives. Do not "fix" these:**
+- **`flat`** — the adjective, and this series' central word (flat affect, flat voice, flat gray). Never the apartment sense.
+- **`different to see it…`** — the ordinary American infinitive, not the British comparative. The tool's regex is now restricted to the comparative sense so it stops firing on this.
+- **`a good deal of`** — standard American English.
+
+**Confirmed already correct and left alone:** *neighbor*, *harbor*, *gray*, *program*, *practice*, *meters*, *toward*, *gotten* (×10, the US past participle), punctuation inside the closing quote, double quotes for dialogue, periods on *Dr.*
+
+**Eight new screens are committed to `tools/voice-audit.js`** — British lexis, US/UK ambiguous, `-ll-`, `-ce/-se`, `-re`, `ae/oe`, `-t` past participles, idiom and clock. **Both the tool and an independent second implementation now report clean**, which is the check the curly-quote heredoc failure taught us to run. All three of these sat inside a category the audit believed it had covered.
+
+**Also fixed in the tool (Law 7).** The protected-lines list still carried *"You don't have to optimize the answer"* as a contiguous string and had been reporting it MISSING against published Book 1 on every run since the correction. **The prose was corrected on 2026-08-31 and the checker was not**, so the tool spent two days reporting a defect that had already been ruled a records error. It now matches the fragment *"optimize the answer"*, which is what is actually locked.

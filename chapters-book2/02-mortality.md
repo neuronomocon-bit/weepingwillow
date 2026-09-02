@@ -1,12 +1,12 @@
 Chapter 2 — Mortality
 
-Lowport Public Health occupied the top two floors of a building that had been a bank, and the ground floor was still laid out like one. A counter ran the width of it with six positions and two of them staffed, and a rail still stood where a queue had once been managed. The floor was the original stone and it had been polished by eighty years of people coming in to be dealt with, and the polish ran in a path from the door to the counter and nowhere else.
+Lowport Public Health occupied the top two floors of a building that had been a bank, and the ground floor was still laid out like one. A counter ran the width of it with six positions and two of them staffed, and a rail still stood where a line had once been managed. The floor was the original stone and it had been polished by eighty years of people coming in to be dealt with, and the polish ran in a path from the door to the counter and nowhere else.
 
 Iris had asked for the appointment three times. The first request went unanswered, the second produced a form, and the third produced a slot on a Thursday morning at a quarter past nine. No one offers a quarter past nine to a person they intend to spend long with.
 
 She was early by eleven minutes. She spent them reading the noticeboard because it was there and because a room she was going to work in was worth knowing. Two flu clinics. A number for a helpline. A poster about hand hygiene with a corner curling away from the wall, and behind it, showing at the edge, an older poster.
 
-At nine sixteen a woman came down to collect her, and did not introduce herself, and took her up in a lift that had been retrofitted into the stairwell.
+At nine sixteen a woman came down to collect her, and did not introduce herself, and took her up in an elevator that had been retrofitted into the stairwell.
 
 ***
 
@@ -78,7 +78,7 @@ Rourke put her hand flat on the desk and left it there.
 
 She looked at the screen rather than at Iris.
 
-“You should also understand the position I’m actually in, because it’s worse than the number. I have four hundred and sixteen people who arrived without travelling. They did not spread from a point. They did not cluster around a source. They came up across this city at once, and I could never say why, and I’ve never once pretended I could, and nothing since the winter has changed my view of it.”
+“You should also understand the position I’m actually in, because it’s worse than the number. I have four hundred and sixteen people who arrived without traveling. They did not spread from a point. They did not cluster around a source. They came up across this city at once, and I could never say why, and I’ve never once pretended I could, and nothing since the winter has changed my view of it.”
 
 “That was the first thing.”
 

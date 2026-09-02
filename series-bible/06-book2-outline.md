@@ -52,7 +52,7 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 | R6 | **The Limiter** — the deviation. Two parameters, one afternoon, undocumented | New |
 | R7 | **The Last Session** — Marin goes down deliberately and is consumed. She is happy | New |
 
-**Target length: 78,000–85,000 words.** Longer than the prequel target, because this book now carries plot the prequel deferred. Roughly 3,600 per chapter.
+**Target length: 68,000–72,000 words** (revised 2026-09-02; was 78,000–85,000). Still longer than the prequel target, because this book carries plot the prequel deferred. Roughly 3,100 per chapter. **The old figure came from dividing a target; the new one comes from what the 22 briefs actually describe, measured against eight drafted chapters.** See TARGET LENGTH in `08-book2-chapter-briefs.md`.
 
 ---
 

@@ -18,7 +18,7 @@ She made coffee and stood at the window while it went cold, and got back to it a
 
 The first platter off the index had finished on Wednesday and she ran it before she started, because it took nine minutes and because there was a version of the day where it made everything else unnecessary.
 
-Eleven per cent came back readable, and the read errors distributed exactly as she had told Kade they would, in bands across the surface with the outer tracks worst. Eleven per cent of a set that maps numbers to people demonstrates that the media can still be read. It does not produce a name.
+Eleven percent came back readable, and the read errors distributed exactly as she had told Kade they would, in bands across the surface with the outer tracks worst. Eleven percent of a set that maps numbers to people demonstrates that the media can still be read. It does not produce a name.
 
 She ran what she had against the identifiers she had anyway. Two hundred and six of the fragment’s records carried enough structure to resolve a field, and none of them was MN-R-0338, and there was no reason any of them should have been. The fragment was a strip off one platter of eleven, and the eleven were a fraction of the stack, and the stack had spent a winter in water.
 
@@ -104,7 +104,7 @@ The curve gave her Rourke’s test and took it away again in the same hour.
 
 *Bring me one before it happens.* A name off her own cohort, a reason, and then both of them waiting to see. Iris had understood the terms in the room and had thought about them most days since, because they were the terms she would have set.
 
-What she had now was better than she had expected and useless in the specific way the test cared about. The intervals gave her when. Nineteen, twenty-three, seventeen, twenty-six, and the last increase behind her by fourteen days, which put the next one inside a fortnight and probably inside ten days. The bands gave her how much: whatever came next would come in above what Rourke had ever recorded, because the north side had already gone past the top of her scale.
+What she had now was better than she had expected and useless in the specific way the test cared about. The intervals gave her when. Nineteen, twenty-three, seventeen, twenty-six, and the last increase behind her by fourteen days, which put the next one inside two weeks and probably inside ten days. The bands gave her how much: whatever came next would come in above what Rourke had ever recorded, because the north side had already gone past the top of her scale.
 
 It did not give her who.
 

@@ -219,9 +219,24 @@ Book 1's whole-text rates, measured 2026-08-27:
 
 **⚠️ Do not act on this yet.** The measurement is whole-text and does not separate narration from dialogue, and Book 1's contracted forms are concentrated in dialogue (*"I don't know"* ×8, *"That's not what…"* ×14). Some of Book 2's formality is also deliberate: Iris is flat and Marin is clinical.
 
-**What is settled:** contraction rate is **per-form and per-speaker**, never a sweep. **Dialogue is never swept** — it is a characterisation gradient, and flattening it would collapse Lena's warmth, Kade's plainness and Marin's precision into one voice. Past-perfect reflective narration keeps the full form; ordinary action narration contracts.
+**What is settled:** contraction rate is **per-form and per-speaker**, never a sweep. **Dialogue is never swept** — it is a characterisation gradient, and flattening it would collapse Lena's warmth, Kade's plainness and Marin's precision into one voice.
 
-**Run the narration/dialogue split before anyone rules on it.**
+### ⚠️ RULED 2026-09-02 by the author: BOOK 2 NARRATION KEEPS THE FULL FORM. Match Book 2, not Book 1.
+
+The split was run on the Ch1–7 audit and put the question properly:
+
+| | Book 1 narration | Book 2 narration |
+|---|---|---|
+| `did not` | **50% expanded** (`didn't` ×86) | **98% expanded** (`didn't` ×1) |
+| `was not` / `had not` | 59% / 73% | **100% / 100%** |
+
+**Book 2's narration is the standard and it does not move.** The hundred-odd sentences across Act I stay as written; nothing is swept forward or backward, and Ch8 was drafted to the same register and conforms without work.
+
+**The rule now has both halves, and this is the second one:** *ordinary action narration contracts; past-perfect reflective narration keeps the full form* is a **Book 1** description. **Book 2's narration keeps the full form as its default**, in both registers, and a contraction in narration is now the marked choice rather than the unmarked one. Iris is flat, Marin is clinical, and the narration sits close to both of them.
+
+**Dialogue is untouched by this and runs the other way**, as it must: Book 2's dialogue is 0 to 43% expanded per form, Rourke sits at 21% and the residual is her recitation register, and Willow Halloway is the loosest voice in the series on purpose. **Never sweep dialogue.**
+
+**Do not reopen this by measuring it again.** The measurement is not in dispute and never was; the divergence from Book 1 is real, deliberate, and now the house style.
 
 ---
 

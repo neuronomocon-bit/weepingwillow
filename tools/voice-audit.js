@@ -79,6 +79,37 @@ const PATTERNS = [
   ["grey", /\bgrey\b/gi],
   ["British -our", /\b(colour|behaviour|honour|favour|neighbour|rumour)\w*\b/gi],
   ["British -ise", /\b(realise|recognise|apologise|organise|analyse)\w*\b/gi],
+  // ---------------------------------------------------------------- US ENGLISH
+  // Added 2026-09-02. The -our/-ise/-wards screens were clean and British forms
+  // still got through: three found in the Ch8 re-audit, then eleven more in the
+  // full sweep that followed, across five chapters. Book 1 has ZERO of any of
+  // these, so every hit is a divergence from the published baseline.
+  //
+  // ⚠️ The morphological screens above cannot see a LEXICAL substitution.
+  // "Nought point four" and "car park" are not misspellings of anything; they
+  // are the wrong words, spelled perfectly. Any hit below is a defect, not a
+  // candidate. Grow this list every time one gets through.
+  ["British lexis", /\b(per cent|fortnight|fortnightly|windscreen|nought|maths|whilst|amongst|kerb|kerbs|storey|storeys|aeroplane|lorry|lorries|petrol|motorway|carriageway|roundabout|spanner|dustbin|nappy|plimsolls|aluminium|rota|rotas|chemist|chemists|car park|car parks|estate agent|zebra crossing|pillar box|holidaymaker)\b/gi],
+  // The words below are British only in one sense and ordinary American in
+  // another, so they are CANDIDATES and must be read in context: lift (the
+  // elevator sense), queue (people waiting, not a work queue), torch (the
+  // flashlight sense), flat (the apartment sense, never the adjective, which is
+  // this series' central word and appears constantly), tap, boot, bonnet, post.
+  ["US/UK ambiguous", /\b(lifts?|queues?|queued|queuing|torch|torches|pavements?|tarmac|biscuits?|jumpers?|trousers|cooker|autumn)\b/gi],
+  ["British -ll-", /\b(travell\w+|cancell\w+|labell\w+|modell\w+|signall\w+|marvell\w+|fuell\w+|levell\w+|totall\w+|diall\w+|counsell\w+|skilful|fulfil|fulfilment|instalment|enrolment)\b/gi],
+  ["British -ce/-se", /\b(defence|offence|licence|licences|pretence|practise|practises|practised|practising)\b/gi],
+  ["British -re", /\b(centre\w*|metres?|litres?|fibre\w*|theatre\w*|sombre|calibre|lustre|spectre|manoeuvre\w*)\b/gi],
+  ["British ae/oe", /\b\w*(anaem|oestro|foet|paediat|anaesth|orthopaed|haemo|haemat|oedem|oesophag|leukaem|gynaec)\w*\b/gi],
+  ["British -t pp", /\b(learnt|spelt|spilt|burnt|dreamt|leant|smelt|spoilt|earnt)\b/gi],
+  // "different to" is restricted to the comparative sense. Bare /different to/
+  // fires on the ordinary American infinitive ("it was different to see it in a
+  // column"), which is not the British construction and must not be touched.
+  ["British idiom", /\b(in hospital|at the weekend|different to (a|an|the|him|her|them|it|me|us|you|what|how|anything|everything|nothing)\b|straight away|outwith|in future|on the cards|was sat|were sat|was stood|were stood)\b/gi],
+  // ⚠️ Bare "half six" / "half eleven" is British only; no American says it.
+  // "half past two" reads formal in US prose and was converted for consistency.
+  // "quarter past nine", "twenty to six", "ten past five" are ORDINARY American
+  // English and were deliberately kept — converting them was over-correction.
+  ["British clock", /\bhalf (past )?(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\b/gi],
   ["nodded once", /\bnodded once\b/gi],
   ["the kind of", /\bthe kind of\b/gi],
   [", which was/is", /, which (was|is)\b/gi],
@@ -286,8 +317,13 @@ const LOCKED = [
   ["It hurting is how I know it counted", "B2 Ch4"],
   ["an alarm that never got told the emergency ended", "B2 Ch4"],
   ["What if I don't like who's left", "B2 Ch4"],
-  ["It's still there. I just can't find the handle on it anymore", "B2 Ch8 (pending)"],
-  ["You don't have to optimize the answer", "B1 Ch2, published"],
+  ["It's still there. I just can't find the handle on it anymore", "B2 Ch8"],
+  // ⚠️ The locked string is the FRAGMENT only. Published Book 1 Ch2 breaks the
+  // sentence with a gesture and two em dashes, so "You don't have to optimize
+  // the answer" has never existed as a contiguous string. The list was wrong,
+  // not the book; corrected 2026-08-31 in CLAUDE.md and 14-audit-method.md and
+  // here on 2026-09-02, which is where it had survived.
+  ["optimize the answer", "B1 Ch2, published"],
 ];
 const flat = (s) => s.replace(/[’']/g, "'").replace(/[“”]/g, '"');
 const haystack = flat(b1.body + "\n" + b2.body + "\n" + readPending());

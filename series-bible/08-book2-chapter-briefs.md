@@ -10,11 +10,19 @@ Each brief contains: POV, When, Location, Length, Goal, Conflict, Outcome, Emoti
 
 ## TARGET LENGTH
 
-**78,000–85,000 words**, roughly 3,600 per chapter. Per-chapter budgets are given in each brief and sum to 79,800.
+### ⚠️ REVISED 2026-09-02 by the author: the target is **68,000–72,000 words.** Accept the length the briefs actually describe.
 
-They are targets, not quotas. A chapter landing at 3,100 against 3,600 is fine. **A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+The old target was **78,000–85,000**, and the per-chapter budgets in each brief were derived from it by division (79,800 ÷ 22 ≈ 3,600). **They were never derived from sizing the briefs.** Act I then landed 3,281 under across seven chapters, at a steady 87% of budget, with every brief beat on the page every time — because **the briefs describe roughly 3,000-word chapters and always did.**
 
-Every chapter drafted under the old arc landed under budget and the cuts were correct every time, so the fix is fuller scenes at the drafting stage, not restored lines. Assess length at the end of each act rather than padding individual chapters.
+The three ways out were: accept ~70k, enrich specific briefs, or add two or three chapters. **The author accepted ~70k.** The book is the length of its story.
+
+**The per-chapter budgets stay in the briefs unchanged**, because they are still useful as the number that prompts the beat count. **They are now a ceiling and a diagnostic, not a target.** A chapter at 87% of budget with every beat present is finished.
+
+**What this does not license.** Padding was never on the table and still is not. Neither is trimming to the new number: **a chapter is not too long because the target moved.**
+
+**A chapter under 2,000 words has been written in Book 1's voice and needs rewriting, not expanding.**
+
+**⚠️ The brief-by-brief under-specification audit is still unrun and is still worth running** — not to reach a word count, but because Ch6 and Ch7 both gained real material from setups their own briefs had left unpaid, and Ch8 gained a witness and a clinician the same way. That is a defect check, not a length check, and it survives the retarget intact.
 
 ---
 
@@ -141,6 +149,16 @@ So Iris spends eleven chapters reading a woman's complete story with a number wh
 In Ch15 the index comes up and the number resolves.
 
 **The number is `MN-R-0338`**, planted on the page in Ch4 and read aloud by Willow herself. Every Recovered chapter Iris opens from Ch5 onward is filed under it. **The reader knows whose number it is from Ch4; Iris does not until Ch15.** That gap is the engine, and it only runs because the string is concrete.
+
+**The string never changes, and it belongs to two people (resolved 2026-09-02).** `MN-R-0338` was issued once to a veterans'-cohort patient, recycled on schedule when the retention window ran out, and issued again to Willow Halloway at intake. **What did not happen is the closed record coming off the live index.** Virek finds this in Ch8, says so to Marin in about eight lines of housekeeping, puts it to records, and records never get to it, because the company dissolves.
+
+Three consequences, and they are the whole reason this was worth doing:
+
+1. **The reader carries one token, not two.** A reissue would have swapped the string mid-book. Reuse leaves it alone and makes its *history* the contested thing.
+2. **Ch15's three checks stop being procedural.** The first join returns a man. See that brief.
+3. **The record that survives is the dead one**, because nobody touched it after it closed, and the live one is on the damaged media. Nothing about this needs stating anywhere.
+
+**⚠️ Ch8 must stay a Tuesday.** The scene is a technician clearing a flag. No portent, no lingering, no line that knows what it is planting.
 
 **Nobody explains the name. Iris finds it. That is not the same thing, and the distinction is the whole rule.**
 
@@ -307,7 +325,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 - **A continuity error, corrected.** Marin said *"eleven more sessions"* at signing. Ch8 establishes two weeks between the baseline and the first session, so at signing none has happened. Now **"twelve sessions,"** matching the schedule on page three of the pack.
 - **`hands flat on the table` is load-bearing and was nearly cut.** It matches the gesture-vocabulary cut list, but Ch8 signals the echo directly: *"You explained it at me for twenty minutes with your hands flat on a table."* It is a rhyme, not a tic. **Do not trim it in either chapter.**
 
-**⚠️ Open, for Ch8's re-audit.** Ch8 has Virek reissue Willow's research identifier after a collision with a veterans'-cohort entry. With the string now planted in Ch4, a reissue changes the reader's token mid-book. Either the collision resolves against the *other* entry and `MN-R-0338` stands, or the reissue is kept and the two identifiers become the reason Iris's Ch15 join takes three checks. **The second is the better book and the more work. Author's call.**
+**~~⚠️ Open, for Ch8's re-audit.~~ RESOLVED 2026-09-02, and by a third option neither of the two originals reached.** The question was whether Virek's reissue changes the reader's token mid-book. **Nothing is reissued. `MN-R-0338` was issued twice** — recycled off a closed veterans'-cohort course, with the closed record left sitting on the live index. Willow's string is stable from Ch4 to the end, and Ch15 still earns its three checks, because what Iris has to establish is the number's history rather than the number. See THE INVESTIGATION SPINE and the Ch8 and Ch15 briefs.
 
 ---
 
@@ -443,7 +461,7 @@ Kade asks what that makes it. She says it makes it a method.
 
 ### Chapter 8 — RECOVERED: Sessions
 
-**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **Drafted: 3,387 words, `archive/drafts/DRAFT-sessions-ch8.md`**
+**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,610 words.**
 **Location:** Meridian. Session rooms, the observation side, the substrate lab on the lower level.
 **Goal:** Show the treatment working, show what working costs, and establish Virek, the substrate, and the limiter as ordinary operational facts.
 
@@ -468,7 +486,22 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**Status: drafted 2026-08-06, never author-proofread.** Held at `archive/drafts/DRAFT-sessions-ch8.md`. **It is pending, not retired** — move it into `chapters-book2/08-sessions.md` when it comes up for its author pass. It was awaiting a proofread when the arc was re-examined. Needs the same re-audit as Ch4 plus a full author pass. The known catch from the drafting notes, already fixed once and worth re-checking: *"Marin thought so at the time and would have said so if anybody had asked her"* — both halves point forward and signal that this gets revisited. Cut to *"It was a good answer."*
+**As Written (3,610 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
+
+- **The identifier question is resolved, and not with either of the two options that were on the table.** Neither "the collision resolves against the other entry" nor "reissue Willow's number." **`MN-R-0338` was issued twice** — a veterans'-cohort course that closed three years earlier, the identifier recycled on schedule, and the closed record never came off the live index. **Willow's string never changes**, so the reader still carries one token, and Ch15 still gets its three checks because the number's *history* is what is contested. Full mechanism and the three consequences are in THE INVESTIGATION SPINE above. Virek raises it, puts it to records, and the narration adds one dry line about how long records take. **That is the entire plant.**
+- **The locked line is verbatim and is the chapter's fourth-session beat:** *"It's still there. I just can't find the handle on it anymore."* Willow delivers it as good news, in a corridor, on the way to a bus.
+- **Eleven minutes and forty seconds** — Marin times her sister's first complete account of the thing and files the number in the observation column. **This is the cost, and it is the whole of the cost.** The witness beside her enters ninety minutes in the field the form gives him. Two people recording the same hour in different units, and the prose does not say so.
+- **The witness chair is paid.** The protocol requires a witness for the first four sessions, so the second chair has a rotating second-year fellow in it who does other work throughout. Marin is the one who stays after the room empties.
+- **Feld gets one exchange and it is the only one she gets in the book** (she appears in no other brief). She has noticed Marin's timer and does not stop her. *"Ask me at six sessions and I'll have something worth telling you"* — thorough, slow, hard to rush. Then the warm half: **"You're allowed to be pleased about it. It doesn't compromise anything."**
+- **Virek says "Your sister's is in there. I didn't pull it out."** Not "yours." He knows the relationship, he is being careful, and it rhymes with Ch4's access-log beat.
+- *"It was a good answer."* stands as the brief required. The forward-pointing version was already gone from the draft.
+- **Marin's one self-annotation, which is hers by right:** *"I'm not going to tell you it's nothing. I'm going to tell you it's inside tolerance, which is different, and then I'm going to log it."*
+- **Numbers locked here for the series:** *ninety minutes*, *two percent*, *zero point one percent*, *zero point four*, *nineteen sessions*, *four hundred lines*, *autonomy at two*, *one percent*. Spoken form, not numerals. **The draft rendered these as "nought point four" throughout, which is British; corrected to "zero point four."**
+- **Do not trim `hands flat on a table`.** It is Ch4's rhyme, called out from this side. See the Ch4 brief.
+
+**What the re-audit fixed.** 230 straight double quotes and 118 straight apostrophes converted to curly (round-trip verified byte-for-byte). Six narration `-body` pronouns removed by recasting rather than substituting, and Willow's own *somebody* kept. Two instances of the banned *[negation/superlative] + anybody + past-perfect* family deleted. The substrate-hall description was **two fragment sentences doing environmental description**, which is the book's first hard gate; rewritten joined. Five stacked existentials converted and every emphatic copular arrival kept; *That was the…* was at four and is now at two. Two self-annotations cut from mouths that are not Marin's or Rourke's. Four generic hand gestures replaced and the three load-bearing ones kept. Six run-on candidates broken; the deliberate accumulations kept, including the closing sentence. **POV was not named in the first sentence** and now is. *"It was working exactly as designed"* cut — a trailing explanatory sentence, and it was also stealing Ch10's line.
+
+**⚠️ Three British forms got through the -our/-ise/-wards screens**, two of them into already-audited Ch7: *nought* (this chapter, five times), *per cent* (Ch7, twice) and *fortnight* (Ch7). Book 1 runs *percent* five times and *windshield* twice and has none of these. **A `British lexis` line was added to `tools/voice-audit.js`** because the morphological screens cannot see a lexical substitution.
 
 ---
 
@@ -646,11 +679,19 @@ It is complete. Every emotional structure her sister had before the program touc
 
 **Conflict — Iris (ACT II TURN):** The clinical index comes up. Not all of it: enough. Iris has been reading a research identifier for eleven chapters and now has a table that maps identifiers to patients.
 
-She runs it. She reads the name.
+She runs it. **It returns a man.** Veterans' cohort, course closed out, and the dates sit years before anything she has been reading. The join is clean and the answer is wrong, which is a condition she has a name for.
+
+**The three checks are Ch8's, and they are the reason this is a scene and not a lookup** (resolved 2026-09-02; see the Ch8 brief). `MN-R-0338` was issued twice. The closed record survives intact on the index because nobody ever touched it again; the live one is on the damaged part, which is exactly backwards from what a reader expects and exactly what happens to real media.
+
+1. The join returns the veteran. Wrong, and provably wrong on dates.
+2. She checks whether the identifier was ever reissued. It was, and the supersession is the one piece of housekeeping records never finished.
+3. She reconstructs the second mapping off the degraded slice.
+
+She reads the name.
 
 **Willow Halloway.**
 
-**Outcome — Iris:** She checks it three times, because a single-source join on recovered media is not a result. It holds.
+**Outcome — Iris:** It holds. **⚠️ Run all three flat.** The false positive is two sentences of procedure, not suspense, and Iris does not experience it as a setback any more than she experiences the real answer as an arrival. **If check one reads as a twist, it has failed.**
 
 **Emotional Beat — Iris:** Nothing. She has the most important fact in her life and it arrives as a successful join. **She writes it down, because writing it down is the procedure, and then she sits in front of it and it does not do anything.**
 

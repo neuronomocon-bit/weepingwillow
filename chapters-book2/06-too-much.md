@@ -4,7 +4,7 @@ The coordinates came in at ten past one with no message attached, because Kade n
 
 She had started the first caddy at seven that morning. It was running now on the bench with the enclosure sealed and the log writing to the array, and it would still be running when she got back, because the whole point of nine days of building was that the rig did not need her standing over it. Nothing off it would be readable for a week. She had told Kade that twice.
 
-The address was on the north side, past the yards, in the blocks that went up when the port was expanding and had been waiting ever since for the second half of the plan. Four storeys, brick, external stairs at both ends, a strip of grass with a bin store on it. She knew the type. She had been inside eleven of them for work.
+The address was on the north side, past the yards, in the blocks that went up when the port was expanding and had been waiting ever since for the second half of the plan. Four stories, brick, external stairs at both ends, a strip of grass with a bin store on it. She knew the type. She had been inside eleven of them for work.
 
 There was an ambulance in the bay at the near end with its back doors shut and no urgency anywhere around it.
 
@@ -62,7 +62,7 @@ It was ordinary and it was correct and it was the most accurate sentence anyone 
 
 “The second call,” she said.
 
-“Half eleven. Same neighbor. Same chair.” The paramedic picked the tablet back up. “Same position. He hadn’t moved and he hadn’t got up and there was nothing in the room to say anything had happened. He just wasn’t answering by then.”
+“Eleven thirty. Same neighbor. Same chair.” The paramedic picked the tablet back up. “Same position. He hadn’t moved and he hadn’t got up and there was nothing in the room to say anything had happened. He just wasn’t answering by then.”
 
 “Was there an event.”
 
@@ -84,9 +84,9 @@ The paramedic looked at her properly for the first time since she had got out of
 
 The neighbor was standing at the bottom of the stairs at the far end with a cigarette he was not smoking, and he started talking before Iris had finished asking.
 
-He had gone up because the door was standing open, and it never was. He wanted that understood as the reason. It was not curiosity and it was not a habit of checking on people, because the man had never wanted checking on and would have said so. The door was open at twenty past five in the morning and it was open at half six and that was the whole of it.
+He had gone up because the door was standing open, and it never was. He wanted that understood as the reason. It was not curiosity and it was not a habit of checking on people, because the man had never wanted checking on and would have said so. The door was open at twenty past five in the morning and it was open at six thirty and that was the whole of it.
 
-“He was sat in the chair,” he said. “Lights off. I said, are you all right, and he said he was fine.”
+“He was sitting in the chair,” he said. “Lights off. I said, are you all right, and he said he was fine.”
 
 “Did he look at you when he said it.”
 
@@ -110,13 +110,13 @@ Iris wrote it down. Tuesday to Thursday. Thirty-six hours at the outside and pos
 
 She considered the question as asked, because it had been asked as a real one.
 
-“No,” she said. “He answered you correctly and he answered the crew correctly, and they had more to work with than you did and they got the same result. There was nothing available to you at half six that would have changed the afternoon.”
+“No,” she said. “He answered you correctly and he answered the crew correctly, and they had more to work with than you did and they got the same result. There was nothing available to you at six thirty that would have changed the afternoon.”
 
 He nodded and did not look any better, and she registered that the answer had not helped him, and that she had given it because it was true rather than because it would help. There had been a time when she would have known the difference before she opened her mouth.
 
 ***
 
-The officer came down at half past two and pulled the door to behind him, and it did not catch.
+The officer came down at two thirty and pulled the door to behind him, and it did not catch.
 
 Iris went up at twenty to three.
 

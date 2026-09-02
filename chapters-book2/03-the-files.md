@@ -1,6 +1,6 @@
 Chapter 3 — The Files
 
-The unit was in the third row of a storage yard off the industrial road, one of forty identical bays behind a gate that took a code and did not record it. Kade had it under his own name and had been paying for it monthly for three years. He told her that in the car park before he opened it, in the flat voice of a man getting a thing said early so it would not have to be said later.
+The unit was in the third row of a storage yard off the industrial road, one of forty identical bays behind a gate that took a code and did not record it. Kade had it under his own name and had been paying for it monthly for three years. He told her that in the parking lot before he opened it, in the flat voice of a man getting a thing said early so it would not have to be said later.
 
 The roller door went up to about chest height and stuck, and he ducked under it and hit the light.
 
@@ -190,7 +190,7 @@ She had been, and he had noticed, and she was going to have to revise upward wha
 
 “It’s an appointment I don’t know the date of.” She picked up her bag. “The archive will wait for me. The index is the only thing in this room that can put a name on anything, it is the only copy, and it is spending every day I do not get to it becoming a smaller answer.”
 
-Kade looked at the stack for a while, and then he did the arithmetic she had done in the car park, out loud, because he was a logistics man and it was the only way he knew to hold something.
+Kade looked at the stack for a while, and then he did the arithmetic she had done in the parking lot, out loud, because he was a logistics man and it was the only way he knew to hold something.
 
 “Three years in here,” he said. “On my account. Because I didn’t want a paper trail.”
 

@@ -12,7 +12,7 @@ The rules went up first, on a card above the table where she would see them from
 
 The reader she owned took the format. The second one came off a man in Gorse Point who had four of them in a lock-up and no clear idea why anyone still wanted one. He wrapped it in a towel for the drive back and told her the format had been good and had lost to a cheaper one, and that this was the story of everything. He charged her sixty and threw in a spare belt. Two readers meant two images running while she read a third off the array, and the arithmetic on that was the difference between three weeks and five.
 
-She set the first cartridge at half past two and it came up in under a minute.
+She set the first cartridge at two thirty and it came up in under a minute.
 
 Then the archive wanted to know who she was.
 
@@ -104,7 +104,7 @@ She went and looked at the place where something should have been, because the c
 
 It was smooth.
 
-There had been a job three years ago, a phone off a coroner’s case, a man’s last nine days recovered a message at a time for a family who wanted to know whether he had been all right. He had been. That was the finding and it was a good one. Halfway through the second day she had put the phone down on the bench, gone out to the car park, and stood there in the cold with her hands in her pockets for eleven minutes before she could go back in and finish it. She had not timed it. She had simply been outside, and then she had been ready, and the ready had arrived on its own without being sent for.
+There had been a job three years ago, a phone off a coroner’s case, a man’s last nine days recovered a message at a time for a family who wanted to know whether he had been all right. He had been. That was the finding and it was a good one. Halfway through the second day she had put the phone down on the bench, gone out to the parking lot, and stood there in the cold with her hands in her pockets for eleven minutes before she could go back in and finish it. She had not timed it. She had simply been outside, and then she had been ready, and the ready had arrived on its own without being sent for.
 
 She worked forward through the rest of the run.
 
@@ -134,7 +134,7 @@ The second batch was not sessions. It was the facilities side.
 
 Six years of consumption logs off the building, metered by circuit, aggregated monthly, with a reconciliation attached to every month. Iris read three of them before she understood what she had, and then she pulled all seventy-two and put them in a column.
 
-The first forty-eight months were ordinary. Discrepancies in both directions, small, self-cancelling across a quarter, the noise any building makes against its own meters.
+The first forty-eight months were ordinary. Discrepancies in both directions, small, self-canceling across a quarter, the noise any building makes against its own meters.
 
 In the forty-ninth month, a correcting entry. And in every month after it, to the end.
 
