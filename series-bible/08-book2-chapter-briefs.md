@@ -324,7 +324,13 @@ Iris has the mechanism. She cannot say it in this room, and she also cannot not 
 
 **Craft:** Rourke is not converted and is not an obstacle for its own sake either. She is a competent person whose model is failing and who is behaving well about it. No scene where she is wrong on purpose.
 
-**As Written (2,951 words, drafted 2026-08-30, `chapters-book2/02-mortality.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (2,951 words, drafted 2026-08-30, `chapters-book2/02-mortality.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
+Load-bearing elements:
 
 - **Lowport Public Health is the top two floors of a former bank**, and the ground floor is still laid out like one: a counter with six positions and two staffed, a rail where a line used to be managed, and eighty years of polish running from the door to the counter and nowhere else.
 - **Three requests to get in.** The first unanswered, the second produced a form, the third produced a Thursday at a quarter past nine. **"No one offers a quarter past nine to a person they intend to spend long with."**

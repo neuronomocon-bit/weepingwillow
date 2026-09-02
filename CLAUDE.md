@@ -145,7 +145,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | Ch | Title | Words | Budget | Under | State |
 |---|---|---|---|---|---|
 | 1 | Aftermath | 2,931 | 3,400 | 469 | **LOCKED 2026-09-02** |
-| 2 | Mortality | 2,951 | 3,400 | 449 | Awaiting author pass |
+| 2 | Mortality | 2,951 | 3,400 | 449 | **LOCKED 2026-09-02** |
 | 3 | The Files | 2,927 | 3,600 | 673 | Awaiting author pass |
 | 4 | **RECOVERED: Intake** | 3,346 | 3,600 | 254 | Re-audited, awaiting author pass |
 | 5 | Read | 3,073 | 3,600 | 527 | Awaiting author pass |
@@ -282,7 +282,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**Locked so far: Ch1 — Aftermath (2026-09-02).**
+**Locked so far: Ch1 — Aftermath and Ch2 — Mortality (both 2026-09-02).**
 
 **The lock is enforced, not just recorded.** `tools/locked-chapters.json` holds a hash of each locked chapter and `python tools/verify-record.py` reports any that have moved. If a lock breaks, **the default assumption is that something edited an approved chapter by mistake — read the diff before doing anything else.** When the author has genuinely approved a change:
 

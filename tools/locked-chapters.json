@@ -2,5 +2,9 @@
   "01-aftermath.md": {
     "sha256": "bab7ef8b2f197bf14a79cd7c2cc1f5d4388c94d84073cd0043c1c79bc7232cb6",
     "words": 2931
+  },
+  "02-mortality.md": {
+    "sha256": "93e77787c8dfe5817c0e5aaf2edd60dea4cf15471a106f7d69697f8529c8a1b7",
+    "words": 2951
   }
 }
