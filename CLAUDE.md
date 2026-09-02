@@ -144,6 +144,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
+# ⏳ CH13 IS DRAFTED AND SELF-AUDITED, 2,887 words, AWAITING THE AUTHOR'S REVIEW. Book total 41,267.
+
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
 **⚠️ Ch11 is the first chapter drafted under everything those reviews established. Read the WHAT CH11 INHERITS block in its brief before drafting a word of it.**
@@ -188,7 +190,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
-| | **THROUGH CH12** | **38,380** | **42,800** | **4,420** | 90% of budget |
+| 13 | RECOVERED: The Water | 2,887 | 3,400 | 513 | ⏳ **Drafted, awaiting review** |
+| | **THROUGH CH13** | **41,267** | **46,200** | **4,933** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -284,7 +287,9 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 ### Next work, in priority order
 
 1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
-2. **Ch12 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
+2. **Ch14 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
+
+**⚠️ Ch13 is drafted and awaits the author's review pass.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 4. **The brief-by-brief under-specification audit of all 22.** Still unrun. It is a defect check, not a length check — see decision 2.
 

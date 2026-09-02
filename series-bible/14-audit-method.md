@@ -293,6 +293,16 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
 
+### ⚠️ A CHAPTER CAN PASS ITS BEAT COUNT AND STILL BE MISSING WHAT ITS OWN EVENTS WOULD CAUSE
+
+**Ch13 came in at 2,255 words, 66% of budget, with every single brief beat and dialogue note already on the page.** The beat count returned zero missing and the shortfall was real. **This is the second variant of the Act I diagnosis and it needs a separate check**, because the first variant (Ch6, Ch7: a beat is absent and the chapter is simply shorter and smooth) is found by counting the brief, and this one is not.
+
+**What was missing was consequence, not beat.** Willow Halloway died and (1) the last person who saw her every day was never asked, and (2) **Meridian, an institution with a process, never noticed that a patient in its own completed cohort had died.** The brief did not ask for either. The book's entire thesis — institutions behaving correctly and finding nothing — required both. Adding them took the chapter to 2,887 and gave it the structure it had been missing: **four empty results in escalating order** (the recording, the person, the institution, and then the reason none of them can find anything).
+
+**The check, and run it after the beat count returns clean:** ask what the chapter's events would *cause* in the world of the book — who would be told, what process would start, who would call — and then ask whether the chapter shows any of it. **A brief describes what happens. It does not describe what happening means for everyone else in the building.**
+
+**⚠️ Reordering movements to fix structure re-breaks chronology.** Moving Ch13's review block after Neal's Thursday put Raman's Wednesday out of sequence, and adding a movement made the closing scene chronologically earlier than three sections preceding it. **Re-run the weekday and interval pass after any structural reorder, not just after drafting.**
+
 ### ⚠️ THE INTERVAL PHRASE IS THE MOST RELIABLE DEFECT IN THIS BOOK
 
 **Every present-day chapter says how long ago something was, and by Ch12 four of those were wrong.** *Ten months* where five weeks was meant (Ch2). *Nine months* where nine weeks was meant (Ch7). *Nine days* where six and eight were meant (Ch11, twice). *Three weeks* where two was meant (Ch6). **Not one was visible on the page.** Each is a well-formed phrase that reads as considered, and the only way to catch one is to compute it.
