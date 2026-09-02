@@ -198,7 +198,7 @@ He had sat in his chair and he had been fine, and he had gone on being fine unti
 
 There was no one to say that to.
 
-Rourke would take it as a description with a direction on it and would be right to, and would put it in a drawer with the eleven she could defend. Kade would take it and carry it around and it would cost him something and it would not help either of them. There had been one person in Lowport who would have received it as an account rather than as a symptom, and three weeks ago she had sat in his clean apartment and confirmed that whatever would have done the receiving had been lifted out of him.
+Rourke would take it as a description with a direction on it and would be right to, and would put it in a drawer with the eleven she could defend. Kade would take it and carry it around and it would cost him something and it would not help either of them. There had been one person in Lowport who would have received it as an account rather than as a symptom, and two weeks ago she had sat in his clean apartment and confirmed that whatever would have done the receiving had been lifted out of him.
 
 She got the card out and wrote it standing against the side of the van. The doorframe held measurements and the light switch held instructions, and this was neither of those, and she wrote it anyway and put it in her pocket rather than in the case.
 

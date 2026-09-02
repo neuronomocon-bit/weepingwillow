@@ -1041,7 +1041,7 @@ The second half is Rourke. Iris brings her Caleb, who was a documented Taken cas
 
 **Craft:** No funeral scene. If there is a service, it is off the page or it is three sentences. **Do not give Iris a moment where something almost comes through.** Nothing comes through. That is the chapter.
 
-**As Written (2,730 words, drafted 2026-09-02, `chapters-book2/12-after.md`, awaiting the author's pass).** All 33 beats verified present. Load-bearing elements:
+**As Written (2,734 words, drafted 2026-09-02, `chapters-book2/12-after.md`, awaiting the author's pass).** All 33 beats verified present. Load-bearing elements:
 
 - **⚠️ THE CH11 CASCADE, handled.** Ch11's revision put a crew on the way, so this chapter opens with them: **seven minutes past four, nineteen minutes of work, and a time written on a form at twenty-nine minutes past four.** *"the time on the form was correct, and it was the last accurate thing anyone recorded about Caleb Ward."* The older paramedic asks Iris the questions **in the order she asked Caleb them**, which means the order is standard and they learned it in the same place. *"Most people don't,"* he says, when she has the times.
 - **The sister is Dana Ward**, from Ch11's canon, eleven hours away and about to start a shift. She asks four questions and Iris answers them accurately, and then the fifth: *"Was he on his own?"* / *"No. I was there for about fifty minutes."* **Iris registers that she has supplied the only useful thing in the call and that it cost her nothing and was not kindness in any sense she could locate.**

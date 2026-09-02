@@ -6,15 +6,15 @@ They were good. There were two of them and they were quick and neither of them w
 
 “Most people don’t,” he said.
 
-At twenty-nine minutes past four he said the sentence they say and wrote the time on the form, and the time on the form was correct, and it was the last accurate thing anyone recorded about Caleb Ward.
+At twenty-nine minutes past four he said the sentence they say and wrote the time on the form, and the time on the form was correct, and it was the last accurate time anyone recorded for Caleb Ward.
 
 Iris stood in the corridor while they did the rest of it and looked at the two cups on the counter through the open door.
 
 ***
 
-The administration took two days and she did most of it.
+The administration took the weekend and she did most of it.
 
-Someone had to call his sister. Iris had her number out of Caleb’s phone, taken in front of the older paramedic so that it was lawful enough, and she made the call from the stairwell at ten past five because the stairwell was the only part of the building with no one in it.
+Someone had to call his sister. The older paramedic asked her to find a next of kin while he watched, because that was his form to fill in and she was the only person there who had known the man. Iris found the sister in Caleb’s phone and gave him the number and then asked whether she could make the call herself, and he said yes. She made it from the stairwell at ten past five because the stairwell was the only part of the building with no one in it.
 
 Her name was Dana Ward and she was eleven hours away and she had been about to start a shift.
 
@@ -36,13 +36,13 @@ After that it was forms.
 
 The landlord wanted to know about the apartment and Iris told him what she knew and gave him the sister’s number and did not give him the sister’s number until she had asked the sister. The yard wanted to know whether Caleb had been on shift. A woman from the coroner’s office called twice and was apologetic both times, and Iris told her twice that she did not mind. It was true, and it was not true for any reason the woman would have wanted to hear.
 
-There was a post-mortem because there had to be. They found a cardiac cause and it was real and it was on the certificate by the Monday, and Iris read it when it came through and could not have argued with a line of it.
+There would be a post-mortem, because there had to be. They would find a cardiac cause and it would be real and it would go on the certificate, and when it came Iris would not be able to argue with a line of it.
 
 She thought about the paramedic on the north side nine days earlier, standing at the back of an ambulance with a tablet turned face down, saying that they would find something and it would be true and it would not be the reason he was sitting there.
 
-They had found it. It was true. Iris filed the certificate with the rest and did not write anything on the card about it, because there was nothing on the certificate that was not already in her own record and better.
+They would find it. It would be true.
 
-There was a service on the Thursday. Iris did not go, because she was in Rourke’s office by then, and because she had worked out on the Tuesday that she would be able to explain not going to everyone’s satisfaction including her own, and had decided that being able to explain it was not the same as it being all right.
+The service was going to be on the Thursday. Iris worked out on the Sunday that she was not going to go, and worked out an hour after that that she would be able to explain not going to everyone’s satisfaction including her own, and decided that being able to explain it was not the same as it being all right.
 
 ***
 
@@ -68,7 +68,7 @@ She made it. It took eleven seconds.
 
 ***
 
-She told Kade on the Wednesday, at the unit, because he had a key and went in on Wednesdays to look at the bay and she wanted to be there when he did.
+She told Kade on the Monday morning, at the unit, because she had asked him to come out and he had not asked her why.
 
 Kade interrupted people. He listened to the whole of it without interrupting, and then put the box he was carrying down on the flat crates instead of on the floor where it belonged.
 
@@ -102,7 +102,7 @@ Kade did not say anything for a while.
 
 ***
 
-Rourke’s office on the Thursday had the blinds down on the window side because the afternoon came in hard on that face of the building, and the second desk had four stacks on it instead of three.
+Rourke’s office on the Monday afternoon had the blinds down on the window side because the afternoon came in hard on that face of the building, and the second desk had four stacks on it instead of three.
 
 Iris put the folder on the desk and did not open it.
 
@@ -110,7 +110,7 @@ Iris put the folder on the desk and did not open it.
 
 “I know where he is.”
 
-“He was assessed by me on the third of March and he was stable. I have three years of him and nine weeks of him at close interval. On Tuesday he was working. On Thursday at two he called me, and at four thirty he was dead, and between those two times he answered forty questions correctly and could not produce a reason to leave a room.”
+“He was assessed by me on the third of March and he was stable. I have three years of him and nine weeks of him at close interval. On Tuesday he was working. On Friday at two he called me, and at four thirty he was dead, and between those two times he answered forty questions correctly and could not produce a reason to leave a room.”
 
 Rourke did not sit down.
 
@@ -120,13 +120,13 @@ Rourke did not sit down.
 
 “Then what are you bringing me.”
 
-“The interval,” Iris said. “Tuesday to Thursday. And the fact that he was already in your set, and had been stable in it for nine weeks, and was not on the way anywhere.”
+“The interval,” Iris said. “Tuesday to Friday. And the fact that he was already in your set, and had been stable in it for nine weeks, and was not on the way anywhere.”
 
 Rourke stood with her hand on the back of the chair, which was where she put it when she was not going to like the next part, and looked at the folder without touching it.
 
 “You’re telling me it came back,” she said.
 
-“I’m telling you he was one thing on Tuesday and another thing on Thursday, and that the first thing had been steady for nine weeks, and that I do not have a mechanism.”
+“I’m telling you he was one thing on Tuesday and another thing on Friday, and that the first thing had been steady for nine weeks, and that I do not have a mechanism.”
 
 “No.”
 
@@ -146,7 +146,7 @@ She did not say that the terms had not been met, because they had not, and they 
 
 “And nothing in the interval. No infection, no drug, no event, no one new in his life.”
 
-“One person new in his life,” Iris said. “For about a minute and a half, on the Thursday.”
+“One person new in his life,” Iris said. “For about a minute and a half, on the Friday.”
 
 Rourke looked at her for a long moment.
 
@@ -154,7 +154,7 @@ Rourke looked at her for a long moment.
 
 “I know.”
 
-“I want you to understand what I mean by that. I am not saying it is not true. I have four hundred and sixteen people and eleven deaths I can defend and a curve I have never once been able to explain, and I have been carrying it for eight weeks and I am tired, and I am telling you that I cannot use it.” She stopped. “Those are two different sentences and I have stopped being able to say the first one.”
+“I want you to understand what I mean by that. I am not saying it is not true. I have four hundred and sixteen people and eleven deaths on that curve I can defend and a twelfth one on the desk in front of me, and a curve I have never once been able to explain, and I have been carrying it for eight weeks and I am tired, and I am telling you that I cannot use it.” She stopped. “Those are two different sentences and I have stopped being able to say the first one.”
 
 ***
 
@@ -166,7 +166,7 @@ Iris waited to see whether the question was going to become a clinical one.
 
 “The delay,” Rourke said. “You told me in March that the work hadn’t changed speed. Everything else has. I have asked four hundred people about this and I have never once asked it of someone who could tell me.”
 
-“It isn’t slowness,” Iris said. “Slowness would be a thing I could feel happening. The instruction arrives and it is correct and it is late, and I only know it is late because I have the record. On Thursday I went past a turning that would have saved two minutes and the reason to take it caught up with me four seconds after the intersection. I did not experience anything at the intersection. I experienced it afterward, as an entry.”
+“It isn’t slowness,” Iris said. “Slowness would be a thing I could feel happening. The instruction arrives and it is correct and it is late, and I only know it is late because I have the record. On Friday I went past a turning that would have saved two minutes and the reason to take it caught up with me four seconds after the intersection. I did not experience anything at the intersection. I experienced it afterward, as an entry.”
 
 “And the rest of it.”
 
@@ -196,7 +196,7 @@ Iris put the folder back in her bag, and Rourke picked her coat up off the secon
 
 “Yes.”
 
-“Two lines were the presentation and the date.” She got the second arm in. “The third was a date, nine weeks out from the day I wrote it, and a question mark.” She got the second arm in. “I have thought about that piece of paper every day since.”
+“Two lines were the presentation and the date. The third was a date, nine weeks out from the day I wrote it, and a question mark.” She got the second arm in. “I have thought about that piece of paper every day since.”
 
 She took her keys off the desk and went out.
 

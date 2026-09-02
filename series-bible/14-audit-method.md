@@ -293,6 +293,16 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **The lesson: when a fix is blocked by locked chapters on both sides, the constraint is usually pointing at something the book already has and has not used.** Look for it before you consider unlocking anything.
 
+### ⚠️ THE INTERVAL PHRASE IS THE MOST RELIABLE DEFECT IN THIS BOOK
+
+**Every present-day chapter says how long ago something was, and by Ch12 four of those were wrong.** *Ten months* where five weeks was meant (Ch2). *Nine months* where nine weeks was meant (Ch7). *Nine days* where six and eight were meant (Ch11, twice). *Three weeks* where two was meant (Ch6). **Not one was visible on the page.** Each is a well-formed phrase that reads as considered, and the only way to catch one is to compute it.
+
+**Why this book in particular:** Iris measures intervals as a character trait, so the prose is full of them, and **the drafting instinct reaches for a round number that sounds right.** *Nine days* sounds like a considered figure. It is nearly always wrong.
+
+**The sweep, and run it on every chapter before the commit:** pull every `N days|weeks|months ago|earlier|later|after` out of the chapter, name what each one is measuring from, and subtract the Day numbers. `tools/number-check.js --calendar` finds the phrases; **the timeline in `08-book2-chapter-briefs.md` is what they get checked against.** A scratch script that prints each phrase beside its chapter's Day number does the whole book in one pass.
+
+**⚠️ And weekdays are the same class.** Ch12 put Caleb's death on a Thursday when Day 42 is a Tuesday and Day 45 is therefore a Friday, which is also what that chapter's own brief said. **Fix the spine first and the weekday references second, or you will chase them one at a time.**
+
 ### ⚠️ A FIX IN ONE CHAPTER IS A CHANGE TO EVERY CHAPTER THAT DEPENDS ON IT
 
 **Found on Ch9, and the cascade was ours.** The Ch8 review moved Marin's corridor quotation from the session file onto a witness form, which is administrative, which is the degraded index. **That was the right fix and it silently invalidated the opening of Ch9**, where Iris was still reading the same quotation off the research archive and counting it against four hundred and eleven research records.

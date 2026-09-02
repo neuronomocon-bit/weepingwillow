@@ -182,7 +182,7 @@ She reached for the card in her jacket with the bands on it and did not take it 
 
 Band five was everything, at once, with the body still running.
 
-She had built the band nine days ago off a man on the north side she had never met, from a paramedic’s account and a room she had stood in for eleven minutes, and she had defined it as the ceiling of a scale because a scale needs one and not because she had expected to use it.
+She had built the band six days ago off a man on the north side she had never met, from a paramedic’s account and a room she had stood in for eleven minutes, and she had defined it as the ceiling of a scale because a scale needs one and not because she had expected to use it.
 
 *Band five*, she wrote. She wrote the date and the time next to it and nothing else, because nothing else was scoreable and she had rules about that.
 
@@ -196,7 +196,7 @@ His hands were cooler than they had been in January. She had not been checking f
 
 “Yes.”
 
-She took the other reading while she had her fingers on his wrist, because taking one had put her in the way of taking the other. The place where something should have started was smooth. It had been smooth in the café in January and smooth in the lot on the north side nine days ago and it was smooth now with her hand on a man she had known for six years, and the checking was procedure and the result was the result and neither of them was any use to him.
+She took the other reading while she had her fingers on his wrist, because taking one had put her in the way of taking the other. The place where something should have started was smooth. It had been smooth in the café in January and smooth in the lot on the north side eight days ago and it was smooth now with her hand on a man she had known for six years, and the checking was procedure and the result was the result and neither of them was any use to him.
 
 She took her hand back and wrote the pulse down.
 
