@@ -144,7 +144,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
-# ✅ CH13 IS DRAFTED, REVIEWED AND REVISED, 2,883 words. Awaiting the word to lock. Book total 41,263.
+# ✅ CH1 TO CH13 ARE REVIEWED, REVISED AND LOCKED. 41,263 words. Ch14 is next.
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -190,7 +190,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
-| 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | ✅ **Reviewed and revised — awaiting lock** |
+| 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
 | | **THROUGH CH13** | **41,263** | **46,200** | **4,937** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
@@ -289,7 +289,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
 2. **Ch14 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
 
-**✅ Ch13 is reviewed and revised and awaits only the word to lock.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
+**✅ Ch13 is locked.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 4. **The brief-by-brief under-specification audit of all 22.** Still unrun. It is a defect check, not a length check — see decision 2.
 
@@ -320,7 +320,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ ALL TEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (2026-09-02). 32,547 words.** Ch1 to Ch10 are closed to editing. **Ch11 is the first chapter drafted under everything the reviews established.**
+**✅ ALL THIRTEEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (2026-09-02). 41,263 words.** Ch1 to Ch13 are closed to editing.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

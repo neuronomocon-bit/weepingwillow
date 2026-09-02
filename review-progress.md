@@ -75,7 +75,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **✅ LOCKED 2026-09-02** |
 | 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **✅ LOCKED 2026-09-02** |
-| 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | ✅ Reviewed and revised — awaiting lock |
+| 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | **✅ LOCKED 2026-09-02** |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
 | 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
@@ -274,7 +274,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 10 | **RECOVERED: Calm** | 3,042 | **2026-09-02** |
 | 11 | **MIDPOINT: Caleb** | 3,099 | **2026-09-02** |
 | 12 | After | 2,734 | **2026-09-02** |
-| | **ALL TWELVE LOCKED** | **38,380** | |
+| 13 | RECOVERED: The Water | 2,883 | **2026-09-02** |
+| | **ALL THIRTEEN LOCKED** | **41,263** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
