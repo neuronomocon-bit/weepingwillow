@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch9, 28,039 words, in `chapters-book2/` awaiting the author's proofread. Ch10 — RECOVERED: Calm is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 30,833 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -134,7 +134,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-02)
 
-**ACT I IS COMPLETE AND ACT II IS UNDER WAY. Ch1 through Ch9 are drafted, audited and pushed. 28,039 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. **There are no pending drafts left** — Ch8 was the last one and it is spent, so every chapter from here is a fresh draft. **Ch10 — RECOVERED: Calm is next.**
+**ACT I IS COMPLETE AND ACT II IS UNDER WAY. Ch1 through Ch10 are drafted, audited and pushed. 30,833 words.** They are in `chapters-book2/` awaiting the author's proofread, which happens in place. **There are no pending drafts left** — Ch8 was the last one and it is spent, so every chapter from here is a fresh draft. **Ch11 — MIDPOINT: Caleb is next, and it MUST close on dialogue** (Ch8, Ch9 and Ch10 all close on narration, which is the cap of three).
 
 **All three open decisions were ruled by the author on 2026-09-02 and are recorded below.**
 
@@ -154,6 +154,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | | **ACT I** | **21,319** | **24,600** | **3,281** | |
 | 8 | **RECOVERED: Sessions** | 3,610 | 3,800 | 182 | Re-audited, awaiting author pass |
 | 9 | Lena | 3,111 | 3,600 | 489 | Awaiting author pass |
+| 10 | **RECOVERED: Calm** | 2,792 | 3,400 | 608 | Awaiting author pass |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -242,8 +243,8 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
 ### Next work, in priority order
 
-1. **Ch9 — Lena.** Fresh draft. Lena has stopped asking and started arriving, Iris performs for three hours and is good at it, and Lena chooses the diminished version out loud and stays the night. **No confession scene, no breakdown, and Lena is irritating at least once.** Iris's fabricated response is the best work she does in the book.
-2. **Ch10 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
+1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled.
+2. **Ch12 to Ch15** to close Act II. Ch15 now carries the three checks and the false positive — read its brief before drafting Ch14.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
 4. **The brief-by-brief under-specification audit of all 22.** Still unrun. It is a defect check, not a length check — see decision 2.
 
@@ -340,7 +341,7 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 > Marin is no longer the POV protagonist of the book — she is the protagonist of the seven Recovered chapters. Iris carries the other fifteen.
 
 - **Dr. Marin Halloway** — Meridian researcher, therapeutic memory editing program. POV of the seven Recovered chapters. Consumed in the last of them. Never named in Books 1 or 3.
-- **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned four months later, report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
+- **Willow Halloway** — Marin's younger sister. Patient. Treatment succeeded. Drowned **about six months after completion** (Year −5.2, and **four months after Ch10** — corrected 2026-09-02; the four months had been attached to completion, which the master timeline does not support). Report says accident, intent never established. Her pre-treatment baseline map is what the entity is grown from.
 - **The name:** the entity is called Willow because Willow Halloway was a person. Never explained by anyone in any book. Book 1 uses the name in narration without introduction; Book 3 Ch21 has the entity say "Willow Halloway" once, flat, in passing, never returned to.
 - **The deviation:** two parameters, one afternoon, undocumented. Integration limiter removed, autonomy constraint widened. Marin's justification is coherent: patient deceased, no return path, integration required for full-fidelity rendering, sandbox isolated.
 - **Willow Halloway's line:** "It's still there. I just can't find the handle on it anymore." She means it as good news.

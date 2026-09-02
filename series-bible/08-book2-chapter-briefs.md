@@ -569,6 +569,21 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 
 **Placement note:** this chapter sits directly before the midpoint on purpose. The reader watches a woman be gently emptied by people who love her, and then watches Caleb be emptied by the thing that woman's grief built.
 
+**As Written (2,792 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 27 beats verified present. **Came in at 82% of a 3,400 budget after two rounds of beat-counting**, and the first draft was at 63% with three beats missing. Load-bearing elements:
+
+- **She has moved out of the apartment above the laundromat**, and that is the single clearest proof the treatment worked. Ch4 established that leaving would have required *"one clear month in which nothing went wrong,"* and she had not had one since she was twenty-three. **Then she had three in a row and she moved in April.** Marin gets to be right about this, and she is right.
+- **The joke, and why it is that joke.** For six or seven years Willow sent Marin photographs of badly worded signs, at all hours, without comment. **The last one came in February.** So Marin does the institutional drone at a shellfish closure notice on the path, badly, which was always half the point, because the voice has belonged to Willow since she was fourteen. The arrangement was: Marin does it badly, Willow shoves her, Willow does it properly and makes it worse. **She is still turned toward the sign and she is waiting for the shove.** *"That's funny," Willow said.*
+- **She then starts composing a second one and stops**, because setting it up would have made it a test and a test would have required a result. **Marin never runs the experiment.** That is the chapter's discipline and it is why she can dismiss it honestly.
+- **The date, three weeks out.** Ch4's *"birthdays checked in advance for whether they were survivable"* paid in full. Marin cleared the day, built a plan over three days and rehearsed it in the car so it would not sound suggested. Willow says *"Sure. Either's fine. I'm off Saturdays now,"* and it takes her no time at all. **Marin sits with a plan she built over three days and there is nothing in the room for it to be for.**
+- **The supervisor course.** The one thing the treatment was supposed to give her is a future, and she has one, and *"I don't mind either way."* Nine years of being unable to choose anything because every option had a trapdoor under it, resolved into a woman who can take the job or leave it and would be fine.
+- **The eleven o'clock calls.** Nine years of them, never about anything, and Marin had told colleagues she would give a year of her life for eight uninterrupted hours. **The chapter's last three words are "She slept through."** Marin does not connect it and nothing in the prose connects it either.
+- **The Lila Mercer rhyme is the prompt-and-answer sequence**, run in a kitchen by a sister who does not know she is running it: sleeping, appetite, *"Do you think about it."* *"No. Not really. Not unless someone brings it up."* Then Marin notices she has delivered the fourth item on a review schedule on a Saturday and puts it down.
+- **Ch4 payoff, unaskable:** *"What if I don't like who's left."* Marin has an answer for it now and there is no version of the room in which she can ask the question in order to give it.
+- **Ch13 setups planted, for the same apartment to invert:** the mail slit and sorted into a system, the calendar with her shifts on it, a paperback face-down a third of the way in with an accurate summary and no opinion attached. Ch13 finds unopened mail, an empty calendar, and a book with the receipt in it at page four. **Do not add the fourth (food) here; three is enough and four would be a pattern the reader notices.**
+- **The gate held: the prose never names it.** No sentence in this chapter calls Willow flat, absent, empty, hollow, missing or gone. Every observation is behavior, and every judgment on the page is Marin's and is favorable. **Keep it that way in any later pass.**
+
+**⚠️ A dating error found and corrected while drafting.** The Ch13 brief and CLAUDE.md both said Willow drowned *"four months after completion."* The master timeline does not support it: intake Year −6.0, first session two weeks later, twelve weekly sessions, so completion is about Year −5.73, and Ch13 is Year −5.2. **That is about six months.** The four months is the **Ch10 to drowning** interval, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates. **Ch10 therefore sits three months after completion, in late May**, which is what the prose says.
+
 ---
 
 ### Chapter 11 — MIDPOINT: Caleb
@@ -596,6 +611,8 @@ At some point she stops asking. The reason she stops is not stated.
 Willow's face: **first change.** Caleb is the first whole structure she has ever taken. If Iris glimpses her leaving, it is at distance, and what Iris registers is that something has settled that was not settled before, and she cannot say what.
 
 **Craft:** No confrontation. No violence. **Willow should barely be on the page, if at all.** The chapter is a phone call, a drive, and a man answering questions correctly while he ends.
+
+**⚠️ Ch11 MUST CLOSE ON DIALOGUE.** Ch8, Ch9 and Ch10 all close on narration, which is the cap of three consecutive in one register. This costs nothing here and may be the better ending anyway: the brief already ends the chapter on Caleb answering accurately until he stops, so close on his last correct answer and let the silence after it be the chapter's.
 
 **Book 1 Ch12 was Caleb's Taking from inside his own head, and this is the same man being finished from outside it.** The reader has already grieved him once and accepted a diminished version back. This takes him a second time. **Do not have anyone say that. Do not have Iris reflect on it.** The structure delivers it.
 
@@ -631,7 +648,7 @@ The second half is Rourke. Iris brings her Caleb, who was a documented Taken cas
 **Location:** The coast north of the Meridian site. Then a hospital corridor. Then Willow's apartment.
 **Goal:** Willow Halloway dies. Plainly.
 
-**Conflict:** She goes into the water off the rocks below the bluff, four months after completion. She is found the same day. There is no note, no witness, and no way to establish intent. The tide was running and the rocks are what they are, and the report says accident, and **the report is probably right.**
+**Conflict:** She goes into the water off the rocks below the bluff, **about six months after completion and about four months after Ch10.** (⚠️ This line said *"four months after completion"* until 2026-09-02, and that is the wrong interval. Completion is roughly Year −5.73: intake at −6.0, first session two weeks later, twelve weekly sessions. Ch13 is Year −5.2. **The four months is Ch10 to the drowning**, which is what `10-subplot-threading.md` has always said. Same class of error as the stale six: a real figure attached to the wrong pair of dates.) She is found the same day. There is no note, no witness, and no way to establish intent. The tide was running and the rocks are what they are, and the report says accident, and **the report is probably right.**
 
 **Outcome:** Marin has a dead sister and an open question she will never be able to close.
 

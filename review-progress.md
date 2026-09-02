@@ -72,7 +72,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | **ACT II — THE PROTOCOL** | | | | | |
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,610** | **awaiting author pass** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,111** | **awaiting author pass** |
-| 10 | **RECOVERED: Calm** | Marin | 3,400 | — | — |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 2,792** | **awaiting author pass** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
@@ -223,6 +223,25 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 **Fixed:** a `British lexis` line was added to `tools/voice-audit.js` covering *per cent, fortnight, windscreen, nought, maths, whilst, amongst, kerb, storey, aeroplane*. **The list is open and should grow every time one gets through.**
 
 **And the general form of it, which is the more useful lesson:** a clean screen is evidence about the screen, not about the prose.
+
+## CH10 — RECOVERED: CALM, drafted 2026-09-02
+
+**2,792 words against a 3,400 budget, all 27 beats present.** Full record in the Ch10 brief. What belongs here:
+
+**⚠️ The first draft came in at 2,137 words, 63% of budget, with three beats missing** — the eleven o'clock phone calls, Marin waiting for the rest of her sister to come back, and the book that Ch13 needs to invert. **A fourth, "stopped playing," passed the first beat check on a false regex match and was not actually on the page.** After those, a second pass found two more the brief had not asked for and the chapter plainly needed: the date three weeks out, and the supervisor course. **Final draft 2,792 at 82%.**
+
+**Two lessons, and the second is new:**
+
+1. **The beat check is only as good as its patterns.** "Stopped playing" matched the word *sign* and reported ok. **Write the check against a phrase that can only appear if the beat is actually written**, not against a word the beat happens to contain.
+2. **A 63% draft is a different animal from an 86% draft.** Every previous short draft was missing one payoff. This one was missing four things, and the gap was large enough to say so before the beats were counted. **Treat anything under about 75% as structurally incomplete rather than brisk.**
+
+**The gate this chapter is built on:** no sentence in it calls Willow flat, absent, empty, hollow, missing or gone. Every observation is behavior and every judgment on the page is Marin's and is favorable. **The comparison is the reader's and they have Lila Mercer to make it with.**
+
+**A dating error found and corrected.** The Ch13 brief and CLAUDE.md said Willow drowned "four months after completion." Against the master timeline it is about six; the four months is Ch10 to the drowning, which `10-subplot-threading.md` has always said correctly. Same class as the stale six.
+
+**Ending register is now at the cap.** Ch8, Ch9 and Ch10 all close on narration. **Ch11 must close on dialogue**, and its brief now carries that warning.
+
+---
 
 ## CH9 — LENA, drafted 2026-09-02
 
