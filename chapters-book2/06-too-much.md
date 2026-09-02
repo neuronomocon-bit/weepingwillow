@@ -2,7 +2,7 @@ Chapter 6 — Too Much
 
 The coordinates came in at ten past one with no message attached, because Kade never attached one, and Iris was in the van inside four minutes.
 
-She had started the first caddy at seven that morning. It was running now on the bench with the enclosure sealed and the log writing to the array, and it would still be running when she got back, because the whole point of nine days of building was that the rig did not need her standing over it. Nothing off it would be readable for a week. She had told Kade that twice.
+She had started the first caddy at seven that morning. It was running now on the bench with the enclosure sealed and the log writing to the array, and it would still be running when she got back, because the whole point of nine days of building was that the rig did not need her standing over it. The image would close that evening. Turning a stack of images into an index she could read would take a week, and she had told Kade that twice.
 
 The address was on the north side, past the yards, in the blocks that went up when the port was expanding and had been waiting ever since for the second half of the plan. Four stories, brick, external stairs at both ends, a strip of grass with a bin store on it. She knew the type. She had been inside eleven of them for work.
 
@@ -22,7 +22,7 @@ The paramedic’s pen stopped.
 
 “Who are you with?”
 
-“Nobody. I’m not press and I’m not family and I’m not going to write your name anywhere.” She let that stand for a second. “I have been following this since the winter. Nobody in this city is counting them and I am. If you tell me to go I’ll go.”
+“Nobody. I’m not press and I’m not family and I’m not going to write your name anywhere.” She let that stand for a second. “I have been following this since the winter. No one in this city is counting them and I am. If you tell me to go I’ll go.”
 
 It was a bad answer by every professional standard and it was the true one. She had learned in the winter that the true one worked about a third of the time on people who had been on shift too long.
 
@@ -50,7 +50,7 @@ The crew arrived at ten past seven and ran everything.
 
 “And you offered him transport.”
 
-“Twice. He declined it twice.” Something moved across her face and was put away. “He had capacity. He knew where he was, he knew what I was offering, he knew what declining meant. I can’t take a man who says no and answers every question I’ve got. There isn’t a form for that.”
+“Twice. He declined it twice.” Something moved across her face and was put away. “He had capacity. He knew where he was, he knew what I was offering, and when I put the risks to him he gave them back to me in his own words, in order, including the one about not being found. I can’t take a man who says no and can tell me what no costs.” She stopped. “There’s a refusal form. There isn’t a box on it for whatever that was.”
 
 “No,” Iris said. “There isn’t.”
 
@@ -66,7 +66,7 @@ It was ordinary and it was correct and it was the most accurate sentence anyone 
 
 “Was there an event.”
 
-“There was no event.” She said it like a woman who had already been asked and expected to be asked again by people with more authority than this. “No arrest. No fall. Nothing to work on. He was sitting in the same chair four hours later and he had stopped.”
+“There was no event.” She said it like a woman who had already been asked and expected to be asked again by people with more authority than this. “No collapse that anyone saw. No fall. Nothing to work on by the time we were up the stairs. He was sitting in the same chair four hours later and he had stopped.”
 
 “What will go on the certificate.”
 
@@ -118,7 +118,7 @@ He nodded and did not look any better, and she registered that the answer had no
 
 The officer came down at two thirty and pulled the door to behind him, and it did not catch.
 
-Iris went up at twenty to three.
+She had no standing to be in that flat and no one to ask for it. She gave it ten minutes in case he came back for something, and noted that she was giving it ten minutes rather than turning the van around, and then she went up.
 
 She did not touch anything. She stood inside the door and worked the room in the order she worked any room, left wall to right, near to far, and wrote it as a list without conclusions attached, because a conclusion written at a scene is a conclusion you have to argue yourself out of later.
 
@@ -152,25 +152,33 @@ Every one of them was partial. Every one of them was survivable, and every one o
 
 This man had been fine on Tuesday. He had been fine on Tuesday and by twenty past five on Thursday morning he was sitting in a chair with everything gone, and the body had carried on for six hours after that without anything in it to steer.
 
-The same operation. The same absence of injury, the same absence of an event, the same politeness. What had changed was quantity.
+It read as the same operation. Nothing to work on, no event, the same politeness, a man answering correctly with none of the reason for it behind the answers. If it was the same operation, then what had changed was quantity.
 
-She had written *the difference is not direction* in a case note in the winter, about Caleb, and had meant a longer or a shorter distance along one line. This was the same line. The step was not the same size.
+She had written *the difference is not direction* in a case note in the winter, about Caleb, and had meant a longer or a shorter distance along one line. This was the same line, if it was a line at all. The step was not the same size.
 
-The effect had a magnitude. She had never had cause to think of it as having one, because until this morning every case she held had come in at the same size, and she had taken that for the nature of the thing rather than for a setting on it.
+The effect might have a magnitude. She had never had cause to think of it as having one, because until this morning every case she held had come in at the same size, and she had taken that for the nature of the thing rather than for a setting on it.
 
-The magnitude had changed. That was a fact about the thing and not about the man, and it meant the four cases behind her were not a series of one event. They were the low end of a range.
+If the magnitude could change, that was a fact about the thing and not about the man, and the four cases she carried were not a series of one event. They were the low end of a range.
+
+She wrote it down with the *if* still in front of it, because a thing she could not test yet was a hypothesis whatever it felt like from the inside.
 
 ***
 
 There was a second thing and it took her another minute to reach, and when she reached it she sat with her hands on the wheel.
 
-He was not on Rourke’s list.
+She had his name off the neighbor and had written it down and not used it since. She sent it to Rourke with one line under it. *Is he in your set.*
 
-He had never presented. He had never been flagged, never been referred, never carried a marker for behavioral flattening, and had never given a clinician anywhere a reason to write his name on anything. Rourke’s four hundred and sixteen were people who had survived a partial taking long enough to be noticed being strange. That was the entry criterion. That was the only entry criterion there had ever been.
+The answer came back inside four minutes, which meant Rourke had gone and looked rather than answered out of memory.
+
+*No.*
+
+Nothing else. No question about why Iris was asking after a man who had died that morning, which Rourke would have worked out before she finished typing, and no offer to talk about it. The terms had been one piece of information and she had sent one piece of information.
+
+It covered less than it looked like covering. It meant he had never presented with it, and it did not mean he had never presented, and Iris held the difference and found that the smaller version was still enough. Rourke’s four hundred and sixteen were people who had survived a partial taking long enough to be noticed being strange. That was the entry criterion. That was the only entry criterion there had ever been.
 
 So the curve on Rourke’s middle screen counted deaths among the survivors of the small dose, and it could not see this at all. It had never been able to. A man taken to completion in one pass does not enter the cohort, because he is never a patient, because there is no interval in which he can be observed being different.
 
-And there was nothing behind him. No referral, no episode, no stretch of months in which he had been slightly less than he was. The neighbor had four or five minutes on a staircase on Tuesday and years of the same man before that, and the crew had a full set of correct answers, and none of it described a person who had been touched before.
+And there was nothing behind him that she could reach. The neighbor had four or five minutes on a staircase on Tuesday and years of the same man before that, and the crew had a full set of correct answers, and none of it described a person who had been touched before. It was not proof and it was not going to become proof, because the only record of what he had been like on Monday was a man with an unlit cigarette at the bottom of a staircase.
 
 Whatever had come into that flat had come into it once.
 

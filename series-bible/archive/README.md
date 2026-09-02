@@ -13,7 +13,7 @@ Book 2 has been planned three times. This folder holds every superseded version,
 | | Status |
 |---|---|
 | **Book 1 — The Absence** | Published 2026-05-14. 22 chapters, 23,405 words. **Locked in `book1-published/`** — reference-only, never edited. |
-| **Book 2 — The Ending** | Sequel. Outline and all 22 briefs current. **Ch1 to Ch10 drafted and audited, 31,508 words**, in `chapters-book2/` awaiting the author's proofread. |
+| **Book 2 — The Ending** | Sequel. Outline and all 22 briefs current. **Ch1 to Ch10 drafted and audited, 31,788 words**, in `chapters-book2/` awaiting the author's proofread. |
 | **Book 3 — The Silence** | Outline current (rewritten 2026-08-27). **No chapter briefs — 22 need writing.** |
 
 ---

@@ -12,7 +12,7 @@ Each brief contains: POV, When, Location, Length, Goal, Conflict, Outcome, Emoti
 
 ### ⚠️ REVISED 2026-09-02 by the author: the target is **68,000–72,000 words.** Accept the length the briefs actually describe.
 
-The old target was **78,000–85,000**, and the per-chapter budgets in each brief were derived from it by division (79,800 ÷ 22 ≈ 3,600). **They were never derived from sizing the briefs.** Act I then landed 3,281 under across seven chapters, at a steady 87% of budget, with every brief beat on the page every time — because **the briefs describe roughly 3,000-word chapters and always did.**
+The old target was **78,000–85,000**, and the per-chapter budgets in each brief were derived from it by division (79,800 ÷ 22 ≈ 3,600). **They were never derived from sizing the briefs.** Act I then landed 3,281 under across seven chapters, at a steady 87% of budget, with every brief beat on the page every time — because **the briefs describe roughly 3,280-word chapters and always did.**
 
 The three ways out were: accept ~70k, enrich specific briefs, or add two or three chapters. **The author accepted ~70k.** The book is the length of its story.
 
@@ -576,7 +576,34 @@ She has the comparison nobody else has. Joel, Lila, Caleb, herself: partial, sur
 
 **Craft:** No gore, no spectacle, no scene rendered for effect. The most frightening line available is a paramedic quoting something ordinary and correct that the man said while he was already gone.
 
-**As Written (3,000 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`, awaiting the author's pass):**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. One structural problem, one evidentiary overreach, and four procedural corrections.**
+
+**⚠️ THE STRUCTURAL PROBLEM: Iris knew something no channel had given her.** She concluded *"He was not on Rourke's list,"* then asserted he had never been flagged, never been referred, and never carried a marker. **Ch2 established that Rourke refused her the caseload.** The man is unnamed, Iris inspects no documents, and nothing in the chapter connects him to the cohort or excludes him from it.
+
+**Fixed with the one-way membership check built into Ch2's redesigned test**, which is exactly what it was for. She has his name off the neighbor, writes it down and does not use it, and sends it to Rourke with *"Is he in your set."* The answer comes back in four minutes, **which means Rourke went and looked rather than answering from memory**, and it is one word: *No.* No question about why Iris is asking after a man who died that morning, which Rourke would have worked out before she finished typing, and no offer to discuss it. **The terms were one piece of information and she sent one piece of information.**
+
+**And Iris is made to hold what it does not cover:** *"It meant he had never presented with it, and it did not mean he had never presented, and Iris held the difference and found that the smaller version was still enough."* **The man is still never named on the page**, per `02-characters.md`.
+
+**⚠️ THE OVERREACH, and why it was qualified rather than kept.** *"The same operation… What had changed was quantity… The magnitude had changed. That was a fact"* — with no post-mortem, no history, and a null proximity check. **The chapter spends a page establishing that she writes observations without conclusions and then makes the largest causal claim in the book.**
+
+It is now a hypothesis throughout: *"It read as the same operation… If it was the same operation, then what had changed was quantity"*, *"This was the same line, if it was a line at all"*, *"The effect might have a magnitude"*, and the close: **"She wrote it down with the *if* still in front of it, because a thing she could not test yet was a hypothesis whatever it felt like from the inside."**
+
+**This was the better option because Ch7 exists to prove it.** Ch7 is the chapter where she builds the measure, throws out her contaminated first pass, rescores blind on a single source, and arrives at the curve. **If Ch6 has already declared it a fact, Ch7's rigor is redundant and the Act I turn — *"It makes it a method"* — has nothing left to land on.** Ch6 raises it. Ch7 earns it.
+
+**Four procedural corrections:**
+
+- **"No arrest" was medically wrong.** A dead man has had a cardiac arrest by definition. Now *"No collapse that anyone saw. No fall. Nothing to work on by the time we were up the stairs."*
+- **Orientation is not capacity, and the gap is the point.** The paramedic now establishes the part that matters: *"when I put the risks to him he gave them back to me in his own words, in order, including the one about not being found. I can't take a man who says no and can tell me what no costs."* **He articulates his own risk of dying alone and nothing in him moves.**
+- **There is a refusal form.** *"There's a refusal form. There isn't a box on it for whatever that was."*
+- **The unauthorized entry is now a choice she makes.** *"She had no standing to be in that flat and no one to ask for it. She gave it ten minutes in case he came back for something, and noted that she was giving it ten minutes rather than turning the van around, and then she went up."* **Not legalized. Registered.**
+
+Also: raw image versus usable index clarified (the image closes that evening; an index takes a week), and *"the four cases behind her"* is now *"the four cases she carried"*, which was reading as spatial.
+
+**⚠️ PROTECTED — the review named these:** the photograph piles and the small selected stack under a stone, which Iris does not turn over; the cohort-selection insight (*"A man taken to completion in one pass does not enter the cohort, because he is never a patient"*); ***"He had gone on being fine until the fine ran out"***; and **Iris's private card**: *"The part of me that would mind is the part that was taken. Something in me still refuses. I cannot identify what is doing it."*
+
+**On `nothing`:** the review is right that it is concentrated and that the structural uses carry the chapter — his apology for being called out *for nothing*, *"There was no event"*, the null proximity check, his honest report that nothing had changed, and the absence of anyone to receive Iris's account. **If a compression pass runs, take incidental ones and leave those five.**
+
+**As Written (3,280 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`, awaiting the author's pass):**
 
 - **The clock, locked.** Door standing open at **twenty past five** on Thursday morning. Neighbor goes up at **half six**. First crew at **ten past seven**. Second call at **half eleven**. The body runs about **six hours** after he is found. The neighbor last saw him on **Tuesday**, on the stairs with his shopping, in a four-or-five-minute conversation about the bin store: **thirty-six hours at the outside**, and possibly a great deal less.
 - **The line, as briefed:** *"He apologized to us on the way out." / "He said he was sorry we'd been called out for nothing."* Iris's read of it is that it was the most accurate sentence anyone said all day, because from where he was sitting it had been nothing.
