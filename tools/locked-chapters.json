@@ -50,5 +50,9 @@
   "13-the-water.md": {
     "sha256": "97a93f12c0f0168ca4a19da5425f27aada4cc2c3e7fe7c142b0359bc898600ec",
     "words": 2883
+  },
+  "14-open-jobs.md": {
+    "sha256": "a5bf2f72d0825a9f26d6ed986b9ad317b160c23b4efea20085116cc95595442b",
+    "words": 3298
   }
 }

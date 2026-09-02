@@ -144,9 +144,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH12 ARE REVIEWED, REVISED AND LOCKED. 38,380 words. The midpoint is in and Act II is past its hinge.
 
-# ✅ CH1 TO CH13 ARE REVIEWED, REVISED AND LOCKED. 41,263 words.
-
-# ✅ CH14 IS DRAFTED, REVIEWED AND REVISED, 3,298 words. Awaiting the word to lock. Book total 44,561.
+# ✅ CH1 TO CH14 ARE REVIEWED, REVISED AND LOCKED. 44,561 words. Act II closes at Ch15.
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -193,7 +191,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
-| 14 | Open Jobs | 3,298 | 3,600 | 302 | ✅ **Reviewed and revised — awaiting lock** |
+| 14 | Open Jobs | 3,298 | 3,600 | 302 | **LOCKED 2026-09-02** |
 | | **THROUGH CH14** | **44,561** | **49,800** | **5,239** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
@@ -294,7 +292,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
 **⚠️ CH14 ESTABLISHED A DEFECT CLASS THE PROJECT HAD NO CHECK FOR: THE INFERENCE CHAIN.** Its derivation was circular and passed the beat count, the frequency comparison and the number check, **because every sentence in it was well formed and every number in it was arithmetically correct.** Two sub-classes, both in one chapter: **one case promoted to a program**, and **a data type silently changing level** (Ch7's *population* escalation intervals used as *individual* return intervals, then quoted as a return window). Full account in `14-audit-method.md`. **For every general claim, count the cases it rests on and check the prose says that number out loud. And check that a number still means what it meant in the chapter it came from.**
 
-**✅ Ch14 is reviewed, revised and awaiting the word to lock.** Two things in it are load-bearing downstream: **Iris has four hundred and nine people and five names**, because Rourke's summaries are de-identified and the traffic has only ever run one way — that is why the warning cannot be delivered. And **the four option cards (Leave, Refuse, Resist, Hide) are what Ch22 pays off**; that obligation was recorded only in Ch22's dialogue note and is now in the Ch14 record too.
+**✅ Ch14 is locked.** Two things in it are load-bearing downstream: **Iris has four hundred and nine people and five names**, because Rourke's summaries are de-identified and the traffic has only ever run one way — that is why the warning cannot be delivered. And **the four option cards (Leave, Refuse, Resist, Hide) are what Ch22 pays off**; that obligation was recorded only in Ch22's dialogue note and is now in the Ch14 record too.
 
 **✅ Ch13 is locked.** Its As Written block is in `08-book2-chapter-briefs.md`. **It sets one fact worth carrying: Willow Halloway attended her six-month review in August and was fine**, which is the last time the institution looked at her before she died, and it is buried inside the adverse-event review's inventory rather than given a scene.
 3. **Write the 22 Book 3 briefs** against the rewritten `07-book3-outline.md`.
@@ -327,7 +325,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ ALL THIRTEEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (2026-09-02). 41,263 words.** Ch1 to Ch13 are closed to editing.
+**✅ ALL FOURTEEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (2026-09-02). 44,561 words.** Ch1 to Ch14 are closed to editing.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 
