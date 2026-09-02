@@ -76,7 +76,7 @@ She did not brake. Braking at that point would have cost her more than the two m
 
 She wrote the interval down at the next light, because she was going to want it and because writing it down was the only part of it available to her.
 
-*Retrieval, four seconds, route decision under load. Longest recorded.*
+*Retrieval, four seconds, route decision under load. Longest functional delay.*
 
 The reading went on rising the whole of the last two miles, and she drove inside the limit, and arrived.
 
@@ -90,7 +90,7 @@ Iris got the distance at about ninety meters. Dark coat, dark hair, a build that
 
 She had seen her twice before. Both of those had been closer than this.
 
-Something in the woman had settled. She had been assembled the last time and she was not assembled now, and Iris could not have said which part had changed, and she stood in the lot with the van door open and made herself write down the only three things she could defend.
+Something in the woman had settled that had not been settled before, and Iris could not have said which part of her it was, and she stood in the lot with the van door open and made herself write down the only three things she could defend.
 
 *Ninety meters. Walking. Not hurrying.*
 
@@ -188,7 +188,7 @@ She had built the band nine days ago off a man on the north side she had never m
 
 ***
 
-His hands were cooler than they had been in January. She had not been checking for that and she found she had noticed it anyway, at some point in the last few minutes, and she put the back of her fingers against the inside of his wrist and counted for fifteen seconds and doubled it.
+His hands were cooler than they had been in January. She had not been checking for that and she found she had noticed it anyway, at some point in the last few minutes, and she put the back of her fingers against the inside of his wrist and counted for thirty seconds and doubled it.
 
 “Forty-four,” she said.
 
@@ -202,21 +202,35 @@ She took her hand back and wrote the pulse down.
 
 “Am I going to the hospital.”
 
-Iris thought about it properly, because he had asked it properly.
+“I’m calling them now.”
 
-“You can,” she said. “I can call them and they will come and they will find something, and it will be true, and it will not be this.”
+“There’s no point.”
 
-“Then there’s no point.”
+“That’s the part I can’t use.” She had the phone out of her jacket already. “A refusal is worth something because the person making it wants an outcome. You can’t produce one. I have been writing down what you can’t produce since I came through that door and it is the whole of what I have. So that isn’t a refusal. It’s a reading, and I am not allowed to take a reading as an instruction.”
 
-“There might be a point for you.”
+He looked at that as he had looked at everything.
 
-“Is there.” He was not arguing. He was asking her for the operational answer, because she was the one in the room with the information. “You’ve seen this before.”
+“That’s fair,” he said.
+
+She called it in from the chair with her fingers still on his wrist, and gave them the address and the code for the entry panel and a pulse of forty-four in a man of thirty-nine with no history, no injury and no complaint. The woman on the line took her through the questions in the order they come. Was he conscious. Was he breathing. Was he in pain. Had he taken anything. Iris answered all of them accurately and not one of the answers moved the call up a category, because every one of them was a no, and a conscious man breathing comfortably in a chair is not what the system is built to hurry for.
+
+Twenty-five minutes. The yards were the far end of everything and the fog was in and there was one crew on that side of the river.
+
+“Twenty-five minutes,” she said.
+
+“That’s about right for out here.”
+
+She put the phone face up on the arm of the chair where she would see it light, and did not look at it again.
+
+Nothing in the room changed.
+
+“You’ve seen this before,” Caleb said. He was not arguing and he had not been arguing. He was asking her for the operational answer, because she was the one in the room with the information.
 
 “Twice.”
 
 “And.”
 
-“Once at this magnitude. He died in a chair about six hours after.”
+“Once at this magnitude. He died in a chair about six hours after, and no one was called, and I do not know whether that is why.”
 
 “All right,” Caleb said.
 

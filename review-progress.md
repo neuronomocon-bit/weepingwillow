@@ -73,7 +73,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 2,852** | **awaiting author pass** |
+| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **awaiting author pass** |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
@@ -154,8 +154,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 8 | 3,800 | 3,851 | -51 |
 | 9 | 3,600 | 3,329 | 271 |
 | 10 | 3,400 | 3,042 | 358 |
-| 11 | 3,800 | 2,852 | 948 |
-| **THROUGH CH11** | **39,200** | **35,399** | **3,801** |
+| 11 | 3,800 | 3,099 | 701 |
+| **THROUGH CH11** | **39,200** | **35,646** | **3,554** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -241,6 +241,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
 | Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
 | Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch11 | 3 + 1 | **The one that mattered was not arithmetic.** Iris sat and watched a pulse fall from forty-four to thirty-one without calling anyone, which made her non-intervention the largest moral act on the page and swamped the band-five score. **She cannot accept his refusal, because a refusal requires wanting an outcome and she has spent an hour documenting that he cannot produce one.** She calls; it does not arrive. |
 | Ch10 | **0** | **The first with no hard error.** One epistemic breach instead: *"and she meant it"* certified Willow's interior in a chapter built on Marin not being able to tell. **The gate runs both ways — do not name what is missing and do not certify what is there.** All three calendar items checked out. |
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |

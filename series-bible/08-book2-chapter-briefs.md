@@ -970,7 +970,7 @@ Willow's face: **first change.** Caleb is the first whole structure she has ever
 
 **And the mechanical checks, before the commit:** `node tools/number-check.js 11-*.md` for the arithmetic and the intervals, `node tools/voice-audit.js --per-ch`, the beat count against **this brief and `11-key-dialogue-notes.md` both**, and the cascade grep on anything the chapter changes about a locked chapter's facts.
 
-**As Written (2,852 words, drafted 2026-09-02, `chapters-book2/11-caleb.md`, awaiting the author's pass).** All 30 beats verified present before the word count was looked at. **75% of a 3,800 budget, and shipped there on the author's instruction that the budget is capacity rather than a quota and that the power comes from duration in the room rather than bulk.** Load-bearing elements:
+**As Written (3,099 words, drafted 2026-09-02, `chapters-book2/11-caleb.md`, awaiting the author's pass).** All 30 beats verified present before the word count was looked at. **75% of a 3,800 budget, and shipped there on the author's instruction that the budget is capacity rather than a quota and that the power comes from duration in the room rather than bulk.** Load-bearing elements:
 
 - **⚠️ THE ENDING IS A HARD CONSTRAINT AND IT IS THE LAST LINE OF THE FILE.** *"Do you want anything," she said. / "No."* **No narration follows it. Not a sentence identifying the silence, not a line about the room.** The chapter ends where his answering does. It is also the Ch1 question returned: there she asked it off-list and *"the consideration was real and took about as long as it should have, and she watched him go looking and come back"* before he said *"Nothing I can think of."* **Here there is no consideration and the answer is one word.**
 - **The call is four words of admin.** *"There's someone here."* Then, unprompted: *"I let her in."* She tells him to leave and he says *"All right"* and does not move, **because there was nothing in the sentence that made moving more correct than not moving.** *"I don't have a reason to."*
@@ -983,6 +983,26 @@ Willow's face: **first change.** Caleb is the first whole structure she has ever
 - **⚠️ The brief beat that nearly did not reach the page:** *the only person unable to feel it.* She takes her own reading while her fingers are on his wrist, **because taking one put her in the way of taking the other.** Smooth in the café in January, smooth in the lot on the north side nine days ago, smooth now with her hand on a man she has known for six years. *"the checking was procedure and the result was the result and neither of them was any use to him."*
 - ***"You're doing it."*** His answer when she asks whether there is anything he would like her to do. **Iris does not write that one down.**
 - **She stops asking and the reason is not stated.** *"at some point she noticed that she had not asked him anything for several minutes, and she did not start again."* Then one more, off every list.
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02, on the same day it was drafted. One substantial problem and three small ones.**
+
+**⚠️ THE SUBSTANTIAL ONE: Iris could not sit and watch a pulse fall from forty-four to thirty-one without calling anyone.** As first drafted she asked whether he wanted a hospital, he said *"there's no point,"* and she accepted it. **Two things were wrong with that.**
+
+First, **Caleb cannot make a refusal.** A refusal is worth something because the person making it wants an outcome, and the entire chapter is Iris documenting that he cannot produce one. **She of all people knows that**, because she built a scale for it nine days earlier. Second, and worse for the chapter: **it made her non-intervention the largest moral act on the page and swamped the band-five score**, which is supposed to be the worst thing she does.
+
+**She now says it to his face, using her own data, and calls:**
+
+> *"That's the part I can't use. A refusal is worth something because the person making it wants an outcome. You can't produce one. I have been writing down what you can't produce since I came through that door and it is the whole of what I have. So that isn't a refusal. It's a reading, and I am not allowed to take a reading as an instruction."*
+>
+> *"That's fair," he said.*
+
+**And the call is the Ch6 rhyme from the other side.** In Ch6 a crew arrived and had no lawful grounds to act. Here Iris gives them grounds and they cannot arrive: *"not one of the answers moved the call up a category, because every one of them was a no, and a conscious man breathing comfortably in a chair is not what the system is built to hurry for."* **Twenty-five minutes, one crew on that side of the river, and the chapter ends before they come. Do not state that. The reader holds it.**
+
+**She does the correct thing knowing it will not work, because correctness is what she has left**, and the phone goes face up on the arm of the chair and she does not look at it again. ***"Nothing in the room changed."*** **Willow's action remains the sole cause of the death, which was the point of fixing it.**
+
+**Three smaller corrections:** a fifteen-second pulse count multiplies by four, so it is **thirty seconds and doubled**. *Longest recorded* was wrong because Ch1 already has a four-second retrieval on the site address, so it is **longest functional delay** (Ch1's functional one was three seconds). And *"she was not assembled now"* certified Willow's condition from ninety meters with no face, which is the Ch10 gate again: now **"Something in the woman had settled that had not been settled before, and Iris could not have said which part of her it was."**
+
+**The chapter grew from 2,852 to 3,099 entirely out of the medical repair**, which is what the review predicted and the only expansion it needed.
 
 **⚠️ Gate compliance, both directions.** No sentence calls Caleb empty, hollow, absent or gone, **and none vouches for anything still being in him.** Every line is behavior or an answer. **The reader decides what was behind them, and Iris never reflects on this being the second time.**
 
