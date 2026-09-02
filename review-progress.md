@@ -66,7 +66,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,951** | **✅ LOCKED 2026-09-02** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,055** | **✅ LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **awaiting author pass** |
-| 5 | Read | Iris | 3,600 | **DRAFTED 3,073** | **awaiting author pass** |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **awaiting author pass** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,000** | **awaiting author pass** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,253** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
@@ -147,14 +147,14 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 2 | 3,400 | 2,951 | 449 |
 | 3 | 3,600 | 3,055 | 545 |
 | 4 | 3,600 | 3,394 | 206 |
-| 5 | 3,600 | 3,073 | 527 |
+| 5 | 3,600 | 3,185 | 415 |
 | 6 | 3,400 | 3,000 | 400 |
 | 7 | 3,600 | 3,253 | 347 |
-| **ACT I COMPLETE** | **24,600** | **21,657** | **2,943** |
+| **ACT I COMPLETE** | **24,600** | **21,769** | **2,831** |
 | 8 | 3,800 | 3,608 | 192 |
 | 9 | 3,600 | 3,108 | 492 |
 | 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **31,396** | **4,004** |
+| **THROUGH CH10** | **35,400** | **31,508** | **3,892** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 

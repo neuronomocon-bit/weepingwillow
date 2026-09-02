@@ -507,7 +507,25 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 **Craft:** Do not let her grieve on the page. Do not let the prose grieve for her either.
 
-**As Written (3,073 words, drafted 2026-08-31, `chapters-book2/05-read.md`, awaiting the author's pass):**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. Two arithmetic errors and four technical corrections. No structural change — the review's instruction was to repair the numbers and leave the design alone.**
+
+**The two arithmetic errors, both confirmed independently before fixing:**
+
+1. **Off by one on the retries.** *"The reader retried it four times on its own, and the fourth retry took"* does not agree with the two sentences after it, which say *"succeeds on the fourth attempt"* and *"failed three times."* **It is three retries, and the third takes**: the original attempt plus three retries is the fourth attempt and three failures.
+2. **The benchmark.** *"It stood at twenty-nine hours. She had set it at thirty-one"* is **two** hours, and the text said eleven. **The eleven was a bleed off the eleven minutes in the parking lot two paragraphs earlier.** Two is also correct for the beat: she has never beaten the benchmark by more than a morning, so two hours is inside her historical range, which is why the number belongs in the row of readings that have not moved. **Her work speed is unchanged. That is the point and it survives the fix.**
+
+**Four technical corrections:**
+
+- **⚠️ A repeatable error does not rule out damaged media.** The old line — *"An error at a consistent offset is not damage, because damage does not keep an appointment"* — was too categorical. **The chapter's own logic was already about elapsed time and had not said so.** It now reads: the error returns at ninety-one minutes **and a different block**, so a fault on the tape would have stayed where it was on the tape and this one is keeping time instead. **That puts the reader in front of the cartridge and does not rule the cartridge out**, and the cross-test on the second reader is what isolates it. The eleven-years line survives, attached to the isolation principle instead.
+- **`not random` is a finding and now has a basis.** She measures forty intervals and gets **nothing under twenty-six hours and nothing over forty**, *"which is not what noise does, because noise hands you the short ones and the long ones as well."* Bounded with no tails. **Still no mechanism, and she still writes it down with no conclusion attached.**
+- **The archive authenticates against a frozen copy of itself.** *"Nothing it wanted was anywhere except on the media in front of her, which was the only reason it could still be satisfied."* ⚠️ **Leaving this ambiguous invited the reading that Meridian infrastructure is still alive somewhere, which is not the story.**
+- **Two readers, not three.** *"Two images running while she read a third off the array"* could be read as three physical readers. Now *"two cartridges imaging at once while she worked on an image already written to the array."*
+
+**⚠️ PROTECTED — the review named these and they do not move:** the anonymity of `MN-R-0338` (**do not put Willow's name in this chapter**), the nine-note progression from four sentences to four words to nothing, the phone-recovery memory where *"the ready had arrived on its own without being sent for,"* and the closing *"Get the number."* Also *"It had been left in the middle of a sentence and it picked the sentence up."*
+
+**The operator's first note is the chapter's best beat and is untouched:** she keeps flawed data rather than making Willow repeat part of a four-hour procedure, explains the deviation, defers correction unless it becomes material, and calls her **she**. **A tiny act of care surviving in a system that had otherwise turned her into an identifier.**
+
+**As Written (3,185 words, drafted 2026-08-31, `chapters-book2/05-read.md`, awaiting the author's pass):**
 
 - **Six days in six movements:** the bench and the authentication (Day 29) · the belt (Day 30) · the sequencing (Days 31 to 32) · the read (Day 33) · the back stack and the rig (Day 35) · the facilities logs and Kade.
 - **The salvage was adapted rather than lifted, in two places, and both changes are Ch3's fault in the right way.** The ninety-minute bridge trip became a **cartridge throwing a soft error at ninety-one minutes on three consecutive passes**, which turns out to be a glazed belt in her own reader and not damage to the media: *an error at a consistent offset is not damage, because damage does not keep an appointment.* It costs her a day and buys her nothing, and it is where the refusal to rush is rendered instead of asserted. The **wet-drive procedure** could not be used as written, because Ch3 establishes the caddies were dried and restacked years ago. It became the rig: **one attempt per drive**, donor heads for a discontinued caddy model, four dead caddies off a scrap dealer to burn proving it, and the back stack left in the order she found it because that order is the last information anyone has about how it was stored.

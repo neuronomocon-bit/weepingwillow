@@ -10,13 +10,13 @@ She wrote the number down and started the bench.
 
 The rules went up first, on a card above the table where she would see them from the chair. *Image before read. Verify every close. Nothing runs off an original.* None of it was new. It was the standard she had worked to since she was twenty-four. Putting it on the wall changed nothing about the standard and she put it on the wall.
 
-The reader she owned took the format. The second one came off a man in Gorse Point who had four of them in a lock-up and no clear idea why anyone still wanted one. He wrapped it in a towel for the drive back and told her the format had been good and had lost to a cheaper one, and that this was the story of everything. He charged her sixty and threw in a spare belt. Two readers meant two images running while she read a third off the array, and the arithmetic on that was the difference between three weeks and five.
+The reader she owned took the format. The second one came off a man in Gorse Point who had four of them in a lock-up and no clear idea why anyone still wanted one. He wrapped it in a towel for the drive back and told her the format had been good and had lost to a cheaper one, and that this was the story of everything. He charged her sixty and threw in a spare belt. Two readers meant two cartridges imaging at once while she worked on an image already written to the array, and the arithmetic on that was the difference between three weeks and five.
 
 She set the first cartridge at two thirty and it came up in under a minute.
 
 Then the archive wanted to know who she was.
 
-That took the rest of the afternoon. None of it was difficult and all of it was slow. The access layer had been configured by an institution that expected to exist. It wanted a department. The department had been folded into another department twice since the last time it had been signed into, so the first name was refused and the second name was refused, and the third pass went through on a credential Kade had not used for anything in three years and had never had revoked. She watched the handshake complete with her hands off the keys and let the tree finish resolving on its own.
+That took the rest of the afternoon. None of it was difficult and all of it was slow. The access layer had been configured by an institution that expected to exist. It wanted a department. Nothing it wanted was anywhere except on the media in front of her, which was the only reason it could still be satisfied. The department had been folded into another department twice since the last time it had been signed into, so the first name was refused and the second name was refused, and the third pass went through on a credential Kade had not used for anything in three years and had never had revoked. She watched the handshake complete with her hands off the keys and let the tree finish resolving on its own.
 
 It came up clean. Labels that had gone without an update for the last two years the building was open. Session data nested under a heading for a group that had been renamed out from under it. Underneath that, in the order a system writes things rather than the order a person would, six years of work.
 
@@ -30,13 +30,13 @@ She started the first image and let it run, and the array at her elbow ticked as
 
 On the second morning a cartridge threw a soft error at ninety-one minutes, and she lost the day to it.
 
-The image had been running clean until then. The error came up in the middle of a session block, the reader retried it four times on its own, and the fourth retry took. A read that succeeds on the fourth attempt is a read that succeeded. It is also a read that failed three times.
+The image had been running clean until then. The error came up in the middle of a session block, the reader retried it three times on its own, and the third retry took. A read that succeeds on the fourth attempt is a read that succeeded. It is also a read that failed three times.
 
 She could have taken it. That was the shape of the temptation and she looked straight at it: accept the close, flag the block, carry on, and be four hours further along by the evening. There were three more batches behind this one, and a corroding index behind those, on a clock she could not see.
 
 She re-imaged it instead.
 
-The second pass threw the error at ninety-one minutes. So did the third. An error at a consistent offset is not damage, because damage does not keep an appointment, and she had been telling clients some version of that sentence for eleven years. She moved the cartridge to the second reader, ran it a fourth time, and it came off end to end without a retry.
+The second pass threw the error at ninety-one minutes. So did the third, at ninety-one minutes and a different block, which was the part worth having: a fault on the tape stays where it is on the tape, and this one was keeping time instead. That put the reader in front of the cartridge and it did not rule the cartridge out. The only way to tell them apart was to change one of them and run it again, and she had been telling clients some version of that sentence for eleven years. She moved the cartridge to the second reader, ran it a fourth time, and it came off end to end without a retry.
 
 Then she opened the first reader and found the belt.
 
@@ -114,7 +114,7 @@ Iris read MN-R-0338 for six hours and stopped because the batch ran out.
 
 Before she closed the terminal she checked the clock against her own benchmark for cataloguing a set this size. It stood at twenty-nine hours. She had set it at thirty-one and had never beaten it by more than a morning.
 
-She was eleven hours inside it.
+She was two hours inside it.
 
 The number went onto a card and up above the doorframe, on the short row, with the four that had not moved.
 
@@ -142,7 +142,7 @@ Twenty-four consecutive months, all filed under the same operator identifier, al
 
 She put the raw draw up on the wall screen and looked at it.
 
-It rose and it fell. There was no shift pattern in it and no weekday pattern. The intervals from one rise to the next were not regular. They were also not random, and she sat with that a while, because those two together did not describe anything she had a category for. A thing that runs on a schedule looks like a schedule. A thing that runs on demand looks like noise. This was neither, and it had been neither for two years, and someone had quietly kept the arithmetic tidy around it the entire time.
+It rose and it fell. There was no shift pattern in it and no weekday pattern. The intervals from one rise to the next were not regular. She measured forty of them and got nothing under twenty-six hours and nothing over forty, which is not what noise does, because noise hands you the short ones and the long ones as well. Not regular and not random, and she sat with that a while, because those two together did not describe anything she had a category for. A thing that runs on a schedule looks like a schedule. A thing that runs on demand looks like noise. This was neither, and it had been neither for two years, and someone had quietly kept the arithmetic tidy around it the entire time.
 
 She wrote it down with no conclusion attached, because a conclusion attached to that would have been invented, and put the card on the doorframe.
 

@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 31,396 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACT I IS DRAFTED AND AUDITED AND ACT II IS UNDER WAY: Ch1 through Ch10, 31,508 words, in `chapters-book2/` awaiting the author's proofread. Ch11 — MIDPOINT: Caleb is next; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -154,14 +154,14 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 2 | Mortality | 2,951 | 3,400 | 449 | **LOCKED 2026-09-02** |
 | 3 | The Files | 3,055 | 3,600 | 545 | **LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | 3,600 | 206 | Re-audited, awaiting author pass |
-| 5 | Read | 3,073 | 3,600 | 527 | Awaiting author pass |
+| 5 | Read | 3,185 | 3,600 | 415 | Awaiting author pass |
 | 6 | Too Much | 3,000 | 3,400 | 400 | Awaiting author pass |
 | 7 | The Curve (ACT I TURN) | 3,253 | 3,600 | 347 | Awaiting author pass |
-| | **ACT I** | **21,657** | **24,600** | **2,943** | 87% of budget |
+| | **ACT I** | **21,769** | **24,600** | **2,831** | 87% of budget |
 | 8 | **RECOVERED: Sessions** | 3,608 | 3,800 | 192 | Re-audited, awaiting author pass |
 | 9 | Lena | 3,108 | 3,600 | 492 | Awaiting author pass |
 | 10 | **RECOVERED: Calm** | 3,023 | 3,400 | 377 | Awaiting author pass |
-| | **THROUGH CH10** | **31,396** | **35,400** | **4,004** | 88% of budget |
+| | **THROUGH CH10** | **31,508** | **35,400** | **3,892** | 88% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -321,7 +321,7 @@ A chapter is not finished when the prose is finished. It is finished when the br
 | `review-progress.md` · `CLAUDE.md` | Status tables, word counts, next work, open questions. |
 | `tools/voice-audit.js` | **Law 7: the tooling is part of the corpus.** A new screen goes in when the defect is found, not when it recurs. |
 
-**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (31,439 against 31,396 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
+**Word counts have one source.** `node tools/voice-audit.js --per-ch` prints the canonical figure: whitespace-separated tokens over the chapter body, heading dropped, matching `build-manuscript.js`. **The build prints a slightly larger total** (31,551 against 31,508 at Ch10) because it counts the chapter heading lines and the act labels. **That gap is expected. Do not "fix" it.** **Never count by hand and never record a number you did not read off the tool.** Until 2026-09-02 the repo had two counters and every recorded figure was wrong by a few words.
 
 **Check a drafted chapter against the brief AND the dialogue notes.** They hold different beats, and a beat present only in `11-key-dialogue-notes.md` has been missed this way once already.
 
