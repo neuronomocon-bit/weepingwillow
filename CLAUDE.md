@@ -186,7 +186,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 8 | **RECOVERED: Sessions** | 3,851 | 3,800 | -51 | **LOCKED 2026-09-02** |
 | 9 | Lena | 3,329 | 3,600 | 271 | **LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
-| | **THROUGH CH10** | **32,547** | **35,400** | **2,853** | 88% of budget |
+| 11 | **MIDPOINT: Caleb** | 2,852 | 3,800 | 948 | Drafted, awaiting author pass |
+| | **THROUGH CH11** | **35,399** | **39,200** | **3,801** | 90% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 

@@ -73,7 +73,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
+| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 2,852** | **awaiting author pass** |
 | 12 | After | Iris | 3,600 | — | — |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
@@ -154,7 +154,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 8 | 3,800 | 3,851 | -51 |
 | 9 | 3,600 | 3,329 | 271 |
 | 10 | 3,400 | 3,042 | 358 |
-| **THROUGH CH10** | **35,400** | **32,547** | **2,853** |
+| 11 | 3,800 | 2,852 | 948 |
+| **THROUGH CH11** | **39,200** | **35,399** | **3,801** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 

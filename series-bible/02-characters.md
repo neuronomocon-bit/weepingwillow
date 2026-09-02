@@ -727,7 +727,8 @@ He is the first death that is unambiguously a killing: everything removed at onc
 
 - **Settled exactly where Willow left him** as of Ch1: no further loss, no recovery, and from outside it looks like a man who has become calm.
 - *"Good seeing you"* is a fixed unit he will say to the next person in the same shape. His *"How are you doing?"* is placed correctly and is the shape of concern with the concern lifted out.
-- **Iris checks him on a three-week schedule** from Ch1. **Ch11 is the visit that does not happen on schedule.**
+- **Iris checks him on a three-week schedule** from Ch1. **The check due on Day 42 was not made**, because that was the evening Lena arrived; Caleb calls on Day 45.
+- **⚠️ Ch11 canon.** He has a **sister in Halifax**, eleven hours away, and Iris offers to call her and he answers with the arithmetic instead of an answer. He gives Iris **the times to the minute** off the stove clock and asks her to write them down: *"Someone should have the times."* The last thing he says is **"No,"** to *"Do you want anything"* — the Ch1 question, which in Ch1 got real consideration and five words. **His scored magnitude is band five.**
 
 ## Dr. Marin Halloway
 
