@@ -810,7 +810,12 @@ Iris can identify exactly what that costs Lena, and can identify that a person w
 
 **Craft:** No confession scene. No breakdown. The chapter's power is that both women are behaving well and it is not enough. **Do not let Lena be shrill and do not let her be a saint.** She is irritating at least once.
 
-**As Written (3,329 words). Drafted and audited 2026-09-02. Awaiting the author's proofread.** All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
+**As Written (3,329 words). Drafted and audited 2026-09-02.**
+
+# ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+ All 30 beats verified present before the word count, including four payoffs the brief did not ask for. Load-bearing elements:
 
 - **The constructed response is a memory, and that is the whole mechanism.** Retrieval is intact and only the charge is gone, so the one thing Iris can still give her sister is the account. **She runs a search, finds the memory Lena wants back, and hands it over at the moment it will do the most good.** It is complete, it is accurate, it is assembled for effect, and none of it came from anywhere. *"She would have called it a lie if there had been anything false in it."*
 **⚠️ AUTHOR'S REVIEW PASS, 2026-09-02. Three continuity errors and a duration, one of them caused by our own Ch8 fix.**

@@ -167,6 +167,25 @@ She means it as good news. She is not wrong.
 
 ---
 
+### B2 Ch9 — Lena Chooses
+*Added 2026-09-02. The file had no Ch9 entry and this is one of the book's key moments, and B3 Ch8 depends on it.*
+
+**Tone:** Two people behaving well, and it is not enough. **Do not let Lena be shrill and do not let her be a saint. She is irritating at least once.**
+
+**Her diagnosis is relational, not clinical, and that is what makes it land.** She does not say Iris seems flat or forgets things, which the wall has already shown. She says: ***"You don't ask me things you already know the answer to anymore. You used to ask me things you already knew the answer to, all the time, because you wanted to hear me say it. That's gone. Everything else is here and that's gone."***
+
+**⚠️ She has already tried the other thing, and this is load-bearing for Book 3.** She asked Iris to see someone in **February** and again in **March**, was refused both times, and read enough afterward to know Iris was right about why ordinary medicine cannot reach it. *"I'm not pretending nothing's wrong. I'm out of things to do about it that you'd let me do."* **Presence is what she has left, not what she reached for first.** Without this her acceptance reads as incuriosity in a woman who works at a clinic.
+
+**The decision, and it must arrive without a frame** (self-annotation belongs to Marin and Rourke): *"I'd rather have the person who answers correctly than nothing, and I'm not going to keep testing you to find out how much of you is in there, because that was for me and it wasn't doing you any good."* Then: *"So I'm going to stop asking if you're okay. And I'm going to keep coming over."*
+
+**Iris's answer is a memory, and the mechanism is the book's.** Retrieval is intact and only the charge is gone, so the account is the one thing she can still give. **Lena drops the memory half-wrong at dinner and Iris does not correct her; ninety minutes later Iris gives it back whole.** The reader watches retrieval and deployment happen as two separate mechanical acts an hour apart. Lena sees her sister remembering.
+
+**⚠️ Do not resolve what the account is.** Performance, love, and excellent work are all defensible and the chapter is strongest when a reader can argue all three. *"It was the best work she had done in months"* and *"she would have called it a lie if there had been anything false in it"* both stay.
+
+**No confession scene. No breakdown. Nothing is resolved.** Lena stays the night without asking, which is the same move as the parking and the too much food, made for the last time that evening and with the most skill.
+
+---
+
 ### B2 Ch10 — RECOVERED: Calm
 *Post-treatment Willow. The first Taken person in the series.*
 
@@ -367,6 +386,8 @@ She writes it down, because writing things down is what she does now. **Seeing i
 **Tone:** Lena hot, direct, controlled-angry. Iris cool, measured, performing.
 
 **Lena should be:** angry from months of being managed, direct, persistent, physical. She will not accept "I'm fine" and will not accept deflection. She has been inside this since Book 2 Ch9 and has watched it get worse.
+
+**⚠️ And she has already spent her patience once.** In Book 2 Ch9 she asked twice for Iris to be seen, was refused, and made a deliberate decision to stop asking and keep coming. **This scene is that decision failing.** She is not angry because she never tried; she is angry because she tried, chose the diminished version on purpose, and it went on getting worse anyway. **Do not write her as newly alarmed.**
 
 **Iris should be:** saying the right things, performing concern at the right moments, technically perfect and emotionally absent.
 

@@ -26,5 +26,9 @@
   "08-sessions.md": {
     "sha256": "1c949e86c600ee4dad38f0b40315b0f73c9700de02144f310ceb96686f7b5d8b",
     "words": 3851
+  },
+  "09-lena.md": {
+    "sha256": "9192f9b02a18d5b092c74fbb5d40bd139731efddb1f4170bbb199d8d9d75c1be",
+    "words": 3329
   }
 }
