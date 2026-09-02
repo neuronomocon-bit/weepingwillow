@@ -24,7 +24,7 @@ Virek was at his terminal with three curves up and a sandwich he had clearly for
 
 “Simon. The collision on the baseline set. Did that resolve?”
 
-“It resolved. Two of them were the same person entered twice by different referrers.” He turned in the chair. “The third one was yours. MN-R-0338 has been issued before. Veterans’ cohort, course closed out three years ago, and the identifier recycled on schedule when the retention window ran out. That part’s by the book, and the book is thinner than it sounds. Once a number goes back in the pool, the only thing holding two people apart is the dates on their records. What didn’t happen is the closed record coming off the live index when it went.”
+“It resolved. Two of them were the same person entered twice by different referrers.” He turned in the chair. “The third one was yours. MN-R-0338 has been issued before. Veterans’ cohort, course closed out three years ago, and the identifier recycled on schedule when its allocation hold ran out. That part’s by the book, and the book is thinner than it sounds. Once a number goes back in the pool, the only thing holding two people apart is the dates on their records. What didn’t happen is the closed record coming off the live index when it went.”
 
 “So the number is sitting on two people.”
 

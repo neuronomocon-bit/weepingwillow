@@ -312,6 +312,19 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 **`contrast framing, split` is now a line in `tools/voice-audit.js`.** With it running: **Book 1 four, Book 2 six** — a *lower* rate than the published baseline, so this is not a runaway tic. **But it is banned outright for Book 2 regardless of rate**, and the six are all in locked chapters (Ch1 ×2, Ch5 ×2, Ch7, Ch12). **They are reported and left alone: this is style, not a consistency defect, so the standing permission does not reach them.**
 
+### ⚠️ A CHECK CAN BE TURNED OFF BY THE THING IT IS CHECKING
+
+`verify-record.py` cross-checks each brief's recorded word count against the prose. It found the header with `re.search(r'As Written \(([\d,]+) words', blk)` — **an exact-case literal.** Ch13, Ch14 and Ch15 were written with headers reading `**AS WRITTEN (drafted <date>, N words)**`, which matches neither the capitalization nor the word order. **The check reported `has no As Written block` and the count comparison never ran for any of the three.**
+
+**Two separate failures, and the second is the one worth keeping:**
+
+1. **The checker was brittle** — it demanded a house style nothing enforced. It is now case-insensitive and finds the count anywhere in the header line, with a comment saying not to tighten it back up.
+2. **⚠️ THE FAILURES WERE ON SCREEN FOR THREE CHAPTERS AND WERE FILTERED OUT OF THE OUTPUT BEING READ.** Every run was piped through `grep -v "^  ok"` or `tail`, which cut the FAIL block out of the middle. **The tool was working and reporting correctly and nobody looked at that part of it.**
+
+**So: read the whole of a verifier's output before a commit, or grep for `FAIL` explicitly.** A convenience filter that hides a category of result is the same defect as a screen that cannot match — and it is harder to notice, because the tool is not broken.
+
+**This is the third instance of one shape:** the curly-quote heredoc, the `\b` backspace, and now a check disabled by a header rename. **A clean screen is evidence about the screen.**
+
 ### ⚠️ `\b` IN A PYTHON STRING IS A BACKSPACE, AND THE SCREEN REPORTED CLEAN
 
 The screen above was written into `voice-audit.js` by a Python script and reported **0 against a corpus containing seven instances.** The cause: in a non-raw Python string `\b` is **0x08**, so the regex literal in the file demanded a literal backspace character on both ends and could never match. **`\s` in the same string survived intact**, because `\s` is not a valid Python escape and is left alone — which is why the line *looked* right in every editor and in `grep`. It took `cat -A` to see the `^H`.

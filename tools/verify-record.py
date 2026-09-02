@@ -77,7 +77,12 @@ fails = []
 for n in sorted(actual):
     m = re.search(u'### Chapter %d [—-].*?(?=\n### Chapter |\\Z)' % n, briefs, re.S)
     blk = m.group(0) if m else u''
-    w = re.search(r'As Written \(([\d,]+) words', blk)
+    # ⚠️ Case-insensitive, and the count may sit anywhere in the header line.
+    # This check was silently OFF for Ch13-Ch15 because their headers read
+    # "AS WRITTEN (drafted <date>, N words)". A check that cannot match the
+    # thing it guards reports PASS forever. Never tighten this back up.
+    hdr = re.search(r'\*\*AS WRITTEN[^\n]*', blk, re.I)
+    w = re.search(r'([\d,]+) words', hdr.group(0)) if hdr else None
     if not w:
         fails.append("Ch%d has no As Written block" % n)
     elif w.group(1) != "{:,}".format(actual[n]):

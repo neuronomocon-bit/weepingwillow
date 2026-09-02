@@ -1285,7 +1285,23 @@ The chapter ends there. **No reflection, no dawning, no closing line with weight
 
 **Purpose:** The name, the deviation, the escalation, and the second visit.
 
-**AS WRITTEN (drafted 2026-09-02, 2,900 words. Marin 2,488, Iris coda 412 — under the 500 cap).**
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02, on the day it was drafted. Two continuity errors, one cross-chapter terminology contradiction, and one sentence that broke the Marin gate.**
+
+**1. The joke was attached to the wrong session, and Ch13 is locked.** Ch13 puts Willow's joke at about nineteen minutes inside the **twelfth** session, which Marin watches four times. The draft attached it to **session four**, ninety seconds into the purge. **Contamination between Ch13's *session twelve* and Ch13's *fourth viewing*.** Moved to the twelfth, **which also puts it last in the purge instead of ninety seconds in**, and the Ch13 link is now explicit: *"Marin had watched that recording four times in September. It went first, and then the note that recorded it, and then the intermediate states."*
+
+**2. ⚠️ THE RETENTION CONTRADICTION, AND IT REQUIRED A DISCLOSED EDIT TO LOCKED CH8.** Ch15 establishes a **thirty-year** clinical retention schedule. Locked Ch8 has Simon say the identifier *"recycled on schedule when the retention window ran out."* With Ch15's number on the page, that reads as **the veteran's record being disposed of** — and that record has to survive intact, in perfect condition, for the false join to work at all. **The false positive depends on both facts being true at once: the old record survives, and the identifier is legitimately reassigned.** Those are two different clocks and they needed two different names.
+
+**Ch8 now reads *"when its allocation hold ran out."*** One phrase, word-neutral, re-locked in the same commit. **`allocation hold` was chosen to match the `allocation table` Ch15 already names on the Iris side.** Ch15 says it out loud once: the hold *"is a shorter clock than the one the record itself sits under."*
+
+**3. Arithmetic.** *"Inside tolerance by a factor of five"* against 0.38–0.41 and a tolerance of 2.00 is 4.88 at the top of the range. **Marin would not round that upward.** Now *"every one of the twelve sat at roughly a fifth of the tolerance."*
+
+**4. ⚠️ THE MARIN GATE, BROKEN BY A FORECAST.** The draft had *"She was right about that. It was the last thing that day she was going to be straightforwardly right about."* **That judges the choice before the chapter renders it**, which is precisely what the gate forbids: the prose pointed at her and announced that she was about to stop being right. **Cut.** The material that follows is sufficient on its own — the baseline sits outside closure, Willow consented to the retention, Marin promised not to access it, a log exists, an authorized withdrawal route is available, and she builds a narrower justification instead. **The reader finds the failure with no help.** *"The technicality took about nine seconds"* stays, because it describes what she actually did rather than grading it.
+
+**Confirmed unchanged, and named so no later pass touches them:** Terri's exchange and *"She was funny with everyone"*; the purge sequence; **Feld's unopened note, which is the beat that keeps Marin from reading as someone who has abandoned every boundary — she crosses one, for one reason**; the flush certification; Willow inside the denominator; the withdrawal route; the nine-second technicality; the ordinary evening and *"Nothing happened"*; **the two unread log entries**; the clean wrong join; and Iris's closing null check.
+
+**And the doubled sentence is deliberate.** *"The signature confirmed that the working set had been purged. The working set had been purged."* The second is not redundant: **it is the proposition Marin signs after consciously narrowing what the signature means.**
+
+**AS WRITTEN (drafted 2026-09-02, revised the same day, 2,883 words. Marin 2,471, Iris coda 412 — under the 500 cap).**
 
 **⚠️ THE CHAPTER'S BIGGEST PAYOFF IS IN CH4's DIALOGUE AND NO BRIEF MENTIONS IT.** Ch4 has Marin say, across that table: *"a version of your data will exist in a system I have access to, and I will not be opening it, and there's a log that would show it if I did."* Willow: *"Would anyone read the log?"* Marin: *"Probably not."* **Ch15 is Marin opening it.** The first draft did not touch this and was 43% of budget. It is now the hinge of the Marin half: she recalls the promise, sets it beside the fact that verification requires opening the record, opens it, **and the log writes a line.** *"She did not see the line, because the log is not displayed, but she knew the field it went into and the format it went in, and she had specified both."* **The Marin half closes on the log having two lines in it and no one reading it.**
 

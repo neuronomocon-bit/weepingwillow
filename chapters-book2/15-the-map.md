@@ -22,17 +22,17 @@ The clinical record closes and is retained under the clinical schedule, which is
 
 Marin ran it herself.
 
-She could have asked Feld’s team and they would have done it correctly and would not have minded being asked. She sat in the small office off records with the folder open and worked out that having someone else purge her sister’s working set would be worse than doing it herself. She was right about that. It was the last thing that day she was going to be straightforwardly right about.
+She could have asked Feld’s team and they would have done it correctly and would not have minded being asked. She sat in the small office off records with the folder open and worked out that having someone else purge her sister’s working set would be worse than doing it herself. She was right about that.
 
 The purge takes four minutes and it goes oldest first.
 
 She watched it because leaving the room while it ran seemed like a way of pretending it was not happening. The terminal listed the items as it took them. Baseline consent, executed, retained under a different schedule and therefore skipped. Session one, the intermediate states for session one, the operator notes for session one. Session two. The notes were Feld’s and they were four to six lines each and Marin had never read them, because the clinical file was not hers, and she did not read them now either. She watched the line count go down.
 
-Session four went at about the ninety-second mark. That was the one where Willow had made a joke at nineteen minutes that Feld had taken a second too long to catch, and the recording of it had already gone with the session before, and the note about it went now, and the intermediate states went after the note.
+By three minutes there was nothing left before the twelfth.
 
-By three minutes there was nothing left before the twelfth session.
+The twelfth was the one where Willow had made a joke at about nineteen minutes and Feld had taken a second too long to catch it. Marin had watched that recording four times in September. It went first, and then the note that recorded it, and then the intermediate states, in the order the system does it.
 
-The twelfth went the way the other eleven had, in a line of small confirmations that scrolled past faster than she could read them, and then the list was empty and the terminal said the working set had been purged and asked her whether she wanted a copy of the log.
+The confirmations scrolled past faster than she could read them. Then the list was empty, and the terminal said the working set had been purged, and asked her whether she wanted a copy of the log.
 
 She said yes, because that is what you do.
 
@@ -40,7 +40,7 @@ Before the summary there were the flush confirmations, one per session, because 
 
 Twelve lines. Residual coherence as a percentage of session load, measured at ninety minutes, against a tolerance of two percent.
 
-Marin read all twelve. The highest was point four one and the lowest was point three eight, and the mean of them sat inside a hundredth of the mean of every other course the program had ever run, and every one of the twelve was inside tolerance by a factor of five.
+Marin read all twelve. The highest was point four one and the lowest was point three eight, and the mean of them sat inside a hundredth of the mean of every other course the program had ever run, and every one of the twelve sat at roughly a fifth of the tolerance.
 
 She ticked the box that said the flush had completed, and the box was correctly ticked. A number inside tolerance is a number inside tolerance, and the entire reason a tolerance exists is so that no one is asked to make a judgment about the difference between point three eight and point four one at nine in the morning with a folder open in front of them.
 
@@ -164,7 +164,7 @@ She ran the join.
 
 It returned a man. Forty-four at intake, veterans’ cohort, course opened and closed out inside eleven months, and the whole of it sitting about three years before anything she had been reading. She checked the dates twice. The join was clean and the answer was wrong, and a clean join with a wrong answer is a specific condition with a name.
 
-So she asked the index the second question. It was whether the number had ever belonged to anyone else. It had. The identifier had gone back into the pool when the veteran’s retention window closed and had been issued again, and the supersession flag that should have taken the closed record off the live table had never been set. The old record was sitting on the index in perfect condition, because nothing had touched it since the day it closed.
+So she asked the index the second question. It was whether the number had ever belonged to anyone else. It had. The identifier had gone back into the pool when the allocation hold on it expired, which is a shorter clock than the one the record itself sits under, and it had been issued again, and the supersession flag that should have taken the closed record off the live table had never been set. The old record was sitting on the index in perfect condition, because nothing had touched it since the day it closed.
 
 The live one was on the part of the media that had corroded.
 

@@ -146,7 +146,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 # ✅ CH1 TO CH14 ARE REVIEWED, REVISED AND LOCKED. 44,561 words.
 
-# ⏳ CH15 IS DRAFTED AND SELF-AUDITED, 2,900 words, AWAITING THE AUTHOR'S REVIEW. Book total 47,461. **ACT II IS CLOSED.**
+# ✅ CH15 IS DRAFTED, REVIEWED AND REVISED, 2,883 words. Awaiting the word to lock. Book total 47,444. **ACT II IS CLOSED.**
 
 **The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
 
@@ -194,8 +194,8 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 | 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
 | 14 | Open Jobs | 3,298 | 3,600 | 302 | **LOCKED 2026-09-02** |
-| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,900 | 3,800 | 900 | ⏳ **Drafted, awaiting review** |
-| | **THROUGH CH15** | **47,461** | **53,600** | **6,139** | 89% of budget |
+| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,883 | 3,800 | 917 | ✅ **Reviewed and revised — awaiting lock** |
+| | **THROUGH CH15** | **47,444** | **53,600** | **6,156** | 89% of budget |
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -293,7 +293,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 1. **Ch11 — MIDPOINT: Caleb.** A phone call, a drive, and a man answering questions correctly while he ends. Willow barely on the page. **It must close on dialogue** — see the warning in its brief. Willow's face gets its first change and Iris cannot say what settled. **⚠️ Read WHAT CH11 INHERITS in the brief first**: the second coffee cup from Ch1, the three-week check that came due on Day 42 and did not happen, and the fact that **Caleb is band five on the scale Iris built in Ch7 before she had a second case for it.**
 2. **Ch16 — The Name**, and Act III. Read its brief and check `11-key-dialogue-notes.md` for every chapter that refers back to it.
 
-**⚠️ Ch15 is drafted and awaits the author's review pass. It sits at 77% of budget, the lowest of any chapter, with all 29 beats present** — the first draft was 43% and five *consequences* were missing rather than beats. **Two facts it sets are load-bearing for Act III:** the research-archive access log now has two lines in it and **no one reads the log**, which is the mechanism the deviation runs through; and **the withdrawal route Marin did not take exists, is one side of A4, and she approved its wording.**
+**✅ Ch15 is reviewed, revised and awaiting the word to lock. It sits at 76% of budget, the lowest of any chapter, with all 29 beats present** — the first draft was 43% and five *consequences* were missing rather than beats. **Two facts it sets are load-bearing for Act III:** the research-archive access log now has two lines in it and **no one reads the log**, which is the mechanism the deviation runs through; and **the withdrawal route Marin did not take exists, is one side of A4, and she approved its wording.**
 
 **⚠️ CH14 ESTABLISHED A DEFECT CLASS THE PROJECT HAD NO CHECK FOR: THE INFERENCE CHAIN.** Its derivation was circular and passed the beat count, the frequency comparison and the number check, **because every sentence in it was well formed and every number in it was arithmetically correct.** Two sub-classes, both in one chapter: **one case promoted to a program**, and **a data type silently changing level** (Ch7's *population* escalation intervals used as *individual* return intervals, then quoted as a return window). Full account in `14-audit-method.md`. **For every general claim, count the cases it rests on and check the prose says that number out loud. And check that a number still means what it meant in the chapter it came from.**
 
