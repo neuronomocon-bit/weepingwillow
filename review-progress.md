@@ -62,7 +62,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **awaiting author pass** |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **✅ LOCKED 2026-09-02** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,757** | **awaiting author pass** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 2,927** | **awaiting author pass** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,346** | **awaiting author pass** |
@@ -87,7 +87,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 21 | Why Lena | Iris | 3,600 | — | — |
 | 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
 
-Legend: `—` not started · `WIP` in progress · `PENDING` drafted, held in `series-bible/archive/drafts/`, not yet in the working folder · `DONE` complete
+Legend: `—` not started · `WIP` in progress · `DONE` complete · **`LOCKED` reviewed and approved by the author — see LOCKED CHAPTERS below**
 
 **Only chapters drafted under the current arc live in `chapters-book2/`.** Ch1 is the first.
 
@@ -227,6 +227,20 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 **Fixed:** a `British lexis` line was added to `tools/voice-audit.js` covering *per cent, fortnight, windscreen, nought, maths, whilst, amongst, kerb, storey, aeroplane*. **The list is open and should grow every time one gets through.**
 
 **And the general form of it, which is the more useful lesson:** a clean screen is evidence about the screen, not about the prose.
+
+## LOCKED CHAPTERS
+
+**A locked chapter has been reviewed and approved by the author and is closed to editing** — the same treatment `book1-published/` gets. Not a typo, not a later rule applied retroactively, and **especially not a sweep across all chapters**, which is how an approved chapter realistically gets edited by accident.
+
+| Ch | Title | Words | Locked |
+|---|---|---|---|
+| 1 | Aftermath | 2,931 | **2026-09-02** |
+
+**The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
+
+**Locked chapters still count** toward the totals and still appear in the voice audit. They are fixed points, not exclusions. **If an audit flags something inside one, report it and leave it alone.**
+
+---
 
 ## CH10 — RECOVERED: CALM, drafted 2026-09-02
 

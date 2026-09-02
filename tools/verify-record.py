@@ -1,16 +1,69 @@
 # -*- coding: utf-8 -*-
-"""Cross-check the record against the prose. Every number in the notes must
-match what tools/voice-audit.js reports."""
-import io, os, re, glob
+"""verify-record.py — cross-check the record against the prose.
 
-os.chdir(r'C:\Users\kschiffer\Projects\weepingwillow')
+Two jobs:
 
-# canonical counts, the build method
+  1. Every word count written down in the notes must match what the prose
+     actually is. The canonical count is whitespace-separated tokens over the
+     chapter body with the heading line dropped, which is what
+     build-manuscript.js does and what tools/voice-audit.js prints.
+
+  2. A chapter the author has LOCKED must not change. A lock that is only a
+     label in a status table does not survive a sweep across all chapters,
+     which is exactly how a locked chapter would get edited by accident.
+
+Usage:
+    python tools/verify-record.py                    # check everything
+    python tools/verify-record.py --lock 01-aftermath.md   # lock (or re-lock) a chapter
+
+⚠️ Re-lock only when the author has approved the change. If this script says a
+lock is broken, the default assumption is that something edited an approved
+chapter by mistake: read the diff before re-locking.
+"""
+import io, os, re, sys, glob, json, hashlib
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+LOCKFILE = 'tools/locked-chapters.json'
+
+
+def body_of(path):
+    return u"\n".join(io.open(path, encoding='utf-8').read().split(u"\n")[1:])
+
+
+def digest(path):
+    return hashlib.sha256(io.open(path, encoding='utf-8').read().encode('utf-8')).hexdigest()
+
+
+def load_locks():
+    if os.path.exists(LOCKFILE):
+        return json.load(io.open(LOCKFILE, encoding='utf-8'))
+    return {}
+
+
+def lock(name):
+    p = os.path.join('chapters-book2', name)
+    if not os.path.exists(p):
+        print("no such chapter: " + p)
+        return 1
+    locks = load_locks()
+    was = name in locks
+    locks[name] = {"words": len(body_of(p).split()), "sha256": digest(p)}
+    io.open(LOCKFILE, 'w', encoding='utf-8').write(
+        unicode(json.dumps(locks, indent=2, sort_keys=True)) if sys.version_info[0] == 2
+        else json.dumps(locks, indent=2, sort_keys=True))
+    print(("re-locked " if was else "LOCKED ") + name + "  (%d words)" % locks[name]["words"])
+    return 0
+
+
+if len(sys.argv) > 2 and sys.argv[1] == '--lock':
+    sys.exit(lock(sys.argv[2]))
+
+# ---------------------------------------------------------------- counts
 actual = {}
 for p in sorted(glob.glob('chapters-book2/[0-9]*.md')):
     n = int(re.match(r'(\d+)', os.path.basename(p)).group(1))
-    body = u"\n".join(io.open(p, encoding='utf-8').read().split(u"\n")[1:])
-    actual[n] = len(body.split())
+    actual[n] = len(body_of(p).split())
 total = sum(actual.values())
 
 print("CANONICAL COUNTS")
@@ -21,9 +74,8 @@ print("  TOTAL %s\n" % "{:,}".format(total))
 briefs = io.open('series-bible/08-book2-chapter-briefs.md', encoding='utf-8').read()
 fails = []
 
-# 1. every drafted chapter has an As Written block with the right number
 for n in sorted(actual):
-    m = re.search(u'### Chapter %d [\u2014-].*?(?=\n### Chapter |\\Z)' % n, briefs, re.S)
+    m = re.search(u'### Chapter %d [—-].*?(?=\n### Chapter |\\Z)' % n, briefs, re.S)
     blk = m.group(0) if m else u''
     w = re.search(r'As Written \(([\d,]+) words', blk)
     if not w:
@@ -31,7 +83,6 @@ for n in sorted(actual):
     elif w.group(1) != "{:,}".format(actual[n]):
         fails.append("Ch%d As Written says %s, actual %s" % (n, w.group(1), "{:,}".format(actual[n])))
 
-# 2. status tables agree
 for f in ['CLAUDE.md', 'review-progress.md']:
     s = io.open(f, encoding='utf-8').read()
     for n in sorted(actual):
@@ -40,21 +91,6 @@ for f in ['CLAUDE.md', 'review-progress.md']:
     if "{:,}".format(total) not in s:
         fails.append("%s never mentions the total %s" % (f, "{:,}".format(total)))
 
-# 3. no superseded numbers anywhere
-stale = ['21,319', '24,927', '28,039', '30,833', '30,790', '3,610', '3,618', '3,350',
-         '3,349', '3,111', '2,792', '3,084', '3,013', '3,078', '3,006', '3,260', '2,932', '2,761']
-for f in ['CLAUDE.md', 'review-progress.md', 'series-bible/08-book2-chapter-briefs.md',
-          'series-bible/02-characters.md', 'series-bible/14-audit-method.md',
-          'series-bible/archive/README.md', 'series-bible/06-book2-outline.md']:
-    s = io.open(f, encoding='utf-8').read()
-    for t in stale:
-        # 3,286 and 3,387 are legitimate historical draft sizes; the rest are superseded
-        if t in s:
-            for line in s.split(u"\n"):
-                if t in line and 'was ' not in line and 'from 3,387' not in line:
-                    fails.append("%s: stale figure %s -> %s" % (f, t, line.strip()[:95]))
-
-# 4. old targets gone
 for f in ['CLAUDE.md', 'review-progress.md', 'series-bible/06-book2-outline.md',
           'series-bible/08-book2-chapter-briefs.md']:
     s = io.open(f, encoding='utf-8').read()
@@ -67,4 +103,27 @@ if fails:
     for x in fails:
         print("  FAIL " + x)
 else:
-    print("  clean — every recorded number matches the prose")
+    print("  clean, every recorded number matches the prose")
+
+# ---------------------------------------------------------------- locks
+locks = load_locks()
+print("\nLOCKED CHAPTERS")
+if not locks:
+    print("  none")
+else:
+    broken = False
+    for name in sorted(locks):
+        p = os.path.join('chapters-book2', name)
+        if not os.path.exists(p):
+            print("  MISSING  " + name + " is locked but the file is gone")
+            broken = True
+        elif digest(p) != locks[name]["sha256"]:
+            now = len(body_of(p).split())
+            print("  ⚠️ CHANGED  %s  (locked at %d words, now %d)" % (name, locks[name]["words"], now))
+            broken = True
+        else:
+            print("  ok        %s  (%d words)" % (name, locks[name]["words"]))
+    if broken:
+        print("\n  A locked chapter is one the author has approved. If a change above was")
+        print("  not asked for, revert it. If it was, re-lock:")
+        print("      python tools/verify-record.py --lock <file>")

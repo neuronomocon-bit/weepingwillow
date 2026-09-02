@@ -241,7 +241,13 @@ She reduces it to two possibilities, because reduction is the method she still t
 
 **Note:** CLAUDE.md's Book 3 section also claims this draft for Book 3 Ch1. That claim is stale, written before the pivot made Book 2 the sequel. **Book 2 Ch1 owns it.** Book 3 now opens weeks after Book 2, not weeks after Book 1, and needs a different chapter.
 
-**As Written (2,931 words, drafted 2026-08-27, `chapters-book2/01-aftermath.md`, awaiting the author's pass).** Recorded 2026-09-02, having been missed when the chapter was drafted. Load-bearing elements:
+**As Written (2,931 words, drafted 2026-08-27, `chapters-book2/01-aftermath.md`).**
+
+# ✅ LOCKED 2026-09-02 — reviewed and approved by the author. Do not edit this chapter.
+
+**Not even to apply a later rule, fix a typo, or sweep a tic across all chapters.** If something in it genuinely has to change, the author says so first and the chapter is re-locked in the same commit. `python tools/verify-record.py` checks the file against a hash and reports it if it moves.
+
+Load-bearing elements:
 
 - **Two systems, and they do different jobs.** The morning list beside the light switch is instructions: *Water. Coffee. Check device. Check the map. Eat.* The index cards along the doorframe at eye height are **measurements**, each carrying a date, a duration and a category in the shortest form that will still mean something in a week. *Retrieval, four seconds, site address.* *Sequence loss, cold coffee, approx. eleven minutes.* *Wrote note, cannot account for it.*
 - **The wall holds nineteen days at Day 21**, and she reads all of it once a week. **She has learned from the reading rather than from the living that the intervals are getting shorter.**
