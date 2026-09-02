@@ -713,7 +713,7 @@ Kade asks what that makes it. She says it makes it a method.
 
 ### Chapter 8 — RECOVERED: Sessions
 
-**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,608 words.**
+**POV:** Marin · **When:** Year −5.8 · **Length:** 3,800 · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,851 words.**
 **Location:** Meridian. Session rooms, the observation side, the substrate lab on the lower level.
 **Goal:** Show the treatment working, show what working costs, and establish Virek, the substrate, and the limiter as ordinary operational facts.
 
@@ -738,7 +738,7 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**As Written (3,608 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
+**As Written (3,851 words). Re-audited 2026-09-02 and moved into `chapters-book2/`. Awaiting the author's proofread.** All 33 brief beats verified present before the word count was looked at, per the Act I discipline. Every locked substrate parameter is on the page in the operational language the brief specifies. Load-bearing elements:
 
 - **The identifier question is resolved, and not with either of the two options that were on the table.** Neither "the collision resolves against the other entry" nor "reissue Willow's number." **`MN-R-0338` was issued twice** — a veterans'-cohort course that closed three years earlier, the identifier recycled on schedule, and the closed record never came off the live index. **Willow's string never changes**, so the reader still carries one token, and Ch15 still gets its three checks because the number's *history* is what is contested. Full mechanism and the three consequences are in THE INVESTIGATION SPINE above. Virek raises it, puts it to records, and the narration adds one dry line about how long records take. **That is the entire plant.**
 - **The locked line is verbatim and is the chapter's fourth-session beat:** *"It's still there. I just can't find the handle on it anymore."* Willow delivers it as good news, in a corridor, on the way to a bus.
@@ -751,7 +751,33 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 - **Numbers locked here for the series:** *ninety minutes*, *two percent*, *zero point one percent*, *zero point four*, *nineteen sessions*, *four hundred lines*, *autonomy at two*, *one percent*. Spoken form, not numerals. **The draft rendered these as "nought point four" throughout, which is British; corrected to "zero point four."**
 - **Do not trim `hands flat on a table`.** It is Ch4's rhyme, called out from this side. See the Ch4 brief.
 
-**What the re-audit fixed.** 230 straight double quotes and 118 straight apostrophes converted to curly (round-trip verified byte-for-byte). Six narration `-body` pronouns removed by recasting rather than substituting, and Willow's own *somebody* kept. Two instances of the banned *[negation/superlative] + anybody + past-perfect* family deleted. The substrate-hall description was **two fragment sentences doing environmental description**, which is the book's first hard gate; rewritten joined. Five stacked existentials converted and every emphatic copular arrival kept; *That was the…* was at four and is now at two. Two self-annotations cut from mouths that are not Marin's or Rourke's. Four generic hand gestures replaced and the three load-bearing ones kept. Six run-on candidates broken; the deliberate accumulations kept, including the closing sentence. **POV was not named in the first sentence** and now is. *"It was working exactly as designed"* cut — a trailing explanatory sentence, and it was also stealing Ch10's line.
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-02.** One access contradiction and three architecture questions the manuscript had to settle rather than leave implicit.
+
+**⚠️ THE FILE MARIN OPENS. This was tighter than it looked and both neighbouring chapters are locked.** She used to *"open the session file"*, read clinical outcome measures, and type into a patient-experience field. But **Ch4 puts her off the clinical record** (*"I asked to be kept off it and they agreed before I finished asking"*) and **Ch5 says MN-R-0338 carries nine operator notes and that no other identifier carries more than one** — all nine written by a technician at a terminal. So the note could not go in the clinical file and could not go in the research record either.
+
+**It is the witness form**, which the protocol on page six already requires her to sign, and which is neither index. She reads the week-four measures **off the research side, which Ch4 established is hers**, and writes into the observer record:
+
+> *The witness record was a different form and a shorter one. It wanted attendance, protocol compliance, and anything the observer considered material. She had signed three of them already and had put nothing in the last field on any of them.*
+
+**And the beat is sharper for it**, because the sentence that follows is now true and was not before: *"It was not an observation of a session she had witnessed, because Willow had said it in a corridor twenty minutes after the session ended, to her sister. She saved it anyway."* **She is putting a private conversation into an institutional record because it is the only form that will take anything from her.**
+
+⚠️ **A latent consequence, deliberately left open:** witness forms are administrative, so they are in the degraded index rather than the research archive. **Iris does not have this note. She may get it if the index comes off.**
+
+**⚠️ THE FAMILY-OBSERVATION RULE IS BEING BROKEN AND THE CHAPTER NOW KNOWS IT.** The exception Marin wrote covers observation that *cannot be avoided*, and hers plainly can: a second-year fellow is already in the room as the required witness, so she is an additional family observer, not the protocol's one. Disclosure does not make the exception apply. Added, with no judgement attached to either half: ***"She did not say why it could not be avoided, and Feld did not ask her to."*** **Same register as Ch4's version-without-the-intervals. Do not moralize it and do not remove it.**
+
+**⚠️ IDENTIFIER REUSE IS A REAL WEAKNESS AND VIREK NOW NAMES IT.** Reusing a number while archival records still carry it breaks attribution unless something else disambiguates. **Nothing else does**, and that is deliberate, because it is exactly what Ch15's false join exploits. Virek: *"That part's by the book, and the book is thinner than it sounds. Once a number goes back in the pool, the only thing holding two people apart is the dates on their records."* **The dates are the only key, they are sufficient for a careful person, and they are useless in a degraded index. Ch15's first join is provably wrong on dates.**
+
+**Raman's answer needed data to be responsible rather than lucky.** The residual is already normalised to session load, so a shelf at the same percentage across varying loads is itself notable. **Virek now supplies his own limit**: the nineteen are all expansion cases sitting inside about fifteen percent of each other on load, so he cannot get a slope out of them and there are no light sessions on the schedule. Raman: *"Then you get them when the wind-down brings the loads down, or you don't. Either way it isn't a reason to take the substrate off line this month."* **Nobody is wrong and nobody has enough.**
+
+**And why the veteran-era model is still in use after two years of expansion:** the post-flush logging only reaches this resolution since the sampling heads changed in the spring. **Nineteen sessions is all there is and all there has ever been.**
+
+Also: *"The third one"* is now *"The third session"*, because the preceding scene is about three collided baseline maps.
+
+**⚠️ PROTECTED — the review named these:** Willow's handle description (*"It's the same object. There's just nowhere on it that catches"*), the outcome note verbatim including ***"Patient volunteers this as a positive outcome,"*** Virek's exclusion sequence in order, ***"Tolerance is tolerance,"*** Marin's relief, and *"accurately and without surprise."*
+
+**On `thing`:** the review is right that the registers differ — Willow uses it for the trauma, Virek for an unexplained result, Marin for what is sitting in her chest. **Apply the register test, not a reduction.**
+
+**What the 2026-08-31 re-audit fixed.** 230 straight double quotes and 118 straight apostrophes converted to curly (round-trip verified byte-for-byte). Six narration `-body` pronouns removed by recasting rather than substituting, and Willow's own *somebody* kept. Two instances of the banned *[negation/superlative] + anybody + past-perfect* family deleted. The substrate-hall description was **two fragment sentences doing environmental description**, which is the book's first hard gate; rewritten joined. Five stacked existentials converted and every emphatic copular arrival kept; *That was the…* was at four and is now at two. Two self-annotations cut from mouths that are not Marin's or Rourke's. Four generic hand gestures replaced and the three load-bearing ones kept. Six run-on candidates broken; the deliberate accumulations kept, including the closing sentence. **POV was not named in the first sentence** and now is. *"It was working exactly as designed"* cut — a trailing explanatory sentence, and it was also stealing Ch10's line.
 
 **⚠️ Three British forms got through the -our/-ise/-wards screens**, two of them into already-audited Ch7: *nought* (this chapter, five times), *per cent* (Ch7, twice) and *fortnight* (Ch7). Book 1 runs *percent* five times and *windshield* twice and has none of these. **A `British lexis` line was added to `tools/voice-audit.js`** because the morphological screens cannot see a lexical substitution.
 

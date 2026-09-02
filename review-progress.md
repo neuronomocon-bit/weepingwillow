@@ -70,7 +70,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **✅ LOCKED 2026-09-02** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **awaiting author pass** |
 | **ACT II — THE PROTOCOL** | | | | | |
-| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,608** | **awaiting author pass** |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **awaiting author pass** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,108** | **awaiting author pass** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,023** | **awaiting author pass** |
 | 11 | **MIDPOINT: Caleb** | Iris | 3,800 | — | — |
@@ -101,7 +101,7 @@ Two chapters written under the prequel arc survive because they are Marin/Meridi
 
 Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc, re-audited against the current gates before it moved. **Full record in the Ch4 brief.** Headlines: the research identifier is now a concrete string on the page, `MN-R-0338`, because the draft established the mechanism and never gave the reader a token to carry; a session-count continuity error was corrected against Ch8; and `hands flat on the table` was nearly cut as a generic gesture beat before Ch8 turned out to quote it back, which is Law 6 doing its job.
 
-**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,608 words (from 3,387). Awaiting the author's proofread.**
+**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,851 words (from 3,387). Awaiting the author's proofread.**
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld; Raman first named; the substrate parameters established as furniture. **Full record in the Ch8 brief.** Headlines:
 
@@ -151,10 +151,10 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 6 | 3,400 | 3,280 | 120 |
 | 7 | 3,600 | 3,529 | 71 |
 | **ACT I COMPLETE** | **24,600** | **22,325** | **2,275** |
-| 8 | 3,800 | 3,608 | 192 |
+| 8 | 3,800 | 3,851 | -51 |
 | 9 | 3,600 | 3,108 | 492 |
 | 10 | 3,400 | 3,023 | 377 |
-| **THROUGH CH10** | **35,400** | **32,064** | **3,336** |
+| **THROUGH CH10** | **35,400** | **32,307** | **3,093** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -240,6 +240,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch4 | 0 | No contradiction. An intent question: the consent gap is real, intentional, and the chapter had to be made to know it. Forced the clarification of Gate 1. |
 | Ch5 | 2 | **Off by one on the retries**, and a benchmark beaten by two hours reported as eleven — a bleed off the eleven minutes two paragraphs earlier. |
 | Ch6 | 2 | **Iris knew he was outside Rourke's cohort with no channel that could have told her.** Fixed with the one-way check built into Ch2 two revisions earlier. |
+| Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
 
 **⚠️ Five of seven chapters carried a hard error, and not one was findable by either check this project already had.** See `14-audit-method.md` → THE THIRD METHOD.

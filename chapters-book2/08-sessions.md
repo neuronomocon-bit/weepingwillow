@@ -4,7 +4,7 @@ Marin took the far chair, because the near one belonged to the witness. The obse
 
 The paragraph about family was on page six. Marin had written it herself in the second year. Immediate family of a patient should not observe, for the patient’s sake and for their own, and where observation cannot be avoided it should be disclosed to the treating clinician in advance.
 
-She disclosed it to Dr. Feld in advance. Feld heard her out, said, “You’ll hate it,” and went in to start the session.
+She disclosed it to Dr. Feld in advance. She did not say why it could not be avoided, and Feld did not ask her to. Feld heard her out, said, “You’ll hate it,” and went in to start the session.
 
 Feld was good. Marin had checked, in the two weeks between the baseline and the first Tuesday. She had read six years of Feld’s outcome data, gone through her review notes, and asked two people she trusted what she was like in a room. None of that had been proper and she had done it anyway. The answers had been consistent. Thorough, slow, hard to rush, and a little cold on paper. Warm in person. Marin had wanted someone excellent and had been prepared to accept someone unkind. She had not needed to.
 
@@ -24,7 +24,7 @@ Virek was at his terminal with three curves up and a sandwich he had clearly for
 
 “Simon. The collision on the baseline set. Did that resolve?”
 
-“It resolved. Two of them were the same person entered twice by different referrers.” He turned in the chair. “The third one was yours. MN-R-0338 has been issued before. Veterans’ cohort, course closed out three years ago, and the identifier recycled on schedule when the retention window ran out. That part’s fine. What didn’t happen is the closed record coming off the live index when it went.”
+“It resolved. Two of them were the same person entered twice by different referrers.” He turned in the chair. “The third one was yours. MN-R-0338 has been issued before. Veterans’ cohort, course closed out three years ago, and the identifier recycled on schedule when the retention window ran out. That part’s by the book, and the book is thinner than it sounds. Once a number goes back in the pool, the only thing holding two people apart is the dates on their records. What didn’t happen is the closed record coming off the live index when it went.”
 
 “So the number is sitting on two people.”
 
@@ -48,7 +48,7 @@ She signed the consumables order against the wall, because there was no surface 
 
 ***
 
-The second session went further in. The third one arrived on a Tuesday with rain coming sideways off the water, and Marin sat in the far chair with the telemetry scrolling and watched her sister do a thing she had not been able to do in nine years.
+The second session went further in. The third session arrived on a Tuesday with rain coming sideways off the water, and Marin sat in the far chair with the telemetry scrolling and watched her sister do a thing she had not been able to do in nine years.
 
 Feld took her to it slowly. She spent a long time first on ordinary logistics, on bus routes and shift patterns and a landlord. None of it was filler. Then she asked her to start at the beginning and go through it in order, and to stop whenever she wanted to.
 
@@ -162,11 +162,15 @@ Marin turned that over.
 
 They got to the end of the corridor. Willow had a bus to catch and a shift starting at four, which had not been true at Christmas. She took the stairs down two at a time and shouted something rude about the coffee from the landing.
 
-Marin went back to her office and opened the session file. The outcome measures for week four ran to a page: retrieval intact, sequence intact, affective load reduced against baseline, patient-reported distress reduced against baseline, no reported change to declarative content.
+Marin went back to her office and pulled the week-four measures off the research side. That side was hers to look at, and she had told her sister so, sitting across a table from her with the pack open. Retrieval intact, sequence intact, affective load reduced against baseline, patient-reported distress reduced against baseline, no reported change to declarative content.
 
-A free-text field at the bottom asked for patient-reported experience. She typed: *Patient reports target structure fully accessible with no experienced affective engagement. “It’s still there. I just can’t find the handle on it anymore.” Patient volunteers this as a positive outcome.*
+The witness record was a different form and a shorter one. It wanted attendance, protocol compliance, and anything the observer considered material. She had signed three of them already and had put nothing in the last field on any of them.
 
-She read it back. It was an accurate record of what had been said. She saved it and closed the file. Then she sat for a while with her hand still on the mouse. Virek had asked her that morning to come by when she had twenty minutes, so she went down to the lower level.
+She typed: *Patient reports target structure fully accessible with no experienced affective engagement. “It’s still there. I just can’t find the handle on it anymore.” Patient volunteers this as a positive outcome.*
+
+She read it back. It was an accurate record of what had been said. It was not an observation of a session she had witnessed, because Willow had said it in a corridor twenty minutes after the session ended, to her sister.
+
+She saved it anyway, and closed the form, and sat for a while with her hand still on the mouse. Virek had asked her that morning to come by when she had twenty minutes, so she went down to the lower level.
 
 ***
 
@@ -208,7 +212,7 @@ Marin looked at it for a while. Behind them the cooling changed pitch as somethi
 
 “How many sessions?”
 
-“Nineteen that I’ve got clean data for. It’s across the board, every patient on the schedule.” He hesitated. “Your sister’s is in there. I didn’t pull it out and I didn’t look at anything except the coherence trace, but I’d rather tell you it’s in there than have you find it.”
+“Nineteen that I’ve got clean data for. The post-flush logging only goes to this resolution since the sampling heads changed in the spring, so nineteen is all there is and all there has ever been. It’s across the board, every patient on the schedule.” He hesitated. “Your sister’s is in there. I didn’t pull it out and I didn’t look at anything except the coherence trace, but I’d rather tell you it’s in there than have you find it.”
 
 “Thank you.” She meant it. “What have you ruled out?”
 
@@ -254,7 +258,9 @@ He looked at the curve for longer than Marin expected.
 
 Virek thought about it. Marin watched him think about it, and watched the exact moment where it went from a thing he was holding to a thing he had put down.
 
-“That would produce a shelf,” he said slowly. “If the decay is load-dependent and the model treats it as fixed. Yes. That would do it.”
+“That would produce a shelf,” he said slowly. “If the decay is load-dependent and the model treats it as fixed. Yes. That would do it.” He looked at the curve again. “I can’t test it on what I have. The nineteen are all expansion cases and they all sit inside about fifteen percent of each other on load. I would need light sessions to get a slope out of it and there aren’t any light sessions on the schedule.”
+
+“Then you get them when the wind-down brings the loads down, or you don’t.” Raman said it without any weight on it. “Either way it isn’t a reason to take the substrate off line this month.”
 
 “It would also mean the model’s out of date rather than the substrate being interesting, which is duller and likelier.” Raman looked at Marin. “You’ll log it?”
 
