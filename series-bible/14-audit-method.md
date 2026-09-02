@@ -321,6 +321,14 @@ The screen above was written into `voice-audit.js` by a Python script and report
 1. **Write regexes into tool files with a Python raw string (`r"..."`) or not with Python at all.**
 2. **⚠️ A NEW SCREEN IS NOT TRUSTED UNTIL IT HAS CAUGHT A KNOWN INSTANCE.** Before believing a zero, feed the screen the defect that motivated it. A screen that has never matched anything has not been tested; it has only been written.
 
+### ⚠️ AND IT RUNS THE OTHER WAY TOO: THE PAYOFF CAN BE BURIED IN AN EARLIER CHAPTER'S DIALOGUE
+
+**Ch15's single most important beat is a line of Ch4 dialogue that no brief anywhere mentions.** Marin promised her sister, out loud, *"I will not be opening it, and there's a log that would show it if I did"*, and Willow asked whether anyone would read the log, and Marin said probably not. **Ch15 is Marin opening it.** The first draft missed it entirely and came in at 43% of budget.
+
+**So the rule from Ch14 has a second half.** Obligations live in the notes of chapters that pay them off; **payoffs live in the prose of chapters that planted them, in dialogue, unmarked, because at the time it was just a character being honest.** A brief records structure. **It does not record every promise a character happened to make.**
+
+**The check, before drafting any chapter with a returning character or object:** read the prose of the chapter that introduced it, not the brief for it. **Ch4 is nine hundred words of consent conversation and it contains at least three things Ch15 needed.**
+
 ### ⚠️ A CHAPTER'S OBLIGATIONS CAN LIVE IN A LATER CHAPTER'S NOTES
 
 **Ch14 owed a beat that appears nowhere in the Ch14 brief.** The **Ch22** dialogue note explains why Iris neither runs nor fights at the climax: *"both were assessed and discarded in writing, in Ch14, when she still had a working process and no fear to interfere with it."* **Ch22 is eight chapters downstream and it is the only place that obligation is written down.** Had it been missed, Ch22 would have had to invent the assessment retroactively or lose its best structural payoff.

@@ -273,7 +273,7 @@ She goes back and watches the last session recording. Willow is fine in it. Will
 
 **LILA — the register is Book 1 Ch4 and only ONE of its lines may be reused.** The chapter uses *"I respond when required."* Do not add *"I don't have that information"* or *"It is appropriate"* on a later pass; the brief caps it at one and the cap is doing work.
 
-**The clarifying question is the whole scene:** Lila repeats the warning back in order with nothing missing, and asks **"Is there a date."** Flat-affect punctuation, period not question mark. Told the intervals run four to eleven weeks and cannot be narrowed, she says **"Then I will continue as normal."**
+**The clarifying question is the whole scene:** Lila repeats the warning back in order with nothing missing, and asks **"Is there a date."** Flat-affect punctuation, period not question mark. Told that Iris has one interval, nine weeks, and that one interval is not a range, she says **"Then I will continue as normal."** (⚠️ This note read *four to eleven weeks* until the author's review later the same day. **That window was invented off Ch7's population intervals and was cut from the prose — and the note had gone stale against its own chapter inside a single sitting.**)
 
 **⚠️ Iris does not raise her voice, does not press, and does not try a second framing.** She states it once, completely, in the plainest available register, and it lands perfectly and changes nothing. **The failure is not in the delivery and no line may suggest a better delivery existed.**
 

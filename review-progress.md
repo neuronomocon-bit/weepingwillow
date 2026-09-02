@@ -77,6 +77,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **✅ LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | **✅ LOCKED 2026-09-02** |
 | 14 | Open Jobs | Iris | 3,600 | **DRAFTED 3,298** | **✅ LOCKED 2026-09-02** |
+| 15 | RECOVERED: The Map (ACT II TURN) | Marin + Iris coda | 3,800 | **DRAFTED 2,900** | ⏳ Awaiting author review |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
 | 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
@@ -160,7 +161,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 12 | 3,600 | 2,734 | 866 |
 | 13 | 3,400 | 2,883 | 517 |
 | 14 | 3,600 | 3,298 | 302 |
-| **THROUGH CH14** | **49,800** | **44,561** | **5,239** |
+| 15 | 3,800 | 2,900 | 900 |
+| **THROUGH CH15** | **53,600** | **47,461** | **6,139** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
