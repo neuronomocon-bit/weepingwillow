@@ -73,8 +73,8 @@ Checked on every chapter of this book in addition to the standard passes:
 | 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
 | 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **awaiting author pass** |
-| 12 | After | Iris | 3,600 | — | — |
+| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **✅ LOCKED 2026-09-02** |
+| 12 | After | Iris | 3,600 | **DRAFTED 2,730** | **awaiting author pass** |
 | 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
 | 14 | Open Jobs | Iris | 3,600 | — | — |
 | 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
@@ -155,7 +155,8 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 | 9 | 3,600 | 3,329 | 271 |
 | 10 | 3,400 | 3,042 | 358 |
 | 11 | 3,800 | 3,099 | 701 |
-| **THROUGH CH11** | **39,200** | **35,646** | **3,554** |
+| 12 | 3,600 | 2,730 | 870 |
+| **THROUGH CH12** | **42,800** | **38,376** | **4,424** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
 
@@ -267,7 +268,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 7 | The Curve (ACT I TURN) | 3,529 | **2026-09-02** |
 | 9 | Lena | 3,329 | **2026-09-02** |
 | 10 | **RECOVERED: Calm** | 3,042 | **2026-09-02** |
-| | **ALL TEN LOCKED** | **32,547** | |
+| 11 | **MIDPOINT: Caleb** | 3,099 | **2026-09-02** |
+| | **ALL ELEVEN LOCKED** | **35,646** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 

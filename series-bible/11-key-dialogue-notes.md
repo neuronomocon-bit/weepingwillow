@@ -237,6 +237,8 @@ No alarm, no request, no urgency, because nothing in him objects to anything. **
 
 **Her last line on the subject in this book should be short and completely unguarded**, and she should say it while doing something else, and then leave.
 
+**⚠️ AS DRAFTED 2026-09-02:** she says it with one arm in her coat. Two lines on the pad were the presentation and the date; **the third was a date nine weeks out and a question mark**, and *“I have thought about that piece of paper every day since.”* Then she takes her keys and goes. **She does not explain what the date is for and Iris does not ask.**
+
 **Rourke's crack is not an admission. It is a question.** She asks Iris what the delay is like, and does not ask it as a clinician, and Iris tells her, and **Rourke does not write it down.**
 
 **Iris's side of this scene is the problem to solve.** She is talking about a man she has known for years, competently, and there is nothing behind it. **Do not let Rourke deliver a eulogy and do not let the prose eulogize him either.** The reader is doing it.
