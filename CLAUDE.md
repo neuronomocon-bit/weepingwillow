@@ -142,9 +142,15 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ✅ CH1 TO CH20 ARE REVIEWED, REVISED AND LOCKED. 65,542 words. **TWO CHAPTERS LEFT: Ch21 and Ch22.**
+# ✅ CH1 TO CH21 LOCKED (69,114). **⏳ CH22 “THE SECOND VISIT” DRAFTED (3,246). BOOK 2 IS DRAFTED END TO END AT 72,360.**
 
-Ch15 through Ch20 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch21 — Why Lena is the next chapter to draft.**
+**⚠️ THE BOOK IS DRAFTED AND IT LANDS AT 72,360**, against a 68,000–72,000 target. **It is 360 words over the top of the range and that is the correct outcome, not a problem to trim.** The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
+
+Ch15 through Ch21 were all locked 2026-09-03 on the author's word. **Ch22 was drafted the same day and is the one chapter that is drafted and unlocked. It has not been author-reviewed.**
+
+**⚠️ CH22 IS THE LAST CHAPTER AND IT IS MOSTLY MADE OF NEGATIVE GATES.** No appetite language anywhere including the coda · no word in the coda naming the feeling · the entity never named on the page and neither is Lena · no character theorizes about why the procedure failed, and the narration does not either · Iris never recognizes the face. **All five screened clean. Any later edit to this chapter has to re-screen all five.**
+
+**⚠️ THE CH21 SWEEP FOUND A CLASS WORTH CARRYING INTO CH22: IRIS HAS NO DATA PAST THE SEAL.** Locked Ch5 gives her seventy-two months of consumption logs *to the end*, and locked Ch16 works the draw only *between the last logged load and the seal*. **Every recovered system stops in the same week.** A draft had her reconstructing against the draw afterward and she cannot. **Everything she knows about the sealed years is inference from what happened after them.**
 
 **⚠️ RULED 2026-09-03: MARIN SAYS HER SISTER'S NAME IN CH20 AND THE WORD IS NOT ON THE PAGE. DO NOT QUOTE IT, EVER.** Withholding it **preserves the distinction that she says her sister's name and does not address the entity**, and lets the reader supply the word **without the prose collapsing those two meanings.** It also fits the chapter's documentary logic: **the one word absent from every form is absent from the page too.** Quoting would be more immediately dramatic and **less exact, and exactness matters more here.**
 
@@ -237,7 +243,9 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 | 18 | Escalation | 3,577 | 3,800 | 223 | **LOCKED 2026-09-03** |
 | 19 | Almost | 3,727 | 3,600 | -127 | **LOCKED 2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | 3,807 | 4,400 | 593 | **LOCKED 2026-09-03** |
-| | **THROUGH CH20** | **65,542** | **72,400** | **6,858** | 91% of budget |
+| 21 | Why Lena | 3,572 | 3,600 | 28 | **LOCKED 2026-09-03** |
+| 22 | The Second Visit (ENDING) | 3,246 | 3,800 | 554 | ⏳ **DRAFTED 2026-09-03, awaiting review** |
+| | **THROUGH CH22 — THE WHOLE BOOK** | **72,360** | **79,800** | **7,440** | 91% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
@@ -342,7 +350,9 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 4. ~~**Ch18 — Escalation.**~~ **LOCKED 2026-09-03 at 3,577 words**, all 64 beats.
 5. ~~**Ch19 — Almost.**~~ **LOCKED 2026-09-03 at 3,727 words**, all 92 beats.
 6. ~~**Ch20 — RECOVERED: The Last Session.**~~ **LOCKED 2026-09-03 at 3,807 words**, all 111 beats.
-7. **Ch21 — Why Lena.** ⚠️ **Iris reads Marin's record here** — it is the file that licensed Ch20 and no part of it has appeared on the page yet. Four facts in order, the fifth will not come, and **Lena is four feet away in the apartment talking about nothing.**
+7. ~~**Ch21 — Why Lena.**~~ **LOCKED 2026-09-03, 3,572 words.**
+8. ~~**Ch22 — The Second Visit.**~~ **DRAFTED 2026-09-03, 3,246 words, every beat present, every negative gate clean. ⏳ NEEDS THE AUTHOR'S REVIEW, then a lock, and then Book 2 is finished in draft.**
+9. **After Ch22 locks: the five editing passes**, run across the whole book rather than per chapter. **Nothing in them may edit a locked chapter except under the four standing-permission conditions.**
 8. **Ch22 — The Second Visit.** The third refusal. Pays off Ch14's four option cards and plants Lena for Book 3. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
    - Read the brief **and grep both bible files for every chapter that refers back to the one being drafted.** The Ch17 grep produced the two parameter changes, which are in `02-characters.md` and in no brief.
    - Read the **prose** of the chapters that introduced anything it reuses, not their briefs. Ch16's two best beats and Ch17's whole ending were locked prose no brief mentions.

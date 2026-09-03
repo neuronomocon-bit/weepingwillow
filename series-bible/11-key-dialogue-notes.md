@@ -427,6 +427,20 @@ She is four feet from a wall that explains, in her sister's handwriting, exactly
 
 **The ending:** she stops, she stands, she leaves. Neither of them knows why and neither is told. Iris goes to the wall and writes two cards. **Do not resolve it. Do not explain it.**
 
+**⚠️ AS DRAFTED, 2026-09-03 — THE THREE LINES, VERBATIM, AND THEY ARE NOW CANON.**
+
+> ***"You are not finished."*** — the observation, spoken standing over the chair, before contact.
+>
+> ***"It does not close."*** — spoken with the hand already off her chest, in the register of a person reading a figure at the bottom of a page.
+>
+> ***"I do not know why."*** — the admission of a limit, after a further silence, and the last thing she says before she leaves.
+
+**Iris answers only the first, with *"No."*** She does not answer the other two, *"because she had spent eleven weeks learning that you do not fill a silence in front of something that is telling you what it is."*
+
+**⚠️ HER VOICE IS ORDINARY, and the chapter names that as the one thing Iris had not been prepared for.** Nothing else about the sound of it is described, in this book or any later one.
+
+**The two cards are the event and the finding**, and three further pieces of record work surround them: the speech written first and verbatim (**nothing in the whole record has a voice in it**), the face, and **the amendment to her own case card**, which is where *unfinished, permanently* actually lands.
+
 ---
 
 ## BOOK 3 — THE SILENCE

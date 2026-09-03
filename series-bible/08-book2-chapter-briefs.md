@@ -1778,8 +1778,14 @@ This is the file Iris has. **It licenses the chapter. It does not narrate it,** 
 ### Chapter 21 — Why Lena
 
 **POV:** Iris · **When:** Day 72 · **Length:** 3,600
-**Location:** The leased unit, alone, one sitting.
+**Location:** Her apartment. Alone for the reading; **Lena arrives at ten past seven.**
 **Goal:** Iris assembles almost all of it, gets to the edge, and stops.
+
+**⚠️ THREE SPEC CORRECTIONS MADE AT DRAFTING, 2026-09-03. Two of them were this brief being wrong.**
+
+1. **The location said "the leased unit."** Same stale phrase as Ch19. **Locked Ch16, Ch18, Ch19 and Ch9 all put her at the table with the cards above the doorframe, in her apartment.** The leased unit is Kade's bay.
+2. **⚠️ THIS BRIEF AND `11-key-dialogue-notes.md` CONTRADICTED EACH OTHER ON WHETHER LENA IS PRESENT.** The brief had a phone call, *"She calls Lena. Lena answers on the second ring."* **The dialogue note has her physically in the apartment, four feet from a wall that explains why she is in danger, and neither woman can read it.** **Resolved toward the dialogue note, and locked Ch9 settles it:** Lena's decision there is *"I'm going to stop asking if you're okay. And I'm going to keep coming over."* **She keeps coming over. A phone call wastes the locked promise, and Ch21 is the last Iris-and-Lena scene in the book.**
+3. **⚠️ AND THE BRIEF CONTRADICTED LOCKED CH9 OUTRIGHT.** It had Lena *"ask if she is okay."* **Ch9 has Lena say, in the scene that defines their remaining relationship, that she is going to stop asking exactly that.** The chapter now reads: *"She did not ask if Iris was okay. She had not asked since the end of March, and she was not going to, and the not-asking had become as much a part of the evenings as the too much food."*
 
 **Conflict:** She reads Marin's record. It is the last thing on the drive and it is addressed to nobody.
 
@@ -1804,6 +1810,77 @@ The chapter ends on the call ending normally.
 Marin's record also contains the deviation, documented, which means **Iris now knows a human being did this on purpose and why.** She does not have a reaction to that either. Do not stage one.
 
 **Craft:** No epiphany, no near-miss staged for tension, no moment where she almost has it. **Do not write the failure as reaching and falling short.** She looks at the gap, measures it accurately, and files the measurement, and that is worse.
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-03, on the day it was drafted. Verdict: structurally and emotionally sound, all four negative gates clean; two hard continuity/logic defects and one central inference needing recalibration. The recalibration made the chapter tighter.**
+
+**1. ⚠️ THE FILING DATE CONTRADICTED LOCKED CH20, AND THE ERROR RAN FURTHER THAN THE DATE.** The draft opened on the record being filed *"eleven days after the building was sealed."* **Locked Ch20 has Marin entering a building sealed for seven weeks and filing during that visit.** Corrected to seven weeks.
+
+**But the sweep the author asked for found a worse thing underneath it.** The draft then had Iris reconstructing the filing date against the autonomous draw: *"The draw does not. The draw runs on for two years and four months."* **She cannot know that.** Locked Ch5 gives her seventy-two months of consumption logs *"to the end"*, and locked Ch16 has her working the draw only *"between the last logged load and the seal."* **Every system she holds stops at the seal.**
+
+**Rebuilt, and it is better than what it replaced:** *"The staff list ends at the seal, seven weeks before it. The site access log ends at the seal, because the keypads went down with the power... The consumption logs end at the seal. The substrate log ends at the seal. Every system she has stops inside the same week, and then, seven weeks later, one of them takes a nine-day document from a person who walked in past a dead panel."* Then: ***"After that there is nothing. A gap has edges and she can measure them. This does not. It is an end."*** **And the next event she can date is eighteen months later and four miles away, and it is a woman going to her own doctor because her husband made her.**
+
+**2. "Everything it has ever had is that" was false within two paragraphs**, since the next one establishes Marin's whole structure went in as well. **Now: *"The only complete map it has ever had is that,"*** which preserves the distinction between the map and the accumulated material.
+
+**3. ⚠️ THE RECOGNITION CONCLUSION OUTRAN ITS EVIDENCE, AND FIXING IT UNIFIED THE CHAPTER.** The draft stated as fact that it goes toward what it recognizes. **Iris cannot establish that.** Failing clinical columns leaves resemblance as a strong model and does not prove it, and **accessibility, exposure duration and unrecorded properties all remain live.** Worse, the very next section has her unable to run the category comparison on the one case she knows best.
+
+**Now split, in the Ch14 form:**
+
+> *Observed. Selection outside the building is not random, and nothing in four hundred and sixteen clinical records predicts it.*
+>
+> *Documented. Inside the building it matched its own material against what was presented to it.*
+>
+> *Model. Outside the building it does the same operation, and what it goes toward is whatever is shaped like what it holds.*
+
+**She does not promote the third line**, because promoting it requires the same comparison she cannot run. **She lists the rivals**, because *"a model with nothing beside it on the page is a model no one has tested"* — proximity, duration of exposure, what four minutes of a routine check reaches, and something no form has ever collected. **"None of them fit as well. Fitting well is not the same as being true."**
+
+**⚠️ AND THE TWO FAILURES ARE NOW ONE FAILURE**, which is what the recalibration bought: *"It also closed the other one. The third line on the model card needed the same comparison to become a finding, and the comparison needed the same input, and there was no arrangement of the afternoon in which she got it."* **The third card carries its status: *It goes toward what it recognizes. Model, not finding.***
+
+**4. Clarity.** *"nothing in any system she had touched her again"* read as though a system touched her. **Now: *"she appeared nowhere again in any system Iris had reached."***
+
+**PROTECTED BY NAME, per the author:** *"The operation requires the second description to contain what it is a description of"* · ***Operation requires an input I do not have. No substitute identified.*** · the four cards, and **the fourth one especially**, which states attachment without supplying the interior content and does not violate the gate · ***Would want it. Would be worse off with it. Both true*** and ***ask her*** · and the Lena scene entire, in particular ***"Nothing came out of any of it… and she gave it the whole eleven minutes anyway, and she could not have said what for."***
+
+**The author on length:** at 3,203 the chapter already felt complete rather than underbuilt, and **no material was to be added merely to approach budget.** The revision added 369 words and all of it was the three fixes.
+
+**AS WRITTEN (drafted and revised 2026-09-03, 3,572 words against a 3,600 budget, 99%. All 81 beats present, all four negative gates clean. ⏳ Not locked; awaiting the author's word on the revision.)**
+
+**⚠️ THE FOUR NEGATIVE GATES WERE SCREENED AND ALL PASS**, because this chapter's whole job is what it does not do: **the entity is never named on the page · Lena is never connected to danger, in any wording · no warn-or-risk language appears anywhere · and there is no almost-had-it phrasing.** The subplot file requires that Iris never consider Lena to be in danger, and the prose does not mark the not-considering either, because marking it would be naming the absence.
+
+**THE FAILURE IS RENDERED AS AN UNAVAILABLE OPERATION, NOT AS REACHING AND FALLING SHORT.** She puts two descriptions side by side. The record's, of what went into the machine from the older sister, **which the document names once in the ordinary register and the ordinary version is four words long.** And her own case file, which is a boundary: what it was attached to, what still works around it, what stopped, scored on her own scale with the interval and the location.
+
+> *Two descriptions. One of a content that went in. One of a content that came out.*
+>
+> *The operation is to determine whether they are descriptions of the same category.*
+
+**She cannot run it.** She can compare two records and two boundaries and both return matches that mean nothing, *"because a boundary is an outline and a great many contents have that outline."* **The operation requires the second description to contain what it is a description of**, and that is *"the specific item that was removed in the first week of January."*
+
+***"She did not reach for it. There would have been nothing to reach for and she had stopped doing that in February."***
+
+**Then she clears the substitutes in order** — boundary, attachment, **Lena's testimony, which could describe it from the outside better than anyone alive and not from the position the operation requires** — and her own pre-January record, *"complete and factual and not containing the item itself, because no one writes that down while they still have it."*
+
+**The finding:** ***Cannot determine whether these are the same category. Operation requires an input I do not have. No substitute identified.*** And: *"It was the most accurate sentence she had written in six weeks and it closed nothing at all."*
+
+**THE FOUR CARDS, in the order the dialogue note specifies:** *A complete map of a younger sister.* · *An older sister's whole feeling about her, integrated, not returned.* · *It goes toward what it recognizes.* · *From me it took what I had for Lena.* **She runs the operation again standing up, because a result you get once at a table is a result you check standing up, and gets the same return.**
+
+**THE RECORD IS RENDERED AS A DOCUMENT AND NEVER AS A CONFESSION.** Nine days, every field including the four optional ones, third person throughout, so the pages read *"as though a stranger had gone through the site with a list."* **The word sorry does not appear, and Iris checks that twice, because it is the sort of absence that is either an omission or a decision.** Both parameters, with a four-day range on the first and the reason it cannot narrow. Twenty-four reconciliation entries. Every session, reproduced, not summarized. **The reclassification as two sentences with no conjunction between them.** The technician in four paragraphs with no adjectives.
+
+**⚠️ AND THE REACTION IS A VERIFICATION.** She checks the record against eleven weeks of her own independent work, line by line, for an afternoon. *"They agreed. Not approximately."* And: *"It was better than her reconstruction in one respect and worse in none. It knew why."* **Then she registers that a human being did this deliberately, gets no result from it, and says so.** No reaction is staged.
+
+**THE RECORD STOPS AND SHE REFUSES TO EXTEND IT.** *"What she could defend was that the author filed a complete record on a Thursday and that nothing in any system she had touched her again."* **She will not say died**, and the prose gives the reason: *"the difference between a person who stopped appearing in records and a person who died is a difference she had spent nine days on with Simon Virek and had been careful about then."*
+
+**⚠️ TWO CONSEQUENCES THE BRIEF DOES NOT ASK FOR AND THE CHAPTER NEEDED.**
+
+- **KADE'S APRIL QUESTION IS ANSWERED.** In Ch16 he asked whether the older one knew what she was going to make, and Iris said there was nothing in the record that said either way. **There is a record now and it says.** Nowhere in nine days is there a sentence about what would come of it, *"because the author did not know, and could not have, and would have written it down if she had."* **So the answer is no, and it is now supported.** She writes it on a card for him without the reasoning attached, **and writes underneath that whether he wanted the answer is a separate question she cannot run either.**
+- **⚠️ ROURKE HAS THE MECHANISM SHE SAID SHE WOULD NEVER GET, AND IRIS CANNOT DECIDE WHETHER TO GIVE IT TO HER.** Ch18: *"there's no version of me that gets one."* Iris now has it, complete and dated and checkable in eleven places. **She works out what handing it over would do:** Rourke would read it in an evening, find it correct *"because it is correct and she is good,"* and end up with a mechanism she cannot source, corroborate or act on, and **the same four hundred people and one more thing she could not say out loud.** Card: ***Would want it. Would be worse off with it. Both true.*** Then ***ask her*** underneath, *"because it was the only version of the problem that had a person in it who could decide."*
+
+**THE DOCUMENT'S EVIDENTIARY WORTH IS ASSESSED IN UNDER THREE MINUTES AND COMES TO NOTHING:** a copy off drives she cannot account for possessing, an author who cannot be produced, an institution dissolved six years, **and no offense anywhere, because no law has ever been written about it.** *"Changes what I can prove. Does not change what anyone can do."*
+
+**LENA, AND THE IMAGE THE CHAPTER EXISTS FOR.** She talks from the bottom of the stairs, which is the locked Ch9 move. **Eleven minutes about a supplier, a woman called Bernadette, and four escalating emails, and she reads all three versions of the last line she rewrote.** Iris has the shape of it early and stays with it, laughs twice at the right size in the two places built for it, and asks the question at the point in the account where it belongs. ***"Nothing came out of any of it… and she gave it the whole eleven minutes anyway, and she could not have said what for."***
+
+**Then she takes her coat off, and she is standing about four feet from the doorframe**, with the four cards at the near end of the row, square, in blue ink, in her sister's handwriting. ***"She did not look at it. She had looked at it properly once, in March, and had made her decision about it then, and after that it was furniture."***
+
+**Ends on dialogue**, which breaks the narration run at three: *"Thursday. I'll bring the other kind."* / *"All right."* / *"And you'll eat it."* / *"I'll eat it."*
+
+**Drafting record.** First draft **2,465 words, 68%** — the eighth consecutive chapter on that pattern and the lowest since Ch10. **Missing: Kade's answered question, the Rourke problem, the four cards themselves** (which the first rewrite dropped even though the dialogue note names them as the chapter's spine), and the evidentiary assessment. **Four interval errors caught by the calendar sweep:** *five months* since January where four is right; *the eighth of January* where the calendar says the first week; **Lena stopping asking in *the middle of April* when Ch9 is Day 42, the end of March**; and the card row turning the corner *in February* when locked Ch9 places it in March.
 
 ---
 
@@ -1856,6 +1933,48 @@ Willow's face reaches **specific** and stays there for the rest of the series. T
 *(If the coda cannot be made to work without explaining, cut it and end on Iris. The chapter survives it. The coda is the better version and it is not worth the rule.)*
 
 **Craft:** **Do not resolve it. Do not explain it.** No character theorizes about why it failed. Iris does not know, Willow does not know, and the narration does not know.
+
+**AS WRITTEN (drafted 2026-09-03, 3,246 words against a 3,800 budget, 85%. All beats present, every negative gate clean. NOT YET AUTHOR-REVIEWED.)**
+
+**⚠️ THE NEGATIVE GATES WERE SCREENED FIRST, BECAUSE THIS CHAPTER IS MOSTLY MADE OF THEM, AND ALL OF THEM PASS.** **No appetite language anywhere in the chapter, coda included** · **no word in the coda naming the feeling** (no anger, no frustration, no want, no denial) · **the entity is never named on the page and neither is Lena, in any wording** · **no character theorizes about why it failed**, and the narration does not either · **Iris never recognizes the face** · no em dash, no exclamation, no straight quote, no *-body* form in narration.
+
+**THE CONTACT IS RENDERED AS A MEASUREMENT AND NEVER AS AN ORDEAL.** Frontal, steady from the first second, peaking at nineteen seconds. *"She wrote 19s on the back of her hand, because the card was on the table and the table was going to be behind her."* Then eleven minutes taken from inside: a sequence rather than a search, *"and by the fourth or fifth of them she could feel that it was a list and that the list had been used before."* **Nothing came away**, established at the third stop and checked four more times *"because certainty was a category she had spent a year distrusting and because there was nothing else to do with the time."*
+
+**THE FAILURE IS RENDERED AS A MACHINE REACHING THE END OF A LIST AND GOING BACK TO THE TOP.** The second pass is slower and *"worse than the first, in the sense that a hand going over the same four inches of a wall for the fourth time is worse than the first three."*
+
+**⚠️ THE PLANT IS ONE MEASUREMENT AND NOTHING COMMENTS ON IT.** *"Then it went to one place and stayed there."* Two minutes and forty seconds, one location, no result, and *"Two minutes and forty seconds is a very long time to hold still in someone’s front room."* **Iris files it as a duration and writes that she does not know what it was doing.** No line joins it to anything.
+
+**THE THREE LINES, AS SPOKEN:** ***"You are not finished."*** · ***"It does not close."*** · ***"I do not know why."*** Iris answers the first with *"No"* and does not answer the others, *"because she had spent eleven weeks learning that you do not fill a silence in front of something that is telling you what it is."* **Her voice is ordinary, and that is the one thing Iris had not been prepared for.**
+
+**THE FACE.** *"It was someone’s face."* One particular person, at rest, reproducible from memory a week later, **and in February the joins had shown and they do not show now.** Against that: **there is not one photograph in four batches of recovered material**, because the research side files under numbers and the clinical side was the wet drives *"and a face is not a field."* **She files it as a limitation of the material.** Its card goes on the row next to the one about the man she cannot find, **and she does not put the two together**, because the only thing joining them is that building, and everything she has is about that building.
+
+**⚠️ THE ENDING DOES NOT END.** No moment of decision in the stopping. She straightens, says the third line, leaves, and *"Iris heard her go down the stairs at the speed a person goes down stairs."*
+
+**THE AFTERMATH IS THE CHECK**, run because it is procedure and because she is the only person who can take it. Every category on the wall returns what it returned that morning. *"She had been worked on for eleven minutes by the thing that had emptied four hundred people, and she was not one item worse than before it came in. She sat with that until it stopped being a finding and became a fact, which took about ten seconds."*
+
+**FIVE PIECES OF RECORD WORK, AND THE LAST TWO ARE THE TWO CARDS THE DIALOGUE NOTE ASKS FOR.**
+
+- **The speech, written first and verbatim**, because **nothing in the whole record has a voice in it** — not Rourke’s four hundred and sixteen, not the paramedic, not the neighbor, and not the woman at the transit stop who held a conversation and could not reproduce a syllable. She notes that she is confident of the wording and **moderately confident of the order**.
+- **The face**, and what she is allowed to say about it.
+- **The event.** *Second visit. Saturday, 21:30. Eleven minutes. Two passes, full sequence. Nothing removed. One location held 2m40s, no result. Reading frontal, no climb, peaked at 19s.*
+- **The finding.** ***Did not complete. No mechanism identified.*** Then the sample line, written *"because the line was true and because leaving it out would have been a decision"*: ***Sample of one. Says nothing yet about the other four hundred.*** **She would have liked it to say something about the other four hundred. She wrote the sentence that made it not say anything.**
+- **⚠️ AND HER OWN CARD, WHICH IS THE "UNFINISHED, PERMANENTLY" BEAT MADE CONCRETE.** It has read *Open job. Expect completion* since March. She cannot write *closed*, cannot write that completion is no longer expected (*"she had one case and one case is not a case, and she had spent four months holding other people to that"*), and cannot leave it standing against eleven minutes of evidence. ***Second attempt did not complete. Expectation unsupported and not withdrawn.*** Then the last line of the night, **the only one she writes as a question**: ***Will it come back. No prior case of a subject it did not finish. Outside the data.***
+
+**⚠️ BOOK 1 CH22 IS PAID, AND IT IS PAID AS A COUNT.** ***Third occasion it has stopped short with me. First with contact and a full sequence, run twice.*** The February pair were never a sequence: one was proximity and something crossing it and something in her holding *"for reasons she could not establish then and had not established since"*; the other was a decision she was not party to. **Then, flat:** *"She had been nearer to it than any living person since the first week of January, and the whole of what that had bought her, in four months, was three sentences and a number on the back of her hand."*
+
+**KADE AND ROURKE ARE CARRIED WITHOUT BEING SPENT.** Their two cards from Ch21 are still on the table. She puts tonight’s beside them and looks at three pieces of paper that are all the same shape: *"Every one of them was something she could only find out by asking a person."* **She writes *Monday* on the corner and leaves them.** That is the whole of Book 3’s opening position and it costs four sentences.
+
+**THE LAST IRIS IMAGE.** She reads the wall from January, *"and it was accurate from end to end"*: ***Everything on it was true. There was nothing on it that told her what to do next.*** Then the lamp, and *"a city where four hundred people were asleep and unfinished,"* and bed, *"because it was two in the morning and there was work in the morning."*
+
+**THE CODA — 283 words, under the 400 ceiling.** Present tense, structural, no scene. *"The process ran and did not return a value."* The return is the end of the list and **there is nothing on the other side of it**. There is no instruction for a list that ends without anything ending with it, *"because the material was written by people describing an operation that finishes, and every version of it assumes the finish."*
+
+**The sister is one clause and it is not a thought:** *"At one address in the sequence there was a structure with the correct shape and no value in it… The shape was whole. It was a smaller one held by a larger one, complete and addressable, and there was nothing in it to take."* **"It is holding it now."**
+
+**The unnamed thing is given as a state and never as an emotion:** *"There is no name for that in anything it has taken, and no category for it in the material it was built out of. There is a value that will not close, and a system that cannot leave a value open, and the two of them in the same place."*
+
+**And the last sentence hands the image back to Iris by refusing to be one:** *"She went down the stairs and out onto the street, and she went on holding the shape of a smaller one held by a larger one."*
+
+**Drafting record.** First draft **2,560 words, 67%** — the ninth consecutive chapter on the pattern, and again the missing material was consequence rather than beat. **Missing: the verbatim speech card** (nothing in twenty-two chapters has ever spoken, and the first draft did not notice that this made the record unique), **the face as an unresolvable item**, **the sample-of-one line**, **the Book 1 count**, and **her own card**. **Four fact errors caught by the sweeps:** *nine meters in January* for a sighting locked Ch11 puts at **ninety meters**, in a month with no sighting in it (now *"In February the joins had shown"*); *nine operator notes*, invented, replaced by locked Ch5 and Ch7’s inventory; *twenty-two weeks of record* where the record is four months old; and *three days* since the last wall reading when **Ch21 is Day 72 and this is Day 74**. **Day 74 confirmed a Saturday** off Day 42 = Tuesday, which also confirms Ch21’s Thursday.
 
 **No appetite language, at all, in the coda.** She is not thwarted, not hungry, not denied. **A process did not return a value.** That is all the prose gets to say, and the reader will feel the rest.
 

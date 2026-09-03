@@ -585,3 +585,39 @@ Virek reported residue that had stopped decaying, integration events with no ses
 Ch19's answer now rests on five true statements, and **the fifth is carrying the other four**: everything in that workspace is going to be destroyed in the spring. Ch14's reclassification form is what removes it. **Nobody reopens a closed ticket, because none of the three monitoring triggers ever fires in a log anyone reads.**
 
 **That is the series' actual mechanism** — a correct decision, taken on verified facts, invalidated later by an administrative change nobody connects back to it. **It is available in every institutional scene and it is always stronger than having somebody drop the ball.**
+
+
+## ⚠️ AN INVENTED FIGURE READS EXACTLY LIKE A RECALLED ONE — added 2026-09-03, off the Ch22 drafting
+
+**Two numbers went into the Ch22 draft that had never existed anywhere**, and both of them read as continuity rather than as invention, because they were in the house register and sat in sentences whose other facts were correct.
+
+- ***"the joins that had been visible in January at nine meters"*** — there is no January sighting, and **locked Ch11 puts the only distance sighting in the book at ninety meters.** A figure one order of magnitude off a locked one, in a month with no sighting in it.
+- ***"nine operator notes"*** in the inventory of recovered material. **Locked Ch5 and Ch7 give that inventory exactly**: four hundred and eleven session records, seventy-two months of consumption logs, the substrate group's whole operational archive. *Nine operator notes* is a plausible item that was never acquired.
+
+**Neither was findable by any screen this project has.** The frequency comparison sees voice. `number-check.js` prints the sentence and cannot know the figure is fictional. The beat count sees a beat that is present. **A wrong number in a well-formed sentence surrounded by right numbers is invisible.**
+
+**THE CHECK, and run it before any other screen on a new draft:**
+
+```
+grep -oh "[a-z-]* hundred and [a-z-]*\|[a-z]* meters\|[a-z]* months" chapters-book2/*.md | sort | uniq -c | sort -rn
+```
+
+**Put every figure in the new chapter next to every figure in the locked corpus and make each one either match a locked figure or be a measurement the chapter itself takes.** There is no third category. Ch22's *nineteen seconds*, *two minutes forty* and *eleven minutes* are all measurements the chapter takes on the page, which is why they are safe. Everything else has to trace to a locked line.
+
+## ⚠️ THE FIRST OCCURRENCE OF ANYTHING IS ITSELF A FACT THE RECORD-KEEPERS REACT TO — added 2026-09-03, off the Ch22 drafting
+
+Willow speaks three lines in Ch22. **Nothing has spoken in either book before that.** The first draft rendered the lines and moved on, and the missing beat was not the dialogue but **Iris writing it down verbatim, and knowing while she wrote it that it was the only one of its kind** — no voice in Rourke's four hundred and sixteen, none from the paramedic, none from the neighbor, and none from the woman at the transit stop who held a conversation and could not reproduce a syllable.
+
+**The general form:** when a chapter contains the first instance of something in the whole book, a character who keeps records will register the firstness, not just the thing. **The draft will render the thing and drop the firstness**, because the draft is inside the scene and the firstness is a property of the corpus.
+
+**The diagnostic:** after drafting, ask what happens in this chapter that has not happened before in the book, then check whether anybody on the page notices that it has not.
+
+## ⚠️ A CHARACTER'S HORIZON IS SET BY WHERE HER SOURCES STOP — added 2026-09-03, off the author's Ch21 review
+
+The Ch21 draft had Iris reconstructing a date **against the autonomous draw, running on for two years and four months after the building was sealed.** She cannot know that. **Locked Ch5 gives her seventy-two months of consumption logs *to the end*; locked Ch16 works the draw only *between the last logged load and the seal*. Every recovered system stops in the same week.**
+
+This is the access-chain defect with a different shape: not *who told her*, but *how far does the thing that told her reach*. **A source that is genuinely hers can still not cover the period she is using it for**, and that reads perfectly, because the source is real and the fact is true.
+
+**The diagnostic:** for every fact a character states about a period, name the system that covers **that period**, not the system that covers the subject.
+
+**And the fix was better than the error**, which is the usual result: *"After that there is nothing. A gap has edges and she can measure them. This does not. It is an end."*

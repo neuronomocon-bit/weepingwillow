@@ -78,5 +78,9 @@
   "20-the-last-session.md": {
     "sha256": "a62eeb583242bca2d105e5dab1af848a94543740590428fdf362e3957a0636dc",
     "words": 3807
+  },
+  "21-why-lena.md": {
+    "sha256": "2a45f626a55096575b5b14a895cf0fe55ee7da4f15a077cc93686d49389ff013",
+    "words": 3572
   }
 }

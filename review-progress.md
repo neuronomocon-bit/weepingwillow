@@ -85,8 +85,8 @@ Checked on every chapter of this book in addition to the standard passes:
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
 | 19 | Almost | Iris | 3,600 | **REVISED 3,727** | ✅ **LOCKED 2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | Marin | 4,400 | **REVISED 3,807** | ✅ **LOCKED 2026-09-03** |
-| 21 | Why Lena | Iris | 3,600 | — | — |
-| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
+| 21 | Why Lena | Iris | 3,600 | **REVISED 3,572** | ✅ **LOCKED 2026-09-03** |
+| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | **DRAFTED 3,246** | ⏳ awaiting author review |
 
 Legend: `—` not started · `WIP` in progress · `DONE` complete · **`LOCKED` reviewed and approved by the author — see LOCKED CHAPTERS below**
 
@@ -259,6 +259,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch19 | **1 structural + 4 confidence** | **⚠️ THE MOST DANGEROUS DEFECT FOUND IN THIS BOOK, BECAUSE IT DOES NOT READ AS AN ERROR. IT READS AS A SCENE.** Raman's answer to Virek's four findings was funding, consolidation and a termination date, which is not containment and is therefore negligence — **and once his answer is negligent, Virek closing his own ticket is too**, contradicting the chapter's own *"He had not been wrong about any of it."* **The book's thesis inverts from "nothing in the system was built to catch this" into "these people were bad at their jobs."** Rebuilt so both men are competent: operator authorized and spoken to, isolation verified rather than assumed, clinical configuration checked the same day, integration accounted for by the exclusion list, the change-control gap named as a gap in the form, three monitoring triggers, and a termination date. **The failure now lives in a changed assumption** — Ch14's reclassification removes the termination that the other four statements were standing on. Now a standing rule: **THE COMPETENCE FLOOR** in `14-audit-method.md`, with the incident-response chain to walk. Plus four confidence-level fixes: the witness certified *intact*; *the first time in two years she had been sure of anything*; *had not been anywhere since*; and *the only occasion in six years when Meridian looked*. |
 | Ch18 | **0 + 7 domain vocabulary** | **⚠️ SAME CLASS AS CH17, ONE CHAPTER LATER: A TECHNICAL TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Rourke is an epidemiologist and the draft had her blur association with prediction, sensitivity with positive predictive value, and a temporal cluster with a common-source exposure. **The worst was the Ch2 payoff, and the brief was the source of it:** the brief said she met the threshold she set for Iris, and she has not, because the test needed a person, a function and a date and she has a population. **The corrected version is better and produced the chapter's best exchange** — *"You found the population." / "I found the population. I can't find the person."* Also: the living-partials range ignored three untested dead (400–403 → **397–403**, and Iris catches it herself); *no shared clinical history* → *none had been identified*; *it isn't a cluster* → *the cluster is real, the exposure model isn't*; *predicts perfectly* → *isn't a predictor*; a resemblance counted as a hit; *speculate and be right* → *speculation better than speculation*; and **the Ch14 one-case-to-a-rule defect repeating**, now refused out loud by Iris. See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT. |
 | Ch17 | **0 + 2 technical + 3 calibrations** | **⚠️ THE MACHINE-STATE MODEL, AND THE WORST ONE WOULD HAVE PUT SIX YEARS OF THERAPY ON THE WRONG SIDE OF THE SAFEGUARD.** The draft said working a structure requires taking it in as the machine's own and that the limiter prevents exactly that — but normal treatment works patient structures with the limiter active. **The limiter governs attribution, not operation.** Second: *ninety-three point one* was called impossible by the woman who had just enabled it, when attenuation is what working a structure does; rebuilt to separate the fixed archive value from the moving working value and to end on **"She had not initiated attenuation."** Calibrations: autonomy scoped **per workspace against a site default**; *"no other correct entry"* → *"no more specific entry the form would take"*; *"She was not hiding any of it"* → *"She had not put a false name on anything or taken a record out."* **The full audit is now a table in `01-world.md` → THE SUBSTRATE STATE MODEL, and it governs Ch20.** |
+| Ch21 | **2 hard + 1 recalibration** | **⚠️ A DATE CONTRADICTED A LOCKED CHAPTER AND THE SWEEP FOUND A WORSE ERROR UNDERNEATH IT.** The filing date read *eleven days after the seal* against locked Ch20’s **seven weeks** — but the draft then had Iris reconstructing that date **against the autonomous draw, which she cannot know**, because locked Ch5 gives her consumption logs only *to the end* and locked Ch16 works the draw only *between the last logged load and the seal*. **Every recovered system stops in the same week.** Rebuilt into the stronger passage: *"A gap has edges and she can measure them. This does not. It is an end."* Also *"Everything it has ever had is that"* falsified two paragraphs later, now ***the only complete map***. **And the central inference outran its evidence:** recognition was stated as fact when failing clinical columns leaves resemblance a strong model, so it split into *Observed / Documented / Model* with the rivals listed, because *"a model with nothing beside it on the page is a model no one has tested"* — **which unified the chapter, since the third line needs the same comparison and the comparison needs the same missing input.** |
+| Ch22 | — | **⏳ DRAFTED 2026-09-03, NOT YET REVIEWED.** |
 | Ch16 | **0 + 5 confidence** | **⚠️ A NEW CLASS: no continuity, arithmetic or beat error, and five conclusions stated above their evidence.** Absence of a recoverable trace read as absence of the thing; one observation failing two independent safeguards; a universal exclusion where an expert judgment was available; parallel description taken for identity of mechanism; and an exclusivity claim about who else is alive. **The diagnostic: Iris refuses on the page to build Marin's motive out of nothing for Kade, and the chapter breaks that standard four times within a thousand words of the refusal.** See `14-audit-method.md` → THE CONFIDENCE-LEVEL DEFECT. |
 
 **⚠️ Five of seven chapters carried a hard error, and not one was findable by either check this project already had.** See `14-audit-method.md` → THE THIRD METHOD.
@@ -292,11 +294,70 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 18 | Escalation | 3,577 | **2026-09-03** |
 | 19 | Almost | 3,727 | **2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | 3,807 | **2026-09-03** |
-| | **ALL TWENTY LOCKED — THROUGH CH20** | **65,542** | |
+| 21 | Why Lena | 3,572 | **2026-09-03** |
+| | **ALL TWENTY-ONE LOCKED — THROUGH CH21** | **69,114** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
 **Locked chapters still count** toward the totals and still appear in the voice audit. They are fixed points, not exclusions. **If an audit flags something inside one, report it and leave it alone.**
+
+---
+
+## CH21 — WHY LENA, drafted 2026-09-03
+
+**Drafted at 3,203, reviewed by the author the same day, revised to 3,572 against a 3,600 budget, 99%. All 81 beats present and all four negative gates clean. ✅ LOCKED 2026-09-03.**
+
+## CH22 — THE SECOND VISIT (2026-09-03): DRAFTED, AWAITING REVIEW
+
+**3,246 words against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. The book stands at 72,360 words across twenty-two chapters, 91% of budget. ⚠️ BOOK 2 IS DRAFTED END TO END.**
+
+**The gates this chapter is mostly made of:** no appetite language anywhere including the coda · no word in the coda naming the feeling · the entity never named and Lena never named · nobody theorizes about the failure, narration included · Iris never recognizes the face.
+
+**The plant is one measurement.** Two minutes forty, one location, no result, and Iris writes that she does not know what it was doing there. **No line joins it to anything.**
+
+**Book 1 Ch22 is paid as a count:** *Third occasion it has stopped short with me. First with contact and a full sequence, run twice.* Then: *"She had been nearer to it than any living person since the first week of January, and the whole of what that had bought her, in four months, was three sentences and a number on the back of her hand."*
+
+**Four fact errors caught by the sweeps and fixed:** a nine-meter sighting in January against locked Ch11’s ninety meters, in a month with no sighting in it; an invented *nine operator notes*; *twenty-two weeks of record* against a four-month record; and *three days* since the last wall reading when Ch21 is Day 72 and this is Day 74. **Day 74 confirmed a Saturday off Day 42 = Tuesday.**
+
+### ⚠️ THE REVIEW FOUND TWO HARD DEFECTS AND ONE OVERRUNNING INFERENCE
+
+1. **The filing date contradicted locked Ch20** (*eleven days* against Ch20's *seven weeks*), **and the sweep found a worse error underneath it.** The draft had Iris reconstructing the date against the autonomous draw — **which she cannot know**, because locked Ch5 gives her consumption logs only *to the end* and locked Ch16 works the draw only *between the last logged load and the seal*. **Every system she holds stops at the seal.** Rebuilt into what is now the stronger passage: *"A gap has edges and she can measure them. This does not. It is an end."*
+2. **"Everything it has ever had is that"** was false two paragraphs later. Now **"The only complete map it has ever had is that."**
+3. **⚠️ RECOGNITION WAS STATED AS FACT AND IS A MODEL**, and fixing it unified the chapter. Split into *Observed / Documented / Model*, with the rivals listed, because *"a model with nothing beside it on the page is a model no one has tested."* **And the two failures became one failure:** the third line needs the same comparison, and the comparison needs the same input. **The third card now reads *Model, not finding*.**
+4. *"nothing in any system she had touched her again"* read as though a system touched her. Now *"she appeared nowhere again in any system Iris had reached."*
+
+**The author ruled the length sufficient at 3,203 and instructed that nothing be added to approach budget.** The revision added 369 words and all of it was the three fixes.
+
+**⚠️ THE BOOK IS INSIDE ITS TARGET RANGE WITH CH22 STILL TO WRITE.** 68,745 against 68,000–72,000. **Ch22 at the running 90% lands the book near 71,900, and at full budget near 72,100.** Nothing needs cutting; the number is here so it is not a surprise at the end.
+
+### ⚠️ THE NEGATIVE GATES ARE THE POINT OF THIS CHAPTER AND ALL FOUR WERE SCREENED
+
+**The entity is never named on the page. Lena is never connected to danger in any wording. No warn-or-risk language appears anywhere. And there is no almost-had-it phrasing.** The subplot file requires that Iris never consider Lena to be in danger, **and the prose does not mark the not-considering either**, because marking it would be naming the absence.
+
+### Three spec corrections, two of them the brief being wrong
+
+1. **The location said "the leased unit."** Same stale phrase as Ch19. Locked Ch9, Ch16, Ch18 and Ch19 all put her at her own table.
+2. **The brief and the dialogue notes contradicted each other on whether Lena is present.** The brief had a phone call; the dialogue note has her in the apartment, four feet from the wall. **Resolved toward the dialogue note, and locked Ch9 settles it:** *"I'm going to stop asking if you're okay. And I'm going to keep coming over."* **A phone call wastes the locked promise, and this is the last Iris-and-Lena scene in the book.**
+3. **⚠️ The brief contradicted locked Ch9 outright**, having Lena *"ask if she is okay"* when Ch9 is the scene where she says she will stop asking exactly that. Now: *"She had not asked since the end of March, and she was not going to, and the not-asking had become as much a part of the evenings as the too much food."*
+
+### The failure is an unavailable operation, not reaching and falling short
+
+Two descriptions on the table. The record's, of what went into the machine from the older sister, **named once in the ordinary register, four words long.** And her own case file, which is a boundary and not a content. **The operation is to determine whether they are descriptions of the same category, and it requires the second description to contain what it is a description of.**
+
+> *She did not reach for it. There would have been nothing to reach for and she had stopped doing that in February.*
+
+She clears the substitutes in order, **including Lena's testimony, which could describe it from the outside better than anyone alive and not from the position the operation requires.** Then: ***Cannot determine whether these are the same category. Operation requires an input I do not have. No substitute identified.***
+
+### Two consequences the brief does not ask for
+
+- **⚠️ KADE'S APRIL QUESTION IS ANSWERED.** In Ch16 he asked whether the older one knew what she was going to make and Iris said nothing in the record said either way. **There is a record now.** Nowhere in nine days is there a sentence about what would come of it, *"because the author did not know, and could not have, and would have written it down if she had."* **The answer is no and it is now supported.**
+- **⚠️ ROURKE HAS THE MECHANISM SHE SAID SHE WOULD NEVER GET.** Iris works out that handing it over leaves her with a mechanism she cannot source, corroborate or act on, and **the same four hundred people and one more thing she could not say out loud.** Card: ***Would want it. Would be worse off with it. Both true.*** Then ***ask her***, because that is the only version of the problem with a person in it who can decide.
+
+### The drafting pattern, eighth chapter running
+
+First draft **2,465 words, 68%**, the lowest since Ch10. Missing: Kade's answered question, the Rourke problem, **the four cards themselves** (which the first rewrite dropped even though the dialogue note names them as the chapter's spine), and the evidentiary assessment.
+
+**Four interval errors caught by the calendar sweep:** *five months* since January where four is right; *the eighth of January* where the calendar says the first week; **Lena stopping asking in *the middle of April* when Ch9 is Day 42, the end of March**; and the card row turning the corner *in February* when locked Ch9 places it in March.
 
 ---
 
