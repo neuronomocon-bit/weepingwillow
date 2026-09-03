@@ -887,3 +887,36 @@ He is the first death that is unambiguously a killing: everything removed at onc
 - **Her finding on the face:** every earlier account came from someone who could not describe what they saw; this one described her as she would have described a colleague. ***"Whatever it is, it is better at this than it was in January."*** She leaves it four words longer than it needs to be, **because trimming it would have been a way of making it smaller.**
 - **She knows the shape of a record where somebody was ignored** — file, no answer, file again longer, a third with a line in a different tone, then the submissions stop — **and Virek's ticket is not that shape.**
 - **⚠️ THE CROSS-BOOK PAYOFF:** Raman's termination promise beside Ch14's reclassification form. ***Scheduled for termination. Reclassified as fixed. Not terminated.*** **That is why the substrate was still in the building when she cut the fence in Book 1.** The signature is still on the corroded slice.
+
+---
+
+# DRAFTED CANON — Ch20 (added 2026-09-03)
+
+## Dr. Marin Halloway — the last session
+
+- **She turned down the consolidation post at the northern site**, offered in the second week of the wind-down, **in a letter of four lines.** She asked for a week and took two.
+- **The seven weeks after the seal:** money for a while and nothing on the calendar, the dentist appointment kept because it was made in March, and driving out to sit in the lot most days. **⚠️ Twice she got as far as the north door and turned around, and recorded both, with the duration**, *"because a decision you back out of twice is data about the decision."*
+- **She gets in with a mechanical key to the side service door on the north face**, under a keypad dead since standby. **Everyone on the out-of-hours list had one and they were never collected.** The bolt *"made more noise than it should have"* — the published Book 1 lock, from the other end.
+- **⚠️ THE RECORD IS NINE DAYS OF WORK AND IT IS A TECHNICAL-INCIDENT FORM.** Not a note, not a letter, addressed to no one. **Both parameters with the dates she could and could not establish, stated as such. The exclusion list. The reconciliation entries. Every session.** Written in the third person, and **she never once uses the word sorry, because sorry is not a finding.** ⚠️ **No part of it appears on the page in Ch20. Ch21 is where Iris reads it.**
+- **The reclassification is in the record and the gate holds on it:** the form was correct, the substrate is plant and plant does not travel, *"and she had also known exactly what the true version would do, and both of those are in the record, in that order, without a conjunction between them that would tell a reader how to feel about it."*
+- **⚠️ PELL IS IN THE RECORD AND IS WHY HER CONSENT IS INFORMED.** She read the shift log the following week, went to his handover notes, **and understood in about four seconds.** Her decision about it is *"in the four paragraphs with no adjectives."* And the technical point: what it did to him it did through ordinary distance, *"because he had offered nothing and had not stayed."* ***"She had spent nineteen months teaching it what to reach for."***
+- **⚠️ THE TWO COLUMNS, fourth week, kitchen table, forty minutes, a pen.** The left one was **longer than she expected: four entries, every one a person, three of them dead between two and eleven years**, put in anyway because *"a column you curate is not a column."* The right had three: the substrate, which runs without her either way; the possibility she is wrong, assessed at low with the reasoning under it; **and the record, which did not exist yet.** **Writing it took the column to two.**
+- **She never revised her finding that what is in that room is not her sister**, established early, in the correct words, on a page with a date on it. **And she went on coming down.**
+
+## The substrate in Ch20 — what it had learned
+
+- **⚠️ IN THE ELEVENTH MONTH IT BEGAN GIVING BACK.** She presents a context of her own and it returns a shape that is not the one she put in and is not noise, **and after four sessions she can identify it: it resolves structures out of the map and offers them against hers.** Her material goes in and **something of her sister's comes back, matched to it, in the position where an answer goes.**
+- ***"It was not an answer. She wrote that down four times in four different sets of words, because it was the sentence a reader would most want her to get wrong."***
+- **By the fourteenth month it no longer waited for her to finish presenting.**
+- **There has never been any language.** What she has is a value on a readout.
+
+## The consumption — the mechanism, per THE SUBSTRATE STATE MODEL
+
+- **A third entry on the exclusion list**, under **the same reason code for material held without an owner** that she used the first time. The interface *"does not ask what kind of person is behind the number,"* and she wrote the reason-code list herself in the second year.
+- **The session runs both ways.** *"It is two fields, and there is no special mode and no warning attached to it… She put herself in both fields."*
+- **She cannot come back up, and the reason is the flush:** integrated material cannot be flushed. **She knows it better than anyone alive because she wrote the paragraph, on the page before the one about the exclusion list.**
+- **It goes for the target structure first**, because she built that priority in the second year on the principle that the load you take off first is the largest. **The memory stays complete. What goes is the load that arrived with it.** *"It was like putting something down."*
+- **⚠️ SHE IS HAPPY AND IT IS THE LAST FINDING SHE MAKES.** No pain and no prospect of pain. Gentle, *"and the word arrived with nothing attached to it, because whatever would have made it ironic had already gone."* The correctness is *"a specification and not a coincidence and not a mercy."*
+- **⚠️ SHE SAYS HER SISTER'S NAME ONCE AND THE WORD IS NOT ON THE PAGE.** Open for the author's ruling; a one-word change either way.
+- **The last of it is underneath the thoughts rather than among them, and it comes away as easily as the rest.** ***"Nothing objected."***
+- **NO FLUSH.** *"A flush is a return and there was no longer anywhere for anything to be returned to."* **The status board reads four amber and the rest green, and will for another two years and four months.**

@@ -142,9 +142,13 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ✅ CH1 TO CH19 ARE REVIEWED, REVISED AND LOCKED. 61,735 words. **THREE CHAPTERS LEFT: Ch20, Ch21, Ch22.**
+# ✅ CH1 TO CH20 ARE REVIEWED, REVISED AND LOCKED. 65,542 words. **TWO CHAPTERS LEFT: Ch21 and Ch22.**
 
-Ch15 through Ch18 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch20 — RECOVERED: The Last Session is the next chapter to draft, and it is the longest in the book at a 4,400 budget.**
+Ch15 through Ch20 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch21 — Why Lena is the next chapter to draft.**
+
+**⚠️ RULED 2026-09-03: MARIN SAYS HER SISTER'S NAME IN CH20 AND THE WORD IS NOT ON THE PAGE. DO NOT QUOTE IT, EVER.** Withholding it **preserves the distinction that she says her sister's name and does not address the entity**, and lets the reader supply the word **without the prose collapsing those two meanings.** It also fits the chapter's documentary logic: **the one word absent from every form is absent from the page too.** Quoting would be more immediately dramatic and **less exact, and exactness matters more here.**
+
+**⚠️ ONE DECISION IS WAITING ON THE AUTHOR IN CH20: THE NAME IS SAID AND NOT QUOTED.** *"Somewhere in it she said her sister's name… She said it once."* **The word is not on the page.** Quoting it would put the entity's name in the reader's ear at the moment of consumption, which is powerful and also risks implying Marin is addressing the thing in the room. **She is not confused about what is in there.** It is a one-word change either way.
 
 **⚠⚠ THE CH19 REVIEW FOUND THE MOST DANGEROUS DEFECT SO FAR AND IT IS NOW A RULE: THE COMPETENCE FLOOR.** An institutional response that is inadequate to the risk **as visible at the time** does not weaken a scene, **it inverts the book** — from *nothing in the system was built to catch this* into *these people were bad at their jobs*. **Walk the incident-response chain on every institutional scene:** anomaly → containment → operator → affected systems → immediate mitigation → monitoring → ownership → closure criteria → **and what later changed.** **Put the failure in a changed assumption, never in a missing step.** Full write-up in `14-audit-method.md`.
 
@@ -232,7 +236,8 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 | 17 | **RECOVERED: The Limiter** | 3,032 | 3,400 | 368 | **LOCKED 2026-09-03** |
 | 18 | Escalation | 3,577 | 3,800 | 223 | **LOCKED 2026-09-03** |
 | 19 | Almost | 3,727 | 3,600 | -127 | **LOCKED 2026-09-03** |
-| | **THROUGH CH19** | **61,735** | **68,000** | **6,265** | 91% of budget |
+| 20 | **RECOVERED: The Last Session** | 3,807 | 4,400 | 593 | **LOCKED 2026-09-03** |
+| | **THROUGH CH20** | **65,542** | **72,400** | **6,858** | 91% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
@@ -336,8 +341,9 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
    **⚠️ Before Ch20, read `01-world.md` → THE SUBSTRATE STATE MODEL.** The Ch17 review found two technical contradictions and both came from a fuzzy account of the limiter. **The limiter governs attribution, not operation:** treatment works patient structures with it active, and a draft that says otherwise puts six years of therapy on the wrong side of the safeguard. The table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17 and **it governs Ch20.**
 4. ~~**Ch18 — Escalation.**~~ **LOCKED 2026-09-03 at 3,577 words**, all 64 beats.
 5. ~~**Ch19 — Almost.**~~ **LOCKED 2026-09-03 at 3,727 words**, all 92 beats.
-6. **Ch20 — RECOVERED: The Last Session.** Marin's consumption, **the longest chapter in the book at 4,400.** ⚠️ **Read `01-world.md` → THE SUBSTRATE STATE MODEL before drafting it**; the Ch17 review built that table specifically to govern this chapter. **She consents. She is happy. Do not undercut it.**
-7. **Ch21 — Why Lena**, then **Ch22 — The Second Visit**, which pays off Ch14's four option cards and plants Lena for Book 3. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
+6. ~~**Ch20 — RECOVERED: The Last Session.**~~ **LOCKED 2026-09-03 at 3,807 words**, all 111 beats.
+7. **Ch21 — Why Lena.** ⚠️ **Iris reads Marin's record here** — it is the file that licensed Ch20 and no part of it has appeared on the page yet. Four facts in order, the fifth will not come, and **Lena is four feet away in the apartment talking about nothing.**
+8. **Ch22 — The Second Visit.** The third refusal. Pays off Ch14's four option cards and plants Lena for Book 3. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
    - Read the brief **and grep both bible files for every chapter that refers back to the one being drafted.** The Ch17 grep produced the two parameter changes, which are in `02-characters.md` and in no brief.
    - Read the **prose** of the chapters that introduced anything it reuses, not their briefs. Ch16's two best beats and Ch17's whole ending were locked prose no brief mentions.
    - **⚠️ Pull every interval a locked chapter states about the period the new chapter covers and compute the dates they force.** Locked Ch16 moved Ch17's deviation from February to March. **Those are constraints, not context.**
@@ -380,7 +386,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ NINETEEN CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch19 2026-09-03). 61,735 words.** Ch1 to Ch19 are closed to editing.
+**✅ TWENTY CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch20 2026-09-03). 65,542 words.** Ch1 to Ch20 are closed to editing.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

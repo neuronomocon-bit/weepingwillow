@@ -84,7 +84,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 18 | Escalation | Iris/Rourke | 3,800 | **REVISED 3,577** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
 | 19 | Almost | Iris | 3,600 | **REVISED 3,727** | ✅ **LOCKED 2026-09-03** |
-| 20 | **RECOVERED: The Last Session** | Marin | 4,400 | — | — |
+| 20 | **RECOVERED: The Last Session** | Marin | 4,400 | **REVISED 3,807** | ✅ **LOCKED 2026-09-03** |
 | 21 | Why Lena | Iris | 3,600 | — | — |
 | 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
 
@@ -255,6 +255,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
+| Ch20 | **0 + 2 local** | **⚠️ THE FIRST CHAPTER IN ACT III TO COME THROUGH CLEAN ON ALL THREE CLASSES** — no structural defect, no confidence-level breach, no missing beat. Two local fixes: **an impossible timestamp** (Marin enters at twenty past four and the folder was one she had brought in *an hour ago*), and ***recorded*** colliding with the chapter's own meaning of the word, since it establishes *record* as a physical artifact upstairs and then says no recording was running. Now ***noted***. **⚠️ AND A RULING THAT CLOSES A QUESTION FOR GOOD: Marin says her sister's name and the word stays off the page**, because withholding it preserves the distinction that she says her sister's name and does not address the entity, and because **the one word absent from every form is absent from the page too.** The author confirmed the POV withdrawal as structurally exact and protected seven lines by name. |
 | Ch19 | **1 structural + 4 confidence** | **⚠️ THE MOST DANGEROUS DEFECT FOUND IN THIS BOOK, BECAUSE IT DOES NOT READ AS AN ERROR. IT READS AS A SCENE.** Raman's answer to Virek's four findings was funding, consolidation and a termination date, which is not containment and is therefore negligence — **and once his answer is negligent, Virek closing his own ticket is too**, contradicting the chapter's own *"He had not been wrong about any of it."* **The book's thesis inverts from "nothing in the system was built to catch this" into "these people were bad at their jobs."** Rebuilt so both men are competent: operator authorized and spoken to, isolation verified rather than assumed, clinical configuration checked the same day, integration accounted for by the exclusion list, the change-control gap named as a gap in the form, three monitoring triggers, and a termination date. **The failure now lives in a changed assumption** — Ch14's reclassification removes the termination that the other four statements were standing on. Now a standing rule: **THE COMPETENCE FLOOR** in `14-audit-method.md`, with the incident-response chain to walk. Plus four confidence-level fixes: the witness certified *intact*; *the first time in two years she had been sure of anything*; *had not been anywhere since*; and *the only occasion in six years when Meridian looked*. |
 | Ch18 | **0 + 7 domain vocabulary** | **⚠️ SAME CLASS AS CH17, ONE CHAPTER LATER: A TECHNICAL TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Rourke is an epidemiologist and the draft had her blur association with prediction, sensitivity with positive predictive value, and a temporal cluster with a common-source exposure. **The worst was the Ch2 payoff, and the brief was the source of it:** the brief said she met the threshold she set for Iris, and she has not, because the test needed a person, a function and a date and she has a population. **The corrected version is better and produced the chapter's best exchange** — *"You found the population." / "I found the population. I can't find the person."* Also: the living-partials range ignored three untested dead (400–403 → **397–403**, and Iris catches it herself); *no shared clinical history* → *none had been identified*; *it isn't a cluster* → *the cluster is real, the exposure model isn't*; *predicts perfectly* → *isn't a predictor*; a resemblance counted as a hit; *speculate and be right* → *speculation better than speculation*; and **the Ch14 one-case-to-a-rule defect repeating**, now refused out loud by Iris. See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT. |
 | Ch17 | **0 + 2 technical + 3 calibrations** | **⚠️ THE MACHINE-STATE MODEL, AND THE WORST ONE WOULD HAVE PUT SIX YEARS OF THERAPY ON THE WRONG SIDE OF THE SAFEGUARD.** The draft said working a structure requires taking it in as the machine's own and that the limiter prevents exactly that — but normal treatment works patient structures with the limiter active. **The limiter governs attribution, not operation.** Second: *ninety-three point one* was called impossible by the woman who had just enabled it, when attenuation is what working a structure does; rebuilt to separate the fixed archive value from the moving working value and to end on **"She had not initiated attenuation."** Calibrations: autonomy scoped **per workspace against a site default**; *"no other correct entry"* → *"no more specific entry the form would take"*; *"She was not hiding any of it"* → *"She had not put a false name on anything or taken a record out."* **The full audit is now a table in `01-world.md` → THE SUBSTRATE STATE MODEL, and it governs Ch20.** |
@@ -290,11 +291,55 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 17 | **RECOVERED: The Limiter** | 3,032 | **2026-09-03** |
 | 18 | Escalation | 3,577 | **2026-09-03** |
 | 19 | Almost | 3,727 | **2026-09-03** |
-| | **ALL NINETEEN LOCKED — THROUGH CH19** | **61,735** | |
+| 20 | **RECOVERED: The Last Session** | 3,807 | **2026-09-03** |
+| | **ALL TWENTY LOCKED — THROUGH CH20** | **65,542** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
 **Locked chapters still count** toward the totals and still appear in the voice audit. They are fixed points, not exclusions. **If an audit flags something inside one, report it and leave it alone.**
+
+---
+
+## CH20 — RECOVERED: THE LAST SESSION, drafted 2026-09-03
+
+**3,807 words against a 4,400 budget, 87%. All 111 beats present. ✅ LOCKED 2026-09-03. The book stands at 65,542 words across twenty chapters, 91% of budget. Two chapters left.**
+
+**The review found no structural defect, no confidence-level breach and no missing beat — the first chapter in Act III to come through clean on all three.** Two local fixes: **an impossible timestamp** on the folder, since Marin enters at twenty past four and it was described as one she had brought in *an hour ago*; and ***recorded*** colliding with the chapter's own meaning of the word, because the chapter establishes *record* as a physical artifact upstairs and then says no recording was running. Now ***noted***.
+
+### ⚠️ RULED 2026-09-03: THE NAME STAYS OFF THE PAGE. DO NOT QUOTE IT, EVER.
+
+**The reasoning, recorded so no later pass reopens it:** withholding it preserves the distinction that **Marin says her sister’s name and does not address the entity**, and lets the reader supply the word **without the prose collapsing those two meanings.** It also fits the chapter’s documentary logic: **the one word absent from every form is absent from the page too.** Quoting would be more immediately dramatic and **less exact, and exactness matters more here.**
+
+**The original note:**
+
+*"Somewhere in it she said her sister's name… She said it once."* **The word is not on the page.** Quoting it would put the entity's name in the reader's ear at the moment of consumption, which is powerful, **and also risks implying Marin is addressing the thing in the room.** She is not confused about what is in there and the prose must not let anyone think she is. Withholding it is this book's usual method and the reader supplies it. **One-word change either way.**
+
+### The first draft was 74%, under the incompleteness threshold, with every beat present
+
+**Seventh chapter running on that pattern, and the brief made it worse by specifying that the chapter must not hurry.** The five consequences added:
+
+1. **The seven weeks.** She turned down the consolidation post **in a letter of four lines**, and has been driving out to sit in the lot most days. ***"Twice she had gone as far as the north door and turned around, and both times she had recorded it, with the duration, because a decision you back out of twice is data about the decision."***
+2. **The colleagues.** Feld to the northern site, one message about a reference and one about a coat. **Terri to the small site inland, after asking whether there would be anything at all going at either, and she had been at that front desk for eleven years.** *"No one called her, and there was no unkindness in that."*
+3. **The reclassification, in the record, with the gate holding.** *"The paperwork had said what was true, and she had also known exactly what the true version would do, and both of those are in the record, in that order, **without a conjunction between them that would tell a reader how to feel about it.**"*
+4. **⚠️ WHAT IT ACTUALLY DID, which is the chapter's best new material.** *"In the eleventh month it began giving back."* Her material goes in and **something of her sister's comes back, matched to it, in the position where an answer goes.** ***"It was not an answer. She wrote that down four times in four different sets of words, because it was the sentence a reader would most want her to get wrong."***
+5. **The two columns.** Left one longer than expected: four entries, every one a person, **three of them dead**, put in anyway because *"a column you curate is not a column."* Right one had three, and **the third was the record, which did not exist yet** — so she wrote it, and finishing it took the column to two.
+
+### The mechanism is the state model used exactly
+
+**A third entry on the exclusion list**, under the same reason code for material held without an owner, on an interface that *"does not ask what kind of person is behind the number."* Then the session **both ways**: *"It is two fields, and there is no special mode and no warning attached to it… She put herself in both fields."* **She cannot come back up because integrated material cannot be flushed, and she knows it because she wrote the paragraph, on the page before the one about the exclusion list.**
+
+### Two payoffs worth protecting
+
+- **The Ch4 corridor light.** Specified even end to end because *"people walking somewhere frightening should not have to walk through a shadow to get there, and it costs four more fittings,"* **and she made that argument herself.** On standby it runs dark nine feet per span. ***"She went the whole length of it anyway."***
+- **Pell is why her consent is informed.** She read the shift log, understood in four seconds, and *"had spent nineteen months teaching it what to reach for."*
+
+### She is happy and the prose does not undercut it
+
+The findings stay correct to the end: sequence right, no pain and no prospect of it, **gentle with nothing attached to the word because whatever would have made it ironic had already gone**, and the correctness *"a specification and not a coincidence and not a mercy."* Then ***"she recorded that she was happy, and it was true, and it was the last finding she made."***
+
+**The closing movement has no interiority in it**, which keeps the POV rule intact after there is no POV left. **No flush, because a flush is a return and there was no longer anywhere for anything to be returned to.** ***"The building had one fewer person in it."***
+
+**No violence, no body, no screaming: verified by screen.**
 
 ---
 

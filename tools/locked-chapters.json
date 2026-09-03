@@ -74,5 +74,9 @@
   "19-almost.md": {
     "sha256": "b57196897d0b082ba3a8df29e704b4ced9487084a3cc6f7b26d7ac365ca07826",
     "words": 3727
+  },
+  "20-the-last-session.md": {
+    "sha256": "a62eeb583242bca2d105e5dab1af848a94543740590428fdf362e3957a0636dc",
+    "words": 3807
   }
 }
