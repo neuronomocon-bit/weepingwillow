@@ -1369,7 +1369,7 @@ She stays on the line anyway. **She does not know why she stays on the line, and
 
 **⚠️ PROTECTED BY NAME — do not let a later pass touch any of these:** the Halloway/operator-identifier linkage and the surname written on the back of the reconciliation card · *"The loads went on being logged for about four months. Then they stopped. / The draw did not."* · the refusal to date the change or assign intent · Pell moved from the wall to the table · the blank session type · the paired consent/case-note descriptions · the cold-coffee check · the three models and *"what she remembered of it was held by the version doing the remembering"* · *"Subject was laughing"* as Lena's hinge · Kade's *"I moved her twice"* · Iris's *"I don't have one"* · **Kade's *"She was going down there to sit with her sister"* and Iris's *"That is not in the record"*** · the mundane roof-sheet conversation after the distress · and the final ***"You want me to stay on?" / "Yes," Iris said.*** **The author's instruction on the last one: do not interpret it afterward.** Whether it is desire, procedure, modeled behavior, or something the available categories cannot separate stays open.
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,955 words against a 3,600 budget. All 42 beats present, plus the five review calibrations. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,955 words against a 3,600 budget. All 42 beats present, plus the five review calibrations. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ ON THE LENGTH.** The draft was 3,617 and the review's five calibrations took it to 3,955, which is 110% of budget and the first chapter in the book to run over. **It was compressed back by about 160 words at the sentence and not by removing anything**, per the rule that says compress and do not amputate. The two available ways to reach 3,600 were cutting the calibration, which would undo the review, or cutting a beat, which the rules forbid outright. **The number is reported rather than met.**
 
@@ -1482,7 +1482,7 @@ She changes the integration limiter. She widens the autonomy constraint enough t
 
 **PROTECTED BY NAME, per the author:** the index/viewer/substrate progression · *"She wanted to see it run."* · *"At least ninety-four."* · **finding herself in the map and the eleven things leaning on it** · the note she would have written if this had been anyone · the reconciliation trail · Terri's four lines and the six-hours/five-in-October answer · **Virek's category request and *"a field that cannot describe what is happening in a building is a field that needs changing"*** · the moved meeting and *"her week stopped having a shape she had decided on"* · the thinning building and the corridor stretch that comes up as she reaches it · *"Anyone in that building could have read the whole of it in about nine minutes."* · the ordinary afternoon and *"Fine," Marin said.* · the returning hunger · **ninety-three point one** · and **the final stopped recording, after which nothing may be added.**
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,032 words against a 3,400 budget, 89%. All 53 beats present. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,032 words against a 3,400 budget, 89%. All 53 beats present. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ EVERY STEP IS A SUPPORTED, DOCUMENTED OPERATION, AND THAT IS THE WHOLE CHAPTER.** The two parameter changes are the ones `02-characters.md` specifies and they are not hacks: **one research identifier added to the integration limiter's exclusion list, which the limiter has supported for six years and which is in the documentation on the page after the flush; and the autonomy constraint moved from two to four, a documented value that two of the other sites have run for years.** Marin uses two features exactly as designed. **Nothing she does endangers a patient, because the exclusion list is per identifier and the clinical configuration is untouched.** The gate holds because there is no rule to break.
 
@@ -1563,7 +1563,7 @@ Book 1 Ch9's flattening city is now a dying one. The city's arc across the serie
 
 **PROTECTED BY NAME, per the author:** Lila's single-line death and *"Warned one. No change to outcome."* · the thirty-hour null and what a null is worth · Kade's offer and *"Names and dates only"* · **Iris inside her own range** · the well-run meeting and *"He said that was fair and sat down"* · **Rourke's contraction-free public register and *"She said we do not know three times, and each time she said what would be done about not knowing"*** · *"The room believed her. Iris watched about ninety people put something down."* · the three witness reports and *"They agree about the coat"* · *"That's what I'd say if anyone asked me. It's also true."* · *"I notice I said it out loud just now to a room with two people in it."* · **"harm with better ventilation"** · *"that good and that useless in the same afternoon"* · **"Something else had been wanted"** · and the final ***"Go home. I'll send the rest of the room out in batches."***
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,577 words against a 3,800 budget, 94%. All 64 beats present. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,577 words against a 3,800 budget, 94%. All 64 beats present. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THREE OF THIS CHAPTER'S LOAD-BEARING BEATS CAME FROM `10-subplot-threading.md` AND APPEAR IN NO BRIEF.** The pre-drafting grep is now worth its cost twice over. They are: **nine deaths in eleven days** (the number the whole chapter is built on); *"a probable environmental factor, an advisory, a number to call, and a request not to speculate"*; and **three witnesses who contradict each other**, approaching in the open, daylight, occupied places. **Grep that file before every remaining chapter.**
 
@@ -1662,7 +1662,7 @@ Virek does not appear in Book 2. Book 3 needs him, because **he is the only livi
 3. *"had not been anywhere since"* exceeded the search. **Now: *"had not appeared anywhere she could reach since."***
 4. *"the only occasion in six years when Meridian looked"* claimed completeness a damaged archive cannot support. **Now: *"the only occasion Iris could find."***
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,727 words against a 3,600 budget, 104%. All 92 beats present. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,727 words against a 3,600 budget, 104%. All 92 beats present. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THE BRIEF AND `10-subplot-threading.md` CONTRADICTED EACH OTHER AND THE RESOLUTION IS THE CHAPTER'S BEST BEAT.** This brief says **no sighting and no eye contact.** The subplot file says **"Looks at Iris and defers."** Both are now satisfied, because **the encounter is rendered as an instrument reading and not as a sighting.** Iris sits on the bench where it stood five days earlier, runs the check, and the reading **arrives already at a level instead of climbing**, holds, and comes down on its own schedule. **She never sees anything.** Then: *"she sat on the bench with the card in her hand and knew, with a completeness she had no instrument for, that she had been looked at and set aside."*
 
@@ -1841,7 +1841,7 @@ Marin's record also contains the deviation, documented, which means **Iris now k
 
 **The author on length:** at 3,203 the chapter already felt complete rather than underbuilt, and **no material was to be added merely to approach budget.** The revision added 369 words and all of it was the three fixes.
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,572 words against a 3,600 budget, 99%. All 81 beats present, all four negative gates clean. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,572 words against a 3,600 budget, 99%. All 81 beats present, all four negative gates clean. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THE FOUR NEGATIVE GATES WERE SCREENED AND ALL PASS**, because this chapter's whole job is what it does not do: **the entity is never named on the page · Lena is never connected to danger, in any wording · no warn-or-risk language appears anywhere · and there is no almost-had-it phrasing.** The subplot file requires that Iris never consider Lena to be in danger, and the prose does not mark the not-considering either, because marking it would be naming the absence.
 
@@ -1954,7 +1954,7 @@ Willow's face reaches **specific** and stays there for the rest of the series. T
 
 **The author on length:** the chapter *"earns its 85%"* and does not read thin, and **the book being 360 words over target is immaterial. Do not cut for the total.**
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,228 words against a 3,800 budget, 85%. All beats present, every negative gate clean. ⏳ Not locked; awaiting the author's word on the revision.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,228 words against a 3,800 budget, 85%. All beats present, every negative gate clean. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THE NEGATIVE GATES WERE SCREENED FIRST, BECAUSE THIS CHAPTER IS MOSTLY MADE OF THEM, AND ALL OF THEM PASS.** **No appetite language anywhere in the chapter, coda included** · **no word in the coda naming the feeling** (no anger, no frustration, no want, no denial) · **the entity is never named on the page and neither is Lena, in any wording** · **no character theorizes about why it failed**, and the narration does not either · **Iris never recognizes the face** · no em dash, no exclamation, no straight quote, no *-body* form in narration.
 

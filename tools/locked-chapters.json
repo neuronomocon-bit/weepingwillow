@@ -82,5 +82,9 @@
   "21-why-lena.md": {
     "sha256": "2a45f626a55096575b5b14a895cf0fe55ee7da4f15a077cc93686d49389ff013",
     "words": 3572
+  },
+  "22-the-second-visit.md": {
+    "sha256": "37108507225cf3e7d6d14428e4a02f9e8f391cbb786e89f9a89cd0ece6ffaf2d",
+    "words": 3228
   }
 }

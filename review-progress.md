@@ -86,7 +86,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 19 | Almost | Iris | 3,600 | **REVISED 3,727** | ✅ **LOCKED 2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | Marin | 4,400 | **REVISED 3,807** | ✅ **LOCKED 2026-09-03** |
 | 21 | Why Lena | Iris | 3,600 | **REVISED 3,572** | ✅ **LOCKED 2026-09-03** |
-| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | **REVISED 3,228** | ⏳ reviewed 2026-09-03, revised, awaiting lock |
+| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | **REVISED 3,228** | ✅ **LOCKED 2026-09-03** |
 
 Legend: `—` not started · `WIP` in progress · `DONE` complete · **`LOCKED` reviewed and approved by the author — see LOCKED CHAPTERS below**
 
@@ -295,7 +295,8 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 19 | Almost | 3,727 | **2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | 3,807 | **2026-09-03** |
 | 21 | Why Lena | 3,572 | **2026-09-03** |
-| | **ALL TWENTY-ONE LOCKED — THROUGH CH21** | **69,114** | |
+| 22 | The Second Visit (ENDING) | 3,228 | **2026-09-03** |
+| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,342** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
@@ -309,7 +310,13 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 ## CH22 — THE SECOND VISIT (2026-09-03): DRAFTED, AWAITING REVIEW
 
-**Drafted at 3,246, reviewed by the author the same day, revised to 3,228 against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. Not locked. The book stands at 72,342 words across twenty-two chapters, 91% of budget. ⚠️ BOOK 2 IS DRAFTED END TO END.**
+**Drafted at 3,246, reviewed by the author the same day, revised to 3,228 against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. ✅ LOCKED 2026-09-03.**
+
+# ⚠️ BOOK 2 IS COMPLETE IN DRAFT. ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED AND LOCKED AT 72,342 WORDS.
+
+**Every chapter has an AUTHOR'S REVIEW PASS block in its brief and a row in the REVIEW LEDGER. `python tools/verify-record.py` reports no gap and no broken lock.** The whole manuscript is now closed to editing except under the four standing-permission conditions.
+
+**What remains is the five editing passes**, run across the book rather than per chapter, and then the 22 Book 3 briefs.
 
 ### ⚠️ THE REVIEW FOUND ONE STRUCTURAL DEFECT, AND IT WAS ABOUT WHERE THE BOOK ENDS
 
