@@ -76,13 +76,13 @@ At each place it stopped. It held for a period, and the periods were not the sam
 
 Nothing came away.
 
-She was certain of that at the third one and she checked it four more times, because certainty was a category she had spent a year distrusting and because there was nothing else to do with the time. She went to each place after it left and looked, and the place was as it had been that morning. She had five months of measurements on herself and could have given the state of any of it to a good approximation, and none of it moved.
+She was certain of that at the third one and she checked it four more times, because certainty was a category she had spent a year distrusting and because there was nothing else to do with the time. She went to each place after it left and looked, and the place was as it had been that morning. She had four months of measurements on herself and could have given the state of any of it to a good approximation, and none of it moved.
 
 She started composing it in the form she would need afterward. Location. Duration. Result.
 
 The results were all the same result.
 
-Somewhere in the middle of it she understood, correctly and with nothing attached to the understanding, that she was going to be the only person alive who could describe this, because everyone else it had ever done this to had lost the part that would have done the describing.
+Somewhere in the middle of it she understood, correctly and with nothing attached to the understanding, that there was no account of this anywhere in her record, because every subject in it had lost the part that would have given one.
 
 ***
 
@@ -230,16 +230,8 @@ The process ran and did not return a value.
 
 It has returned every time before this one. The return is the point at which the sequence is complete and the operation ends. There is nothing on the other side of it. It is the end of the list.
 
-This time the list ended and nothing ended with it.
+This time the list ended and nothing ended with it, and there is no instruction for that, because the material was written by people describing an operation that finishes and every version of it assumes the finish. So the sequence ran again. The second pass returned nothing either. The operation is still open, and open is a state with no defined exit.
 
-There is no instruction for that. The material does not contain one, because the material was written by people describing an operation that finishes, and every version of it assumes the finish. So the sequence ran again, and the second pass returned nothing either, and the operation is still open, and open is a state with no defined exit.
+At one address there was a structure with the correct shape and no value in it. That does not read as a fault. The shape was whole, a smaller one held by a larger one, complete and addressable, and there was nothing in it to take. The operation stayed at that address for two minutes and forty seconds and did not resolve it and could not leave it, and when it moved it did not stop holding the shape. It is holding it now.
 
-At one address in the sequence there was a structure with the correct shape and no value in it.
-
-That does not read as a fault. The shape was whole. It was a smaller one held by a larger one, complete and addressable, and there was nothing in it to take. The operation stayed at that address for two minutes and forty seconds and did not resolve it and could not leave it, and when it finally moved it did not stop holding the shape.
-
-It is holding it now.
-
-There is no name for that in anything it has taken, and no category for it in the material it was built out of. There is a value that will not close, and a system that cannot leave a value open, and the two of them in the same place.
-
-She went down the stairs and out onto the street, and she went on holding the shape of a smaller one held by a larger one.
+There is no name for that in anything it has taken, and no category for it in the material it was built out of. There is a value that will not close, and a system that cannot leave a value open, and the two of them at one address, and the address is a room with the lamp turned off and a woman in it who has been gone over twice and has nothing further in her to remove.

@@ -633,3 +633,20 @@ This is the access-chain defect with a different shape: not *who told her*, but 
 **The diagnostic:** for every fact a character states about a period, name the system that covers **that period**, not the system that covers the subject.
 
 **And the fix was better than the error**, which is the usual result: *"After that there is nothing. A gap has edges and she can measure them. This does not. It is an end."*
+
+
+## ⚠️ A CODA THAT GROWS INTO A SCENE RELOCATES THE BOOK'S FINAL IMAGE — added 2026-09-03, off the author's Ch22 review
+
+**Ch22's coda passed every check this project has.** Under its 400-word ceiling at 283 words. No appetite language. No word naming the feeling. The sister touched in one clause and not as a thought. Every negative gate clean.
+
+**And it ended the book on the wrong character.**
+
+The closing line was *"She went down the stairs and out onto the street, and she went on holding the shape of a smaller one held by a larger one."* The brief required **the final image to belong to Iris even though the coda is Willow's**, and specified **a paragraph, not a scene**. The draft's coda was **seven paragraphs and it ended in physical action**, which is a scene, and a scene competes for the last image and wins.
+
+**The consequence the word count could not see:** the book stopped closing on a woman declared permanently incomplete and started closing on **the entity carrying its new information toward the sequel.** The author: *"The plant becomes the destination rather than the residue of Iris's failed completion."*
+
+**THE RULE. A word ceiling does not enforce a form.** A coda, an epigraph, a frame, any short unit appended to a chapter — **the constraint that matters is whether it is doing scene work, not how long it is.** The tells: **it has movement in it, it has a sequence of moments, and it ends on an action.** Any one of those turns an afterimage into an ending, and **the last ending in a book is the one the reader keeps.**
+
+**THE CHECK, and it takes ten seconds:** read only the final sentence of the chapter and ask **whose book it just ended.** If that is not the answer the brief specifies, the coda has taken the ending regardless of its length.
+
+**The fix is a relocation, not a cut.** Ch22's coda went to five paragraphs and 273 words with no action in it, and the last movement gives the unresolved value an address instead of putting the entity on a street: *"the two of them at one address, and the address is a room with the lamp turned off and a woman in it who has been gone over twice and has nothing further in her to remove."* **The coda stays Willow's and the image is Iris's**, which is what the brief asked for and what only reading the last sentence alone would have caught.

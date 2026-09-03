@@ -144,11 +144,13 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ✅ CH1 TO CH21 LOCKED (69,114). **⏳ CH22 “THE SECOND VISIT” DRAFTED (3,246). BOOK 2 IS DRAFTED END TO END AT 72,360.**
+# ✅ CH1 TO CH21 LOCKED (69,114). **⏳ CH22 “THE SECOND VISIT” DRAFTED, REVIEWED AND REVISED (3,228). BOOK 2 IS DRAFTED END TO END AT 72,342.**
 
-**⚠️ THE BOOK IS DRAFTED AND IT LANDS AT 72,360**, against a 68,000–72,000 target. **It is 360 words over the top of the range and that is the correct outcome, not a problem to trim.** The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
+**⚠️ THE BOOK IS DRAFTED AND IT LANDS AT 72,342**, against a 68,000–72,000 target. **It is 342 words over the top of the range and the author has ruled that immaterial: do not cut for the total.** The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
 
-Ch15 through Ch21 were all locked 2026-09-03 on the author's word. **Ch22 was drafted the same day and is the one chapter that is drafted and unlocked. It has not been author-reviewed.**
+Ch15 through Ch21 were all locked 2026-09-03 on the author's word. **Ch22 was drafted, author-reviewed and revised the same day. It is the one chapter that is finished and unlocked, and it needs the author's word to lock.**
+
+**⚠️ THE CH22 REVIEW FOUND A CLASS NOTHING ELSE IN THIS PROJECT WATCHES: A CODA THAT GROWS INTO A SCENE RELOCATES THE BOOK'S FINAL IMAGE.** The coda was inside its word ceiling and every negative gate passed, **and it still ended the book on the wrong character**, because seven paragraphs closing on physical action is a scene and a scene competes for the last image. **The ceiling was never the constraint. The form was.** See `14-audit-method.md`.
 
 **⚠️ CH22 IS THE LAST CHAPTER AND IT IS MOSTLY MADE OF NEGATIVE GATES.** No appetite language anywhere including the coda · no word in the coda naming the feeling · the entity never named on the page and neither is Lena · no character theorizes about why the procedure failed, and the narration does not either · Iris never recognizes the face. **All five screened clean. Any later edit to this chapter has to re-screen all five.**
 
@@ -246,8 +248,8 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 | 19 | Almost | 3,727 | 3,600 | -127 | **LOCKED 2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | 3,807 | 4,400 | 593 | **LOCKED 2026-09-03** |
 | 21 | Why Lena | 3,572 | 3,600 | 28 | **LOCKED 2026-09-03** |
-| 22 | The Second Visit (ENDING) | 3,246 | 3,800 | 554 | ⏳ **DRAFTED 2026-09-03, awaiting review** |
-| | **THROUGH CH22 — THE WHOLE BOOK** | **72,360** | **79,800** | **7,440** | 91% of budget |
+| 22 | The Second Visit (ENDING) | 3,228 | 3,800 | 572 | ⏳ **REVIEWED AND REVISED 2026-09-03, awaiting lock** |
+| | **THROUGH CH22 — THE WHOLE BOOK** | **72,342** | **79,800** | **7,458** | 91% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
