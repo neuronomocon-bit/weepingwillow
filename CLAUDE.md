@@ -98,7 +98,7 @@ Everything Book 1 is now lives in **`book1-published/`** — the chapters, the d
 
 ## Book 2 — "The Ending" (SEQUEL)
 
-**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACTS I AND II ARE DRAFTED AND REVIEWED. Ch1 through Ch15 are locked, 47,444 words, in `chapters-book2/`. Act III opens at Ch16 — The Name; no pending drafts remain.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
+**Status:** Outline rebuilt 2026-08-26 in `series-bible/06-book2-outline.md`. **All 22 chapter briefs written 2026-08-26** in `series-bible/08-book2-chapter-briefs.md`. **ACTS I AND II ARE CLOSED AND ACT III IS RUNNING. Ch1 through Ch17 are drafted, reviewed, revised and LOCKED at 54,431 words. Ch18 "Escalation" is locked too. Total 58,008 across eighteen chapters. Nothing is drafted and unlocked.** Per-chapter status in `review-progress.md`. Chapters are drafted straight into `chapters-book2/` and proofread in place.
 
 **Premise:** Weeks after The Absence. Taken people start dying — not killed, exactly. They stop eating, they walk into traffic, they do not seek treatment, because nothing in them objects to anything anymore. Kade opens the post-shutdown Meridian files and Iris does the only thing she has ever been good at: she recovers the data. What comes off the drives is Dr. Marin Halloway, her therapeutic memory editing program, and her younger sister.
 
@@ -142,13 +142,43 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ✅ CH1 TO CH15 ARE REVIEWED, REVISED AND LOCKED. 47,444 words. **ACT II IS CLOSED.**
+# ✅ CH1 TO CH18 ARE REVIEWED, REVISED AND LOCKED. 58,008 words. **FOUR CHAPTERS LEFT: Ch19 to Ch22.**
 
-Ch15 was locked 2026-09-03 on the author's word. Nothing is drafted and unlocked.
+Ch15 through Ch18 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch19 — Almost is the next chapter to draft.**
 
-**The author reviewed all ten drafted chapters and every one has been revised and closed.** They are hash-locked in `tools/locked-chapters.json` and **must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
+**⚠️ TWO REVIEWS IN A ROW FOUND THE SAME CLASS: A DOMAIN TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Ch17 was the substrate; Ch18 was the epidemiology. **See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT.** The check: take every domain term in the chapter, ask what it would have to be true of, **and ask whether the character saying it would accept that usage from a junior.**
 
-**⚠️ Ch16 inherits five sessions of author reviews. Read `14-audit-method.md` end to end before drafting — it gained six findings this session, and three of them are about the checks rather than the prose.**
+**⚠️ Three of Ch18's beats came from `10-subplot-threading.md` and appear in no brief**, including the death count. **Grep that file too, from now on.** It carries: nine deaths in eleven days · a probable environmental factor, an advisory, a number to call, a request not to speculate · **three witnesses who contradict each other** · and Rourke reading a statement she stopped believing in Ch12.
+
+**⚠️ Ch17 is the deviation, and the thing to check in review is that nothing in it is a rule being broken.** Both parameter changes are documented features used as designed: one identifier onto the limiter's **exclusion list**, which is per identifier and six years old, and autonomy **two to four**, a documented value two other sites already run. **The clinical configuration is untouched and no patient is exposed.** Neither goes into change control because change control covers the clinical configuration, and that is scope rather than judgment. **The gate holds because there is no rule to break.**
+
+**Ch1 to Ch16 are hash-locked in `tools/locked-chapters.json` and must not be edited** — not for a typo, not to apply a later rule, and above all not as part of a sweep across all chapters. `python tools/verify-record.py` reports if one moves.
+
+### ⚠️ THE CH16 REVIEW FOUND A NEW DEFECT CLASS AND IT IS THE MOST IMPORTANT THING IN THIS FILE FOR ACT III
+
+**No continuity error. No arithmetic error. No missing beat. Five conclusions stated above their evidence.** Full write-up in `14-audit-method.md` → THE CONFIDENCE-LEVEL DEFECT. The author's governing note:
+
+> *Iris must apply to her own origin theory the same rule she applies to Kade — do not build the missing part out of nothing, even when the conclusion is ultimately correct.*
+
+**The chapter has her refuse, out loud, to invent Marin's motive for Kade, and then breaks that standard four times within a thousand words of the refusal.** So the diagnostic, and it is cheap: **when a character states an epistemic rule out loud, grep the same chapter for the sentences that break it.**
+
+The five sub-classes, in the order they will bite again:
+
+1. **Absence of a recoverable trace stated as absence of the thing.** *"produced nothing"* off a search that only establishes nothing was filed. **Structural in this book, because Iris reads a damaged archive: every negative finding she reaches is a finding about the record.**
+2. **One observation proving two independent propositions.** Unattended draw contradicts the autonomy constraint and is silent on the integration limiter. **Cover one and ask whether the evidence still reaches the other.**
+3. **A universal exclusion where an expert judgment was available.** *"A metering fault does not…"* is false as stated. Name the fault modes, put it low, say low is not zero.
+4. **Parallel description taken for identity of mechanism.** Two accounts of one transformation are evidence, not proof the two things are one thing. **Fix by writing the objection first, never by weakening the finding.**
+5. **An exclusivity claim about people the chapter has not accounted for.** *"the only living person who knew"* needed Marin's status, which is Ch20. **Softeners do not fix this; the claim came out and nothing was lost.**
+
+### And three earlier catches from the drafting checks, same session
+
+Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. **Before writing *"nothing in X ever…"* or handing a character a document, grep the locked chapters for what they already say about X.**
+
+1. **A general claim contradicting an incidental detail in a locked chapter.** A draft said the program never went back to a finished patient. **Locked Ch5 says *"People who came back a year later."***
+2. **A claim about a stretch the character has already said she cannot read.** *"Eighteen months of small work"* against locked Ch7's *"I cannot read the eighteen months at all."* **An established ignorance is an access-chain fact and decays the same way.**
+3. **A document handed to her from outside the archive she holds.** Locked Ch7 puts the substrate operational archive at **two years**, so Ch8's shelf log entry at Year −5.8 is outside it. A first draft used it.
+
+**And the corollary to the NUMBERS rule: one figure per rendering.** A draft had *"five months"* naming two different intervals in one chapter. Both were arithmetically correct.
 
 ### What the ten reviews actually found
 
@@ -193,7 +223,13 @@ Ch15 was locked 2026-09-03 on the author's word. Nothing is drafted and unlocked
 | 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
 | 14 | Open Jobs | 3,298 | 3,600 | 302 | **LOCKED 2026-09-02** |
 | 15 | **RECOVERED: The Map** (ACT II TURN) | 2,883 | 3,800 | 917 | **LOCKED 2026-09-03** |
-| | **THROUGH CH15** | **47,444** | **53,600** | **6,156** | 89% of budget |
+| | **ACTS I AND II** | **47,444** | **53,600** | **6,156** | 89% of budget |
+| 16 | **The Name** (ACT III OPENS) | 3,955 | 3,600 | -355 | **LOCKED 2026-09-03** |
+| 17 | **RECOVERED: The Limiter** | 3,032 | 3,400 | 368 | **LOCKED 2026-09-03** |
+| 18 | Escalation | 3,577 | 3,800 | 223 | **LOCKED 2026-09-03** |
+| | **THROUGH CH18** | **58,008** | **64,400** | **6,392** | 90% of budget |
+
+**⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
 ### The three decisions, ruled by the author 2026-09-02
 
@@ -289,11 +325,16 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 ### Next work, in priority order
 
 1. ~~**LOCK CH15 FIRST.**~~ **DONE 2026-09-03.**
-2. **Ch16 — The Name.** Act III opens. **Do all three of these before drafting**, because each one caught something in the last two chapters:
-   - Read the Ch16 brief **and grep `11-key-dialogue-notes.md` for every chapter that refers back to Ch16.** Ch14's largest obligation was recorded only in **Ch22's** note.
-   - Read the **prose** of the chapters that introduced anything Ch16 reuses, not their briefs. Ch15's largest payoff was a line of **Ch4 dialogue** that no brief mentions.
-   - Run `node tools/voice-audit.js --per-ch` and `python tools/verify-record.py`, **and read all of the output, including the FAIL block.**
-3. **Ch17 to Ch22.** Ch17 is the deviation (RECOVERED: The Limiter), Ch20 is Marin's consumption and the longest chapter, Ch21 is Why Lena, Ch22 is the third refusal and pays off Ch14's four option cards.
+2. ~~**Ch16 — The Name.**~~ **LOCKED 2026-09-03 at 3,955 words**, all 42 beats plus five review calibrations. Its AUTHOR'S REVIEW PASS and "As Written" blocks are in the briefs; the record is in `review-progress.md`.
+3. ~~**Ch17 — RECOVERED: The Limiter.**~~ **DRAFTED, REVIEWED AND REVISED 2026-09-03, 3,032 words, all 53 beats. ⏳ NEEDS THE AUTHOR'S WORD TO LOCK.**
+
+   **⚠️ Before Ch20, read `01-world.md` → THE SUBSTRATE STATE MODEL.** The Ch17 review found two technical contradictions and both came from a fuzzy account of the limiter. **The limiter governs attribution, not operation:** treatment works patient structures with it active, and a draft that says otherwise puts six years of therapy on the wrong side of the safeguard. The table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17 and **it governs Ch20.**
+4. ~~**Ch18 — Escalation.**~~ **LOCKED 2026-09-03 at 3,577 words**, all 64 beats.
+5. **Ch19 to Ch22.** Ch20 is Marin's consumption and the longest chapter, Ch21 is Why Lena, Ch22 is the third refusal and pays off Ch14's four option cards. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
+   - Read the brief **and grep both bible files for every chapter that refers back to the one being drafted.** The Ch17 grep produced the two parameter changes, which are in `02-characters.md` and in no brief.
+   - Read the **prose** of the chapters that introduced anything it reuses, not their briefs. Ch16's two best beats and Ch17's whole ending were locked prose no brief mentions.
+   - **⚠️ Pull every interval a locked chapter states about the period the new chapter covers and compute the dates they force.** Locked Ch16 moved Ch17's deviation from February to March. **Those are constraints, not context.**
+   - Run `node tools/voice-audit.js --per-ch`, `node tools/number-check.js --calendar`, and `python tools/verify-record.py`, **and read all of the output, including the FAIL block.**
 
 **✅ Ch15 is locked (2026-09-03). It sits at 76% of budget, the lowest of any chapter, with all 29 beats present** — the first draft was 43% and five *consequences* were missing rather than beats. **Two facts it sets are load-bearing for Act III:** the research-archive access log now has two lines in it and **no one reads the log**, which is the mechanism the deviation runs through; and **the withdrawal route Marin did not take exists, is one side of A4, and she approved its wording.**
 
@@ -332,7 +373,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ ALL FIFTEEN DRAFTED CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15 2026-09-03). 47,444 words.** Ch1 to Ch15 are closed to editing.
+**✅ EIGHTEEN CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch18 2026-09-03). 58,008 words.** Ch1 to Ch18 are closed to editing.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

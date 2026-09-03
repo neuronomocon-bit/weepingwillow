@@ -19,7 +19,12 @@ Sections are in **publication order**: The Absence (B1), Book 2, The Silence (B3
 - Lena speaks with warmth that diminishes across the series. The reader should feel the temperature dropping.
 - **Marin Halloway** speaks like a clinician about everything, including her sister, including her grief. That is the tell. She reaches for procedure when she is in pain, and **the prose should never point this out.**
 - **Willow Halloway** is the only character in the series who talks like someone with nothing wrong with her. Protect that. It is the baseline everything else is measured against.
-- **Punctuation convention.** Full-sentence questions take question marks for all characters, including flat-affect ones. Short tonal probes keep periods: "How." / "Why." / "Where." Dialogue tags use "said," not "asked," for flat-affect characters. In Book 2, Iris is flat in every present-day chapter; Kade, Lena, and Rourke are warm; Marin and pre-treatment Willow Halloway are intact and normal; post-treatment Willow Halloway is flat.
+- **⚠️ Punctuation convention — CORRECTED 2026-09-03. This line was stale and had been wrong since 2026-09-02.** It read *"Full-sentence questions take question marks for all characters, including flat-affect ones."* **That is not what the book does and has not been since Ch1.** `review-progress.md` recorded the correction on 2026-09-02 and **this file was never updated**, so the two records disagreed for a day. The rule actually in force, measured off sixteen drafted chapters:
+  - **Flat-affect characters take periods on questions, full-sentence or not.** Iris throughout the present thread, and post-treatment Willow Halloway: *"Do you see it." "Where are you." "What time was the first." "When did you last see him before this morning."*
+  - **Warm characters take question marks, including on short ones.** Lena, Kade, Rourke, Marin, pre-treatment Willow Halloway: *"How are you sleeping?" "Is it going to change me?" "Who are you with?" "One what?" "What was she doing down there?"*
+  - **Short tonal probes may keep periods in any mouth:** "How." / "Why." / "Where." A line the prose explicitly marks as not a question keeps its period — Ch16's *"Which came off a pallet I put in there."* is followed by *"He was not asking."*
+  - Dialogue tags use "said," not "asked," for flat-affect characters.
+  - In Book 2, Iris is flat in every present-day chapter; Kade, Lena, and Rourke are warm; Marin and pre-treatment Willow Halloway are intact and normal; post-treatment Willow Halloway is flat.
 
 ---
 
@@ -300,12 +305,54 @@ The technicality is constructed while Marin is standing there, in about nine sec
 
 ---
 
+### B2 Ch16 — The Name
+*Written after drafting, because this file had no Ch16 entry and the chapter turned out to have one exchange the rest of Act III leans on.*
+
+**Almost no dialogue. One phone call at four in the morning and nothing else in the chapter.**
+
+**Iris leads with the disclaimer and it is not the banned self-annotation**, because it states the content and not the speech act: **"There is nothing in it you can act on. I want you to have that before the rest of it."** Then six minutes, flat, in order.
+
+**⚠️ THE CH12 MOVE IS RUN AGAIN AND IT FAILS, AND THAT IS THE POINT.** Twice before, Iris has handed Kade an accurate sentence that took the weight off him: the crates in Ch3, the site log in Ch12. Here she runs the same operation, on a man who has just worked out that the dead woman's map came off a pallet he loaded, **and it returns nothing.**
+
+> "I don't have one."
+> "One what?"
+> "The thing I said to you in the unit. There isn't one this time. I went and looked."
+
+**Do not let a later pass supply the missing sentence.** There is no version of it in which he did not carry her out of that building, because he did.
+
+**KADE SUPPLIES THE HUMAN WORD AND IRIS CANNOT.** He asks what the sister was doing down there for five months of nights. Iris answers with the log's fields, correctly, and he refuses the answer: *"That's not what I asked you."* Her refusal is the characterization: ***"I do not have it, and I am not going to build it for you out of nothing, because if I build it you will carry it around as though I found it."***
+
+Then he says it himself:
+
+> "She was going down there to sit with her sister," Kade said.
+> "That is not in the record."
+> "I know it's not in the record."
+
+**That is the closest anything in Book 2 comes to naming Marin's grief, and it is said by a man who never met her, off a log of file accesses, and immediately marked as unevidenced.** Nothing in the chapter confirms it.
+
+**His upset is audible and never described.** *"what came down the line after that was not words."* The phone goes down on a hard surface, she hears the room, he picks it back up and his breathing is in it. **No crying on the page, no adjective for it.**
+
+**THE ENDING IS HERS AND IT IS UNEXPLAINED.** He offers the exit by implication and she does not take it. He talks about the bay and the roof sheet because that is what he has. Then:
+
+> "You've been up all night," Kade said.
+> "Yes."
+> "You want me to stay on?"
+> "Yes," Iris said.
+
+**One word, and it is the only thing in the chapter she cannot account for. Nothing follows it.** Do not add a closing image, and do not let any line tell her why she stayed on.
+
+---
+
 ### B2 Ch17 — RECOVERED: The Limiter
 *The most important scene in the book. It should be almost boring.*
 
 **Tone:** Administrative.
 
-**No dialogue.** Marin is alone. There is no confidant, no argument with herself, no moment of hesitation rendered as drama.
+**⚠️ CLARIFIED 2026-09-03 at drafting, because this line and the Ch17 brief contradicted each other.** It read *"No dialogue. Marin is alone."* The brief and `02-characters.md` both require **Terri's car-in-the-lot exchange** in the first movement. The rule in force:
+
+- **The chapter has exactly one spoken exchange and it is Terri's**, four lines, in the first movement, with no suspicion in it. *"Your car beat me in again. That's three this week."* / *"Are you sleeping?"* / **"About six hours. It was five in October."** Marin's answer is true and complete and answers a different question than the one she was asked, and **the prose does not point that out.**
+- **Virek arrives as an email and never speaks.** He asks whether the controlled list needs a tenth session type, because a field that cannot describe what is happening in a building needs changing. **He is not suspicious and he is not wrong.** Marin agrees and sponsors the change request and it dies in a records backlog.
+- **From the March afternoon to the last line there is no dialogue at all.** Marin is alone for the deviation and everything after it. **No confidant, no argument with herself, no moment of hesitation rendered as drama.**
 
 **What the scene contains:** a technical justification that is genuinely coherent — the patient is deceased, there is no return path, integration is the only way to render at full fidelity, the sandbox is isolated — two parameter changes, and no documentation.
 

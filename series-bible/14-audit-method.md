@@ -421,3 +421,135 @@ Three British forms were in the prose and **all of them survived every check**: 
 ### The running figure
 
 **Ten chapters at 88% of budget, every one of them under, and not one short of a beat once it was checked.** That is what produced the retarget to 68,000–72,000 rather than a padding instruction.
+
+---
+
+## ⚠️ CHECKING A NEW CLAIM AGAINST OLD PROSE — added 2026-09-03, off the Ch16 drafting
+
+**Three defects were caught while drafting Ch16 and not one of them was findable by any screen this project has.** All three are the same shape from three directions: **a sentence that is true about the chapter being written and false about the book it is being written into.** They were caught only because the handoff's rule to read the *prose* of the chapters a new chapter reuses was followed before drafting.
+
+### 1. A general claim can contradict an incidental detail in a locked chapter
+
+The draft had *"Nothing in it went back to anyone"*, meaning the treatment program never returned to a patient it had finished with. It reads as an obvious fact about a clinical program and it is the exact contrast the chapter needs against an entity that does return.
+
+**Locked Ch5 says: *"People who stopped after two. People who came back a year later."***
+
+The claim was false, in the manuscript, in a chapter that had already shipped. **The frequency comparison cannot see it, the beat count cannot see it, and the number check cannot see it, because there is no number in it and it is a perfectly well-formed sentence.**
+
+**The rule: before writing any sentence of the form *"nothing in X ever…"* or *"everything in X was…"*, grep the locked chapters for what they already say about X.** A general claim about a body of material is a claim about every chapter that has described it. This is the inference-chain class from Ch14 turned outward: not a conclusion resting on too few cases, but **a conclusion resting on cases the book has already contradicted in passing.**
+
+### 2. A character can claim knowledge of a stretch she has already said she cannot read
+
+The draft had the entity escalating across *"eighteen months of small work"*. **Locked Ch7 has Iris saying, out loud, to Kade: *"it stops for eighteen months and I cannot read the eighteen months at all."***
+
+**This is the access-chain defect with the channel running backward.** The usual form is a character knowing something no sentence gave them. This form is a character knowing something a sentence explicitly took away, which is worse, because the removal was staged as a beat and the reader may remember it.
+
+**The rule: an established ignorance is an access-chain fact and it decays the same way.** When a chapter makes a point of what a character cannot see, that gap goes on the list with everything she can.
+
+### 3. A document can be handed to a character from outside the archive she actually holds
+
+The first draft gave Iris the substrate log entry Marin files in Ch8 — the shelf at zero point four, the exclusions, the director's account, the review threshold. It is the natural thing to reach for and the reader would never question it.
+
+**Locked Ch7 puts the substrate group's operational archive at *"two years"*.** Ch8 sits at Year −5.8 and the seal is at Year −3, so that entry is nearly three years outside what she has.
+
+**The rule: when a chapter hands a character a document, check the span and the condition of the archive that document sits in, not just whether the document exists.** Recovered material in this book comes off four distinct bodies with four different fates, and the drafting instinct treats them as one library. **The chapter was better without it**, because everything it now runs on came off media the locked chapters put in her hands.
+
+### And the corollary to the NUMBERS rule
+
+`03-themes-and-tone.md` says **one rendering per figure, locked on first use.** Ch16 needed the inverse stated as well.
+
+**One figure per rendering.** The draft used *"five months"* for the length of the read-only stretch and again, four paragraphs later, for how long the substrate loads went on being logged. **Both were arithmetically correct and they were different intervals wearing one phrase**, in a chapter whose entire method is a reader following dates. Changed to four months for the second. It also carried *"a little under eight months"* and *"Eight months"* for one interval, which is the original rule failing in the ordinary direction.
+
+**Both halves are cheap to check and only by reading the number-check column with the question *which one is this?* against every repeated phrase.**
+
+---
+
+## ⚠️ THE CONFIDENCE-LEVEL DEFECT — added 2026-09-03, off the author's Ch16 review
+
+**Ch16 carried no continuity error, no arithmetic error and no missing beat. Every one of the five findings in the author's review was the same thing: a conclusion stated at a higher confidence than the chapter's own evidence supports.**
+
+This is the fourth defect class this project has had to name, and it is the closest sibling to OVERCLAIMING, which was written up off Ch11. **The difference is worth keeping.** Overclaiming was individual sentences asserting more than they could carry. **This is the shape of a whole derivation**, where each step is defensible and the chain quietly gains certainty it never earned.
+
+### The diagnostic, and it is the useful part
+
+**When a character states an epistemic rule out loud, grep the same chapter for the sentences that break it.**
+
+Ch16 has Iris refuse, on the page, to tell Kade what Marin was doing in that basement:
+
+> *"I do not have it, and I am not going to build it for you out of nothing, because if I build it you will carry it around as though I found it."*
+
+**And within a thousand words on either side of that line the chapter said the reads *"produced nothing"*, that both safeguards had failed, that there was *"nothing else in it to run"*, and that she was *"the only living person"* who knew.** The author's summary is the rule: *Iris must apply to her own origin theory the same rule she applies to Kade.*
+
+**A character who is given a scene of epistemic scruple becomes a standard the rest of the chapter is measured against.** That is a good thing to write and it is expensive, because it makes every unearned claim elsewhere in the chapter visible to a careful reader.
+
+### The five sub-classes, in the order they will bite again
+
+1. **⚠️ ABSENCE OF RECOVERABLE EVIDENCE STATED AS ABSENCE OF THE THING.** *"None of them had produced anything"* off a search that establishes only that nothing was filed. **This book is about a woman reading a damaged archive, so this one is structural, not incidental.** Every negative finding she reaches is a negative finding *about the record*. The fix is always the same and always short: name what the search covered. `produced no downstream trace`.
+2. **⚠️ ONE OBSERVATION PROVING TWO INDEPENDENT PROPOSITIONS.** Nineteen months of unattended load contradicts the autonomy constraint and says nothing about the integration limiter. The draft failed both off one measurement. **The test: when a conclusion names two things, cover one and ask whether the evidence still reaches the other.**
+3. **A UNIVERSAL EXCLUSION WHERE AN EXPERT JUDGMENT WAS AVAILABLE.** *"A metering fault does not produce a cycle…"* is false as stated, because some faults are periodic. **The calibrated version is stronger and more in character**: name the fault modes, say none of the ones she can name fits, put it low, and say out loud that low is not zero.
+4. **PARALLEL DESCRIPTION TAKEN FOR IDENTITY OF MECHANISM.** Two accounts of one transformation are powerful evidence and are not proof that the two things are the same thing. **The fix was not to weaken the finding but to write the objection first and then list the evidence that is not a description.**
+5. **AN EXCLUSIVITY CLAIM ABOUT PEOPLE THE CHAPTER HAS NOT ACCOUNTED FOR.** *"the only living person who knew"* required knowing Marin's present status, which happens in Ch20, and required excluding every other Meridian employee while the reclassification signature is an open question. **Softeners do not fix this.** *"As far as anything in that room showed"* hedges the sentence and supplies no evidence. **The claim was simply removed and nothing was lost, because exclusivity was not carrying the emotional point.**
+
+### And a pacing consequence, which is the same defect felt rather than seen
+
+The author named it separately: **a run of successive statements each landing as final** — *visits*, both parameters, *one direction only*, *nothing else in it to run*, *the origin end to end*. **Calibrating them made the chain read as more rigorous rather than less decisive**, which is the general lesson and the opposite of what a drafter fears.
+
+### The check to run before any chapter where a character reaches a conclusion
+
+For every conclusion on the page, in order:
+
+1. **Name the observation it rests on**, in one sentence.
+2. **Name the gap between the two.** If there is no gap, it is a record and not a conclusion.
+3. **Ask whether it survives being wrong** (the Ch11 rule, still live).
+4. **Ask whether the character elsewhere in this chapter states a standard this sentence fails** (the new one).
+
+**None of the four can be mechanized and all four are fast.**
+
+---
+
+## ⚠️ A LOCKED CHAPTER'S NUMBERS DATE THE CHAPTERS THAT HAVE NOT BEEN WRITTEN — added 2026-09-03, off Ch17
+
+**The cascade rule has always run backward:** *a fix in one chapter is a change to every chapter that depends on it*, so after revising, grep the others. **Ch17 showed it runs forward as well, and that direction is easier to miss, because the constraint is invisible until you compute it.**
+
+Ch17's deviation was drafted onto *an ordinary Thursday afternoon in February*, which sounded considered and was free of any conflict on the page. **Locked Ch16 dates it.** Ch16 puts the closure in the fall, the first substrate load in the sixth week after it, and the logged loads running *about four months* before they stop, **and Ch17's last line is the sentence that stops them.** Mid-October, plus six weeks, plus four months, is **late March**.
+
+**Nothing flagged this.** The month appeared in one chapter and the arithmetic in another, both were correct in isolation, and the only way to see it was to add up a locked chapter's intervals and ask what date they force.
+
+**The rule: before drafting, pull every interval that a locked chapter states about the period the new chapter covers, and compute the dates they imply. Those are constraints, not context.** In a book with two threads six years apart and a present-day calendar fixed to the day, the numbers already written down decide more of an unwritten chapter than the brief does.
+
+**And the general form, which is worth keeping separate from the backward rule:** a locked chapter is not only a fact the new chapter must not contradict. **It is a set of measurements the new chapter has to land on.**
+
+---
+
+## ⚠️ THE DOMAIN-VOCABULARY DEFECT — added 2026-09-03, off the author's Ch18 review
+
+**Ch17's review found the machine wrong. Ch18's found the statistics wrong. They are the same class and it now has a name.**
+
+**A technical term used at the wrong strength by a character who would know the difference does not just misstate the domain. It makes the character less competent than the book needs them to be.** Rourke is an epidemiologist with nineteen years in the job. **She knows association from prediction, sensitivity from positive predictive value, a temporal cluster from a common-source exposure, and a population risk group from a person-level forecast.** A draft that blurs those has quietly demoted her, and the chapter's whole design rests on her being good.
+
+**This is why the class matters more here than it would elsewhere.** This series runs on institutions behaving correctly and finding nothing. **If the competent people are written as sloppy, the horror collapses into ordinary incompetence** and the book becomes a story about a bad public-health department.
+
+### The four errors, generalized
+
+1. **A count that does not account for what it could not test.** Ch18's living-partials range was computed off six named deaths while **three dead people stood untested against the population.** The floor has to drop by the untested. **The rule: when a range excludes cases you could not check, the floor is the number you get when every unchecked case goes the worst way.**
+2. **A negative finding stated as a negative fact.** *"No shared clinical history"* against *"no shared clinical history had been identified."* **The first is false and the second is the chapter's thesis.** This is the Ch16 sub-class (*absence of a recoverable trace stated as absence of the thing*) arriving in an institutional document rather than in a character's head, **and a chapter that insists every sentence of a document is true cannot afford one that is not.**
+3. **A real phenomenon denied because one model of it fails.** *"It isn't a cluster"* when the cluster is real and the **exposure model** is what fails. **The rule: name the model that failed, never the observation.**
+4. **A predictor claimed off sensitivity alone.** *"It predicts perfectly"* with four hundred members of the risk group alive. **Perfect sensitivity among the placeable deaths, near-zero positive predictive value.** And its sibling: **a case counted as a hit because it *resembles* the outcome**, which defines the predictor by the thing it is supposed to predict.
+
+### The check, and it is cheap
+
+**Take every domain term in a chapter and ask what it would have to be true of.** Cluster, predict, perfect, shared, met, significant, confirmed, ruled out, baseline, association. **Then ask whether the character saying it would accept that usage from a junior.**
+
+**⚠️ And the strongest version of a corrected claim is almost always better drama than the wrong one.** Ch18's Rourke was written as having met the test she set in Ch2. **She has not: the test required a person, a function and a date, and she has a population.** Correcting it produced the chapter's best line and a realization the draft did not have:
+
+> *"That was the bar, and I set it in about forty seconds in this room, and I have spent six hours on a Sunday finding out why I set it there."*
+>
+> ***"You found the population." / "I found the population. I can't find the person."***
+
+**She now understands her own test better than when she wrote it.** That is not available in the version where she simply meets it.
+
+### ⚠️ And Law 7 collected again, in the same session
+
+**The curly-quote heredoc failure recurred.** A beat-check file was patched through a bash heredoc containing `isn’t` and the assertion failed on the apostrophe. **This file has warned about it since 2026-08-31 and it still happened**, because the heredoc is the fastest way to edit a scratch file and the warning lives four hundred lines away from the habit.
+
+**The fix that actually works: write scratch check files with the Write tool, never through a shell heredoc.** The mangling is silent when it does not assert, and the last time it did not assert it returned a clean, plausible, wrong zero.

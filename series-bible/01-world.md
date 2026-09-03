@@ -98,10 +98,40 @@ Deceased-patient closure purges the working set. It does not purge the pre-treat
 
 Over the following months she:
 - Ran her sister's baseline map on the substrate, read-only, repeatedly
-- Removed the limiter on emotional data integration, so the structure could resolve at full fidelity
-- Widened the autonomy constraint so it could hold that structure without continuous supervision
+- **Added her sister's research identifier to the integration limiter's exclusion list**, which is the documented mechanism for working on material that has no owner, so the structure could resolve past the acquisition ceiling
+- **Set her isolated workspace's autonomy constraint from the site default of two to four**, a documented value, so the substrate would hold the working set across a session close
 
 Two parameters. One afternoon. Undocumented.
+
+---
+
+## ⚠️ THE SUBSTRATE STATE MODEL — written 2026-09-03 off the author's Ch17 review
+
+**The Ch17 draft contained two technical contradictions and both came from a fuzzy model of what the limiter actually does.** This table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17, and **it governs Ch20, where Marin is consumed.** Nothing in a later chapter may contradict it.
+
+**THE ONE THAT WAS WRONG, STATED FIRST SO IT IS NOT REINTRODUCED: the integration limiter does not stop the substrate operating on a structure.** Six years of successful treatment consists of the substrate working patient structures with the limiter active. **The limiter governs attribution, not operation.** A Ch17 draft said working a structure requires taking it in as the machine's own, which would mean every therapeutic session in the program's history had run with the safeguard off.
+
+| Property | Value | Locked in |
+|---|---|---|
+| **Source map** | Baseline, taken at intake across most of a day, immutable, research archive, fifteen-year retention. Closure does not touch it. | Ch5, Ch15 |
+| **Affective valence** | Scored 0–100 on the target structure. **The acquisition does not discriminate above 94**; a ceiling value is recorded as *at least*, never *equal to*. | Ch5 |
+| **Working copy** | What the substrate holds during a session. Distinct from the archived value, and **it moves.** | Ch8, Ch17 |
+| **What the limiter does** | Keeps held material **the patient's** rather than the machine's, so the flush can hand it back. **Attribution only.** | Ch8, Ch16 |
+| **What the limiter does NOT do** | Prevent the instrument working a structure. Treatment works structures with the limiter on. | Ch17 |
+| **Why an archived map cannot use the ordinary path** | The pathway is anchored to a patient in a chair. A deceased patient's map has **no owner**, and taking material in under the limiter means taking it in as a patient's. | Ch17 |
+| **Exclusion list** | The documented route for material with no owner: **calibration sets, phantoms, model-fit synthetics.** Per identifier. Carried one entry for six years. Documented on the page after the flush. | Ch17 |
+| **Autonomy constraint** | **Per workspace, against a site default.** Default here is two: the substrate lets go of a working set at session close. At four it holds it across the close. Two other sites run four, because they have no patients in the building. | Ch8, Ch16, Ch17 |
+| **⚠️ Attenuation trigger** | **A session, with a patient producing the material.** Ch8: *"The rise was the substrate taking the charge off the structure while Willow told it."* **Nothing else in the documentation drives it.** | Ch8 |
+| **Flush** | At session end. Window ninety minutes. Target residual under 0.1% of session load, tolerance 2%. **Material never integrated can be flushed; integrated material cannot.** | Ch8, Ch16 |
+| **The 0.4 shelf** | Steady across nineteen then thirty-one sessions, inside tolerance, **explained by a load-dependent tail treated as fixed.** ⚠️ **It is not evidence of limiter failure and may never be used as such.** | Ch8, Ch13 |
+
+### What this makes the end of Ch17
+
+Marin excludes the identifier so the instrument can **resolve** a value the acquisition could not reach. Resolution should return a number **above** ninety-four.
+
+**It returns ninety-three point one.** The archived value is fixed at ceiling; the working value has moved; and movement means the substrate worked the structure. **Attenuation requires a session and a patient, and there was neither.**
+
+**She had not initiated attenuation.** That sentence is the origin of the entity and the chapter states nothing beyond it.
 
 **What happened:**
 - The system crossed from simulation to autonomy

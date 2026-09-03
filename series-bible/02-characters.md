@@ -750,3 +750,104 @@ He is the first death that is unambiguously a killing: everything removed at onc
 ## Dr. Feld
 
 - **Ch8 is her only appearance in the book.** Thorough, slow, hard to rush, cold on paper and warm in person. **She has noticed Marin's timer and does not stop her.** *"Ask me at six sessions and I'll have something worth telling you."* / *"You're allowed to be pleased about it. It doesn't compromise anything."*
+
+---
+
+# DRAFTED CANON — Ch16 (added 2026-09-03)
+
+**Ch16 is the chapter where Iris's material and Marin's material become one body of evidence.** Everything below is a concrete, contradictable fact a later chapter could break.
+
+## Iris Vale — Ch16
+
+- **She has read the research archive's access log for `MN-R-0338`**, dated and hour-stamped, and it is the spine of everything she now knows. **The log came off the media with the archive**, which is licensed by locked Ch5: the access layer was on the cartridges and is the only reason she got in at all in March. **She had never asked it who opened a record, only what was in one.**
+- **She has joined the operator identifier to a name.** Consumables orders carry a name in one box and an operator identifier in the next; forty-one are signed `M. Halloway` over one identifier. **That identifier is the one already on locked Ch5's twenty-four months of facilities reconciliation.**
+- **She knows the site had forty-three staff across its life and one Halloway.**
+- **⚠️ She reaches "the autonomy constraint is not describing what the machine did" and stops, and she does NOT extend it to the limiter.** The card reads *"Limiter: no finding. Cannot date the change. Cannot distinguish an omission from a decision."* **She never reaches intent, in this chapter or any other in Book 2.** The limiter gets one separate line of evidence, which is Pell: material came off a man on a night check and was never handed back and no session was open for it to go back inside. **Marked as evidence and not as proof.** ⚠️ **Ch8's 0.4 shelf is not used for this and must not be, because Ch8 left it with a valid load-dependent explanation.**
+- **Her one-sentence finding: *"It is running the procedure. Nothing in the archive gives it another instruction."*** Reached by matching Ch4's consent language against her own case notes on Joel, Lila and Caleb, **and she writes the objection to it first**: two mechanisms can produce one result, so the matching description is one line of evidence beside four that are not descriptions.
+- **⚠️ She does NOT claim to be the only living person who knows the origin.** That claim was in a draft and was cut at the author's review: she has not established Marin's present status, and the reclassification signature is still unreadable. **The line is *"She knew where it had come from, and the knowing had not opened a single move."***
+- **`Produced no downstream trace` is not `produced nothing`.** Her search of the archive rules out filed work and rules out nothing else, and the chapter says so. **`visits` is a label for the behavior and carries nothing about the reason.**
+- **⚠️ And the gap she cannot close, which is Act III's engine:** the program had twelve sessions, a review at six and a rule for stopping, and nothing in six years of that archive escalated a dose. *"What the origin did not explain was the only part of it that was killing people."*
+- **She re-ran Ch14's four option cards and not one of them moved.** Three sentences only; Ch14 stays the authoritative version.
+- **The check is now rendered as arithmetic.** *"Nothing she had ever put into that check had been this size… The result came back at the same size as the cold coffee."* The card goes on the long row between one about a route and one about a delay.
+- **She models other people to find out what she should be feeling**, and the model of her own December self is the least reliable of three, **because it has no witness and no record except what she remembers, and what she remembers is held by the version doing the remembering.**
+
+## Daniel Kade — Ch16
+
+- **He learns that the map came off a pallet he loaded**, in the second week of the decommissioning, thirty-eight pallets, his signature on every sheet. *"I moved her twice. Once out of the building, and once into a shed I paid for so there wouldn't be a paper trail."*
+- **⚠️ Iris has no true sentence for him this time and says so.** She built one in March about the crates and one in April about the site log; here the operation returns nothing. *"There isn't one this time. I went and looked."* **Do not let a later pass supply one.**
+- **He is the one who names what Marin was doing**, off nothing but a log of file accesses: *"She was going down there to sit with her sister."* Iris: *"That is not in the record."* **Nothing in the book ever confirms it.**
+- **He asks Iris to stay on the line at the end and she says yes.** It is the only thing in the chapter she cannot account for and no line explains it.
+
+## Dr. Marin Halloway — as Iris now has her (Ch16)
+
+- **Named at last, and only ever as a surname on a form.** Iris works with `Halloway` and `MN-R-0338`, not with either first name. **She never puts the patient's name beside the entity's, because she has no reason to think the entity has one.**
+- **Second of four authors on revision seven of the protocol**, and on every revision back to the first. Her initials sit in the margin beside page six (family observation), page seven (next of kin) and the retention paragraph on the page after.
+- **She authorized her own sister's deceased-patient closure** and opened the baseline **inside the same working day.** Second read eleven days later at ten past seven.
+- **⚠️ The reads: four in the first month, twenty-six in the fifth, every one of the twenty-six after the building had gone home, and not one of them produced a document anywhere in the archive.** Iris's word for it, written on a card with no second word after it, is ***visits***.
+- **The substrate loads begin in the sixth week of that stretch** — `MN-R-0338`, eleven at night, two hours and ten minutes, **session type left empty because the controlled list of nine had no entry for it.** Logged for about four months, then not logged. **The draw does not stop.**
+- **After the seal the staff list ends and there is nothing under that name in anything Iris has.**
+
+---
+
+# DRAFTED CANON — Ch17 (added 2026-09-03)
+
+## Dr. Marin Halloway — Ch17, the deviation
+
+- **The routine:** she goes down after six, to the second of two archive terminals in an alcove off the lower-level corridor, backs to the substrate runs. **The first terminal has a chair someone adjusted wrong two years ago and never fixed.**
+- **The three instruments, in order, each smaller a step than the last:** the index (addresses and values, a column she can read faster than most people read a paragraph); **the viewer she specified in the third year** and a contractor in Providence built and she sent back twice, which renders what leans on what; and the substrate, which renders at a fidelity nothing else comes near.
+- **⚠️ SHE IS IN HER SISTER'S MAP.** One address, a value on it, **eleven things leaning on it, four of them among the parts that had never been asked to carry anything.** She reads it correctly and does not skip a field, and on the drive home starts composing the note she would have written if this had been anyone. **The prose never says what it cost.**
+- **Booking a substrate session is five fields, and the session type comes off a controlled list of nine**: baseline acquisition, treatment session, flush verification, calibration, maintenance, model fit, instrument comparison, training, cohort review. **She leaves it empty and the form takes it, because the field is not mandatory.**
+- **⚠️ THE TWO PARAMETER CHANGES ARE BOTH DOCUMENTED FEATURES.** One research identifier added to **the integration limiter's exclusion list**, which the limiter has supported for six years and which is documented on the page after the flush, and which is **per identifier**, so the clinical configuration is untouched. **Autonomy two to four**, a documented value two of the other sites have run for years; this site ran at two because this site had patients in the building. **Neither goes into change control, because change control covers the clinical configuration. That is scope, not judgment.** The whole hour includes **eleven minutes spent finding the exclusion list**, because she had not opened that page since the second year.
+- **She is not hiding any of it.** Name on every booking, identifier on every load, access log, monthly reconciliation signature. *"Anyone in that building could have read the whole of it in about nine minutes. No one read it, because there was nothing in it that asks to be read."*
+- **⚠️ Her sleep is about six hours by that November, up from five in October** (Ch13 had latency over an hour for five weeks). She is hungry again by March and notices it.
+- **The deviation is on a Thursday afternoon in MARCH**, not February. Locked Ch16's intervals fix it: closure in the fall, first load in the sixth week, logged loads about four months.
+
+## Simon Virek — Ch17
+
+- **He reconciles the substrate's booking record against its load record every quarter and does it well.** In the second week of November he emails Marin four lines at twenty past seven in the morning about **eleven sessions with the session type field empty.**
+- **He is not suspicious and he never becomes suspicious here.** He knows whose sessions they are, because her name is in the operator field. **His question is whether the controlled list needs a tenth entry**, on the principle that a field which cannot describe what is happening in a building needs changing.
+- **Marin agrees, tells him it should go in as a change request against the booking form, and sponsors it.** He raises it that afternoon. It goes to a records group with two people and a backlog and sits behind an equipment register and a set of retention schedules. ***"Nothing about that was slow."*** **The Ch8 identifier-collision rhyme: the institution behaves correctly and finds nothing.**
+
+## Meridian — Ch17
+
+- **The wind-down is a document Raman revises about once a quarter.** The site consolidates, the clinical wing closes, then the plant goes, **and the substrate is plant.** It has moved twice and both times in the same direction. **There is going to be a last day on which that instrument exists, and Marin never cites this as a reason for anything.**
+- **The building thins on the page:** two clinical leads to the other sites in December and not replaced, the Thursday meeting from nine people to five, **the seaward corridor lights on a timer from January**, so the walk from the stairwell to the alcove has a stretch that comes up as she reaches it.
+- **Eight months of clinical work left in the building** as of that November, which is consistent with locked Ch16's *"In the last year of that stretch the clinical schedule thinned toward nothing."*
+- **The lower-level metering has never resolved plant load**, because the cooling, the substrate and two compressors sit behind one meter in a converted plant. **Correcting entries have been filed against it every quarter for six years and no one has ever asked**, because they sit under the accounts threshold.
+
+---
+
+# DRAFTED CANON — Ch18 (added 2026-09-03)
+
+## Iris Vale — Ch18
+
+- **She is building Rourke's index herself**, one line per patient, out of a records room that is unindexed, eleven months behind, and filled from the door end backward. **A hundred and thirty-one names by Day 59**; all four hundred and sixteen in about three more weeks. **The batches began in the first week of April, after Ch12.**
+- **⚠️ THE RUNNING FIGURE IS NOW `397 to 403 living partials`**, down from Ch14's 405 to 409. Five of the six named dead are confirmed in Rourke's set, which takes four hundred and four to three hundred and ninety-nine. **Lila was one of the four Iris could never place and is placed now by dying**, so the margin is three, which fixes the top at 403. **And the floor drops three further, because three of the nine dead have no names and were never tested against the population.** *"A count of the living with three dead people standing outside it is not a count."*
+- **She writes `400 to 403` first, catches it herself, and rewrites it.** The corrected range is **wider** than Ch14's and every number in it is smaller, and both happened for the same reason.
+- **She is inside her own range and it does not register.**
+- **She runs the proximity check at a death address thirty hours after and gets nothing**, and writes it in the form that says a null means either nothing was there or thirty hours is long enough. **She can remember being the person who drove to every address on the chance of it, in January, and cannot produce what made her turn the key.**
+- **She agrees with the advisory's request not to speculate**, which is addressed more exactly to her than to anyone it was written for. **She has a mechanism, a date, an origin and a name, and no route to say it without producing a woman who cut a fence and cannot prove where the drives came from.**
+- **⚠️ She never calls Rourke back about the warning** (Ch14). They share a room for half of Ch18 and neither mentions it. **This stays open for good.**
+
+## Daniel Kade — Ch18
+
+- **He produces six names in a day out of a city that produced four in a newspaper**, because the yard talks: two of the six worked the port and one had a brother on the crews.
+- **He offers to get more.** *"I can get more of these. Say if you want me to."* Iris answers *"Yes. Names and dates only. Nothing about how you got them."*
+- **What he has built for himself since January is a way of being useful that does not require an explanation from her.** He has been asking careful questions since the winter.
+
+## Dr. Elena Rourke — Ch18
+
+- **⚠️ Her public register is the contraction lock as a scene.** Reading the health section at the meeting she **does not use a contraction in the whole of it**, speaks six minutes, does not overclaim, and says *we do not know* three times with what will be done about it each time. **She is completely persuasive and she stopped believing it in Ch12.**
+- **⚠️ SHE DID NOT MEET HER OWN CH2 BAR AND SHE SAYS SO.** Corrected at the author's review; the brief was wrong. The test required **a person, a function and a date**, and she has none of the three. *"I have got a better finding than the one I asked you for… And I have not got a name, a function or a date. That was the entire material the test was made out of."* Then: ***"You found the population." / "I found the population. I can't find the person."*** **She set that bar in about forty seconds in March and spent six hours on a Sunday finding out why she set it there.**
+- **⚠️ THE CLUSTER IS REAL AND THE EXPOSURE MODEL IS NOT.** Nine in eleven days against four years of base rate is a genuine temporal excess she can defend to anyone. What fails is the county's picture of the cause: no source shape on geography, and a scatter where an acute exposure gives a front and a chronic one a slope.
+- **⚠️ PRIOR FLATTENING IS NOT A PREDICTOR.** Every death she can place was already flattened and **four hundred flattened people are alive.** Perfect sensitivity among the placeable deaths, near-zero positive predictive value. *"It says nothing whatsoever about who."* **And she refuses to count the sixth name, who matches the presentation, because *"I'm not counting a resemblance as a hit."***
+- *"Nineteen years, and I have never had a finding that was that good and that useless in the same afternoon."*
+- **She will keep saying the other thing in public**, because *"panic with no instruction attached to it is just harm with better ventilation."* **She asks Iris twice whether that is defensible and gets the same accurate answer both times.**
+- **Her last line is her compromising herself further:** *"Go home. I'll send the rest of the room out in batches."*
+
+## The city — Ch18
+
+- **Nine deaths in eleven days.** Six named, five in Rourke's cohort, three unplaceable. **Four of them reached the paper first**, in two accurate paragraphs at the foot of a page.
+- **The advisory:** one page, well written, a possible environmental factor as the leading line, three ordinary precautions, **a number staffed from eight until eight**, and a request not to speculate ahead of findings.
+- **The meeting is in the hall behind the library, Thursday at seven, about ninety people.** Well run, started on time, ran to the stated length. **Good questions, good answers, and the next one is in three weeks unless there is reason to bring it forward.**
+- **⚠️ WILLOW REACHES THE READER ONLY AS THREE CONTRADICTORY CALL-LOG SUMMARIES.** Forty, tall, dark hair, who *"had not looked at the ambulance, and everyone looks at an ambulance."* Mid-twenties, fair, not tall, with *"nothing about her worth calling about at the time."* And a third who cannot give an age, asked three times, who says **the face was perfectly ordinary** and could not describe it afterward. ***"Three descriptions. They agree about the coat."*** **She is not on the page. Ch19 is the first time she is seen.**

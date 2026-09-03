@@ -58,5 +58,17 @@
   "15-the-map.md": {
     "sha256": "27e0dd9fb15adf7d219c987d17406cfdb92186532eaedc8107543755bf469ecb",
     "words": 2883
+  },
+  "16-the-name.md": {
+    "sha256": "b6d3121eba3e67ede1c50320c49da2fc2c1d9656dc1fed0d15976ae7975d4c73",
+    "words": 3955
+  },
+  "17-the-limiter.md": {
+    "sha256": "6ede7390ceb7825f501caa59be40d2682ea960102a91587f5ecc627a290accd5",
+    "words": 3032
+  },
+  "18-escalation.md": {
+    "sha256": "5eb24a6f346b5ea760e3258efb79ea510e772e5c55cee8d3d983848654d49c89",
+    "words": 3577
   }
 }

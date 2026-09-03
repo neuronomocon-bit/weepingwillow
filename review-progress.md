@@ -78,12 +78,10 @@ Checked on every chapter of this book in addition to the standard passes:
 | 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | **✅ LOCKED 2026-09-02** |
 | 14 | Open Jobs | Iris | 3,600 | **DRAFTED 3,298** | **✅ LOCKED 2026-09-02** |
 | 15 | RECOVERED: The Map (ACT II TURN) | Marin + Iris coda | 3,800 | **DRAFTED 2,883** | ✅ **LOCKED 2026-09-03** |
-| 13 | **RECOVERED: The Water** | Marin | 3,400 | — | — |
-| 14 | Open Jobs | Iris | 3,600 | — | — |
-| 15 | **ACT II TURN — RECOVERED: The Map** | Marin + Iris coda | 3,800 | — | — |
 | **ACT III — FINISHING** | | | | | |
-| 16 | The Name | Iris | 3,600 | — | — |
-| 17 | **RECOVERED: The Limiter** | Marin | 3,400 | — | — |
+| 16 | The Name | Iris | 3,600 | **REVISED 3,955** | ✅ **LOCKED 2026-09-03** |
+| 17 | **RECOVERED: The Limiter** | Marin | 3,400 | **REVISED 3,032** | ✅ **LOCKED 2026-09-03** |
+| 18 | Escalation | Iris/Rourke | 3,800 | **REVISED 3,577** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
 | 19 | Almost | Iris | 3,600 | — | — |
 | 20 | **RECOVERED: The Last Session** | Marin | 4,400 | — | — |
@@ -257,6 +255,9 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
+| Ch18 | **0 + 7 domain vocabulary** | **⚠️ SAME CLASS AS CH17, ONE CHAPTER LATER: A TECHNICAL TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Rourke is an epidemiologist and the draft had her blur association with prediction, sensitivity with positive predictive value, and a temporal cluster with a common-source exposure. **The worst was the Ch2 payoff, and the brief was the source of it:** the brief said she met the threshold she set for Iris, and she has not, because the test needed a person, a function and a date and she has a population. **The corrected version is better and produced the chapter's best exchange** — *"You found the population." / "I found the population. I can't find the person."* Also: the living-partials range ignored three untested dead (400–403 → **397–403**, and Iris catches it herself); *no shared clinical history* → *none had been identified*; *it isn't a cluster* → *the cluster is real, the exposure model isn't*; *predicts perfectly* → *isn't a predictor*; a resemblance counted as a hit; *speculate and be right* → *speculation better than speculation*; and **the Ch14 one-case-to-a-rule defect repeating**, now refused out loud by Iris. See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT. |
+| Ch17 | **0 + 2 technical + 3 calibrations** | **⚠️ THE MACHINE-STATE MODEL, AND THE WORST ONE WOULD HAVE PUT SIX YEARS OF THERAPY ON THE WRONG SIDE OF THE SAFEGUARD.** The draft said working a structure requires taking it in as the machine's own and that the limiter prevents exactly that — but normal treatment works patient structures with the limiter active. **The limiter governs attribution, not operation.** Second: *ninety-three point one* was called impossible by the woman who had just enabled it, when attenuation is what working a structure does; rebuilt to separate the fixed archive value from the moving working value and to end on **"She had not initiated attenuation."** Calibrations: autonomy scoped **per workspace against a site default**; *"no other correct entry"* → *"no more specific entry the form would take"*; *"She was not hiding any of it"* → *"She had not put a false name on anything or taken a record out."* **The full audit is now a table in `01-world.md` → THE SUBSTRATE STATE MODEL, and it governs Ch20.** |
+| Ch16 | **0 + 5 confidence** | **⚠️ A NEW CLASS: no continuity, arithmetic or beat error, and five conclusions stated above their evidence.** Absence of a recoverable trace read as absence of the thing; one observation failing two independent safeguards; a universal exclusion where an expert judgment was available; parallel description taken for identity of mechanism; and an exclusivity claim about who else is alive. **The diagnostic: Iris refuses on the page to build Marin's motive out of nothing for Kade, and the chapter breaks that standard four times within a thousand words of the refusal.** See `14-audit-method.md` → THE CONFIDENCE-LEVEL DEFECT. |
 
 **⚠️ Five of seven chapters carried a hard error, and not one was findable by either check this project already had.** See `14-audit-method.md` → THE THIRD METHOD.
 
@@ -283,11 +284,177 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 13 | RECOVERED: The Water | 2,883 | **2026-09-02** |
 | 14 | Open Jobs | 3,298 | **2026-09-02** |
 | 15 | **RECOVERED: The Map** (ACT II TURN) | 2,883 | **2026-09-03** |
-| | **ALL FIFTEEN LOCKED — ACTS I AND II** | **47,444** | |
+| | **ACTS I AND II** | **47,444** | |
+| 16 | **The Name** (ACT III OPENS) | 3,955 | **2026-09-03** |
+| 17 | **RECOVERED: The Limiter** | 3,032 | **2026-09-03** |
+| 18 | Escalation | 3,577 | **2026-09-03** |
+| | **ALL EIGHTEEN LOCKED — THROUGH CH18** | **58,008** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
 **Locked chapters still count** toward the totals and still appear in the voice audit. They are fixed points, not exclusions. **If an audit flags something inside one, report it and leave it alone.**
+
+---
+
+## CH18 — ESCALATION, drafted 2026-09-03
+
+**Drafted at 3,247, reviewed by the author the same day, revised to 3,577 against a 3,800 budget, 94%. All 64 beats present. ✅ LOCKED 2026-09-03. The book stands at 58,008 words across eighteen chapters, 90% of budget. Four chapters left.**
+
+### ⚠️ THE REVIEW FOUND SEVEN ERRORS AND ALL SEVEN WERE DOMAIN VOCABULARY
+
+No continuity error, no beat missing. **Every one was a technical term used at the wrong strength by the character who would know the difference.** New class, written up in `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT. **Ch17's review found the machine wrong and Ch18's found the statistics wrong, and they are the same class.**
+
+**Why it matters more here than elsewhere:** this series runs on competent institutions finding nothing. **If the competent people are written as sloppy, the horror collapses into ordinary incompetence.**
+
+| # | Wrong | Right |
+|---|---|---|
+| 1 | `400 to 403` computed off six named deaths | **`397 to 403`.** Three dead stood untested against the population, so the floor drops by three. **Iris catches it herself on the page.** |
+| 2 | *no shared clinical history* | *no shared clinical history **had been identified***. There is one; it sat in a records room across town. |
+| 3 | *It isn't a cluster* | ***The cluster is real. The exposure model isn't.*** Nine in eleven days against four years of base rate is a genuine excess. |
+| 4 | *it predicts perfectly* | ***It isn't a predictor.*** Four hundred flattened people are alive. Perfect sensitivity, near-zero positive predictive value. |
+| 5 | *or looks like it should have been* counted as a hit | *"I'm not counting a resemblance as a hit."* |
+| 6 | *could speculate about the cause and be right* | *whose speculation would be **better than speculation**.* |
+| 7 | *nothing you could say to four hundred people* | **Iris refuses the one-case-to-a-rule move out loud**, then weighs *a certain harm against an unproven benefit*. |
+
+### ⚠️ AND THE CH2 PAYOFF WAS WRONG IN THE BRIEF ITSELF
+
+The brief said **"She met the threshold she set for Iris in Ch2, by herself."** She did not. **The test required a person, a function and a date, and she has a population.** The brief is corrected in place.
+
+**The corrected version is stronger and it bought a realization the draft did not have:** she set that bar in forty seconds in March and has spent six hours finding out why she set it where she did. ***"You found the population." / "I found the population. I can't find the person."***
+
+### ⚠️ THREE LOAD-BEARING BEATS CAME FROM `10-subplot-threading.md` AND APPEAR IN NO BRIEF
+
+**Add that file to the pre-drafting grep permanently.** It carried **nine deaths in eleven days**, which is the number the whole chapter is built on; the shape of the public response (*a probable environmental factor, an advisory, a number to call, and a request not to speculate*); and **three witnesses who contradict each other**. The Ch18 brief carries none of the three.
+
+### The spine is arithmetic, and that is where the grief goes
+
+Ch14's card read **405 to 409 living partials**. Kade sends six names. Five are confirmed in Rourke's set, taking four hundred and four to three hundred and ninety-nine. **The sixth is Lila, who was one of the four Iris could never place, and who is placed now by dying.** The margin comes down from four to three and *"it came down for the worst available reason."*
+
+New card: **400 to 403**, with *three unnamed, unplaceable, not in the above* beneath it. **The range is one narrower than it was, every number in it is smaller, and it narrowed because somebody died.**
+
+**And she is inside it.** *"She had put herself in the column in April and had not taken herself out… and she had written it without the inclusion registering as anything at all."*
+
+**Lila is one line and the chapter does not stop.** No scene, no return to the flat. The only comment is a card written in four seconds: ***"Warned one. No change to outcome."***
+
+### Two ways the chapter says the same thing
+
+- **The advisory is true in every sentence.** No shared clinical history, because what they shared came off a caseload with no reason to be the first place to look. *"It was the best available explanation for a set of people who could not be told the real one, and it had a process attached to it now, and a process is a thing that keeps going."*
+- **⚠️ Its request not to speculate is addressed more exactly to Iris than to the district it was written for, and she agrees with it.** She has a mechanism, a date, an origin and a name, and no route to say any of it without producing a woman who cut a fence.
+
+### Rourke
+
+**Her public register is the contraction lock made into a scene.** *"She did not use a contraction in the whole of it."* Six minutes, no overclaim, *we do not know* three times with what would be done about it each time. **Completely persuasive**, saying things she stopped believing in Ch12. *"The room believed her. Iris watched about ninety people put something down."*
+
+Then the office, and the Ch2 payoff: **she met the bar she set for Iris, alone, in six hours on a Sunday, off her own data.** *"Nineteen years, and I have never had a finding that was that good and that useless in the same afternoon."*
+
+**⚠️ The close is the inverse of Ch16's.** There, Iris went looking for the true sentence and there was not one. **Here she produces it instantly and it is the wrong thing to give.** Rourke asks twice and gets the same accurate answer, and *"Something else had been wanted… she had no procedure for finding out."* **Do not let a later pass collapse these into one move.**
+
+**⚠️ Ch14's uncalled call is not resolved and must never be.** They share a room for half the chapter and neither mentions it. Verified by grep at drafting.
+
+### The pattern held for the fifth chapter running
+
+First draft **2,881 words, 76%, with every beat already present.** Missing consequences again: Iris's own proximity check at one of the addresses and what a null is worth, Kade's offer to get more names, the advisory landing on her, and **Iris being inside her own range.** **Two date errors caught by the calendar sweep**, both anchored on Ch12 being Day 48 and therefore the *first* week of April.
+
+---
+
+## CH17 — RECOVERED: THE LIMITER, drafted 2026-09-03
+
+**Drafted at 2,776, reviewed by the author the same day, revised to 3,032 against a 3,400 budget, 89%. All 53 beats present. ✅ LOCKED 2026-09-03.**
+
+### ⚠️ THE REVIEW FOUND TWO TECHNICAL CONTRADICTIONS IN THE MACHINE-STATE MODEL
+
+No continuity error, no arithmetic error, no beat missing. **Both defects were in what the substrate does, and both came from a fuzzy account of the limiter.**
+
+1. **The limiter governs attribution, not operation.** The draft said working a structure requires taking it in as the machine's own and that the limiter prevents this, **which would mean six years of therapy had run with the safeguard off.** Treatment works patient structures with the limiter active. Rebuilt: the limiter keeps the attribution attached so the flush can hand the material back, and what an archived map cannot do is use the patient-owned pathway, **because it has no owner.** The exclusion list is the documented route for material with none: calibration sets, phantoms, model-fit synthetics. **Marin puts her sister on the list for things that belong to nobody.**
+2. **Ninety-three point one was being called impossible by the woman who had just enabled it.** She had let the instrument work the structure, and attenuation is what working a structure does. Rebuilt to separate the fixed archive value from the moving working value, and to end on an absence rather than an impossibility: ***"The baseline had been acquired at ninety-four or above. The working value was ninety-three point one. She had not initiated attenuation."***
+
+**Three calibrations:** autonomy is now **per workspace against a site default**, and she *"set her workspace to four and left the default where it was"*; *"no other correct entry to make"* became *"no more specific entry the form would take"*; and *"She was not hiding any of it"* became *"She had not put a false name on anything or taken a record out."*
+
+**⚠️ The full technical-state audit is now a table in `01-world.md` → THE SUBSTRATE STATE MODEL**, built across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17. **It governs Ch20**, and it carries the standing bar on using Ch8's 0.4 shelf as evidence of anything.
+
+**The chapter the whole series proceeds from, and nothing in it is a rule being broken.** Both parameter changes are documented features used as designed: one research identifier onto the integration limiter's **exclusion list**, which is per identifier and has existed for six years, and the autonomy constraint from **two to four**, a documented value two of the other sites already run. **The clinical configuration is untouched and no patient is exposed.** Neither change goes into change control because change control covers the clinical configuration, and that is scope rather than judgment.
+
+### The first draft was 65% of budget with every beat already on the page
+
+**Fourth consecutive chapter to do this.** The beat count returned clean and the draft was structurally incomplete, exactly as on Ch13 and Ch15. **What was missing was consequence:**
+
+1. **What four months in the map actually gives her.** The chapter had her going down most nights and never showed what she found. **The addition is the chapter's center: on the fourth night she finds herself in her sister's map, one address, eleven things leaning on it, four of them among the parts that had never been asked to carry anything.**
+2. **Virek noticing.** He reconciles bookings against loads every quarter, sees eleven sessions with a blank session type, and asks whether the controlled list needs a tenth entry. **Not suspicion. Housekeeping.** It goes to a two-person records group and dies in a backlog behind an equipment register. **The Ch8 identifier-collision rhyme.**
+3. **The building thinning**, so the months are felt rather than summarized.
+4. **The instrument having a last day.** The wind-down timetable has moved twice and always in the same direction. **Marin never cites it as a reason and it sits in the reader's hand before March.**
+
+### ⚠️ A locked chapter dated an unwritten one
+
+The deviation was drafted onto a Thursday in **February** and the interval sweep moved it to **March**. Locked Ch16 puts the closure in the fall, the first substrate load in the sixth week after it, and the logged loads at about four months, **and Ch17's last line is the sentence that stops them.** Mid-October plus six weeks plus four months is late March.
+
+**Nothing flagged this**, because the month was in one chapter and the arithmetic in another and both were correct alone. Written up in `14-audit-method.md` → A LOCKED CHAPTER'S NUMBERS DATE THE CHAPTERS THAT HAVE NOT BEEN WRITTEN. **The rule: a locked chapter is not only a fact the new chapter must not contradict, it is a set of measurements the new chapter has to land on.**
+
+### One bible conflict resolved
+
+`11-key-dialogue-notes.md` said **"No dialogue. Marin is alone."** The Ch17 brief and `02-characters.md` both require **Terri's car-in-the-lot exchange.** Resolved and written into the dialogue note: **the no-dialogue rule governs the deviation scene and everything after it.** Terri is the only spoken exchange, Virek arrives as an email, and from the March afternoon to the last line there is none.
+
+### The ending is built entirely out of locked Ch5
+
+Ch5 established that the affective valence scale did not discriminate above ninety-four and that a ceiling value is recorded as *at least*, never as *equal to*. **Marin removes the limiter precisely to see past that ceiling.** The render returns **ninety-three point one**, which is on the wrong side of it, and *"there is no arrangement of a map, a viewer, an instrument or an afternoon in which a fixed value acquired at ceiling resolves downward."*
+
+**Then she stops the session recording, and no reason is given.** Privacy, caution and instinct are all available and the text picks none. **Do not let a later pass explain it.**
+
+---
+
+## CH16 — THE NAME, drafted 2026-09-03
+
+**Drafted at 3,617, reviewed by the author the same day, revised to 3,955 against a 3,600 budget, and ✅ LOCKED 2026-09-03. All 42 beats present plus five review calibrations. Act III is open. The book stands at 51,399 words across sixteen chapters, 90% of budget.**
+
+### ⚠️ THE AUTHOR'S REVIEW FOUND NO CONTINUITY, ARITHMETIC OR BEAT ERROR. ALL FIVE FINDINGS WERE CONFIDENCE LEVELS.
+
+**That is a first for this book and it is a new defect class**, written up in `14-audit-method.md` → THE CONFIDENCE-LEVEL DEFECT. The governing note:
+
+> *Iris must apply to her own origin theory the same rule she applies to Kade — do not build the missing part out of nothing, even when the conclusion is ultimately correct.*
+
+**The chapter has her refuse, out loud, to invent Marin's motive for Kade, and then commits four overclaims of its own within a thousand words of the refusal.** The diagnostic that follows is cheap and general: **when a character states an epistemic rule out loud, grep the same chapter for the sentences that break it.**
+
+| # | Overclaim | Fixed to |
+|---|---|---|
+| 1 | *"produced nothing"* | *"produced no downstream trace"*, plus a paragraph naming what the search did and did not rule out |
+| 2 | Both safeguards failed | **Autonomy constraint only.** *"The draw said nothing about the limiter."* Card reads `Limiter: no finding` |
+| 3 | *"A metering fault does not produce a cycle…"* | Four periodic fault modes named, none fits, plus the reconciliation as corroboration. *"She put a metering fault low and did not put it at zero"* |
+| 4 | *"There is nothing else in it to run"* | *"Nothing in the archive gives it another instruction"*, with the two-mechanisms objection written in first |
+| 5 | *"the only living person who knew"* | Removed. *"She knew where it had come from, and the knowing had not opened a single move"* |
+
+**The limiter now gets its own evidentiary step, and it is Pell** — material came off a man on a night check, was never handed back, and no session was open for it to go back inside. **Marked as evidence and explicitly not as proof.** ⚠️ **Ch8's 0.4 shelf is not used for it and must not be**, because Ch8 deliberately left that observation with a valid load-dependent explanation.
+
+**⚠️ On the length.** The five calibrations took the chapter from 3,617 to 4,115. It was compressed back to **3,955 at the sentence and not by removing anything**, which is 110% of budget and the first chapter in the book to run over. The two ways to reach 3,600 were cutting the calibration, which would undo the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
+
+**This is the first chapter in the book to come in at budget rather than under it**, and the reason is worth recording: it is a chapter with no scene in it. Everything before the phone call is one woman reading records at a table, so nothing could be carried by staging and every beat had to be a document. **The three drafting checks in the handoff were run before a word was written, and all three caught something.**
+
+### What the checks caught before drafting
+
+- **Grepping the bible for every chapter that refers back to Ch16** returned the Ch17 access block, which is what fixed the chapter's ceiling: Marin's research-side access is legitimate until the afternoon she changes two parameters, so **Iris must reach "the parameters are not what the documentation says" and stop.** She never reaches intent and no sentence imputes any. Ch17 is intact.
+- **Reading the prose rather than the briefs** of the chapters Ch16 reuses produced the chapter's two best beats, neither of which is in any brief: locked Ch5's *"all filed under the same operator identifier"* on the reconciliation, which is what turns the consumables orders into the hinge of the whole chain; and locked Ch5's baseline operator note, *"Subject was laughing,"* which becomes the sentence that stops Lena and proves nothing.
+- **Running both tools and reading the FAIL block** confirmed the record was clean going in and named the two trackers that had not moved since Ch15.
+
+### ⚠️ Three defects caught against locked chapters, and no screen could see any of them
+
+Full write-up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. In summary:
+
+1. **A general claim contradicted an incidental detail in a locked chapter.** A first draft had *"Nothing in it went back to anyone,"* about the program never returning to a finished patient. **Locked Ch5 says *"People who came back a year later."*** Cut and replaced with the escalation claim, which is what the beat was actually for.
+2. **A claim about a stretch the character has already said she cannot read.** *"Eighteen months of small work"* — **locked Ch7 has Iris saying *"I cannot read the eighteen months at all."*** Cut.
+3. **A document handed to her from outside the archive she actually has.** Locked Ch7 puts the substrate operational archive at **two years**, so Marin's Ch8 shelf log entry at Year −5.8 sits outside it. A first draft used it. **Removed, and the chapter is stronger without it**, because everything it now runs on came off media the locked chapters put in her hands.
+
+Also fixed: *"as bad as it had been in March"* about a form she read on **Day 51, which is early April**; and two figures rendered twice, including **`five months` doing duty for two different intervals in one chapter.**
+
+### Two facts it sets that Act III depends on
+
+- **The access log is now Iris's, and she has read it.** The mechanism Ch15 planted (*two lines and no one reads the log*) is the chapter's spine. She has the read history of `MN-R-0338`, dated, hour by hour, under one operator identifier.
+- **The origin is solved and the escalation is not.** *"What the origin did not explain was the only part of it that was killing people."* Ch18 to Ch22 run on that gap, and the chapter states it out loud so nothing later has to invent it.
+
+**Open question 3 is now open on the page.** She goes back to Ch14's reclassification form with a name in hand and the signature field is still on the corroded slice. One sentence, no lingering.
+
+### ⚠️ Reported, not fixed: `half past six` in locked Ch14
+
+The `British clock` screen went from one hit to two when Ch16 was drafted. **Ch16's was changed to `six thirty` on the standing rule that a form a screen would flag does not go in, however good the reason.** The other one is the opening sentence of **locked Ch14** — *"she had been looking at them since half past six"* — and the screen is correct to flag it: the forms the US-English sweep deliberately kept are *quarter past nine*, *twenty past five*, *twenty to four*, *twenty to six* and *ten past five*, and **`half past two` was on the fixed list, not the kept one.** So Ch14's instance was missed by the sweep on 2026-09-02.
+
+**It is reported and left alone.** Ch14 is locked, and this is style rather than a consistency defect, so the standing permission to edit a locked chapter does not reach it. **It needs the author's word.**
 
 ---
 

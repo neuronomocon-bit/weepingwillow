@@ -388,6 +388,14 @@ So when one comes in short, ask two questions: **which beat in the brief is not 
 
 **One rendering per figure, locked on first use.** The substrate parameters are the live case: *ninety minutes*, *2% of session load*, *0.4%*, *nineteen sessions*, *four hundred lines*, *autonomy constraint two*. Once a figure is on the page in one form it never appears in another.
 
+### ⚠️ And the inverse: ONE FIGURE PER RENDERING — added 2026-09-03, off the Ch16 draft
+
+The rule above stops one number wearing two phrases. **It does not stop one phrase naming two numbers, and that is the harder failure to see.**
+
+The Ch16 draft used ***five months*** for how long the archive reads ran, and again four paragraphs later for how long the substrate loads were logged. **Two different intervals, both arithmetically correct, one phrase**, in a chapter whose whole method is a reader following dates down a page. The second was changed to four months.
+
+**Check both halves off the `node tools/number-check.js` column.** For every repeated phrase in it, ask *which one is this?* The original rule fails visibly, because two spellings of one figure look wrong side by side. This one fails invisibly, because two uses of one phrase look like consistency.
+
 ---
 
 ---
