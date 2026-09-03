@@ -123,6 +123,18 @@ No script is committed to this repo yet. The measurement is a short throwaway th
 
 **Everything it prints is a candidate, not a defect.** A repeated phrase may be a motif, a locked line, or a character's own register. **Read the contexts before ruling on any of it.**
 
+### ⚠️ THE BASELINE IS A NOVELLA AND THE THING BEING MEASURED IS A NOVEL — added 2026-09-03
+
+**Book 1 is 23,405 words. Book 2 is 72,360.** The comparison is still sound, because **every rate here is per 10k and a rate is length-invariant.** That is the whole reason the method uses rates rather than counts, and nothing about the form difference weakens it.
+
+**What the form difference does change is the noise floor on the Book 1 side.** A per-10k rate computed over 23,405 words rests on very few instances: **Book 1's *no one* at 2.6 per 10k is about six occurrences in the entire book, and its *, which was* at 0 is an absence measured across a quarter of Book 2's length.**
+
+**So the asymmetry to hold in mind:** a Book 2 rate is a measurement; **a low Book 1 rate is a measurement with wide error bars, and a Book 1 zero is not proof the form was avoided — it may be proof the book was too short to contain one.**
+
+**The rule that follows:** **a Book 1 baseline under about ten absolute instances is a weak baseline.** Treat a Book 2 excess over it as a prompt to read the contexts, never as a finding on its own. **Count the family and read the constructions**, which is what the *no one* case above actually turned on — three instances of one construction, not a rate.
+
+**This does not license ignoring the baseline.** The high-count patterns (`thing`, the copular opener, contractions, em dashes) have hundreds of instances on both sides and are as reliable as they look.
+
 **⚠️ If a check is ever committed, add it in the same sitting as the rule it enforces.** Three false all-clears on the other project were caused by rules that existed only as sentences: a banned *phrase* sat in a chapter through two audits that both recorded it clean, because every audit checked banned words and none checked banned phrases.
 
 ---

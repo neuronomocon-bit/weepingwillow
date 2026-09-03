@@ -86,6 +86,8 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **Published 2026-05-14. 22 chapters, 23,405 words. Its text is law and it is never edited.**
 
+**⚠️ BOOK 1 IS A NOVELLA. BOOK 2 IS A NOVEL. The length gap is the design, not a defect in either.** 23,405 against 72,360 is roughly three to one, and **nothing follows from that ratio** — Book 1 is not truncated, Book 2 is not bloated, and neither number is evidence about the other. The form is recorded in `book1-published/README.md`; it is repeated here because this is the file that gets read first, and because **the two books' word counts sit next to each other in the status tables where the comparison invites itself.**
+
 Everything Book 1 is now lives in **`book1-published/`** — the chapters, the docx exports, its outline, its chapter briefs, and its full drafting and review history. **`book1-published/README.md` is the entry point.**
 
 **It is reference-only.** Three things still need it and nothing else may touch it:
