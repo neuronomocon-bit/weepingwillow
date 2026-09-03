@@ -54,5 +54,9 @@
   "14-open-jobs.md": {
     "sha256": "a5bf2f72d0825a9f26d6ed986b9ad317b160c23b4efea20085116cc95595442b",
     "words": 3298
+  },
+  "15-the-map.md": {
+    "sha256": "27e0dd9fb15adf7d219c987d17406cfdb92186532eaedc8107543755bf469ecb",
+    "words": 2883
   }
 }

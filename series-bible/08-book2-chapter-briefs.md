@@ -172,7 +172,7 @@ In Ch15 the index comes up and the number resolves.
 
 **The number is `MN-R-0338`**, planted on the page in Ch4 and read aloud by Willow herself. Every Recovered chapter Iris opens from Ch5 onward is filed under it. **The reader knows whose number it is from Ch4; Iris does not until Ch15.** That gap is the engine, and it only runs because the string is concrete.
 
-**The string never changes, and it belongs to two people (resolved 2026-09-02).** `MN-R-0338` was issued once to a veterans'-cohort patient, recycled on schedule when the retention window ran out, and issued again to Willow Halloway at intake. **What did not happen is the closed record coming off the live index.** Virek finds this in Ch8, says so to Marin in about eight lines of housekeeping, puts it to records, and records never get to it, because the company dissolves.
+**The string never changes, and it belongs to two people (resolved 2026-09-02).** `MN-R-0338` was issued once to a veterans'-cohort patient, recycled on schedule when its allocation hold ran out (not *retention window* — Ch15 names a thirty-year clinical retention, and the record must survive that long for the false join to work; see the Ch15 review pass), and issued again to Willow Halloway at intake. **What did not happen is the closed record coming off the live index.** Virek finds this in Ch8, says so to Marin in about eight lines of housekeeping, puts it to records, and records never get to it, because the company dissolves.
 
 Three consequences, and they are the whole reason this was worth doing:
 
