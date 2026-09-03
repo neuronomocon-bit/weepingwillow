@@ -64,29 +64,29 @@ Checked on every chapter of this book in addition to the standard passes:
 | **ACT I — WHAT CAME BACK** | | | | | |
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **✅ LOCKED 2026-09-02** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,951** | **✅ LOCKED 2026-09-02** |
-| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,055** | **✅ LOCKED 2026-09-02** |
+| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,052** | **✅ LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
-| 5 | Read | Iris | 3,600 | **DRAFTED 3,185** | **✅ LOCKED 2026-09-02** |
-| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,280** | **✅ LOCKED 2026-09-02** |
+| 5 | Read | Iris | 3,600 | **DRAFTED 3,183** | **✅ LOCKED 2026-09-02** |
+| 6 | Too Much | Iris | 3,400 | **DRAFTED 3,276** | **✅ LOCKED 2026-09-02** |
 | 7 | The Curve (ACT I TURN) | Iris | 3,600 | **DRAFTED 3,529** | **✅ LOCKED 2026-09-02** |
 | **ACT II — THE PROTOCOL** | | | | | |
-| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,851** | **✅ LOCKED 2026-09-02** |
+| 8 | **RECOVERED: Sessions** | Marin | 3,800 | **RE-AUDITED 3,833** | **✅ LOCKED 2026-09-02** |
 | 9 | Lena | Iris/Lena | 3,600 | **DRAFTED 3,329** | **✅ LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,042** | **✅ LOCKED 2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,099** | **✅ LOCKED 2026-09-02** |
-| 12 | After | Iris | 3,600 | **DRAFTED 2,734** | **✅ LOCKED 2026-09-02** |
+| 10 | **RECOVERED: Calm** | Marin | 3,400 | **DRAFTED 3,043** | **✅ LOCKED 2026-09-02** |
+| 11 | **MIDPOINT: Caleb** | Iris | 3,800 | **DRAFTED 3,073** | **✅ LOCKED 2026-09-02** |
+| 12 | After | Iris | 3,600 | **DRAFTED 2,711** | **✅ LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | Marin | 3,400 | **DRAFTED 2,883** | **✅ LOCKED 2026-09-02** |
 | 14 | Open Jobs | Iris | 3,600 | **DRAFTED 3,298** | **✅ LOCKED 2026-09-02** |
-| 15 | RECOVERED: The Map (ACT II TURN) | Marin + Iris coda | 3,800 | **DRAFTED 2,883** | ✅ **LOCKED 2026-09-03** |
+| 15 | RECOVERED: The Map (ACT II TURN) | Marin + Iris coda | 3,800 | **DRAFTED 2,873** | ✅ **LOCKED 2026-09-03** |
 | **ACT III — FINISHING** | | | | | |
 | 16 | The Name | Iris | 3,600 | **REVISED 3,955** | ✅ **LOCKED 2026-09-03** |
 | 17 | **RECOVERED: The Limiter** | Marin | 3,400 | **REVISED 3,032** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | **REVISED 3,577** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
 | 19 | Almost | Iris | 3,600 | **REVISED 3,727** | ✅ **LOCKED 2026-09-03** |
-| 20 | **RECOVERED: The Last Session** | Marin | 4,400 | **REVISED 3,807** | ✅ **LOCKED 2026-09-03** |
-| 21 | Why Lena | Iris | 3,600 | **REVISED 3,572** | ✅ **LOCKED 2026-09-03** |
-| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | **REVISED 3,228** | ✅ **LOCKED 2026-09-03** |
+| 20 | **RECOVERED: The Last Session** | Marin | 4,400 | **REVISED 3,804** | ✅ **LOCKED 2026-09-03** |
+| 21 | Why Lena | Iris | 3,600 | **REVISED 3,566** | ✅ **LOCKED 2026-09-03** |
+| 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | **REVISED 3,226** | ✅ **LOCKED 2026-09-03** |
 
 Legend: `—` not started · `WIP` in progress · `DONE` complete · **`LOCKED` reviewed and approved by the author — see LOCKED CHAPTERS below**
 
@@ -102,7 +102,7 @@ Two chapters written under the prequel arc survive because they are Marin/Meridi
 
 Marin, Willow Halloway's enrollment, Terri Roth at the desk. Approved 2026-08-04 under the old arc, re-audited against the current gates before it moved. **Full record in the Ch4 brief.** Headlines: the research identifier is now a concrete string on the page, `MN-R-0338`, because the draft established the mechanism and never gave the reader a token to carry; a session-count continuity error was corrected against Ch8; and `hands flat on the table` was nearly cut as a generic gesture beat before Ch8 turned out to quote it back, which is Law 6 doing its job.
 
-**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,851 words (from 3,387). Awaiting the author's proofread.**
+**Ch8 — RECOVERED: Sessions** · **RE-AUDITED 2026-09-02 and moved to `chapters-book2/08-sessions.md`. 3,833 words (from 3,387). Awaiting the author's proofread.**
 
 Sessions one through four from the observation side, then the substrate lab. Dr. Feld; Raman first named; the substrate parameters established as furniture. **Full record in the Ch8 brief.** Headlines:
 
@@ -146,20 +146,20 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 |---|---|---|---|
 | 1 | 3,400 | 2,931 | 469 |
 | 2 | 3,400 | 2,951 | 449 |
-| 3 | 3,600 | 3,055 | 545 |
+| 3 | 3,600 | 3,052 | 548 |
 | 4 | 3,600 | 3,394 | 206 |
-| 5 | 3,600 | 3,185 | 415 |
-| 6 | 3,400 | 3,280 | 120 |
+| 5 | 3,600 | 3,183 | 417 |
+| 6 | 3,400 | 3,276 | 124 |
 | 7 | 3,600 | 3,529 | 71 |
 | **ACT I COMPLETE** | **24,600** | **22,325** | **2,275** |
-| 8 | 3,800 | 3,851 | -51 |
+| 8 | 3,800 | 3,833 | -33 |
 | 9 | 3,600 | 3,329 | 271 |
-| 10 | 3,400 | 3,042 | 358 |
-| 11 | 3,800 | 3,099 | 701 |
-| 12 | 3,600 | 2,734 | 866 |
+| 10 | 3,400 | 3,043 | 357 |
+| 11 | 3,800 | 3,073 | 727 |
+| 12 | 3,600 | 2,711 | 889 |
 | 13 | 3,400 | 2,883 | 517 |
 | 14 | 3,600 | 3,298 | 302 |
-| 15 | 3,800 | 2,883 | 917 |
+| 15 | 3,800 | 2,873 | 927 |
 | **THROUGH CH15** | **53,600** | **47,444** | **6,156** |
 
 *Counts revised 2026-08-31 after the full audit. Ch3 gained 281 words from a beat the outline said it owed and the draft had skipped; every other movement is a few words either way from tic fixes.*
@@ -275,27 +275,27 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 |---|---|---|---|
 | 1 | Aftermath | 2,931 | **2026-09-02** |
 | 2 | Mortality | 2,951 | **2026-09-02** |
-| 3 | The Files | 3,055 | **2026-09-02** |
+| 3 | The Files | 3,052 | **2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | **2026-09-02** |
-| 5 | Read | 3,185 | **2026-09-02** |
-| 6 | Too Much | 3,280 | **2026-09-02** |
-| 8 | **RECOVERED: Sessions** | 3,851 | **2026-09-02** |
+| 5 | Read | 3,183 | **2026-09-02** |
+| 6 | Too Much | 3,276 | **2026-09-02** |
+| 8 | **RECOVERED: Sessions** | 3,833 | **2026-09-02** |
 | 7 | The Curve (ACT I TURN) | 3,529 | **2026-09-02** |
 | 9 | Lena | 3,329 | **2026-09-02** |
-| 10 | **RECOVERED: Calm** | 3,042 | **2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | 3,099 | **2026-09-02** |
-| 12 | After | 2,734 | **2026-09-02** |
+| 10 | **RECOVERED: Calm** | 3,043 | **2026-09-02** |
+| 11 | **MIDPOINT: Caleb** | 3,073 | **2026-09-02** |
+| 12 | After | 2,711 | **2026-09-02** |
 | 13 | RECOVERED: The Water | 2,883 | **2026-09-02** |
 | 14 | Open Jobs | 3,298 | **2026-09-02** |
-| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,883 | **2026-09-03** |
+| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,873 | **2026-09-03** |
 | | **ACTS I AND II** | **47,444** | |
 | 16 | **The Name** (ACT III OPENS) | 3,955 | **2026-09-03** |
 | 17 | **RECOVERED: The Limiter** | 3,032 | **2026-09-03** |
 | 18 | Escalation | 3,577 | **2026-09-03** |
 | 19 | Almost | 3,727 | **2026-09-03** |
-| 20 | **RECOVERED: The Last Session** | 3,807 | **2026-09-03** |
-| 21 | Why Lena | 3,572 | **2026-09-03** |
-| 22 | The Second Visit (ENDING) | 3,228 | **2026-09-03** |
+| 20 | **RECOVERED: The Last Session** | 3,804 | **2026-09-03** |
+| 21 | Why Lena | 3,566 | **2026-09-03** |
+| 22 | The Second Visit (ENDING) | 3,226 | **2026-09-03** |
 | | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,342** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
@@ -359,7 +359,7 @@ Two descriptions on the table. The record's, of what went into the machine from 
 
 > *She did not reach for it. There would have been nothing to reach for and she had stopped doing that in February.*
 
-She clears the substitutes in order, **including Lena's testimony, which could describe it from the outside better than anyone alive and not from the position the operation requires.** Then: ***Cannot determine whether these are the same category. Operation requires an input I do not have. No substitute identified.***
+She clears the substitutes in order, **including Lena's testimony, which could describe it from the outside better than any other person Iris could ask, and not from the position the operation requires (**narrowed in the 2026-09-03 editorial pass**, an unflagged member of the global-claim family).** Then: ***Cannot determine whether these are the same category. Operation requires an input I do not have. No substitute identified.***
 
 ### Two consequences the brief does not ask for
 
@@ -705,3 +705,58 @@ The `British clock` screen went from one hit to two when Ch16 was drafted. **Ch1
 **Eight new screens are committed to `tools/voice-audit.js`** — British lexis, US/UK ambiguous, `-ll-`, `-ce/-se`, `-re`, `ae/oe`, `-t` past participles, idiom and clock. **Both the tool and an independent second implementation now report clean**, which is the check the curly-quote heredoc failure taught us to run. All three of these sat inside a category the audit believed it had covered.
 
 **Also fixed in the tool (Law 7).** The protected-lines list still carried *"You don't have to optimize the answer"* as a contiguous string and had been reporting it MISSING against published Book 1 on every run since the correction. **The prose was corrected on 2026-08-31 and the checker was not**, so the tool spent two days reporting a defect that had already been ruled a records error. It now matches the fragment *"optimize the answer"*, which is what is actually locked.
+
+
+---
+
+# ⚠️ THE FULL-MANUSCRIPT EDITORIAL PASS — 2026-09-03
+
+**The author delivered all five project-defined editing passes as one read-only 17-item audit**, explicitly framed as a proposal list rather than authorization, and then authorized the edits. **Every item was executed. Eleven chapters were edited and re-locked in a single commit. Net −96 words, 72,342 → 72,246, and not one word was removed for the count.**
+
+## What was applied
+
+| # | Ch | Class | Change |
+|---|---|---|---|
+| 1 | 3 | Required, hard rule | *"That produced a particular kind of stacking"* → ***"That determined the stacking."*** The banned `kind of` abstraction; the physical description already showed the pattern. |
+| 2a | 6 | Required, confidence | *"because she had the comparison and no one else in the world did"* → ***"because no one else had these cases assembled."*** |
+| 2b | 6 | Required, confidence | *"She was the only person alive who could."* → ***"No one in her record could give that account."*** |
+| 3 | 10 | Required, hard rule | *"Marin caught herself waiting… Not for anything she could have named on a form"* → ***"Marin noticed that she was waiting… for something no form could name."*** Banned AI tic plus a retired negative setup. |
+| 4 | 12 | Required, hard rule | *"Then she nodded, once, and"* → ***"Then she nodded and."*** The comma does not change the construction. |
+| 5 | 15 | Required, hard rule | *"seemed like a way of pretending"* → ***"would have been pretending."*** Marin's judgment is settled and needed no hedge. |
+| 6 | 15 | Required, confidence | *"a resolution that exists nowhere else in the world and cannot be produced by any other route"* → ***"a resolution nothing else in the program could produce."*** |
+| 7a | 10 | Required, confidence | *"more times than anyone alive"* → ***"more times than anyone else in the program."*** |
+| 7b | 20 | Required, confidence | *"She knew that better than anyone alive because she had written the paragraph."* → ***"She knew that paragraph completely because she had written it."*** |
+| 8 | 21 | Required, causal inference | *"it has been trying to finish ever since… the taking completes nothing, so it takes more"* → ***"the procedure has never closed… the taking returns no completed result."*** **The record supports an operation with no stopping rule; it does not let Iris prove each taking occurs *because* the last one failed, and *trying* approaches intent.** The original's stronger ending was kept. |
+| 9 | 8 | Recommended, competence floor | Removed *"which was the most that could reasonably be asked of a program director at ten past five."* **The narrator graded Raman before his response demonstrated competence.** |
+| 10 | 11 | Recommended, rhythm | The book's densest non-dialogue chain, **86 words with seven uses of *and***, split into four. Longest resulting sentence: 20 words. |
+| 11 | 11 | Recommended, rhythm | The missed-turn sentence split into four so the delayed cognition lands at a sentence boundary. |
+| 12 | 12 | Recommended, rhythm | The four-step nightly check split into three. |
+| 13 | 12 | Recommended, copy | *"an hour after that that"* split into two sentences. |
+| 14 | 12 | Recommended, explanatory coda | Removed *"which was where she put it when she was not going to like the next part"* from Rourke's posture. **It stated her anticipated interior instead of rendering behavior.** |
+| 15a | 5 | Recommended, `, which was` | *"…which was the only reason it could still be satisfied"* → ***"That was why the dead system could still be satisfied."*** |
+| 15b | 22 | Recommended + **corrected** | See below. |
+| 16 | 9/21 | Optional | **Ruled keep.** The repeated Lena entrance is a behavioral callback, not a duplicated reflection block. |
+| 17 | 10 | Optional | **Ruled keep.** The water line's flatness suits Marin's distracted attention. Not changed to reduce a count. |
+
+## ⚠️ THREE THINGS THE SWEEP FOUND THAT THE AUDIT DID NOT
+
+**The audit flagged four members of the global-claim family and the family has seven.** Law 1: capping one spelling migrates the tic. The three unflagged, all now narrowed:
+
+- **Ch21** — *"Testimony from Lena, who could describe it from the outside better than anyone alive"* → ***"better than any other person Iris could ask."*** Identical construction to item 7b, which the audit classed Required.
+- **Ch22** — *"it was now the most important measurement in the world and she was the only person who could take it"* → ***"the most important measurement she was ever going to take and no one else could take it for her."***
+- **Ch22, item 15b** — **the audit's own proposed fix would have preserved the defect.** It classed the line as copy polish for the `, which was` construction and suggested *"Then the count. No one else in the world was in a position to write it,"* **which keeps the exact global claim items 2, 6 and 7 call Required.** Applied as ***"Then the count. Nothing in her record put anyone else in a position to write it,"*** fixing both.
+
+**Four bounded instances were deliberately left:** *the only person in Lowport* (Ch1, Ch2 ×2) and *the only person there who had known the man* (Ch12) are scoped rather than global, and Ch19's *no measurement of intent anywhere in the world* is a claim about instrumentation.
+
+## ⚠️ AND ONE PROTECTED LINE WAS NOT PROTECTED
+
+The audit lists *"Everything at once with the body still running"* as **the fixed band-five definition** that **must remain stable** across Ch7, Ch11 and Ch14. **It is not stable.** Ch7 and Ch11 read *everything, at once, with the body still running*; **Ch14 has no commas**, and uses the phrase as running prose describing one man's progression rather than as a restatement of the definition.
+
+**Ruled: the prose is right and the protection statement was imprecise.** Ch7 and Ch11 state the definition and are identical, which is what stability means here. Commas in Ch14 would collide with the *"and then the body had stopped"* that follows. **The record was corrected, not the book** — the same disposition as the *optimize the answer* incident.
+
+*(The "second list is the one that keeps you honest" refrain is genuinely verbatim in all three of Ch14, Ch16 and Ch21. An earlier check reported otherwise and the check was wrong, case-sensitively. A clean screen is evidence about the screen.)*
+
+## Verification run after the edits
+
+**All 21 quoted referents in the audit were verified against the locked prose before anything was touched** and every one existed verbatim. After the edits: **voice audit clean across all 22** (no straight quotes, no em dashes in prose, no *-body* forms in narration) · **hard-rule sweeps return zero** for `kind of` stacking, `caught herself`, `nodded once` and `nodded, once` · **the global-claim family sweep returns empty** · **the three split sentences produce a 20-word maximum** · **and five stale quotations of the changed prose were found in the briefs and `review-progress.md` and corrected.** That last check is the one the audit method demands after any bulk prose edit, and it caught real drift.
+

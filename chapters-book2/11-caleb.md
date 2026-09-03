@@ -70,7 +70,7 @@ She noted it and kept driving. At the yards it was past anything on her scale an
 
 The instruction to hurry arrived four seconds later.
 
-She was through the intersection by then. The intersection was where the industrial road cut across and took two minutes off the run to the outer yards, and she had used it in January and in February and had used it on the trip out to Caleb in March, and she went past it at forty with her hands correct on the wheel and the turn behind her before the reason to take it caught up.
+She was through the intersection by then. The industrial road cut across there and took two minutes off the run to the outer yards. She had used it in January, in February and on the trip out to Caleb in March. This time she went past at forty with her hands correct on the wheel. The turn was behind her before the reason to take it caught up.
 
 She did not brake. Braking at that point would have cost her more than the two minutes.
 
@@ -174,7 +174,7 @@ He said that he had noticed all of it in the first minute and had not written it
 
 “Good,” he said. “Someone should have the times.”
 
-He gave her the times. He had the minute the door went and the minute the woman sat down and the minute she left, and he had them to the minute because he had been looking at the stove clock for the whole of it, and he did not say why he had been looking at the stove clock and Iris did not ask, because there were two answers and only one of them was worth having and she was not going to be able to tell which she had got.
+He gave her the times. He had the minute the door went, the minute the woman sat down and the minute she left. He had them to the minute because he had been looking at the stove clock for the whole of it. He did not say why, and Iris did not ask. There were two answers, only one worth having, and she would not be able to tell which she had got.
 
 Every sentence of it was accurate. He was a man giving a clear account of a system he was inside, at the speed he had always given accounts, and he had told her more in ninety seconds than Rourke’s four hundred and sixteen had told her in a year.
 

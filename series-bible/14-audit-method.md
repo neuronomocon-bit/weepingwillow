@@ -650,3 +650,17 @@ The closing line was *"She went down the stairs and out onto the street, and she
 **THE CHECK, and it takes ten seconds:** read only the final sentence of the chapter and ask **whose book it just ended.** If that is not the answer the brief specifies, the coda has taken the ending regardless of its length.
 
 **The fix is a relocation, not a cut.** Ch22's coda went to five paragraphs and 273 words with no action in it, and the last movement gives the unresolved value an address instead of putting the entity on a street: *"the two of them at one address, and the address is a room with the lamp turned off and a woman in it who has been gone over twice and has nothing further in her to remove."* **The coda stays Willow's and the image is Iris's**, which is what the brief asked for and what only reading the last sentence alone would have caught.
+
+
+## ⚠️ AN AUDIT'S OWN FIX CAN PRESERVE THE DEFECT IT DECLARES ELSEWHERE — added 2026-09-03, off the full-manuscript editorial pass
+
+The author's 17-item pass classed the global exclusivity claim (*"no one else in the world"*, *"better than anyone alive"*) as a **Required** confidence defect in four places. **In a fifth it proposed a fix that removed a different problem from the same sentence and left the global claim standing.** Item 15b's suggested treatment for Ch22 was *"Then the count. No one else in the world was in a position to write it"* — correct about the `, which was` coda, and it re-states verbatim the construction items 2, 6 and 7 call a defect.
+
+**Accepting both as written would have narrowed the claim in four places and restated it in a fifth**, which is a worse outcome than leaving all five alone, because the survivors would then look deliberate.
+
+**THE RULE. When a pass classifies a construction as a defect anywhere, sweep the construction across the whole corpus before executing any single item, including the pass's own proposed replacements.** A proposal list is written item by item and is therefore blind in exactly the way Law 1 describes. **The list is a set of observations, not a specification**, and the family sweep is what turns it into one.
+
+**In this pass that sweep found three more instances beyond the four flagged**, one of them inside a proposed fix.
+
+**The corollary, which is Law 3 in a new place: a protected-lines list can be wrong about the prose.** The same pass declared *"Everything at once with the body still running"* a fixed definition stable across three chapters. Two of the three are identical and the third differs. **The prose was right and the protection was imprecise**, exactly as with *optimize the answer*. **Verify a protected line before honouring it, not only before changing it.**
+

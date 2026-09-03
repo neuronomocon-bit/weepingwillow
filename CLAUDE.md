@@ -144,9 +144,11 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ⚠️ BOOK 2 IS COMPLETE IN DRAFT. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED AND LOCKED AT 72,342 WORDS.
+# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 72,246 WORDS.
 
-**⚠️ THE BOOK IS DRAFTED AND IT LANDS AT 72,342**, against a 68,000–72,000 target. **It is 342 words over the top of the range and the author has ruled that immaterial: do not cut for the total.** The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
+**✅ THE FULL-MANUSCRIPT EDITORIAL PASS IS APPLIED (2026-09-03).** The author delivered a 17-item combined audit of all five editing passes as a read-only proposal list. **All 8 Required and all 7 Recommended items were applied, both Optional items were ruled keep, and three unflagged members of a flagged family were caught by sweeping and fixed.** Eleven chapters were edited and re-locked in one commit. **Net −96 words.** Full record in `review-progress.md` → THE FULL-MANUSCRIPT EDITORIAL PASS.
+
+**⚠️ THE BOOK IS FINISHED AND IT LANDS AT 72,246**, against a 68,000–72,000 target. **It is 246 words over the top and the author has ruled that immaterial: do not cut for the total.** The editorial pass took 96 words out and **not one of them was removed for the count** — every cut was a rule fix, a claim narrowed, or a chain split. The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
 
 Ch15 through Ch22 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Nothing is unreviewed. `python tools/verify-record.py` reports no gap, no broken lock and no stale tracker.**
 
@@ -229,29 +231,29 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 |---|---|---|---|---|---|
 | 1 | Aftermath | 2,931 | 3,400 | 469 | **LOCKED 2026-09-02** |
 | 2 | Mortality | 2,951 | 3,400 | 449 | **LOCKED 2026-09-02** |
-| 3 | The Files | 3,055 | 3,600 | 545 | **LOCKED 2026-09-02** |
+| 3 | The Files | 3,052 | 3,600 | 548 | **LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | 3,600 | 206 | **LOCKED 2026-09-02** |
-| 5 | Read | 3,185 | 3,600 | 415 | **LOCKED 2026-09-02** |
-| 6 | Too Much | 3,280 | 3,400 | 120 | **LOCKED 2026-09-02** |
+| 5 | Read | 3,183 | 3,600 | 417 | **LOCKED 2026-09-02** |
+| 6 | Too Much | 3,276 | 3,400 | 124 | **LOCKED 2026-09-02** |
 | 7 | The Curve (ACT I TURN) | 3,529 | 3,600 | 71 | **LOCKED 2026-09-02** |
-| | **ACT I** | **22,325** | **24,600** | **2,275** | 87% of budget |
-| 8 | **RECOVERED: Sessions** | 3,851 | 3,800 | -51 | **LOCKED 2026-09-02** |
+| | **ACT I** | **22,316** | **24,600** | **2,284** | 91% of budget |
+| 8 | **RECOVERED: Sessions** | 3,833 | 3,800 | -33 | **LOCKED 2026-09-02** |
 | 9 | Lena | 3,329 | 3,600 | 271 | **LOCKED 2026-09-02** |
-| 10 | **RECOVERED: Calm** | 3,042 | 3,400 | 358 | **LOCKED 2026-09-02** |
-| 11 | **MIDPOINT: Caleb** | 3,099 | 3,800 | 701 | **LOCKED 2026-09-02** |
-| 12 | After | 2,734 | 3,600 | 866 | **LOCKED 2026-09-02** |
+| 10 | **RECOVERED: Calm** | 3,043 | 3,400 | 357 | **LOCKED 2026-09-02** |
+| 11 | **MIDPOINT: Caleb** | 3,073 | 3,800 | 727 | **LOCKED 2026-09-02** |
+| 12 | After | 2,711 | 3,600 | 889 | **LOCKED 2026-09-02** |
 | 13 | RECOVERED: The Water | 2,883 | 3,400 | 517 | **LOCKED 2026-09-02** |
 | 14 | Open Jobs | 3,298 | 3,600 | 302 | **LOCKED 2026-09-02** |
-| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,883 | 3,800 | 917 | **LOCKED 2026-09-03** |
-| | **ACTS I AND II** | **47,444** | **53,600** | **6,156** | 89% of budget |
+| 15 | **RECOVERED: The Map** (ACT II TURN) | 2,873 | 3,800 | 927 | **LOCKED 2026-09-03** |
+| | **ACTS I AND II** | **47,359** | **53,600** | **6,241** | 88% of budget |
 | 16 | **The Name** (ACT III OPENS) | 3,955 | 3,600 | -355 | **LOCKED 2026-09-03** |
 | 17 | **RECOVERED: The Limiter** | 3,032 | 3,400 | 368 | **LOCKED 2026-09-03** |
 | 18 | Escalation | 3,577 | 3,800 | 223 | **LOCKED 2026-09-03** |
 | 19 | Almost | 3,727 | 3,600 | -127 | **LOCKED 2026-09-03** |
-| 20 | **RECOVERED: The Last Session** | 3,807 | 4,400 | 593 | **LOCKED 2026-09-03** |
-| 21 | Why Lena | 3,572 | 3,600 | 28 | **LOCKED 2026-09-03** |
-| 22 | The Second Visit (ENDING) | 3,228 | 3,800 | 572 | **LOCKED 2026-09-03** |
-| | **THROUGH CH22 — THE WHOLE BOOK** | **72,342** | **79,800** | **7,458** | 91% of budget |
+| 20 | **RECOVERED: The Last Session** | 3,804 | 4,400 | 596 | **LOCKED 2026-09-03** |
+| 21 | Why Lena | 3,566 | 3,600 | 34 | **LOCKED 2026-09-03** |
+| 22 | The Second Visit (ENDING) | 3,226 | 3,800 | 574 | **LOCKED 2026-09-03** |
+| | **THROUGH CH22 — THE WHOLE BOOK** | **72,246** | **79,800** | **7,554** | 91% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
@@ -358,7 +360,12 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 6. ~~**Ch20 — RECOVERED: The Last Session.**~~ **LOCKED 2026-09-03 at 3,807 words**, all 111 beats.
 7. ~~**Ch21 — Why Lena.**~~ **LOCKED 2026-09-03, 3,572 words.**
 8. ~~**Ch22 — The Second Visit.**~~ **DRAFTED 2026-09-03, 3,246 words, every beat present, every negative gate clean. ⏳ NEEDS THE AUTHOR'S REVIEW, then a lock, and then Book 2 is finished in draft.**
-9. ~~**After Ch22 locks: the five editing passes.**~~ **THIS IS NOW THE NEXT WORK.** Run across the whole book rather than per chapter. **⚠️ Every chapter is locked, so nothing in these passes may edit one except under the four standing-permission conditions — and a pass that wants to change many chapters at once is the exact shape of the accident the lock exists to prevent.** Expect to produce a list of proposed changes for the author rather than a diff.
+9. ~~**After Ch22 locks: the five editing passes.**~~ **DONE 2026-09-03.** The author delivered all five combined as one read-only 17-item audit and then authorized the edits. **Applied in full; eleven chapters edited and re-locked.**
+10. **Bring the two files that lag the prose forward.** `01-world.md`'s SUBSTRATE STATE MODEL stops at Ch17 and says it governs Ch20; Ch20, Ch21 and Ch22 are written and each added substrate state it does not carry. And `07-book3-outline.md` is dated 2026-08-27, **before a single Book 2 chapter existed**, so it has never been reconciled with what Book 2 actually planted.
+11. **Write the 22 Book 3 briefs** against the reconciled outline.
+12. **The brief-by-brief under-specification audit of all 22.** Still unrun.
+
+**⚠️ THE WHOLE MANUSCRIPT IS LOCKED AND THE EDITORIAL AUTHORIZATION IS SPENT.** The four standing conditions govern every future change to any chapter. **A pass that wants to change many chapters at once is the exact shape of the accident the lock exists to prevent**, so produce a list of proposed changes for the author rather than a diff.
 8. **Ch22 — The Second Visit.** The third refusal. Pays off Ch14's four option cards and plants Lena for Book 3. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
    - Read the brief **and grep both bible files for every chapter that refers back to the one being drafted.** The Ch17 grep produced the two parameter changes, which are in `02-characters.md` and in no brief.
    - Read the **prose** of the chapters that introduced anything it reuses, not their briefs. Ch16's two best beats and Ch17's whole ending were locked prose no brief mentions.
@@ -402,7 +409,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch22 2026-09-03). 72,342 words.** **The whole of Book 2 is closed to editing.**
+**✅ ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED, EDITED AND LOCKED. 72,246 words.** **The whole of Book 2 is closed to editing.** **Eleven of them were edited under the author's blanket authorization of 2026-09-03 for the full-manuscript editorial pass, and re-locked in the same commit.** That authorization was for that pass and is spent; the four standing conditions govern again.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

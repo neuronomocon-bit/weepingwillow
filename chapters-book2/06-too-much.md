@@ -138,7 +138,7 @@ She pulled the door to behind her the way the officer had left it.
 
 ***
 
-She sat in the van in the bay with the engine off and the window down and did the comparison, because she had the comparison and no one else in the world did.
+She sat in the van in the bay with the engine off and the window down and did the comparison, because no one else had these cases assembled.
 
 Joel, in February, case ref K-01. Something specific removed and the rest of him running. He had gone to work. He had answered his wife in the correct order and at the correct length, and Leah had spent four months trying to name what had left and had never once been able to.
 
@@ -190,7 +190,7 @@ The bay was empty by three, and the rain still had not arrived.
 
 She stayed there a while longer and did the part she had driven out there for and had not done yet: work out what the last six hours had actually been like.
 
-She was the only person alive who could.
+No one in her record could give that account.
 
 He had been awake for all of it. He had been oriented, correct, capable of answering, in possession of every fact about himself except the ones that would have made any of them matter. He had been asked whether anything had changed, and he had gone and looked and found nothing, because the part of him that would have recognized a change as a loss was the part that was no longer there to do the recognizing. He had not been frightened. He had not been in pain. He had not been sad about the four bags standing by his door, or about whoever had filled them, or about the photographs he had stopped sorting and put a stone on.
 

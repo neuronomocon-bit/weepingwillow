@@ -70,7 +70,7 @@ The second is that the map was of a person who was loved, and the loving is in t
 
 So there are two contents and they are not the same kind of content. A person, mapped. And another person’s whole feeling about that person, taken entire and never returned.
 
-The third is that it has been trying to finish ever since. Six years. It takes, and the taking completes nothing, so it takes more, and it has never stopped, because nothing anywhere in six years of documentation wrote down a condition under which it should.
+The third is that the procedure has never closed. Six years. It takes, the taking returns no completed result, and nothing anywhere in six years of documentation wrote down a condition under which it should stop.
 
 She checked that part hardest, because it sounded like a claim about intent and it is not. It is an absence in a specification. She had the specification. There is no stopping rule in it, and there had never been any reason to write one, because a session ends when the operator ends it.
 
@@ -120,7 +120,7 @@ She could not run it. She can compare two records and she can compare two bounda
 
 She did not reach for it. There would have been nothing to reach for and she had stopped doing that in February.
 
-What she did was establish which operation it was and check that no substitute would serve. She went through them in order and wrote each one down as she cleared it. Comparison by boundary, insufficient. Comparison by attachment, insufficient. Testimony from Lena, who could describe it from the outside better than anyone alive and could not describe it from the position the operation required. Her own record from before January, complete and factual and not containing the item itself, because no one writes that down while they still have it.
+What she did was establish which operation it was and check that no substitute would serve. She went through them in order and wrote each one down as she cleared it. Comparison by boundary, insufficient. Comparison by attachment, insufficient. Testimony from Lena, who could describe it from the outside better than any other person Iris could ask, and could not describe it from the position the operation required. Her own record from before January, complete and factual and not containing the item itself, because no one writes that down while they still have it.
 
 Then she wrote the finding.
 

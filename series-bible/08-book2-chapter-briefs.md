@@ -380,7 +380,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
-**As Written (3,055 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`).**
+**As Written (3,052 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -526,14 +526,14 @@ What comes up first is a baseline mapping session, a patient under a research id
 
 - **⚠️ A repeatable error does not rule out damaged media.** The old line — *"An error at a consistent offset is not damage, because damage does not keep an appointment"* — was too categorical. **The chapter's own logic was already about elapsed time and had not said so.** It now reads: the error returns at ninety-one minutes **and a different block**, so a fault on the tape would have stayed where it was on the tape and this one is keeping time instead. **That puts the reader in front of the cartridge and does not rule the cartridge out**, and the cross-test on the second reader is what isolates it. The eleven-years line survives, attached to the isolation principle instead.
 - **`not random` is a finding and now has a basis.** She measures forty intervals and gets **nothing under twenty-six hours and nothing over forty**, *"which is not what noise does, because noise hands you the short ones and the long ones as well."* Bounded with no tails. **Still no mechanism, and she still writes it down with no conclusion attached.**
-- **The archive authenticates against a frozen copy of itself.** *"Nothing it wanted was anywhere except on the media in front of her, which was the only reason it could still be satisfied."* ⚠️ **Leaving this ambiguous invited the reading that Meridian infrastructure is still alive somewhere, which is not the story.**
+- **The archive authenticates against a frozen copy of itself.** *"Everything it required was on the media in front of her. That was why the dead system could still be satisfied."* (**Reworded in the 2026-09-03 editorial pass**, item 15a, to drop an explanatory `, which was` coda.) ⚠️ **Leaving this ambiguous invited the reading that Meridian infrastructure is still alive somewhere, which is not the story.**
 - **Two readers, not three.** *"Two images running while she read a third off the array"* could be read as three physical readers. Now *"two cartridges imaging at once while she worked on an image already written to the array."*
 
 **⚠️ PROTECTED — the review named these and they do not move:** the anonymity of `MN-R-0338` (**do not put Willow's name in this chapter**), the nine-note progression from four sentences to four words to nothing, the phone-recovery memory where *"the ready had arrived on its own without being sent for,"* and the closing *"Get the number."* Also *"It had been left in the middle of a sentence and it picked the sentence up."*
 
 **The operator's first note is the chapter's best beat and is untouched:** she keeps flawed data rather than making Willow repeat part of a four-hour procedure, explains the deviation, defers correction unless it becomes material, and calls her **she**. **A tiny act of care surviving in a system that had otherwise turned her into an identifier.**
 
-**As Written (3,185 words, drafted 2026-08-31, `chapters-book2/05-read.md`).**
+**As Written (3,183 words, drafted 2026-08-31, `chapters-book2/05-read.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -605,7 +605,7 @@ Also: raw image versus usable index clarified (the image closes that evening; an
 
 **On `nothing`:** the review is right that it is concentrated and that the structural uses carry the chapter — his apology for being called out *for nothing*, *"There was no event"*, the null proximity check, his honest report that nothing had changed, and the absence of anyone to receive Iris's account. **If a compression pass runs, take incidental ones and leave those five.**
 
-**As Written (3,280 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`).**
+**As Written (3,276 words, drafted 2026-08-31, `chapters-book2/06-too-much.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -743,7 +743,7 @@ Downstairs, Virek and a decay curve. **Raman** first named.
 
 **Craft:** Virek stays late to re-run the curve, it comes back within tolerance again, and he goes home. Marin sees his light on from the parking lot and thinks nothing of it. **No dramatic irony in the prose. This is a Tuesday.**
 
-**As Written (3,851 words). Re-audited 2026-09-02 and moved into `chapters-book2/`.**
+**As Written (3,833 words). Re-audited 2026-09-02 and moved into `chapters-book2/`.**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -886,7 +886,7 @@ Marin walks the rest of the way deciding whether she is imagining it, and decide
 
 **Placement note:** this chapter sits directly before the midpoint on purpose. The reader watches a woman be gently emptied by people who love her, and then watches Caleb be emptied by the thing that woman's grief built.
 
-**As Written (3,042 words). Drafted and audited 2026-09-02.**
+**As Written (3,043 words). Drafted and audited 2026-09-02.**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -974,7 +974,7 @@ Willow's face: **first change.** Caleb is the first whole structure she has ever
 
 **And the mechanical checks, before the commit:** `node tools/number-check.js 11-*.md` for the arithmetic and the intervals, `node tools/voice-audit.js --per-ch`, the beat count against **this brief and `11-key-dialogue-notes.md` both**, and the cascade grep on anything the chapter changes about a locked chapter's facts.
 
-**As Written (3,099 words, drafted 2026-09-02, `chapters-book2/11-caleb.md`).**
+**As Written (3,073 words, drafted 2026-09-02, `chapters-book2/11-caleb.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -1011,7 +1011,7 @@ First, **Caleb cannot make a refusal.** A refusal is worth something because the
 
 **Three smaller corrections:** a fifteen-second pulse count multiplies by four, so it is **thirty seconds and doubled**. *Longest recorded* was wrong because Ch1 already has a four-second retrieval on the site address, so it is **longest functional delay** (Ch1's functional one was three seconds). And *"she was not assembled now"* certified Willow's condition from ninety meters with no face, which is the Ch10 gate again: now **"Something in the woman had settled that had not been settled before, and Iris could not have said which part of her it was."**
 
-**The chapter grew from 2,852 to 3,099 entirely out of the medical repair**, which is what the review predicted and the only expansion it needed.
+**The chapter grew from 2,852 to 3,099 entirely out of the medical repair (3,073 after the 2026-09-03 editorial pass split two conjunction chains)**, which is what the review predicted and the only expansion it needed.
 
 **⚠️ Gate compliance, both directions.** No sentence calls Caleb empty, hollow, absent or gone, **and none vouches for anything still being in him.** Every line is behavior or an answer. **The reader decides what was behind them, and Iris never reflects on this being the second time.**
 
@@ -1045,7 +1045,7 @@ The second half is Rourke. Iris brings her Caleb, who was a documented Taken cas
 
 **Craft:** No funeral scene. If there is a service, it is off the page or it is three sentences. **Do not give Iris a moment where something almost comes through.** Nothing comes through. That is the chapter.
 
-**As Written (2,734 words, drafted 2026-09-02, `chapters-book2/12-after.md`).**
+**As Written (2,711 words, drafted 2026-09-02, `chapters-book2/12-after.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -1301,7 +1301,7 @@ The chapter ends there. **No reflection, no dawning, no closing line with weight
 
 **And the doubled sentence is deliberate.** *"The signature confirmed that the working set had been purged. The working set had been purged."* The second is not redundant: **it is the proposition Marin signs after consciously narrowing what the signature means.**
 
-**AS WRITTEN (drafted 2026-09-02, revised the same day, 2,883 words. Marin 2,471, Iris coda 412 — under the 500 cap).**
+**AS WRITTEN (drafted 2026-09-02, revised the same day, 2,873 words. Marin 2,461, Iris coda 412 — under the 500 cap).**
 
 **⚠️ THE CHAPTER'S BIGGEST PAYOFF IS IN CH4's DIALOGUE AND NO BRIEF MENTIONS IT.** Ch4 has Marin say, across that table: *"a version of your data will exist in a system I have access to, and I will not be opening it, and there's a log that would show it if I did."* Willow: *"Would anyone read the log?"* Marin: *"Probably not."* **Ch15 is Marin opening it.** The first draft did not touch this and was 43% of budget. It is now the hinge of the Marin half: she recalls the promise, sets it beside the fact that verification requires opening the record, opens it, **and the log writes a line.** *"She did not see the line, because the log is not displayed, but she knew the field it went into and the format it went in, and she had specified both."* **The Marin half closes on the log having two lines in it and no one reading it.**
 
@@ -1309,13 +1309,13 @@ The chapter ends there. **No reflection, no dawning, no closing line with weight
 
 **THE FLUSH CONFIRMATIONS, added in revision, and this is the book's engine sitting inside a form.** Closure asks the substrate to certify it is no longer holding the patient's material, and the substrate answers in numbers. **Twelve lines, highest point four one, lowest point three eight, every one inside a two percent tolerance by a factor of five.** She ticks the box **and the box is correctly ticked.** *"A number inside tolerance is a number inside tolerance, and the entire reason a tolerance exists is so that no one is asked to make a judgment about the difference between point three eight and point four one at nine in the morning with a folder open in front of them."* **Nothing connects it to anything. There is nothing to connect.**
 
-**THE PURGE IS DRAMATIZED RATHER THAN SUMMARIZED.** Four minutes, oldest first, and she watches it *"because leaving the room while it ran seemed like a way of pretending it was not happening."* Session four goes at about the ninety-second mark, **which is the session with Willow's joke at nineteen minutes that Feld took a second too long to catch** — the recording already gone with the session before, the note going now, the intermediate states after the note. **Feld's closing note is two lines and Marin can see the first four words in the preview pane and does not open it**, because the clinical file was never hers and being the last living relative does not change the schedule.
+**THE PURGE IS DRAMATIZED RATHER THAN SUMMARIZED.** Four minutes, oldest first, and she watches it *"because leaving the room while it ran would have been pretending it was not happening."* (**Hedge removed in the 2026-09-03 editorial pass**, item 5: Marin’s judgment is settled and needed no uncertainty marker.) Session four goes at about the ninety-second mark, **which is the session with Willow's joke at nineteen minutes that Feld took a second too long to catch** — the recording already gone with the session before, the note going now, the intermediate states after the note. **Feld's closing note is two lines and Marin can see the first four words in the preview pane and does not open it**, because the clinical file was never hers and being the last living relative does not change the schedule.
 
 **And the outcome data outlives the person as a row:** pooled under the identifier with no name, in the denominator of every figure the program publishes from here on, and in eighteen months someone at a conference puts up a slide with four hundred and something in the corner of it. **Marin built the pooling rule as well, and it is the reason the results mean anything.**
 
 **TERRI GETS THE LAST KINDNESS IN THAT BUILDING.** She has the closure pack on the counter before Marin reaches it: *"I pulled it when it came through the queue. I thought you would rather it was sitting here than have to come and ask me for it."* Then *"I was sorry about your sister. She was funny with me on the intake day and I have thought about it since."* / **"She was funny with everyone."** Then the phone goes and she answers it. *"Nothing after it was unkind. The place simply went back to being a workplace, at the speed a workplace goes back."*
 
-**THE BASELINE.** Highest-resolution product the program makes; taken slowly across most of a day by a technician with good hands. **The structures themselves, indexed and addressable, at a resolution that exists nowhere else and cannot be produced by any other route.** The target structure at full charge with nine years of load still on it. *"It was the state of her sister on the fourteenth of the month at ten in the morning, with the fog on the window and the water going under the floor, holding all of it."* Partway through she catches herself **reading the index rather than looking at the render, in the way she would have read anyone's**, as far as the structures laid down before Willow was nine, the ones no one remembers acquiring. **She consents to the retention on page six, initialed, having asked two questions and been given accurate answers to both, and having initialed it afterward rather than before.**
+**THE BASELINE.** Highest-resolution product the program makes; taken slowly across most of a day by a technician with good hands. **The structures themselves, indexed and addressable, at a resolution nothing else in the program could produce.** (**Narrowed in the 2026-09-03 editorial pass**, item 6: Marin can establish uniqueness within the program, not across every system in the world.) The target structure at full charge with nine years of load still on it. *"It was the state of her sister on the fourteenth of the month at ten in the morning, with the fog on the window and the water going under the floor, holding all of it."* Partway through she catches herself **reading the index rather than looking at the render, in the way she would have read anyone's**, as far as the structures laid down before Willow was nine, the ones no one remembers acquiring. **She consents to the retention on page six, initialed, having asked two questions and been given accurate answers to both, and having initialed it afterward rather than before.**
 
 **THE TURN IS NOT AN ACTION.** She signs, leaves at twenty to six, drives home in traffic and stops for milk because there is no milk. The evening is ordinary. **"Nothing happened."** Then: *"What had changed was that the file existed and she had seen the state of it, and there was no available arrangement of the rest of her life in which she went back to not knowing that."* Eleven days of not going down, including **two occasions on which she notices that she has not thought about it, and records that too, in a sentence with nothing on the end of it.** On the twelfth day she comes in at ten past seven, opens it again, looks for four or five minutes, and goes up and starts her day.
 
@@ -1741,7 +1741,7 @@ This is the file Iris has. **It licenses the chapter. It does not narrate it,** 
 
 **PROTECTED BY NAME, per the author:** *“In the eleventh month it began giving back”* · **the four formulations of *not an answer*** · **the record removing itself from the right-hand column** · the even-lighting argument paid back through the dark spans · *“It was like putting something down”* · ***“Nothing objected”*** · and the final objective inventory ending with one fewer person.
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,807 words against a 4,400 budget, 87%. All 111 beats present. ✅ LOCKED 2026-09-03.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,804 words against a 4,400 budget, 87%. All 111 beats present. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ RULED BY THE AUTHOR 2026-09-03: THE NAME STAYS OFF THE PAGE. DO NOT QUOTE IT, EVER.** The reasoning, recorded so no later pass reopens it: withholding it preserves the distinction that **Marin says her sister’s name and does not address the entity**, and lets the reader supply the word **without the prose collapsing those two meanings.** It also fits the chapter’s documentary logic: **the one word absent from every form is absent from the page too.** Quoting would be more immediately dramatic and **less exact, and exactness matters more here.** The original note follows.
 
@@ -1841,7 +1841,7 @@ Marin's record also contains the deviation, documented, which means **Iris now k
 
 **The author on length:** at 3,203 the chapter already felt complete rather than underbuilt, and **no material was to be added merely to approach budget.** The revision added 369 words and all of it was the three fixes.
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,572 words against a 3,600 budget, 99%. All 81 beats present, all four negative gates clean. ✅ LOCKED 2026-09-03.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,566 words against a 3,600 budget, 99%. All 81 beats present, all four negative gates clean. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THE FOUR NEGATIVE GATES WERE SCREENED AND ALL PASS**, because this chapter's whole job is what it does not do: **the entity is never named on the page · Lena is never connected to danger, in any wording · no warn-or-risk language appears anywhere · and there is no almost-had-it phrasing.** The subplot file requires that Iris never consider Lena to be in danger, and the prose does not mark the not-considering either, because marking it would be naming the absence.
 
@@ -1855,7 +1855,7 @@ Marin's record also contains the deviation, documented, which means **Iris now k
 
 ***"She did not reach for it. There would have been nothing to reach for and she had stopped doing that in February."***
 
-**Then she clears the substitutes in order** — boundary, attachment, **Lena's testimony, which could describe it from the outside better than anyone alive and not from the position the operation requires** — and her own pre-January record, *"complete and factual and not containing the item itself, because no one writes that down while they still have it."*
+**Then she clears the substitutes in order** — boundary, attachment, **Lena's testimony, which could describe it from the outside better than any other person Iris could ask, and not from the position the operation requires (**narrowed in the 2026-09-03 editorial pass**, an unflagged member of the global-claim family)** — and her own pre-January record, *"complete and factual and not containing the item itself, because no one writes that down while they still have it."*
 
 **The finding:** ***Cannot determine whether these are the same category. Operation requires an input I do not have. No substitute identified.*** And: *"It was the most accurate sentence she had written in six weeks and it closed nothing at all."*
 
@@ -1954,7 +1954,7 @@ Willow's face reaches **specific** and stays there for the rest of the series. T
 
 **The author on length:** the chapter *"earns its 85%"* and does not read thin, and **the book being 360 words over target is immaterial. Do not cut for the total.**
 
-**AS WRITTEN (drafted and revised 2026-09-03, 3,228 words against a 3,800 budget, 85%. All beats present, every negative gate clean. ✅ LOCKED 2026-09-03.)**
+**AS WRITTEN (drafted and revised 2026-09-03, 3,226 words against a 3,800 budget, 85%. All beats present, every negative gate clean. ✅ LOCKED 2026-09-03.)**
 
 **⚠️ THE NEGATIVE GATES WERE SCREENED FIRST, BECAUSE THIS CHAPTER IS MOSTLY MADE OF THEM, AND ALL OF THEM PASS.** **No appetite language anywhere in the chapter, coda included** · **no word in the coda naming the feeling** (no anger, no frustration, no want, no denial) · **the entity is never named on the page and neither is Lena, in any wording** · **no character theorizes about why it failed**, and the narration does not either · **Iris never recognizes the face** · no em dash, no exclamation, no straight quote, no *-body* form in narration.
 

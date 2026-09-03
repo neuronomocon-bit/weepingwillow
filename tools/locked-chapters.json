@@ -8,44 +8,44 @@
     "words": 2951
   },
   "03-the-files.md": {
-    "sha256": "ec67fc35767d11a467609e458ec1c3229c135b5de54e0b69920eb976a1c167d7",
-    "words": 3055
+    "sha256": "9e1cbc208eb2ae64c718bd57042be8239715efabe4091bc58d0b5bab6e11d97a",
+    "words": 3052
   },
   "04-intake.md": {
     "sha256": "08bd4616ace7e94a7886bd8b3bf576ddfc704d0de07fcb7c3e12cdd421fb400f",
     "words": 3394
   },
   "05-read.md": {
-    "sha256": "09b283ac75f56b325d39ae852b4f73525527ea6757f102464a3a37d2700dac5c",
-    "words": 3185
+    "sha256": "5ec8241a817c7ccba4690a2cceb8fe939466797b44c7980ad90d18574aba8202",
+    "words": 3183
   },
   "06-too-much.md": {
-    "sha256": "788af8ea2d71303695ac4e055ca4b2a948ace8cffef32feb28a78cc32f6d69b9",
-    "words": 3280
+    "sha256": "2076814d892c56ba5567e1d85395e82c4f705a9b6a6473aa176ad19308c5deb1",
+    "words": 3276
   },
   "07-the-curve.md": {
     "sha256": "822d3825967e6d71859407d2a24ec512e328b6cd932da7fc54e2f445b6f61def",
     "words": 3529
   },
   "08-sessions.md": {
-    "sha256": "d29b0ac3200c97da1e512eb1e9a7e1641d7e4ac16848a52e4615e3e4a1784d4a",
-    "words": 3851
+    "sha256": "ab8e0f2beb961777e02ecb29b8570cbc3cf5cf296cd1747fb0930c736febde3e",
+    "words": 3833
   },
   "09-lena.md": {
     "sha256": "9192f9b02a18d5b092c74fbb5d40bd139731efddb1f4170bbb199d8d9d75c1be",
     "words": 3329
   },
   "10-calm.md": {
-    "sha256": "b78d90d5b3917b754fee52710753e561340e41b8a6f8a81c5b309c53123fde53",
-    "words": 3042
+    "sha256": "30d4fde0ddc54b6f8ff54840025caf19d05a2975e81490a7622572938ad045e3",
+    "words": 3043
   },
   "11-caleb.md": {
-    "sha256": "5fc26276017e51bcdd60e45bc6bf72b1aa6824047fb68c362aeae0d429056241",
-    "words": 3099
+    "sha256": "900ec0d63f4434c9ae8046c67442523748fbd0e607aabc2e1b5cd576222e86cf",
+    "words": 3073
   },
   "12-after.md": {
-    "sha256": "b1a90e98ab6469fe1efe1140e895c9dd3477b0a0626aa41d375eb6a5174f64a2",
-    "words": 2734
+    "sha256": "8cfa937f98f9ed6b6005ae2e937c6288a4fe2f48c5d4a716d3fb4156a7d3a356",
+    "words": 2711
   },
   "13-the-water.md": {
     "sha256": "97a93f12c0f0168ca4a19da5425f27aada4cc2c3e7fe7c142b0359bc898600ec",
@@ -56,8 +56,8 @@
     "words": 3298
   },
   "15-the-map.md": {
-    "sha256": "27e0dd9fb15adf7d219c987d17406cfdb92186532eaedc8107543755bf469ecb",
-    "words": 2883
+    "sha256": "ac3aea81430de2cab85ff7cfa38a9bc74fbe2de7e5da79308cad26dab37378a4",
+    "words": 2873
   },
   "16-the-name.md": {
     "sha256": "b6d3121eba3e67ede1c50320c49da2fc2c1d9656dc1fed0d15976ae7975d4c73",
@@ -76,15 +76,15 @@
     "words": 3727
   },
   "20-the-last-session.md": {
-    "sha256": "a62eeb583242bca2d105e5dab1af848a94543740590428fdf362e3957a0636dc",
-    "words": 3807
+    "sha256": "27d149caa51e53ea4cd6344a95bf2a0bb965eab5aa56fc72270bdc1c0c4dd49b",
+    "words": 3804
   },
   "21-why-lena.md": {
-    "sha256": "2a45f626a55096575b5b14a895cf0fe55ee7da4f15a077cc93686d49389ff013",
-    "words": 3572
+    "sha256": "26ccccb8d9f38cba4a38f2cc51187223f54cc99375b8dc520d0149ce865a051e",
+    "words": 3566
   },
   "22-the-second-visit.md": {
-    "sha256": "37108507225cf3e7d6d14428e4a02f9e8f391cbb786e89f9a89cd0ece6ffaf2d",
-    "words": 3228
+    "sha256": "6142cd4b3da15551478452246393dcb2e5fd2153121e8ec0015126e3b2d52bc4",
+    "words": 3226
   }
 }

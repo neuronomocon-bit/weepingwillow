@@ -16,7 +16,7 @@ Iris put her bag down on the dry side and started at the door end.
 
 ***
 
-The pallets were not sorted. They had been loaded in the order things had come off a truck, and the truck had been loaded in the order things had come out of a building, and the building had been emptied by people who were being made redundant on a schedule they had been given in writing. That produced a particular kind of stacking. Heavy at the bottom, correct. Fragile on top, correct. And then, at some point in every column, a run of four or five identical cases that had clearly gone on together because they had come off a shelf together, followed by something that had no business next to them.
+The pallets were not sorted. They had been loaded in the order things had come off a truck, and the truck had been loaded in the order things had come out of a building, and the building had been emptied by people who were being made redundant on a schedule they had been given in writing. That determined the stacking. Heavy at the bottom, correct. Fragile on top, correct. And then, at some point in every column, a run of four or five identical cases that had clearly gone on together because they had come off a shelf together, followed by something that had no business next to them.
 
 She read the labels along the second row. Most of them were printed and had survived. A few were handwritten on tape, and the tape had lifted and taken the ink with it.
 

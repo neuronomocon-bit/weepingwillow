@@ -180,7 +180,7 @@ She walked the rest of the way to the turn deciding whether she had imagined it.
 
 The evidence was not good. Willow had answered correctly and promptly, she had known what the joke was for, and she had said the accurate thing about it, and none of that was the behavior of a person who had missed anything. Marin had been braced for the shove because she had been braced for the shove for twenty years. A person does not shove you every time. A person is sometimes just walking.
 
-There was also this. Her sister was three months out from a course of treatment that had done precisely what it was built to do, on schedule, with the outcome measures to show for it. Nothing in the mechanism touched anything but the target structures, and Marin had read the mechanism more times than anyone alive.
+There was also this. Her sister was three months out from a course of treatment that had done precisely what it was built to do, on schedule, with the outcome measures to show for it. Nothing in the mechanism touched anything but the target structures, and Marin had read the mechanism more times than anyone else in the program.
 
 If it was not nothing, then it was that.
 
@@ -190,7 +190,7 @@ She looked at that for a moment, from a slight distance, as she would have looke
 
 They came back along the road because the tide had turned.
 
-Somewhere on the last half mile Marin caught herself waiting. She had been doing it since about the eighth week. Not for anything she could have named on a form. She had wanted a sister who was not in pain and she had one, walking beside her in good light, talking about a spreadsheet, and Marin kept holding a space open next to all of it for the rest of her to come back into.
+Somewhere on the last half mile Marin noticed that she was waiting. She had been doing it since about the eighth week, for something no form could name. She had wanted a sister who was not in pain and she had one, walking beside her in good light, talking about a spreadsheet, and Marin kept holding a space open next to all of it for the rest of her to come back into.
 
 Three months was not long. People took a year to come out from under nine.
 

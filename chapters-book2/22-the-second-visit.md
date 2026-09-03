@@ -130,7 +130,7 @@ Then she turned and crossed the room and opened the door and closed it behind he
 
 Iris sat in the chair for a period she did not time.
 
-Then she got up and did the check, because it was procedure and because it was now the most important measurement in the world and she was the only person who could take it.
+Then she got up and did the check, because it was procedure and because it was the most important measurement she was ever going to take and no one else could take it for her.
 
 Location: the place where a response should have started. She gave it the length of time she gave things.
 
@@ -172,7 +172,7 @@ She stood at the table with the pen for some time before the second one, because
 
 *Did not complete. No mechanism identified.*
 
-Then the count, which was the part no one else in the world was in a position to write.
+Then the count. Nothing in her record put anyone else in a position to write it.
 
 *Third occasion it has stopped short with me. First with contact and a full sequence, run twice.*
 

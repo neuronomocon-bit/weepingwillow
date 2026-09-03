@@ -26,7 +26,7 @@ She could have asked Feld’s team and they would have done it correctly and wou
 
 The purge takes four minutes and it goes oldest first.
 
-She watched it because leaving the room while it ran seemed like a way of pretending it was not happening. The terminal listed the items as it took them. Baseline consent, executed, retained under a different schedule and therefore skipped. Session one, the intermediate states for session one, the operator notes for session one. Session two. The notes were Feld’s and they were four to six lines each and Marin had never read them, because the clinical file was not hers, and she did not read them now either. She watched the line count go down.
+She watched it because leaving the room while it ran would have been pretending it was not happening. The terminal listed the items as it took them. Baseline consent, executed, retained under a different schedule and therefore skipped. Session one, the intermediate states for session one, the operator notes for session one. Session two. The notes were Feld’s and they were four to six lines each and Marin had never read them, because the clinical file was not hers, and she did not read them now either. She watched the line count go down.
 
 By three minutes there was nothing left before the twelfth.
 
@@ -94,7 +94,7 @@ It came up whole.
 
 The baseline map is the highest-resolution product the program makes, because everything afterward gets measured against it. It is taken slowly, across most of a day, by a technician with good hands who does not rush, on a patient who has not yet had anything done to them.
 
-Every emotional structure her sister had was in it. Not descriptions of them and not summaries of them and not a clinician’s account of them. The structures themselves, indexed and addressable, at a resolution that exists nowhere else in the world and cannot be produced by any other route.
+Every emotional structure her sister had was in it. Not descriptions of them and not summaries of them and not a clinician’s account of them. The structures themselves, indexed and addressable, at a resolution nothing else in the program could produce.
 
 The target structure was in there at full charge, sitting where it had always sat, with nine years of load still on it.
 

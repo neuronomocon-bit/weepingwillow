@@ -42,7 +42,7 @@ She thought about the paramedic on the north side nine days earlier, standing at
 
 They would find it. It would be true.
 
-The service was going to be on the Thursday. Iris worked out on the Sunday that she was not going to go, and worked out an hour after that that she would be able to explain not going to everyone’s satisfaction including her own, and decided that being able to explain it was not the same as it being all right.
+The service was going to be on the Thursday. Iris worked out on the Sunday that she was not going to go. An hour later she worked out that she would be able to explain not going to everyone’s satisfaction including her own, and decided that being able to explain it was not the same as it being all right.
 
 ***
 
@@ -52,7 +52,7 @@ The procedure was the one she had used since January. She went and put her atten
 
 *Day 46. Checked for response to CW. None.*
 
-She checked on the second day at about the same time and wrote the same card with the date changed, and she noticed while she was writing it that she had used the initials both times rather than the name, and she looked at that for a while and could not decide whether it meant anything, and wrote a third card saying that she could not decide.
+She checked on the second day at about the same time and wrote the same card with the date changed. While writing it, she noticed that she had used the initials both times rather than the name. She looked at that for a while, could not decide whether it meant anything, and wrote a third card saying that she could not decide.
 
 On the second night she took both cards down off the frame and read them together, because two null results in the same hand are a series and a series is worth reading.
 
@@ -122,7 +122,7 @@ Rourke did not sit down.
 
 “The interval,” Iris said. “Tuesday to Friday. And the fact that he was already in your set, and had been stable in it for nine weeks, and was not on the way anywhere.”
 
-Rourke stood with her hand on the back of the chair, which was where she put it when she was not going to like the next part, and looked at the folder without touching it.
+Rourke stood with her hand on the back of the chair and looked at the folder without touching it.
 
 “You’re telling me it came back,” she said.
 
@@ -174,7 +174,7 @@ Iris waited to see whether the question was going to become a clinical one.
 
 Rourke did not move for a while.
 
-Then she nodded, once, and went on standing there, and Iris understood a few seconds later that the thing that was not happening was that Rourke had not written any of it down.
+Then she nodded and went on standing there, and Iris understood a few seconds later that the thing that was not happening was that Rourke had not written any of it down.
 
 The pad was on the desk under her hand. She had picked it up in March in front of Iris, written three lines and turned it face down, and she had it under her hand now and left it there.
 

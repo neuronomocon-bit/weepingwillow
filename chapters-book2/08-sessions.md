@@ -238,7 +238,7 @@ He had the order of concern right and Marin said so. The integration limiter was
 
 ***
 
-Raman came down at ten past five with his coat already on, because he had been on his way out and had turned around, which was the most that could reasonably be asked of a program director at ten past five.
+Raman came down at ten past five with his coat already on. He had been on his way out and had turned around.
 
 He looked at the curve for longer than Marin expected.
 

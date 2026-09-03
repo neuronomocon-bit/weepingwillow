@@ -156,7 +156,7 @@ She checked it once, as she checked everything, and it was correct.
 
 She had understood for about six weeks that she was not going to be able to come back up.
 
-The reasoning is short and she had gone over it more times than it needed. Material the instrument has never integrated can be flushed. Material it has integrated cannot, because integration is what makes it the instrument’s own, and there is no procedure in any document in that building for taking something back out of a substrate that has made it part of itself. She knew that better than anyone alive because she had written the paragraph. It is on the page before the one about the exclusion list.
+The reasoning is short and she had gone over it more times than it needed. Material the instrument has never integrated can be flushed. Material it has integrated cannot, because integration is what makes it the instrument’s own, and there is no procedure in any document in that building for taking something back out of a substrate that has made it part of itself. She knew that paragraph completely because she had written it. It is on the page before the one about the exclusion list.
 
 So the question had never been whether she would come back up.
 
