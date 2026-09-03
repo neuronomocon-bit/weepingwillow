@@ -74,7 +74,7 @@ The first Taken person in the series, produced legally, with consent, by people 
 | 6 | First over-taking. Everything removed at once, on a first visit. The body keeps working for hours and the stopping has no event in it. |
 | 11 | **MIDPOINT — the first deliberate kill.** Returns to Caleb because the partial result was unsatisfactory, and finishes him. |
 | 18 | Approaching in the open. Daylight, occupied places. Three witnesses who contradict each other. |
-| 19 | Passes for a person for several seconds. Looks at Iris and **defers.** |
+| 19 | Passes for a person for several seconds. ⚠️ **AS WRITTEN this is not a sighting.** This row and the Ch19 brief contradicted each other — the brief said no sighting and no eye contact — and it was resolved at drafting by rendering the encounter as **an instrument reading rather than a sighting.** Iris registers it on the proximity sense, not with her eyes. **The deferral survives; the looking does not.** |
 | 22 | Third refusal. **The first thing she has ever been unable to complete.** Finds the empty place where Iris's love for Lena was and stops there. |
 | **B3** | |
 | 2 | Selecting, studying, travelling. Joe E. watched for six days before contact. |

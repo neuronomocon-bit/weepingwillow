@@ -92,12 +92,14 @@ Seven chapters, seven major beats, no filler. This is a deliberate correction: t
 16. **The Name** — Iris now knows what the thing is called and cannot feel what it means. She reconstructs the significance from the outside, correctly, the way she reconstructs everything.
 17. **RECOVERED: The Limiter** — the deviation. Paperwork and an afternoon. Nothing in the room acknowledges it.
 18. **Escalation** — bodies across Lowport. The city notices and gets the category wrong. Rourke is publicly confident and privately finished.
-19. **Almost** — the first sighting where Willow nearly passes for a person. The face is resolving. A trace surfaces in the Meridian data of a researcher who raised something once and let it go.
+19. **Almost** — Willow nearly passes for a person. The face is resolving. A trace surfaces in the Meridian data of a researcher who raised something once and let it go. ⚠️ **AS WRITTEN it is not a sighting.** This line and `10-subplot-threading.md` both said Iris sees her; the Ch19 brief said no sighting and no eye contact. **Resolved at drafting toward an instrument reading** — Iris registers the encounter on the proximity sense rather than with her eyes, and the deferral survives without the looking.
 20. **RECOVERED: The Last Session** — Marin goes down to it deliberately, believing her sister is in there, and in a sense she is right. The most tender scene in the series and the most horrifying, and those are the same fact. She is happy. **The prose does not undercut it.** Longest chapter in the book.
 21. **Why Lena** — Iris assembles almost all of it: that the thing is built on a younger sister and an older sister's grief, and that it took what it recognized. She gets to the edge and stops, because the last step requires her to feel what a sister is.
 22. **ENDING — The Second Visit.** Willow comes back to finish Iris.
 
-**The ending, specifically:** Book 2 spends twenty-one chapters establishing that she completes open jobs, and then she comes for the most open job there is. She cannot complete Iris. It is the third time Iris has refused her, and this time something changes in her — the first thing she has ever wanted and been unable to get.
+**The ending, specifically:** Book 2 spends twenty-one chapters establishing that she completes open jobs, and then she comes for the most open job there is. She cannot complete Iris. It is the third time Iris has refused her, and this time something changes in her.
+
+⚠️ **THIS LINE USED TO SAY *"the first thing she has ever wanted and been unable to get"* AND THE WORD *wanted* IS NOW WRONG.** The Ch22 brief and the appetite gate are explicit: **something appears in her that has no name in her, the prose must not call it anger, and it only *resembles* a want.** As written it is **a value that will not close and a system that cannot leave a value open, and the two of them at one address.** The outline is a plan and the prose is the record; **do not carry *wanted* back into the manuscript.**
 
 That is the birth of the frustration that makes her strategic in Book 3, and it plants the trap that ends the series. Iris survives the chapter knowing she is unfinished, permanently, and that the thing now knows it too.
 
