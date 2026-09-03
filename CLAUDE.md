@@ -142,9 +142,13 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-03)
 
-# ✅ CH1 TO CH18 ARE REVIEWED, REVISED AND LOCKED. 58,008 words. **FOUR CHAPTERS LEFT: Ch19 to Ch22.**
+# ✅ CH1 TO CH19 ARE REVIEWED, REVISED AND LOCKED. 61,735 words. **THREE CHAPTERS LEFT: Ch20, Ch21, Ch22.**
 
-Ch15 through Ch18 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch19 — Almost is the next chapter to draft.**
+Ch15 through Ch18 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Ch20 — RECOVERED: The Last Session is the next chapter to draft, and it is the longest in the book at a 4,400 budget.**
+
+**⚠⚠ THE CH19 REVIEW FOUND THE MOST DANGEROUS DEFECT SO FAR AND IT IS NOW A RULE: THE COMPETENCE FLOOR.** An institutional response that is inadequate to the risk **as visible at the time** does not weaken a scene, **it inverts the book** — from *nothing in the system was built to catch this* into *these people were bad at their jobs*. **Walk the incident-response chain on every institutional scene:** anomaly → containment → operator → affected systems → immediate mitigation → monitoring → ownership → closure criteria → **and what later changed.** **Put the failure in a changed assumption, never in a missing step.** Full write-up in `14-audit-method.md`.
+
+**⚠️ THE LAST LIVE CLAIM ON ANY ARCHIVED DRAFT IS NOW SPENT.** The R. Oyelaran material went into Ch19, **by inversion rather than as a rhyme**: Iris knows the shape of a record where somebody was ignored, and Virek's ticket is not that shape. **No archived draft has an unspent claim on it any more.**
 
 **⚠️ TWO REVIEWS IN A ROW FOUND THE SAME CLASS: A DOMAIN TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Ch17 was the substrate; Ch18 was the epidemiology. **See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT.** The check: take every domain term in the chapter, ask what it would have to be true of, **and ask whether the character saying it would accept that usage from a junior.**
 
@@ -227,7 +231,8 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 | 16 | **The Name** (ACT III OPENS) | 3,955 | 3,600 | -355 | **LOCKED 2026-09-03** |
 | 17 | **RECOVERED: The Limiter** | 3,032 | 3,400 | 368 | **LOCKED 2026-09-03** |
 | 18 | Escalation | 3,577 | 3,800 | 223 | **LOCKED 2026-09-03** |
-| | **THROUGH CH18** | **58,008** | **64,400** | **6,392** | 90% of budget |
+| 19 | Almost | 3,727 | 3,600 | -127 | **LOCKED 2026-09-03** |
+| | **THROUGH CH19** | **61,735** | **68,000** | **6,265** | 91% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
@@ -319,7 +324,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 | File | Words | Status |
 |---|---|---|
 | ~~`archive/drafts/DRAFT-sessions-ch8.md`~~ | 3,387 | **SPENT 2026-09-02.** Re-audited and moved to `chapters-book2/08-sessions.md` at 3,851. Gone from the archive. |
-| `archive/drafts/DRAFT-prequel-ch02-recovery.md` | 2,855 | Retired. Salvage assigned to Ch3 and Ch5 (both spent) and Ch19 (the R. Oyelaran material, **unspent** — the only live claim on any archived draft). |
+| ~~`archive/drafts/DRAFT-prequel-ch02-recovery.md`~~ | 2,855 | **FULLY SPENT 2026-09-03.** Ch3 and Ch5 took their salvage earlier; **Ch19 took the R. Oyelaran material**, inverted into the shape Virek's ticket is not. **No archived draft carries a live claim now.** |
 | `archive/drafts/DRAFT-hunger-ch01-aftermath.md` | 1,500 | Spent on Ch1. |
 
 ### Next work, in priority order
@@ -330,7 +335,9 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 
    **⚠️ Before Ch20, read `01-world.md` → THE SUBSTRATE STATE MODEL.** The Ch17 review found two technical contradictions and both came from a fuzzy account of the limiter. **The limiter governs attribution, not operation:** treatment works patient structures with it active, and a draft that says otherwise puts six years of therapy on the wrong side of the safeguard. The table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17 and **it governs Ch20.**
 4. ~~**Ch18 — Escalation.**~~ **LOCKED 2026-09-03 at 3,577 words**, all 64 beats.
-5. **Ch19 to Ch22.** Ch20 is Marin's consumption and the longest chapter, Ch21 is Why Lena, Ch22 is the third refusal and pays off Ch14's four option cards. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
+5. ~~**Ch19 — Almost.**~~ **LOCKED 2026-09-03 at 3,727 words**, all 92 beats.
+6. **Ch20 — RECOVERED: The Last Session.** Marin's consumption, **the longest chapter in the book at 4,400.** ⚠️ **Read `01-world.md` → THE SUBSTRATE STATE MODEL before drafting it**; the Ch17 review built that table specifically to govern this chapter. **She consents. She is happy. Do not undercut it.**
+7. **Ch21 — Why Lena**, then **Ch22 — The Second Visit**, which pays off Ch14's four option cards and plants Lena for Book 3. **Run the four pre-drafting checks, all of which have now earned their keep twice:**
    - Read the brief **and grep both bible files for every chapter that refers back to the one being drafted.** The Ch17 grep produced the two parameter changes, which are in `02-characters.md` and in no brief.
    - Read the **prose** of the chapters that introduced anything it reuses, not their briefs. Ch16's two best beats and Ch17's whole ending were locked prose no brief mentions.
    - **⚠️ Pull every interval a locked chapter states about the period the new chapter covers and compute the dates they force.** Locked Ch16 moved Ch17's deviation from February to March. **Those are constraints, not context.**
@@ -373,7 +380,7 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ EIGHTEEN CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch18 2026-09-03). 58,008 words.** Ch1 to Ch18 are closed to editing.
+**✅ NINETEEN CHAPTERS ARE REVIEWED, REVISED AND LOCKED (Ch1–Ch14 2026-09-02, Ch15–Ch19 2026-09-03). 61,735 words.** Ch1 to Ch19 are closed to editing.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

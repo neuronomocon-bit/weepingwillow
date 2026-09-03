@@ -70,5 +70,9 @@
   "18-escalation.md": {
     "sha256": "5eb24a6f346b5ea760e3258efb79ea510e772e5c55cee8d3d983848654d49c89",
     "words": 3577
+  },
+  "19-almost.md": {
+    "sha256": "b57196897d0b082ba3a8df29e704b4ced9487084a3cc6f7b26d7ac365ca07826",
+    "words": 3727
   }
 }

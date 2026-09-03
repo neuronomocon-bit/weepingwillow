@@ -83,7 +83,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | 17 | **RECOVERED: The Limiter** | Marin | 3,400 | **REVISED 3,032** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | **REVISED 3,577** | ✅ **LOCKED 2026-09-03** |
 | 18 | Escalation | Iris/Rourke | 3,800 | — | — |
-| 19 | Almost | Iris | 3,600 | — | — |
+| 19 | Almost | Iris | 3,600 | **REVISED 3,727** | ✅ **LOCKED 2026-09-03** |
 | 20 | **RECOVERED: The Last Session** | Marin | 4,400 | — | — |
 | 21 | Why Lena | Iris | 3,600 | — | — |
 | 22 | The Second Visit (ENDING) | Iris + Willow coda | 3,800 | — | — |
@@ -255,6 +255,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | Ch9 | 3 | **A cascade from our own Ch8 fix.** Moving Marin's quotation to the witness form invalidated Ch9's opening and nothing checked downstream. Also a card ledger that reconciles two locked chapters only if a card came off the row, and an evening timed at three hours forty that ran four forty. |
 | Ch8 | 1 | **Marin opened the clinical file she is barred from.** Both neighbouring chapters are locked around it, so the note went to the witness form — which made the beat sharper. Plus three architecture questions settled: the avoidable observation, identifier reuse, and the data behind Raman's answer. |
 | Ch7 | 6 | **The blind scoring was not blind** — the summaries arrived in the order Rourke's system produced them, and that order is a date. Plus three arithmetic errors and three overclaims. |
+| Ch19 | **1 structural + 4 confidence** | **⚠️ THE MOST DANGEROUS DEFECT FOUND IN THIS BOOK, BECAUSE IT DOES NOT READ AS AN ERROR. IT READS AS A SCENE.** Raman's answer to Virek's four findings was funding, consolidation and a termination date, which is not containment and is therefore negligence — **and once his answer is negligent, Virek closing his own ticket is too**, contradicting the chapter's own *"He had not been wrong about any of it."* **The book's thesis inverts from "nothing in the system was built to catch this" into "these people were bad at their jobs."** Rebuilt so both men are competent: operator authorized and spoken to, isolation verified rather than assumed, clinical configuration checked the same day, integration accounted for by the exclusion list, the change-control gap named as a gap in the form, three monitoring triggers, and a termination date. **The failure now lives in a changed assumption** — Ch14's reclassification removes the termination that the other four statements were standing on. Now a standing rule: **THE COMPETENCE FLOOR** in `14-audit-method.md`, with the incident-response chain to walk. Plus four confidence-level fixes: the witness certified *intact*; *the first time in two years she had been sure of anything*; *had not been anywhere since*; and *the only occasion in six years when Meridian looked*. |
 | Ch18 | **0 + 7 domain vocabulary** | **⚠️ SAME CLASS AS CH17, ONE CHAPTER LATER: A TECHNICAL TERM USED AT THE WRONG STRENGTH BY THE CHARACTER WHO WOULD KNOW BETTER.** Rourke is an epidemiologist and the draft had her blur association with prediction, sensitivity with positive predictive value, and a temporal cluster with a common-source exposure. **The worst was the Ch2 payoff, and the brief was the source of it:** the brief said she met the threshold she set for Iris, and she has not, because the test needed a person, a function and a date and she has a population. **The corrected version is better and produced the chapter's best exchange** — *"You found the population." / "I found the population. I can't find the person."* Also: the living-partials range ignored three untested dead (400–403 → **397–403**, and Iris catches it herself); *no shared clinical history* → *none had been identified*; *it isn't a cluster* → *the cluster is real, the exposure model isn't*; *predicts perfectly* → *isn't a predictor*; a resemblance counted as a hit; *speculate and be right* → *speculation better than speculation*; and **the Ch14 one-case-to-a-rule defect repeating**, now refused out loud by Iris. See `14-audit-method.md` → THE DOMAIN-VOCABULARY DEFECT. |
 | Ch17 | **0 + 2 technical + 3 calibrations** | **⚠️ THE MACHINE-STATE MODEL, AND THE WORST ONE WOULD HAVE PUT SIX YEARS OF THERAPY ON THE WRONG SIDE OF THE SAFEGUARD.** The draft said working a structure requires taking it in as the machine's own and that the limiter prevents exactly that — but normal treatment works patient structures with the limiter active. **The limiter governs attribution, not operation.** Second: *ninety-three point one* was called impossible by the woman who had just enabled it, when attenuation is what working a structure does; rebuilt to separate the fixed archive value from the moving working value and to end on **"She had not initiated attenuation."** Calibrations: autonomy scoped **per workspace against a site default**; *"no other correct entry"* → *"no more specific entry the form would take"*; *"She was not hiding any of it"* → *"She had not put a false name on anything or taken a record out."* **The full audit is now a table in `01-world.md` → THE SUBSTRATE STATE MODEL, and it governs Ch20.** |
 | Ch16 | **0 + 5 confidence** | **⚠️ A NEW CLASS: no continuity, arithmetic or beat error, and five conclusions stated above their evidence.** Absence of a recoverable trace read as absence of the thing; one observation failing two independent safeguards; a universal exclusion where an expert judgment was available; parallel description taken for identity of mechanism; and an exclusivity claim about who else is alive. **The diagnostic: Iris refuses on the page to build Marin's motive out of nothing for Kade, and the chapter breaks that standard four times within a thousand words of the refusal.** See `14-audit-method.md` → THE CONFIDENCE-LEVEL DEFECT. |
@@ -288,11 +289,72 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 16 | **The Name** (ACT III OPENS) | 3,955 | **2026-09-03** |
 | 17 | **RECOVERED: The Limiter** | 3,032 | **2026-09-03** |
 | 18 | Escalation | 3,577 | **2026-09-03** |
-| | **ALL EIGHTEEN LOCKED — THROUGH CH18** | **58,008** | |
+| 19 | Almost | 3,727 | **2026-09-03** |
+| | **ALL NINETEEN LOCKED — THROUGH CH19** | **61,735** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
 **Locked chapters still count** toward the totals and still appear in the voice audit. They are fixed points, not exclusions. **If an audit flags something inside one, report it and leave it alone.**
+
+---
+
+## CH19 — ALMOST, drafted 2026-09-03
+
+**Drafted at 3,349, reviewed by the author the same day, revised to 3,727 against a 3,600 budget, 104%. All 92 beats present. ✅ LOCKED 2026-09-03. The book stands at 61,735 words across nineteen chapters, 91% of budget. Three chapters left.**
+
+### ⚠️ THE REVIEW FOUND A STRUCTURAL DEFECT THAT INVERTED THE BOOK'S THESIS
+
+**Raman's answer was not an answer.** Virek reported residue that had stopped decaying, integration events with no sessions, an autonomy constraint at a value with no change record, and after-hours activity under a named operator with no session records. **The draft had the director reply with funding, consolidation and a termination date**, and write that a program with an end date does not open an investigation it cannot finish.
+
+**Containment does not require a completed investigation, so that answer is negligence** — and with the answer inadequate, **Virek closing his own ticket is negligence too**, which contradicts the chapter's own *"He had not been wrong about any of it."* **The horror stops being "nothing in the system was built to catch this" and becomes "these people were bad at their jobs."**
+
+**Rebuilt so both men are competent and the failure comes from a changed assumption.** Raman now answers the findings in order and verifies before he writes: the operator is the program lead with access by right **and he spoke to her**; isolation **verified rather than assumed**, with a technician's initials on it; clinical configuration checked the same day, limiter active on every clinical identifier, site default still two; integration accounted for by the exclusion list; **the change-control gap named as a gap in the form rather than a breach of it**; three monitoring triggers; and a termination date on the workspace and everything in it. **Virek closes on stated grounds and closing is correct.**
+
+**⚠️ AND THE FAILURE IS NOW WHERE THE SERIES NEEDS IT.** *"Five true statements, and the fifth was carrying the other four, and the fifth was the one that stopped being true."* Ch14's reclassification form removes the termination. **Nobody reopens a closed ticket, because none of the three triggers ever fires in a log anyone reads.** Written up as **THE COMPETENCE FLOOR** in `14-audit-method.md`, with the incident-response chain to walk.
+
+**The coldest beat survived and improved.** The draft had *"No one in that exchange discussed the operator,"* which was part of the negligence problem. **Now the operator was discussed, once, and the record of it is four words:** ***Discussed with the operator.*** *"The answer is not in the record, because a conversation is not a document."* **Marin was asked. What she said is not recoverable and never will be.**
+
+**And a rhyme the rebuild bought for free:** Raman's revision request against the change-control form sits in a list of a hundred and forty items, **nine lines below Ch17's session-type request, raised the previous year by the same man.** Neither actioned. *"The records group had two people."*
+
+### Four confidence-level fixes
+
+| Wrong | Right |
+|---|---|
+| *She was intact* | *Every function Iris tested came back unreduced* |
+| *the first time in two years she had been sure of anything* | *sure of something she could not support* |
+| *had not been anywhere since* | *had not appeared anywhere she could reach since* |
+| *the only occasion in six years when Meridian looked* | *the only occasion Iris could find* |
+
+### ⚠️ THE BRIEF AND THE SUBPLOT FILE CONTRADICTED EACH OTHER, AND THE RESOLUTION IS THE CHAPTER'S BEST BEAT
+
+The brief says **no sighting and no eye contact.** `10-subplot-threading.md` says **"Looks at Iris and defers."** Both are satisfied because **the encounter is an instrument reading, not a sighting.** Iris sits on the bench where it stood five days earlier and runs the check, and the reading **arrives already at a level instead of climbing**, holds, and comes down on its own schedule. She never sees anything. Then:
+
+> *she sat on the bench with the card in her hand and knew, with a completeness she had no instrument for, that she had been looked at and set aside.*
+
+**That also delivers the Iris arc beat the brief does not carry:** *the first thing she has been certain of in two books, and no way to know whether the certainty is real.* She invokes her own Ch7 rule and **builds the tests on the drive back and none of them will run** — no second observer, no direction in the reading, no measurement of intent anywhere, and no body to corroborate. ***"The only evidence for the certainty was the certainty."*** The card reads ***certain, untestable***, with no category, **because there is no row on the wall for a card like that.**
+
+### Two errors in the brief itself, both corrected in place
+
+1. **"a quarterly substrate review three years after the deviation" is impossible.** The deviation sits at Year −4.67 and the seal at Year −3, **so only nineteen months separate them.** It was also anchored wrong: **locked Ch16 has Iris unable to date the parameter change at all.** She counts from the last logged load, which is a date she owns. **Fourteen months after it puts the ticket about two months before Pell's check, and she notices.**
+2. **The location said "the leased unit."** Locked Ch16 and Ch18 both put her at the table with the cards above the doorframe, in her apartment. The leased unit is Kade's bay.
+
+### The consequences the sixth short draft was missing
+
+First draft **2,947 words, 82%, all brief beats present.** Added:
+
+- **There is nothing to tell the witness.** Iris runs the Joel-Lila-Caleb assessment without saying so, and the woman is intact, and **no warning exists for a person who was not touched.** *"You have been useful," Iris said, and it was true, and she left it there.* **The exact inverse of Ch14: there the warning was perfect and could not land; here it would land perfectly and there is nothing to warn about.**
+- **The Hide card's second line.** It found her forty minutes from her own door, on a bench, with her name on nothing, and did nothing. She writes on the back because the front is full: ***Second occasion. Not at home. No contact.***
+- **⚠️ The coldest beat in the chapter, which nobody specified.** *"A man had put four findings and an operator identifier in front of a director, and the director had replied about a budget, a timetable and a termination date, and had not been wrong about any of them. No one in that exchange discussed the operator."* Then: ***"That was the only occasion in six years when Meridian looked directly at what was happening on the lower level, and what came back was a correct account of the site's finances."***
+
+### The Oyelaran salvage is spent, by inversion
+
+**Better than the rhyme the brief proposed.** Iris knows the shape of a record where somebody was ignored: file, no answer, file again longer, a third with a line at the bottom in a different tone, then the submissions stop. *"It has a rhythm you can see from across a room."* **"This was not that."** He asked once and was answered inside a day and closed his own ticket. **No archived draft carries a live claim now.**
+
+### Also fixed
+
+**Three date errors from the calendar sweep**, all off Ch18 running Days 59–65: *six days after the meeting* → two, *eight days ago* → four, *six days later* → five. **And the British-lexis screen caught `pavement`**, changed to sidewalk, plus `autumn` → fall.
+
+**The cross-book payoff lands here:** Raman's termination promise against Ch14's reclassification form. ***Scheduled for termination. Reclassified as fixed. Not terminated.*** That is why the substrate was still in the building when Iris cut the fence in Book 1. **Open question 3 stays open; the signature is still on the corroded slice.**
 
 ---
 

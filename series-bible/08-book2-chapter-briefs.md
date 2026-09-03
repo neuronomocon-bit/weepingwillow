@@ -1600,7 +1600,9 @@ Book 1 Ch9's flattening city is now a dying one. The city's arc across the serie
 ### Chapter 19 — Almost
 
 **POV:** Iris · **When:** Day 69 · **Length:** 3,600
-**Location:** A transit stop on the outer edge, in daylight. Then the leased unit, late.
+**Location:** A transit stop on the outer edge, in daylight. Then her apartment, late.
+
+**⚠️ LOCATION CORRECTED 2026-09-03 at drafting.** This read *"the leased unit"*, which is stale. **Locked Ch16 and locked Ch18 both put her working at the table with the cards above the doorframe, in her apartment.** The leased unit is Kade's storage bay.
 **Goal:** The face resolves. Virek surfaces in the data and cannot be found.
 
 **Conflict — the sighting:** A witness who is not frightened. That is the whole of it. A woman at a transit stop had a conversation with someone for most of a minute, in ordinary daylight, and thought nothing of it at the time, and has since been unable to stop thinking about it and cannot say why.
@@ -1609,7 +1611,9 @@ Iris takes the account. It is not a monster sighting. It is a description of a p
 
 **Willow passed.** For most of a minute, to a stranger, in daylight. She has never done that before and Iris understands precisely what it means: **something that is assembled out of what it takes has now taken enough.**
 
-**Conflict — the trace:** Late, in the recovered material, a quarterly substrate review three years after the deviation. A researcher pulled the decay curves and found the residue was no longer decaying at all. He found integration events he could not account for, an autonomy constraint sitting at a value nobody logged a change to, and after-hours sessions under a colleague's credentials with no session records attached.
+**Conflict — the trace:** Late, in the recovered material, a quarterly substrate review **dated fourteen months after the last logged load.**
+
+**⚠️ DATE CORRECTED 2026-09-03 at drafting. This brief said *"three years after the deviation"*, which the locked timeline makes impossible:** the deviation sits at Year −4.67 and the seal at Year −3, so **only about nineteen months separate them.** The figure is also stated from the wrong anchor — **locked Ch16 has Iris unable to date the parameter change at all** (*"Cannot date the change"*), so she cannot count months from it. **She counts from the last logged load, which is a date she owns.** Fourteen months after it puts the ticket about two months before Pell's twenty-seven-minute check, and Iris notices that. A researcher pulled the decay curves and found the residue was no longer decaying at all. He found integration events he could not account for, an autonomy constraint sitting at a value nobody logged a change to, and after-hours sessions under a colleague's credentials with no session records attached.
 
 **He escalated it once, correctly, to the right person.** The answer he got was a good answer: the program was winding down, the reauthorization had not come through, and everything in the substrate was scheduled for termination in the spring. Whatever the anomaly was, it had a date on it.
 
@@ -1626,6 +1630,73 @@ She writes down that she wants to find him and marks it as the highest-value ope
 Virek does not appear in Book 2. Book 3 needs him, because **he is the only living person who ever saw Willow Halloway and could recognize the face.** Book 2's job is to put his name in Iris's hands and leave it there.
 
 **Craft:** No dramatic sighting. No pursuit, no glimpse across a street, no eye contact. **The scariest available version is a woman at a bus stop who was pleasant and whom nobody could describe afterward.**
+
+**⚠️ AUTHOR'S REVIEW PASS, 2026-09-03, on the day it was drafted. Verdict: excellent shape and one of the book's strongest endings; one structural defect and four confidence-level breaches. The structural one inverted the book's thesis and had to be rebuilt.**
+
+**⚠️ RAMAN'S ANSWER WAS NOT AN ANSWER, AND THAT MADE BOTH MEN NEGLIGENT.** Virek reported four findings that between them indicate possible unauthorized configuration change, unaccounted processing of human research material, missing documentation, and an instrument running outside its validated state. **The draft had Raman reply with funding, consolidation and a termination date**, and had him write that *"a program with a termination date on it does not open an investigation it cannot finish."*
+
+**That is not a defensible answer and no competent director would give it.** Containment does not require a completed investigation. And with Raman's answer inadequate, **Virek closing his own ticket becomes negligence**, which destroys the entire point of the chapter — *"He had not been wrong about any of it"* becomes an assertion the scene has disproved.
+
+**REBUILT SO THAT BOTH MEN ARE COMPETENT AND THE FAILURE COMES FROM A CHANGED ASSUMPTION.** Raman now answers the findings in the order raised, and everything he says is verified before he writes it:
+
+1. **The operator is the program lead and the access is hers by right.** The material is one deceased participant's baseline under the research schedule. **And he spoke to her.**
+2. **Isolation verified rather than assumed**, with the verification attached as half a page with a technician's initials on it. No clinical material, no patient session.
+3. **Clinical configuration checked the same day.** Limiter active against every clinical identifier, site default for autonomy still two, attached.
+4. **The integration events are accounted for by the exclusion list**, a documented mechanism present since commissioning.
+5. **⚠️ The change control gap is named as a gap in the form rather than a breach of it**, and he raises a revision request against the form.
+6. **Three monitoring triggers that bring it straight back:** if the residual moves, if the clinical configuration changes, or if anything leaves the workspace.
+7. **And a termination date on the workspace and everything in it.**
+
+**Virek can now close on stated grounds** — operator authorized, containment verified, clinical unaffected, monitoring in place, termination dated — **and closing is the correct act.**
+
+**⚠️ AND THE FAILURE IS NOW EXACTLY WHERE THE SERIES NEEDS IT.** Iris's assessment: *"Five true statements, and the fifth was carrying the other four, and the fifth was the one that stopped being true."* **The termination is what the other four were standing on, and Ch14's reclassification form is what removes it.** Nobody reopens a closed ticket, because none of the three triggers ever fires in a log anyone reads.
+
+**⚠️ THE COLDEST BEAT SURVIVED THE REBUILD AND IMPROVED.** The draft had *"No one in that exchange discussed the operator,"* which was part of the negligence problem. **Now the operator was discussed, once, in a room, and the record of it is four words:** ***Discussed with the operator.*** Then: *"The answer is not in the record, because a conversation is not a document, and the only occasion Iris could find on which Meridian formally looked at any of it produced four words and a date."* **Marin was asked. What she said is not recoverable and never will be.**
+
+**AND A NEW RHYME THE REBUILD BOUGHT FOR FREE.** Iris finds Raman's revision request against the change control form sitting in a list of a hundred and forty items, **nine lines below Ch17's request to add a tenth session type, raised the previous year by the same man.** Neither actioned. *"The records group had two people."*
+
+**THE FOUR CONFIDENCE-LEVEL FIXES.**
+
+1. *"She was intact"* certified a stranger's interior. **Now: *"Every function Iris tested came back unreduced, and she had not scored a set like it since January."***
+2. *"the first time in two years she had been sure of anything"* contradicts sixteen chapters of competent work. **Now: *"sure of something she could not support,"* and *"certainty with nothing under it was not a category she was entitled to use."***
+3. *"had not been anywhere since"* exceeded the search. **Now: *"had not appeared anywhere she could reach since."***
+4. *"the only occasion in six years when Meridian looked"* claimed completeness a damaged archive cannot support. **Now: *"the only occasion Iris could find."***
+
+**AS WRITTEN (drafted and revised 2026-09-03, 3,727 words against a 3,600 budget, 104%. All 92 beats present. ⏳ Not locked; awaiting the author's word on the revision.)**
+
+**⚠️ THE BRIEF AND `10-subplot-threading.md` CONTRADICTED EACH OTHER AND THE RESOLUTION IS THE CHAPTER'S BEST BEAT.** This brief says **no sighting and no eye contact.** The subplot file says **"Looks at Iris and defers."** Both are now satisfied, because **the encounter is rendered as an instrument reading and not as a sighting.** Iris sits on the bench where it stood five days earlier, runs the check, and the reading **arrives already at a level instead of climbing**, holds, and comes down on its own schedule. **She never sees anything.** Then: *"she sat on the bench with the card in her hand and knew, with a completeness she had no instrument for, that she had been looked at and set aside."*
+
+**⚠️ AND THAT DELIVERS THE IRIS ARC BEAT FROM THE SUBPLOT FILE, WHICH THIS BRIEF ALSO DOES NOT CARRY:** *"The first thing she has been certain of in two books, and no way to know whether the certainty is real."* She invokes her own Ch7 rule — *a thing arriving without an account of itself gets tested rather than trusted* — **and builds the tests on the drive back and none of them will run.** She cannot test proximity (no second observer, no instrument but herself), direction (the reading has never had one), intent (there is no measurement of intent anywhere in the world), or presence (the only corroboration a reading has ever had is a body afterward, and there is no body). ***"Every route she built ended in the same place. The only evidence for the certainty was the certainty."*** Card: ***certain, untestable***, with no category on it, **because there is no row on the wall for a card like that.**
+
+**THE WITNESS IS THE CHAPTER AND SHE IS NOT FRIGHTENED.** Sixty, a cardigan over a work shirt, walks out to the end of the path because she said she would. **Iris establishes the not-frightened by watching her walk.** The conversation was about the timetable being wrong since the route changed, and **the woman checked afterward and the stranger was right about the coast road in February.** A complete description on demand: height against the shelter frame, dark wool coat below the knee, dark hair, a build she calls ordinary and then defines as *there was nothing to say about it*, no bag, **and no phone in her hand, which she had thought was nice.**
+
+**THE APOLOGETIC DETAIL, delivered exactly as the brief asks:** *"I'm not sure she was moving the whole time I was looking at her."* And when pressed: *"there is a bit in the middle where I have the picture of her and the picture doesn't have anything moving in it, and I don't know how long the bit is, and I have tried to time it in my head about forty times and I can't."* **She let it go completely and it came back on the Friday while she was doing nothing at all.**
+
+**⚠️ A CONSEQUENCE THE BRIEF DOES NOT ASK FOR AND THE CHAPTER NEEDED.** Iris runs the Joel-Lila-Caleb assessment on her without saying that is what she is doing. **The woman is intact — more intact than anyone she has sat down with since January.** So: *"So there was nothing to tell her."* No warning exists for a person who was not touched, **and no version of the sentence would not have taken an ordinary Wednesday away from her and put something in its place she could do nothing with.** *"You have been useful," Iris said, and it was true, and she left it there.* **This is the exact inverse of Ch14: there the warning was perfect and could not land; here it would land perfectly and there is nothing to warn about.**
+
+**AND THE HIDE CARD GETS A NEW LINE**, which is the operational half of the deferral. Ch14's card said *not tested* and *the first visit found me at home.* It has now found her **forty minutes from her own door, on a bench, with her name on nothing**, and done nothing. She writes on the back because the front is full: ***Second occasion. Not at home. No contact.***
+
+**THE FINDING, AND SHE REFUSES TO TRIM IT.** *"Every account she had before this one came from a person who could not describe what they had seen"* — three of them on Rourke's desk four days ago, disagreeing about everything but a coat. **This witness described her as she would have described a colleague, five days later, and got the coat right too.** So: ***"Whatever it is, it is better at this than it was in January."*** And: *"It was the whole finding and it was four words longer than it needed to be, and she left it, because trimming it would have been a way of making it smaller."*
+
+**THE TICKET.** Six pages instead of four, the extra two an appendix with **four findings**: the residue no longer decaying, with both traces on one axis so a reader can see it without being told; **integration events with no corresponding session, listed with dates**; the autonomy constraint sitting at four against a configuration record that has said two since commissioning, with **no change entry anywhere in six years of change control**; and after-hours sessions under one operator identifier with no session records attached. **He draws no conclusion**, rules out the three instrumentation causes he can, and raises it because the fourth item is outside his competence. **He names the identifier and not the person, and does not need to, because that identifier is on every consumables order in the building.**
+
+**RAMAN'S ANSWER IS FOUR PARAGRAPHS, ARRIVES THE SAME DAY, AND IS CORRECT.** Reauthorization, the failed second-expansion funding, consolidation into the other two sites, the clinical wing closing in the summer, **and everything held in the substrate scheduled for termination when the wind-down completes in the spring.** He asks to be told the same day if the residue moves. *"Every sentence of it was true when it was written."* **Four days later the man who raised it closes his own ticket. The reason field is accurate and the further-action field is empty.** *"That was the whole record."* ⚠️ **Per the writing rule: it is a closed ticket, it is not poignant, and Raman's answer stays correct.**
+
+**⚠️ AND THE COLDEST BEAT IN THE CHAPTER IS THE ONE NOBODY SPECIFIED.** *"A man had put four findings and an operator identifier in front of a director, and the director had replied about a budget, a timetable and a termination date, and had not been wrong about any of them. No one in that exchange discussed the operator."* Then: ***"That was the only occasion in six years when Meridian looked directly at what was happening on the lower level, and what came back was a correct account of the site's finances."***
+
+**THE OYELARAN SALVAGE IS SPENT, AND IT IS SPENT BY INVERSION**, which is better than the rhyme the brief proposed. Iris knows the shape of a record where someone was ignored: **file, no answer, file again longer, a third with a line at the bottom in a different tone, then the submissions stop.** *"It has a rhythm you can see from across a room."* **"This was not that."** He asked once, was answered inside a day by a competent person, and closed his own ticket **because that is what you do with a ticket that has been answered.** She rereads the appendix to see whether he was wrong about any of it. **He was not wrong about any of it.**
+
+**VIREK, AND THE SEARCH IS BOUNDED.** Staff list from the second year to the seal, consumables orders, nineteen substrate logs, a conference abstract in the third year, a middle initial, a registration number, an address sold twice since. **After the seal there is nothing.** She writes down each thing she cleared, *"because a search is only worth what you can say about where you looked"*, and marks that **he is not dead as far as anything she could reach is concerned, and she could not reach very much.**
+
+**THE CROSS-BOOK PAYOFF LANDS HERE:** Raman's termination promise against Ch14's reclassification form. ***Scheduled for termination. Reclassified as fixed. Not terminated.*** **That is why the substrate was still in the building when Iris cut the fence in Book 1.** The signature field is still on the corroded slice; **open question 3 stays open.**
+
+**AND THE ADJACENCY SHE HAD NOT PUT TOGETHER:** the ticket closed **about two months before** a technician on the night rotation went into the substrate hall and came out at twenty-seven minutes instead of eight.
+
+**THE CARD, AND IT BREAKS HER OWN FORMAT.** ***Simon Virek. Substrate group, yr 2 to seal. Raised it once. Nothing after the shutdown. FIND HIM.*** *"She had never used capitals on a card before and she looked at that for a moment and did not change it."* **It goes on the wall by the light switch, on its own, above the morning list** — neither the row of measurements nor the row of measurements that have not moved.
+
+**THE LAST BEAT.** She reads the whole wall from January, *"because the reading was the only part of the practice that had never once failed her."* Everything on it is accurate. **Then: *"There was one card in the middle of the long row, written that afternoon at a red light on the industrial road, that she could not have defended to anyone."*** Ends on narration; Ch18 ended on dialogue.
+
+**Drafting record.** First draft **2,947 words, 82%, all brief beats present** — the sixth consecutive chapter on that pattern. **Missing consequences:** nothing to tell the witness, the Hide card's second line, and the budget answer to a question about an operator. **Three date errors caught by the calendar sweep**, all off Ch18 being Days 59–65: *six days after the meeting* → two, *eight days ago* → four, and *six days later* → five. **And a British lexis hit the tool caught: `pavement` → `sidewalk`, plus `autumn` → `fall`.**
 
 ---
 

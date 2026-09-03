@@ -553,3 +553,35 @@ Ch17's deviation was drafted onto *an ordinary Thursday afternoon in February*, 
 **The curly-quote heredoc failure recurred.** A beat-check file was patched through a bash heredoc containing `isn’t` and the assertion failed on the apostrophe. **This file has warned about it since 2026-08-31 and it still happened**, because the heredoc is the fastest way to edit a scratch file and the warning lives four hundred lines away from the habit.
 
 **The fix that actually works: write scratch check files with the Write tool, never through a shell heredoc.** The mangling is silent when it does not assert, and the last time it did not assert it returned a clean, plausible, wrong zero.
+
+---
+
+## ⚠️ THE COMPETENCE FLOOR — added 2026-09-03, off the author's Ch19 review
+
+**This series has one structural requirement and every institutional scene in it is load-bearing on that requirement: everybody behaves competently on the facts available, and the catastrophe happens anyway.** `06-book2-outline.md` states it as a rule. `02-characters.md` says of Raman, *"Do not write Raman as an obstacle or a company man. The reason nobody stops this is that everyone involved is behaving reasonably."*
+
+**⚠️ SO AN INSTITUTIONAL RESPONSE THAT IS INADEQUATE TO THE RISK AS VISIBLE AT THE TIME DOES NOT JUST WEAKEN A SCENE. IT INVERTS THE BOOK.** The horror stops being *nothing in the system was built to catch this* and becomes *these people were bad at their jobs*, which is a different and much smaller book, and which the reader will reach without help.
+
+### What Ch19 got wrong
+
+Virek reported residue that had stopped decaying, integration events with no sessions, an autonomy constraint at a value with no change record, and after-hours activity under a named operator with no session records. **The draft had the program director reply with funding, consolidation and a termination date**, and write that a program with an end date does not open an investigation it cannot finish.
+
+**Containment does not require a completed investigation.** A director can suspend a workspace, preserve logs, identify the operator, verify whether clinical work is affected, and restore a documented configuration, all inside a day. Doing none of that is negligence.
+
+**And it cascades.** With the answer inadequate, the man who accepts it is negligent too, so the chapter's own line — *"He had not been wrong about any of it"* — is contradicted by the scene that precedes it.
+
+### The check, and it is a chain
+
+**When an institution in this book responds to a risk, walk the incident-response chain and confirm the response touches every link:**
+
+**anomaly → containment → operator → affected systems → immediate mitigation → monitoring → ownership → closure criteria → and what later changed.**
+
+**A competent answer touches all of them.** Ch19's rebuilt version does: operator authorized and spoken to, isolation verified rather than assumed, clinical configuration checked the same day, integration accounted for by a documented mechanism, the change-control gap named as a gap in the form, three monitoring triggers, and a termination date.
+
+### ⚠️ And the rule that makes the rebuild better than the original
+
+**Put the failure in a changed assumption, never in a missing step.**
+
+Ch19's answer now rests on five true statements, and **the fifth is carrying the other four**: everything in that workspace is going to be destroyed in the spring. Ch14's reclassification form is what removes it. **Nobody reopens a closed ticket, because none of the three monitoring triggers ever fires in a log anyone reads.**
+
+**That is the series' actual mechanism** — a correct decision, taken on verified facts, invalidated later by an administrative change nobody connects back to it. **It is available in every institutional scene and it is always stronger than having somebody drop the ball.**
