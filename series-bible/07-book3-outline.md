@@ -36,6 +36,24 @@ The reader arrives having watched the origin dramatized, having watched Caleb di
 
 **What Iris still does not know, and the reader does:** why Lena. That Willow found Lena through her. What Willow is actually building. And that the thing can be completed rather than destroyed.
 
+### ⚠️ RECONCILED AGAINST THE FINISHED BOOK — 2026-09-03
+
+**Everything above was written 2026-08-27, before a single Book 2 chapter existed.** Book 2 delivered it. **What follows is what Book 2 actually put on the page that this outline did not predict**, and some of it is load-bearing.
+
+| Inherited, as written | Consequence for this book |
+|---|---|
+| **⚠️ Iris has a reproducible face and no route to a name.** Ch22: she could describe it to a police artist a week later, and **there is not one photograph in four batches of recovered material**, because the research side files under numbers and the clinical side was the wet drives, *"and a face is not a field."* | **This is the lock Virek is the key to, and Book 2 built it precisely.** His recognition is not a nice payoff, it is **the only route that exists.** Do not let any other channel produce that name. |
+| **Iris ends the book with three cards on a table and *Monday* written on the corner.** Kade's, Rourke's, and the second visit's. *"Every one of them was something she could only find out by asking a person."* | **That is Book 3's opening position, already staged.** Act I does not need to invent a reason for her to go to people. |
+| **Rourke's card reads *Would want it. Would be worse off with it. Both true*, with *ask her* underneath.** Iris has the whole mechanism and **has not handed it over.** | Rourke's public break lands differently now: **Iris could have given her the answer and made a defensible decision not to.** That is available and it is better than her simply not having it. |
+| **Kade's April question is answered and the answer is no.** Marin did not know what she was going to make. Iris wrote it on a card **without the reasoning**, and wrote underneath that whether he wanted the answer is a separate question she cannot run. | His arc opens on being handed a true thing he may not have wanted. |
+| **⚠️ Iris's own case card now reads *Second attempt did not complete. Expectation unsupported and not withdrawn.*** She could not write *closed* and could not withdraw the expectation on one case. | **Her stated epistemic position entering Book 3**, in her own hand. The last line of Book 2's record work is ***Will it come back. No prior case of a subject it did not finish. Outside the data.*** |
+| **Willow speaks, and it is the first speech in the series.** Three lines, short, complete, flat, **and the voice is ordinary.** | The register is set. Book 3's *"Willow Halloway"* line inherits it. **She is not eloquent and she is not cryptic. She states results.** |
+| **What Ch22 leaves in her has no name in her.** A value that will not close, a system that cannot leave a value open. **The prose never calls it anger or want.** | ⚠️ **This outline's *From Method to Intent* heading is the arc, not the starting point.** Book 3 has to earn the word *intent*. **It may not open with her wanting anything**, because Book 2 spent a chapter refusing to say so. |
+| **Lila Mercer is dead**, one line in Ch18, heard secondhand after Iris warned her in person in Ch14. | The warning that could not be delivered has a body attached to it now. |
+| **Every recovered system stops at the seal.** | A hard limit on what Iris can establish about the sealed years, in this book as in the last. **Inference only, from what happened after.** |
+
+**⚠️ AND ONE THING THE OUTLINE ABOVE GETS SLIGHTLY WRONG NOW.** It says Willow *"failed at Iris three times"* and calls that *"the pressure that makes her strategic."* **As written the count is right and the framing is not.** Ch22 gives no pressure and no reaction — it gives **an operation that did not return a value and cannot be closed or abandoned.** Book 3 may render that as pressure once it has shown the reader why. **It may not assume it on page one.**
+
 ---
 
 ## CORE ARCS

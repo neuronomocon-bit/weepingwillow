@@ -361,7 +361,7 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 7. ~~**Ch21 — Why Lena.**~~ **LOCKED 2026-09-03, 3,572 words.**
 8. ~~**Ch22 — The Second Visit.**~~ **DRAFTED 2026-09-03, 3,246 words, every beat present, every negative gate clean. ⏳ NEEDS THE AUTHOR'S REVIEW, then a lock, and then Book 2 is finished in draft.**
 9. ~~**After Ch22 locks: the five editing passes.**~~ **DONE 2026-09-03.** The author delivered all five combined as one read-only 17-item audit and then authorized the edits. **Applied in full; eleven chapters edited and re-locked.**
-10. **Bring the two files that lag the prose forward.** `01-world.md`'s SUBSTRATE STATE MODEL stops at Ch17 and says it governs Ch20; Ch20, Ch21 and Ch22 are written and each added substrate state it does not carry. And `07-book3-outline.md` is dated 2026-08-27, **before a single Book 2 chapter existed**, so it has never been reconciled with what Book 2 actually planted.
+10. ~~**Bring the two files that lag the prose forward.**~~ **DONE 2026-09-03.** `01-world.md`'s SUBSTRATE STATE MODEL is brought forward from Ch17 to Ch22 in a second table, and `07-book3-outline.md` now carries a RECONCILED AGAINST THE FINISHED BOOK section. **Both are read-first documents for Book 3.**
 11. **Write the 22 Book 3 briefs** against the reconciled outline.
 12. **The brief-by-brief under-specification audit of all 22.** Still unrun.
 
@@ -529,7 +529,13 @@ Common drift patterns when ChatGPT drafts, and the correction to give:
 
 ### Book 2 canon (established 2026-08-04)
 
-> ⚠️ **The chapter numbers in this section are stale.** They refer to the archived prequel structure. The *facts* below — substrate parameters, character details, the deviation, the name — all remain canon and carry into the new Recovered thread. Chapter numbers get reassigned when `08-book2-chapter-briefs.md` is written. Under the new outline: Intake is Ch4, Sessions is Ch8, Calm Ch10, The Water Ch13, The Map Ch15, The Limiter Ch17, The Last Session Ch20.
+> ⚠️ **EVERY CHAPTER NUMBER IN THIS SECTION IS PREQUEL-ERA AND WRONG FOR THE FINISHED BOOK. The facts are canon; the numbers are not. Do not cite a number from this section.** It was written 2026-08-04 against a structure that was dropped, and it was left in place because the facts were still needed. **The book is now finished, so the authority for where anything actually appears is the As Written block in `08-book2-chapter-briefs.md` and DRAFTED CANON in `02-characters.md`.**
+>
+> **Recovered thread mapping:** Intake **Ch4** · Sessions **Ch8** · Calm **Ch10** · The Water **Ch13** · The Map **Ch15** · The Limiter **Ch17** · The Last Session **Ch20**.
+>
+> **Where the people actually appear, measured off the locked prose 2026-09-03:** **Pell** Ch7 only · **Virek** Ch4, 8, 13, 15, 17, 19, 21 · **Feld** Ch8, 13, 15, 20 · **Terri** Ch4, 8, 15, 17, 20 · **Raman** Ch8, 10, 13, 17, 19.
+>
+> **So, concretely: the deviation is Ch17, not Ch9. Marin's consumption is Ch20, not Ch16. Virek's deferral is Ch19, not Ch12. Pell is Ch7, not Ch14.**
 >
 > Marin is no longer the POV protagonist of the book — she is the protagonist of the seven Recovered chapters. Iris carries the other fifteen.
 

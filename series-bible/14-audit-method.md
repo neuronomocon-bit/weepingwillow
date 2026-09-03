@@ -125,7 +125,7 @@ No script is committed to this repo yet. The measurement is a short throwaway th
 
 ### ⚠️ THE BASELINE IS A NOVELLA AND THE THING BEING MEASURED IS A NOVEL — added 2026-09-03
 
-**Book 1 is 23,405 words. Book 2 is 72,360.** The comparison is still sound, because **every rate here is per 10k and a rate is length-invariant.** That is the whole reason the method uses rates rather than counts, and nothing about the form difference weakens it.
+**Book 1 is 23,405 words. Book 2 is 72,246.** The comparison is still sound, because **every rate here is per 10k and a rate is length-invariant.** That is the whole reason the method uses rates rather than counts, and nothing about the form difference weakens it.
 
 **What the form difference does change is the noise floor on the Book 1 side.** A per-10k rate computed over 23,405 words rests on very few instances: **Book 1's *no one* at 2.6 per 10k is about six occurrences in the entire book, and its *, which was* at 0 is an absence measured across a quarter of Book 2's length.**
 

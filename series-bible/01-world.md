@@ -107,7 +107,7 @@ Two parameters. One afternoon. Undocumented.
 
 ## ⚠️ THE SUBSTRATE STATE MODEL — written 2026-09-03 off the author's Ch17 review
 
-**The Ch17 draft contained two technical contradictions and both came from a fuzzy model of what the limiter actually does.** This table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17, and **it governs Ch20, where Marin is consumed.** Nothing in a later chapter may contradict it.
+**The Ch17 draft contained two technical contradictions and both came from a fuzzy model of what the limiter actually does.** This table is the audit across locked Ch5, Ch8, Ch13, Ch15, Ch16 and Ch17. **It governed Ch20 and it held.** ⚠️ **It was brought forward to Ch22 on 2026-09-03 — see the section directly below, which carries everything Ch20, Ch21 and Ch22 added. Read both. Nothing in Book 3 may contradict either.**
 
 **THE ONE THAT WAS WRONG, STATED FIRST SO IT IS NOT REINTRODUCED: the integration limiter does not stop the substrate operating on a structure.** Six years of successful treatment consists of the substrate working patient structures with the limiter active. **The limiter governs attribution, not operation.** A Ch17 draft said working a structure requires taking it in as the machine's own, which would mean every therapeutic session in the program's history had run with the safeguard off.
 
@@ -124,6 +124,28 @@ Two parameters. One afternoon. Undocumented.
 | **⚠️ Attenuation trigger** | **A session, with a patient producing the material.** Ch8: *"The rise was the substrate taking the charge off the structure while Willow told it."* **Nothing else in the documentation drives it.** | Ch8 |
 | **Flush** | At session end. Window ninety minutes. Target residual under 0.1% of session load, tolerance 2%. **Material never integrated can be flushed; integrated material cannot.** | Ch8, Ch16 |
 | **The 0.4 shelf** | Steady across nineteen then thirty-one sessions, inside tolerance, **explained by a load-dependent tail treated as fixed.** ⚠️ **It is not evidence of limiter failure and may never be used as such.** | Ch8, Ch13 |
+
+### ⚠️ BROUGHT FORWARD TO CH22 — added 2026-09-03, after the book was finished
+
+**The table above was written off the Ch17 review and stopped there, while saying it governed Ch20.** Ch20, Ch21 and Ch22 have been written and locked since, and each put state on the page the table did not carry. **This section is that state. It governs Book 3, and nothing in Book 3 may contradict it.**
+
+| Property | Value | Locked in |
+|---|---|---|
+| **Consumption, the mechanism** | She returned post-seal with her own codes and **opened the channel both directions.** It took the charge, the structure, the reasoning and the grief. | Ch20 |
+| **Order of taking** | **Target structure first**, on the year-two principle that the largest load comes off first. **The memory stays complete. What goes is the load that arrived with it.** *"It was like putting something down."* | Ch20 |
+| **⚠️ No flush, and the reason** | *"A flush is a return and there was no longer anywhere for anything to be returned to."* **Integrated material cannot be flushed, and she knew it because she wrote the paragraph**, on the page before the one about the exclusion list. | Ch20 |
+| **Site state afterward** | **Status board reads four amber and the rest green**, and will for another two years and four months. Nobody reads it. | Ch20 |
+| **What it holds** | A dead woman's complete map **and** a living woman's whole grief for her, integrated, **with no instruction about what to do with either.** | Ch20, Ch21 |
+| **Matching, inside the building** | **Documented.** It matched its own material against what the patient presented to it. This is on the record and is not inference. | Ch21 |
+| **Matching, outside the building** | **A model, never promoted to a finding.** *It goes toward what it recognizes.* Iris lists the rivals — proximity, exposure duration, what four minutes of a routine check reaches, something no form collects — and rules **none of them fit as well, and fitting well is not the same as being true.** | Ch21 |
+| **⚠️ The procedure, from inside a subject** | Hand flat on the chest, no pressure. **Not a search. A fixed sequence**, worked in an order that has been used before, stopping at each address for an unequal period. | Ch22 |
+| **⚠️ On failing to return** | It reaches the end of the list **and goes back to the top and runs the whole list again, slower.** Two full passes, eleven minutes, nothing removed. | Ch22 |
+| **⚠️ The unclosed address** | One address held **two minutes and forty seconds**, unresolved, and it did not stop holding the shape when it moved. **The operation is still open, and open is a state with no defined exit.** | Ch22 |
+| **Speech** | **She speaks for the first time in the series, three lines, and her voice is ordinary.** *"You are not finished." · "It does not close." · "I do not know why."* | Ch22 |
+
+**⚠️ THE ONE THAT WILL BITE BOOK 3, STATED PLAINLY: there is no appetite anywhere in this and there must not be.** What Ch22 leaves in her is **a value that will not close and a system that cannot leave a value open**, in the same place. **It has no name in her.** The prose has never called it anger, frustration or want, and Book 3 has to **earn** any word it uses for it rather than inheriting one.
+
+**AND THE HARD LIMIT ON WHAT IRIS CAN KNOW: every recovered system stops at the seal.** Consumption logs, substrate log, staff list, site access log — all of them end inside the same week. **Everything anyone knows about the sealed years is inference from what happened after them.** A Ch21 draft had her reconstructing against the autonomous draw and she cannot. This constrains Book 3 as hard as it constrained Book 2.
 
 ### What this makes the end of Ch17
 

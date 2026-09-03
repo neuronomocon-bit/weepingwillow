@@ -296,7 +296,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 20 | **RECOVERED: The Last Session** | 3,804 | **2026-09-03** |
 | 21 | Why Lena | 3,566 | **2026-09-03** |
 | 22 | The Second Visit (ENDING) | 3,226 | **2026-09-03** |
-| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,342** | |
+| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,246** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
@@ -312,7 +312,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 **Drafted at 3,246, reviewed by the author the same day, revised to 3,228 against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. ✅ LOCKED 2026-09-03.**
 
-# ⚠️ BOOK 2 IS COMPLETE IN DRAFT. ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED AND LOCKED AT 72,342 WORDS.
+# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 72,246 WORDS.
 
 **Every chapter has an AUTHOR'S REVIEW PASS block in its brief and a row in the REVIEW LEDGER. `python tools/verify-record.py` reports no gap and no broken lock.** The whole manuscript is now closed to editing except under the four standing-permission conditions.
 
@@ -755,6 +755,8 @@ The audit lists *"Everything at once with the body still running"* as **the fixe
 **Ruled: the prose is right and the protection statement was imprecise.** Ch7 and Ch11 state the definition and are identical, which is what stability means here. Commas in Ch14 would collide with the *"and then the body had stopped"* that follows. **The record was corrected, not the book** — the same disposition as the *optimize the answer* incident.
 
 *(The "second list is the one that keeps you honest" refrain is genuinely verbatim in all three of Ch14, Ch16 and Ch21. An earlier check reported otherwise and the check was wrong, case-sensitively. A clean screen is evidence about the screen.)*
+
+⚠️ **NOTE FOR ANY FUTURE STALE-QUOTE CHECK.** The table above deliberately quotes the **superseded** wording on the left of every arrow, because a change log that does not show what changed is not a change log. **A checker that greps the record for pre-edit prose will flag roughly seventeen hits in this section and every one of them is correct.** Confine that check to the briefs and the bible.
 
 ## Verification run after the edits
 
