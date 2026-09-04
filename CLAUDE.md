@@ -82,6 +82,18 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **Numbering gaps at 09 and 12 are deliberate.** The numbers are stable identifiers referenced across the bible, so an archived file leaves its slot empty rather than causing a renumber.
 
+## The Obsidian vault — `weeping-willow-vault/`
+
+**Added 2026-09-04.** A reading and reference vault covering Books 1 and 2, committed with the project and modelled on `veil-trilogy-vault`. 72 notes: a home page, three book notes, **44 chapter notes**, eleven character notes, five world notes, and eight reference notes. Open the folder directly in Obsidian.
+
+**⚠️ IT IS DERIVED, NOT CANONICAL, AND IT IS A SECOND COPY.** The manuscript in `chapters-book2/` and the **"As Written" blocks** in `08-book2-chapter-briefs.md` are the authority. **If the vault and an "As Written" block disagree, the block is right and the vault gets fixed.**
+
+**This project's oldest lesson applies to it directly: two copies is how one of them silently goes stale.** The staging file and the ChatGPT system prompt both died of exactly this. **The vault is accepted as a second copy because it is a reading surface rather than a drafting surface** — nothing is ever drafted, audited or corrected in it, and no tool reads it. **It has no claim on the prose.**
+
+**Book 3 has one thin placeholder note and nothing else, deliberately.** It gets filled when the 22 briefs are written.
+
+**When a chapter changes, the vault is not automatically part of the same-commit rule** — it is not in the tracked-files table and `verify-record.py` does not check it. **Bring it forward when a change would make a note wrong**, and say so in the commit message.
+
 ## Book 1 — The Absence: PUBLISHED AND LOCKED
 
 **Published 2026-05-14. 22 chapters, 23,405 words. Its text is law and it is never edited.**

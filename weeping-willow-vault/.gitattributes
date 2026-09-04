@@ -1,0 +1,11 @@
+# Obsidian owns .obsidian/ and rewrites it whenever the vault is opened or moved.
+# Normalising it means git reports the vault dirty after simply looking at it.
+* text=auto eol=lf
+*.md text eol=lf
+
+.obsidian/**    -text
+**/.obsidian/** -text
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
