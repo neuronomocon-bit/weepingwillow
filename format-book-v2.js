@@ -73,6 +73,14 @@ const BOOK_SUBTITLE = titleParts.slice(1).join(": ").trim();
 const outputPath =
   outputPathArg || BOOK_TITLE.replace(/[^A-Za-z0-9]+/g, "_").replace(/^_|_$/g, "") + ".docx";
 
+// ─── Author ──────────────────────────────────────────────────────────
+// One constant, used by the title page, the copyright line and the running
+// header. These were three separate literals and had drifted: the header said
+// "Kristopher Michael" and the title page said "Kris Schiffer" in the same
+// document. Kristopher Michael is the author name and is what published
+// Book 1 carries.
+const AUTHOR = "Kristopher Michael";
+
 // ─── Headers: even (left) = book title, odd (right) = author ────────
 function createEvenHeader() {
   return new Header({
@@ -100,7 +108,7 @@ function createOddHeader() {
         alignment: AlignmentType.RIGHT,
         children: [
           new TextRun({
-            text: "Kristopher Michael",
+            text: AUTHOR,
             font: "Inter",
             size: 16,
             italics: true,
@@ -238,7 +246,7 @@ const frontMatter = {
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
-      children: [new TextRun({ text: "Kris Schiffer", font: "Garamond", size: 28 })],
+      children: [new TextRun({ text: AUTHOR, font: "Garamond", size: 28 })],
     }),
     // Copyright page
     new Paragraph({
@@ -254,7 +262,7 @@ const frontMatter = {
     new Paragraph({
       alignment: AlignmentType.CENTER,
       spacing: { after: convertInchesToTwip(0.15) },
-      children: [new TextRun({ text: `Copyright \u00A9 ${new Date().getFullYear()} Kris Schiffer`, font: "Garamond", size: 20 })],
+      children: [new TextRun({ text: `Copyright \u00A9 ${new Date().getFullYear()} ${AUTHOR}`, font: "Garamond", size: 20 })],
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
