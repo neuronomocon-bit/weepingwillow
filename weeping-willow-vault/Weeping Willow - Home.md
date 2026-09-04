@@ -69,6 +69,7 @@ The Absence → The Ending → The Silence.
 - [[Prose Rules]] — the hard rules, and why Book 1 is exempt
 - [[Audit Method]] — how defects are actually found
 - [[Arc History]] — two pivots, and what died in them
+- [[The Death Count]] — the Book 2 mortality, and why the book refuses a total
 - [[Open Questions]]
 
 ---

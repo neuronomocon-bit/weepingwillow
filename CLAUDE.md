@@ -154,7 +154,19 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ---
 
-## WHERE WE LEFT OFF (2026-09-03)
+## WHERE WE LEFT OFF (2026-09-04)
+
+### The 2026-09-04 session — no prose touched, and one real defect found in the export path
+
+**The author asked for a .docx of Book 2 to proofread. The first one had "The Absence" on its title page.** Three things came out of it:
+
+1. **`format-book-v2.js` had the book's name hardcoded in four places** and only the *running header* had ever been made to derive from the manuscript. So the export carried **the wrong book's name on its title page while all seventy running headers read correctly.** Title page, copyright line, running header and the default output filename now all derive from one source. **The note in this file claimed the export was safe because the header had been fixed — a fix recorded more broadly than it was made, which is why the other three survived.** Written up in `14-audit-method.md`.
+2. **The author name was split across the same file.** Title page said "Kris Schiffer," running header said "Kristopher Michael." **The author confirms Kristopher Michael, and published Book 1 carries it** — so the script had drifted *away* from the published book. One `AUTHOR` constant now.
+3. **The Obsidian vault was built** at `weeping-willow-vault/`. See the section above.
+
+**Still open and not addressed: published Book 1's title page has a `Book One` line between the subtitle and the author name, and the current script emits no such line**, so a Book 2 export has no `Book Two`. **The script has drifted from the published front matter in that respect too.** It is a decision about the series, not a bug, so it is the author's call.
+
+**⚠️ VERIFY AN EXPORT BY READING THE TEXT INSIDE THE .DOCX, NOT THE BUILD'S SUMMARY LINE.** The build printed `Chapters: 22`, `Sections: 24`, `Scene breaks: 173` and every one of those was accurate while the title page was wrong. **Unzip it and read `word/document.xml`.**
 
 # ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 72,246 WORDS.
 
