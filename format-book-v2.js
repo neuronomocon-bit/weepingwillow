@@ -16,7 +16,7 @@ const {
 } = require("docx");
 
 const inputPath = process.argv[2] || "manuscript-book2.md";
-const outputPath = process.argv[3] || "WeepingWillow_TheAbsence_v2.docx";
+const outputPathArg = process.argv[3];
 
 const raw = fs.readFileSync(inputPath, "utf8");
 const lines = raw.split(/\r?\n/);
@@ -59,6 +59,19 @@ for (const line of lines) {
 // book does not silently carry the previous book's title in the header.
 const titleLine = lines.map((l) => l.trim()).find((l) => bookTitleRe.test(l));
 const BOOK_TITLE = titleLine || "Weeping Willow";
+
+// ─── Title page parts, split off the same line ───────────────────────
+// The running header was derived from the manuscript years before the title
+// page was, so a Book 2 export carried "The Absence" on its first page while
+// every header above it read correctly. Both now come from one source.
+const titleParts = BOOK_TITLE.split(/\s*:\s*/);
+const SERIES_LINE = titleParts[0].toUpperCase();
+const BOOK_SUBTITLE = titleParts.slice(1).join(": ").trim();
+
+// Default filename follows the same source, so an unnamed export cannot land
+// under the wrong book's name either.
+const outputPath =
+  outputPathArg || BOOK_TITLE.replace(/[^A-Za-z0-9]+/g, "_").replace(/^_|_$/g, "") + ".docx";
 
 // ─── Headers: even (left) = book title, odd (right) = author ────────
 function createEvenHeader() {
@@ -216,12 +229,12 @@ const frontMatter = {
     new Paragraph({
       alignment: AlignmentType.CENTER,
       spacing: { after: convertInchesToTwip(0.3) },
-      children: [new TextRun({ text: "WEEPING WILLOW", font: "Inter", size: 52, bold: true })],
+      children: [new TextRun({ text: SERIES_LINE, font: "Inter", size: 52, bold: true })],
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
       spacing: { after: convertInchesToTwip(1.5) },
-      children: [new TextRun({ text: "The Absence", font: "Inter", size: 36 })],
+      children: [new TextRun({ text: BOOK_SUBTITLE, font: "Inter", size: 36 })],
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
@@ -236,7 +249,7 @@ const frontMatter = {
     new Paragraph({
       alignment: AlignmentType.CENTER,
       spacing: { after: convertInchesToTwip(0.2) },
-      children: [new TextRun({ text: "Weeping Willow: The Absence", font: "Garamond", size: 20, italics: true })],
+      children: [new TextRun({ text: BOOK_TITLE, font: "Garamond", size: 20, italics: true })],
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,

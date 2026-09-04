@@ -664,3 +664,19 @@ The author's 17-item pass classed the global exclusivity claim (*"no one else in
 
 **The corollary, which is Law 3 in a new place: a protected-lines list can be wrong about the prose.** The same pass declared *"Everything at once with the body still running"* a fixed definition stable across three chapters. Two of the three are identical and the third differs. **The prose was right and the protection was imprecise**, exactly as with *optimize the answer*. **Verify a protected line before honouring it, not only before changing it.**
 
+
+---
+
+## ⚠️ A FIX CAN BE RECORDED MORE BROADLY THAN IT WAS MADE — added 2026-09-04, off the first Book 2 export
+
+**The defect.** `format-book-v2.js` had the book's name hardcoded in four places. At some point one of them, the running header, was made to derive from the manuscript's own title line, and the note in `CLAUDE.md` was written as *"exporting a different book no longer carries the previous book's title in the header."* **Every word of that was true.** The title page, the copyright line and the default output filename were still hardcoded to "The Absence".
+
+**So the first export of the finished Book 2 put the wrong book's name on its title page while all seventy running headers above it read correctly.** The author caught it on sight. No check did, and none could have: the build printed `Chapters: 22`, `Sections: 24`, `Scene breaks: 173`, and all of that was accurate.
+
+**Why the record made it worse rather than neutral.** A note saying nothing would have left the script suspect. **The note said the class of problem had been handled**, so the export was treated as safe and the other three sites were never looked for. **A partial fix described in general terms is worse than no note, because it retires the question.**
+
+**THE RULE, and it generalises past this script.** When a fix is recorded, the record states **which sites were changed**, not which class of problem was addressed. *"The running header now derives from the title line"* is a true and safe note. *"Exporting a different book no longer carries the previous title"* is a claim about the whole export and was false.
+
+**THE CHECK, when a note claims a class has been handled: grep for the literal the fix removed.** One `grep -n "The Absence" format-book-v2.js` at any point in the last four months would have returned three lines. **The cost of confirming a general claim against the source is one command, and this project's oldest lesson is that a rule nobody checks is a rule that drifts.**
+
+**And the export-specific rule: verify a document by reading the text inside it, not the summary the builder prints.** The summary reports what the builder did, which is a claim about the builder. Unzipping the `.docx` and reading `word/document.xml` is a claim about the artifact. **They are not the same evidence, and this is the general form of a clean screen being evidence about the screen.**

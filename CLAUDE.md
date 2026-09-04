@@ -50,12 +50,12 @@ This is a deliberate change from Book 1, where a review file held the whole runn
 ```
 node build-manuscript.js          # -> manuscript-book2.md
 node build-manuscript.js book1    # -> manuscript-book1.md
-node format-book-v2.js manuscript-book2.md WeepingWillow_TheKeeping.docx
+node format-book-v2.js manuscript-book2.md WeepingWillow_TheEnding.docx
 ```
 
 `manuscript-book*.md` are **build artifacts and are gitignored. Never hand-edit them.** If something is wrong in the manuscript, fix the chapter file and rebuild. The build script warns on gaps in chapter numbering so a missing chapter cannot silently vanish from an export.
 
-`format-book-v2.js` derives the running header from the manuscript's own title line, so exporting a different book no longer carries the previous book's title in the header.
+**`format-book-v2.js` derives the title page, the copyright line, the running header and the default output filename from the manuscript's own title line.** Until 2026-09-04 only the *running header* was derived and the other three were hardcoded to "The Absence", so the first Book 2 export carried **the wrong book's name on its title page while every page header above it read correctly.** The author caught it; no check did. **The old note here claimed the export was safe because the header had been fixed, which is how the other three survived** — a fix recorded more broadly than it was made. **Verify an export by reading the text inside the .docx, not the build's summary line**, which reported success both times.
 
 ## Series Bible
 
