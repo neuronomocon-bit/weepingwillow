@@ -70,7 +70,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `06-book2-outline.md` | "The Ending" — **sequel** structure, Present 15 / Recovered 7, continuity locks from published Book 1 |
 | `07-book3-outline.md` | "The Silence" — **rewritten 2026-08-27.** New ending (compulsion trap, then the water), Willow's killer escalation, Virek's recognition function |
 | `08-book2-chapter-briefs.md` | **All 22 Book 2 briefs.** Master timeline, the investigation spine, Willow's face progression, the audit gates. Merged from two independent sets 2026-08-27. |
-| *09 — none* | **Book 3 has no chapter briefs.** The prequel-era set is archived at `archive/arc-02-prequel/`. 22 need writing against the rewritten Book 3 outline. |
+| `09-book3-chapter-briefs.md` | **"The Silence" — STARTED 2026-09-04. Act I (Ch1–7) drafted; Acts II and III to follow.** Carries the three 2026-09-04 decisions, the master timeline, what Book 2 locked and what it costs, the three clocks, and the negative gates. The prequel-era set stays archived at `archive/arc-02-prequel/` and **must not be consulted** — eight things in it were wrong. |
 | `10-subplot-threading.md` | 11 arcs tracked across all 66 chapters. Rebuilt 2026-08-27 |
 | `11-key-dialogue-notes.md` | Scene-level dialogue direction for ~20 key moments. Rebuilt 2026-08-27 |
 | *12 — archived* | The ChatGPT system prompt. Dropped 2026-05-14 and **it duplicated the prose rules**, which is how one copy goes stale. In `archive/superseded-tooling/`. |
@@ -80,7 +80,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 | `book1-published/` | **Book 1, locked.** Chapters, exports, outline, briefs, and its full review history. Read for context; never edit. |
 | `archive/` | Every superseded arc, retired draft, and dropped tool. **Organised by when it died** — `arc-01-hunger/`, `arc-02-prequel/`, `arc-03-superseded/`, `drafts/`, `superseded-tooling/`. Read `archive/README.md` first; it explains why each arc failed. |
 
-**Numbering gaps at 09 and 12 are deliberate.** The numbers are stable identifiers referenced across the bible, so an archived file leaves its slot empty rather than causing a renumber.
+**The numbering gap at 12 is deliberate, and 09 is now filled.** The numbers are stable identifiers referenced across the bible, so an archived file leaves its slot empty rather than causing a renumber.
 
 ## The Obsidian vault — `weeping-willow-vault/`
 
@@ -386,7 +386,12 @@ Book 2 is a sequel with the origin recovered off the drives · Willow becomes a 
 8. ~~**Ch22 — The Second Visit.**~~ **DRAFTED 2026-09-03, 3,246 words, every beat present, every negative gate clean. ⏳ NEEDS THE AUTHOR'S REVIEW, then a lock, and then Book 2 is finished in draft.**
 9. ~~**After Ch22 locks: the five editing passes.**~~ **DONE 2026-09-03.** The author delivered all five combined as one read-only 17-item audit and then authorized the edits. **Applied in full; eleven chapters edited and re-locked.**
 10. ~~**Bring the two files that lag the prose forward.**~~ **DONE 2026-09-03.** `01-world.md`'s SUBSTRATE STATE MODEL is brought forward from Ch17 to Ch22 in a second table, and `07-book3-outline.md` now carries a RECONCILED AGAINST THE FINISHED BOOK section. **Both are read-first documents for Book 3.**
-11. **Write the 22 Book 3 briefs** against the reconciled outline.
+11. **Write the 22 Book 3 briefs** against the reconciled outline. **⏳ IN PROGRESS — Act I (Ch1–7) drafted 2026-09-04 in `09-book3-chapter-briefs.md`. Acts II and III next.**
+
+    **⚠️ THE THREE DECISIONS THAT GOVERN THE WHOLE SET, RULED BY THE AUTHOR 2026-09-04:** **all Iris, single POV, twenty-two chapters** — nobody else gets one, so Lena's Taking (Ch13) and Kade's (Ch18) are both seen from outside after the fact, the way Book 2 played Caleb · **about five months, June to October**, because a city cannot become grateful in eleven weeks and the public-awareness arc is the slowest thing in the book · **68,000–72,000**, matching Book 2, with the per-chapter budgets a ceiling and a diagnostic rather than a target.
+
+    **Day 0 is the end of Book 2 Ch22, which lands in the first week of May.** The calendar table is in the brief file. **The three-week gap between Ch15 and Ch16 is the only long jump and it is load-bearing.**
+
 12. **The brief-by-brief under-specification audit of all 22.** Still unrun.
 
 **⚠️ THE WHOLE MANUSCRIPT IS LOCKED AND THE EDITORIAL AUTHORIZATION IS SPENT.** The four standing conditions govern every future change to any chapter. **A pass that wants to change many chapters at once is the exact shape of the accident the lock exists to prevent**, so produce a list of proposed changes for the author rather than a diff.
