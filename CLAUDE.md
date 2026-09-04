@@ -156,6 +156,16 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-09-04)
 
+# ⚠️ BOOK 3 HAS STARTED. ACT I OF THE BRIEFS IS WRITTEN; ACTS II AND III ARE THE NEXT WORK.
+
+**`series-bible/09-book3-chapter-briefs.md` now exists** — front matter plus **Ch1 to Ch7**. Fifteen briefs remain, and **Act II is the heavy one**: Lena at Ch8, Virek's double payoff at Ch12, the midpoint, and Rourke's public break.
+
+**Read the front matter before writing any of them.** It carries the three decisions, the master timeline with a day for every chapter, what Book 2 locked and **what each lock costs this book**, the three clocks, the continued face ladder, and the negative gates.
+
+**⚠️ ONE QUESTION IS OPEN AND IT IS WORTH SETTLING BEFORE CH20 IS BRIEFED.** *"People die in the room"* with Rourke responsible is genuinely hard to stage under a single Iris POV without either a second POV or a lot of off-page reporting. **The single-POV decision is the author's and stands; the staging of Ch20 inside it is not yet solved.** Raise it rather than writing around it.
+
+**⚠️ AND TWO STAGING PROBLEMS ARE ALREADY SOLVED IN THE BRIEFS RATHER THAN LEFT FOR DRAFTING, WHICH IS THE PATTERN TO CONTINUE.** Ch4's *"passes an easier target on the page"* **cannot be witnessed** under a single POV, so it is reconstructed as an exclusion Iris can defend: **an open job on the route was not closed**, established by going and asking the man. And Ch2's six days of surveillance are sourced to **Joe E.'s own diary**, via his practice partner, **because Iris has no cameras and no police powers.** The access chain is named in the brief, not deferred.
+
 ### The 2026-09-04 session — no prose touched, and one real defect found in the export path
 
 **The author asked for a .docx of Book 2 to proofread. The first one had "The Absence" on its title page.** Three things came out of it:
