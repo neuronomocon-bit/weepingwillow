@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Weeping Willow: The Absence — Interview Prep</title>
+<style>
+  :root {
+    --bg: #111314;
+    --panel: #1a1d1f;
+    --panel-2: #212528;
+    --ink: #d9d6cf;
+    --muted: #9a978f;
+    --accent: #8fa8a0;
+    --accent-2: #b9a27a;
+    --rule: #2e3336;
+    --warn: #c98a6b;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: radial-gradient(ellipse at top, #1b2022 0%, var(--bg) 60%) fixed;
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    font-size: 18px;
+    line-height: 1.65;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 56px 28px 96px; }
+  header { text-align: center; margin-bottom: 40px; }
+  .series { letter-spacing: .35em; text-transform: uppercase; font-size: 13px; color: var(--accent); }
+  h1 { font-weight: normal; font-size: 46px; margin: 10px 0 6px; letter-spacing: .02em; }
+  .byline { color: var(--muted); font-style: italic; }
+  .facts {
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 10px 26px;
+    margin: 22px 0 0; padding: 0; list-style: none; font-size: 14px; color: var(--muted);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .facts b { color: var(--ink); font-weight: 600; }
+
+  nav {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 14px; text-align: center; margin: 0 0 48px;
+    border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 12px 0;
+  }
+  nav a { color: var(--muted); text-decoration: none; margin: 0 10px; }
+  nav a:hover { color: var(--accent); }
+
+  h2 {
+    font-weight: normal; font-size: 30px; margin: 64px 0 18px;
+    padding-bottom: 8px; border-bottom: 1px solid var(--rule);
+  }
+  h2 .kicker { display: block; font-size: 12px; letter-spacing: .3em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; font-family: system-ui, sans-serif; }
+  h3 { font-weight: normal; font-size: 22px; margin: 34px 0 8px; color: var(--accent-2); }
+
+  .summary p:first-child::first-letter {
+    float: left; font-size: 64px; line-height: .9; padding: 6px 10px 0 0; color: var(--accent);
+  }
+  .summary p { margin: 0 0 1.1em; }
+
+  .logline {
+    background: var(--panel); border-left: 3px solid var(--accent);
+    padding: 18px 22px; margin: 28px 0; font-style: italic; font-size: 20px;
+  }
+  .logline small { display: block; font-style: normal; font-size: 12px; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; font-family: system-ui, sans-serif; }
+
+  .cast { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  @media (min-width: 720px) { .cast { grid-template-columns: 1fr 1fr; } }
+  .card { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 18px 20px; }
+  .card.lead { grid-column: 1 / -1; background: var(--panel-2); }
+  .card h4 { margin: 0; font-size: 21px; font-weight: normal; }
+  .card .role { font-family: system-ui, sans-serif; font-size: 12px; letter-spacing: .15em; text-transform: uppercase; color: var(--accent); margin: 2px 0 10px; }
+  .card p { margin: 0 0 .7em; font-size: 16.5px; }
+  .card p:last-child { margin-bottom: 0; }
+  .card .line { color: var(--accent-2); font-style: italic; }
+
+  .act { margin-top: 30px; }
+  .act-head { font-family: system-ui, sans-serif; font-size: 13px; letter-spacing: .25em; text-transform: uppercase; color: var(--accent); margin: 40px 0 4px; }
+  .act-sub { color: var(--muted); font-style: italic; margin: 0 0 14px; }
+  .ch { display: grid; grid-template-columns: 52px 1fr; gap: 0 14px; padding: 14px 0; border-bottom: 1px solid var(--rule); }
+  .ch .n { font-size: 26px; color: var(--muted); text-align: right; line-height: 1.2; }
+  .ch .t { font-size: 19px; }
+  .ch .t em { font-family: system-ui, sans-serif; font-style: normal; font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--warn); margin-left: 8px; vertical-align: 2px; }
+  .ch p { margin: 4px 0 0; font-size: 16.5px; color: #c7c4bc; }
+
+  ul.points { padding-left: 1.1em; }
+  ul.points li { margin-bottom: .6em; }
+  blockquote { margin: 12px 0; padding: 4px 0 4px 18px; border-left: 2px solid var(--accent-2); color: var(--accent-2); font-style: italic; }
+  blockquote cite { display: block; font-style: normal; font-size: 13px; color: var(--muted); font-family: system-ui, sans-serif; margin-top: 2px; }
+
+  details {
+    background: var(--panel); border: 1px solid #4a3a30; border-radius: 6px; padding: 0 20px; margin: 16px 0;
+  }
+  details[open] { padding-bottom: 14px; }
+  summary { cursor: pointer; padding: 14px 0; font-size: 19px; list-style: none; }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: "▸ "; color: var(--warn); }
+  details[open] summary::before { content: "▾ "; }
+  .tag { font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--warn); border: 1px solid var(--warn); border-radius: 3px; padding: 1px 6px; margin-left: 8px; vertical-align: 3px; }
+  .warnbox { border: 1px solid var(--warn); color: var(--warn); background: rgba(201,138,107,.07); padding: 12px 16px; border-radius: 6px; font-size: 15.5px; font-family: system-ui, sans-serif; }
+
+  footer { margin-top: 72px; text-align: center; color: var(--muted); font-size: 13px; font-family: system-ui, sans-serif; }
+
+  @media print {
+    body { background: #fff; color: #111; font-size: 12pt; }
+    .card, details, .logline { background: #fff; border-color: #bbb; }
+    nav { display: none; }
+    details { display: block; }
+    details > *:not(summary) { display: block !important; }
+    h2 .kicker, .card .role, .act-head { color: #555; }
+    .ch p, .card p { color: #222; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="series">Weeping Willow · Book One</div>
+  <h1>The Absence</h1>
+  <div class="byline">by Kristopher Michael · interview prep</div>
+  <ul class="facts">
+    <li><b>Published</b> May 14, 2026</li>
+    <li><b>Form</b> Novella, 22 chapters</li>
+    <li><b>Length</b> ~23,400 words</li>
+    <li><b>Genre</b> Horror / near-future sci-fi</li>
+    <li><b>Setting</b> Lowport, Maine, ~2050</li>
+  </ul>
+</header>
+
+<nav>
+  <a href="#summary">The Story</a>
+  <a href="#cast">Cast</a>
+  <a href="#world">World</a>
+  <a href="#chapters">Chapter by Chapter</a>
+  <a href="#themes">Themes</a>
+  <a href="#talking">Talking Points</a>
+  <a href="#ahead">The Series Ahead</a>
+</nav>
+
+<section id="summary" class="summary">
+  <h2><span class="kicker">Overview</span>The Story</h2>
+
+  <p>Iris Vale recovers data from places nobody else will go: sealed buildings, dead servers, infrastructure that has been switched off and forgotten. Her client, a former logistics coordinator named Daniel Kade, sends her into the abandoned Meridian Neurological facility on the coast of Lowport, Maine, to pull files off the drives of a biotech company that shut down suddenly and not cleanly. The job is routine. She goes in through a cut fence, works under every third light in the server room, and comes back out with the data. What she does not come back with is thirty-four minutes of her own afternoon. On the drive home she finds a photo of her younger sister, Lena, in the cup holder. She knows the face and she knows who it is, and she feels nothing at all.</p>
+
+  <p>Something in that building touched her and took one thing: her love for her sister. Not her memory of Lena and not her ability to function, just the feeling. As Iris goes back to work she starts to see the same absence in other people. A dock worker came home after two missing days and answers every question correctly and with nothing behind it. A woman named Lila Mercer is calm, polite and completely hollow. Lowport's behavioral-health chief, Dr. Elena Rourke, has hundreds of these cases filed as a treatable neurological condition, and she has no patience for Iris's idea that they are connected. But when Iris maps the cases across time, they are not scattered. They move in a line, and the line runs along the old Meridian infrastructure that Kade himself once helped build.</p>
+
+  <p>Iris keeps getting worse while the city goes quiet around her. Her responses come late, her certainties turn out to be false, and she starts performing emotions she can no longer feel, first for her sister and then for her friend Caleb Ward. Caleb is the most alive person she knows, and at the midpoint of the book he is Taken too. He comes back reasonable, efficient and gone. Rebuilding her evidence from scratch, Iris reaches the conclusion she has been circling: this is not a disease or contamination. It is one thing, and it is choosing. Her own damage turns out to work as a compass, because the closer she gets to it the more she loses, so she follows that loss alone into the drowned tunnels at the edge of the city.</p>
+
+  <p>There she finally sees it, the thing the series calls Willow. It is a figure that is nearly human, with a face assembled from what it has taken, and it recognizes her. There is no attack and no chase. It reaches out, touches her, and takes a little more. Then, for reasons neither Iris nor the reader can name, it lets her go. Iris walks back into Lowport and sits in a familiar café. A message from Lena arrives and produces nothing, and she understands that she is now closer to Willow than anyone else alive and further from herself than she has ever been. She knows she should be afraid. She waits for the fear, and it never comes.</p>
+
+  <div class="logline">
+    <small>One-line pitch</small>
+    A data-recovery specialist survives contact with something inside a sealed biotech lab. It took her love for her sister, and now it is moving through the city taking pieces of everyone else.
+  </div>
+</section>
+
+<section id="cast">
+  <h2><span class="kicker">Who's Who</span>Cast</h2>
+
+  <div class="cast">
+    <div class="card lead">
+      <h4>Iris Vale</h4>
+      <div class="role">Protagonist · data recovery specialist</div>
+      <p>A systems-recovery tech, one of the few people who will take jobs inside sealed sites. She is known for getting in, getting the data out and not asking questions. After Meridian she is the only known survivor of direct contact with Willow, and the one thing taken from her is her love for her younger sister Lena. She still remembers Lena and knows she <em>should</em> care. She doesn't.</p>
+      <p>There is collateral damage too: delayed emotional responses, unreliable decisions, memory gaps and false certainties. She catalogs her own losses like system logs ("Expected: frustration. Observed: none."). Her drive is not revenge or justice but understanding. Because the Taking was interrupted, she can sense Willow nearby as pressure in her head, and that makes her the only person who can track it. Every step closer costs her more.</p>
+      <p>She is controlled, observant and dry on the surface, and constantly monitoring herself underneath. Before the incident she was protective, impatient, funny and sharp, but the reader only ever sees that version in what other people expect of her and don't get.</p>
+      <p class="line">The dangerous thought: "Maybe I was better after."</p>
+    </div>
+
+    <div class="card">
+      <h4>Willow</h4>
+      <div class="role">The entity · antagonist</div>
+      <p>A bio-mechanical organism grown inside Meridian from neural mapping, memory technology and synthetic tissue. It is female-coded and elongated, almost human, with a face of "features learned from observation rather than born to them." It moves with no wasted motion and obeys physical rules: no teleporting, nothing supernatural.</p>
+      <p>It takes by touch. A hand on the chest, a flash of a person's most charged memories, then the feeling is stripped off them and the memory follows. Up close, it gives off a calming field that dulls sound and slows reactions. It isn't cruel. As far as it is concerned, it is removing suffering. It is silent for the whole of Book 1.</p>
+    </div>
+
+    <div class="card">
+      <h4>Lena Vale</h4>
+      <div class="role">Iris's younger sister</div>
+      <p>She is warm, direct and persistent. She refuses to accept that her sister has changed and keeps fighting for the relationship. In the café scene (Ch10) she tells Iris, "You sound like you're managing a problem," and Iris says, "I am." Lena: "You are the problem." She is the emotional core of the book because she is exactly what is missing. Love only flows in one direction now.</p>
+      <p class="line">"I love you." / "I love you." Words matched. Tone aligned. Only one was true.</p>
+    </div>
+
+    <div class="card">
+      <h4>Caleb Ward</h4>
+      <div class="role">Field tech · the reader's anchor</div>
+      <p>An independent tech runner Iris has worked with for years. He is sharp, funny, conversational, a little reckless, and one of the few people who knew her before. He notices she has changed and tells her so. Ch12, the midpoint, is his POV, the only chapter in the book told from his point of view, and it is the on-page Taking. Afterward he functions perfectly and he is not Caleb anymore.</p>
+      <p class="line">"If something's off, you can just say that. You don't have to… optimize the answer."</p>
+    </div>
+
+    <div class="card">
+      <h4>Daniel Kade</h4>
+      <div class="role">Client · handler · ally</div>
+      <p>A former Meridian logistics and site coordinator, not a scientist. He hired Iris for the job (ref MN-44-7) and keeps feeding her the adjacent sites. He is practical and controlled, and he doesn't speculate. His guilt is logistical rather than dramatic: he moved crates and data units to locations he never asked about. His Meridian access codes still work.</p>
+      <p class="line">"I moved things through here. Crates. Equipment. Data units. Didn't ask what was in them."</p>
+    </div>
+
+    <div class="card">
+      <h4>Dr. Elena Rourke</h4>
+      <div class="role">Behavioral health authority · the skeptic</div>
+      <p>Lowport's medical authority on the rising cases. She is analytical, precise and competent, with hundreds of cases filed as "behavioral flattening, dissociative presentation, emotional attenuation," and no full recoveries. She is right about the symptoms and wrong about the cause. She isn't a villain, just a wall. She hands Iris redacted case files anyway, pragmatically, and notices Iris presenting with the same markers.</p>
+      <p class="line">"They're moving." / "They're not moving. They're appearing."</p>
+    </div>
+
+    <div class="card">
+      <h4>Lila Mercer</h4>
+      <div class="role">The first fully Taken person</div>
+      <p>The first fully Taken person Iris meets face to face (Ch4). She is calm, present and polite, and completely hollow. She sets the tone for the whole book: no drama, only absence. Iris's body reacts even though her emotions can't.</p>
+      <p class="line">"Do you feel like anything is missing?" / "No."</p>
+    </div>
+
+    <div class="card">
+      <h4>Joel &amp; Leah</h4>
+      <div class="role">The first case (K-01)</div>
+      <p>Joel is a north-side dock and logistics worker who was gone for two days and came back "fine." His answers are correct and empty: "I know what is necessary." His wife Leah is frightened and confused, a smaller mirror of what Lena is living with. His case leads to Iris's report to Kade: <em>"Something has been removed."</em></p>
+    </div>
+  </div>
+</section>
+
+<section id="world">
+  <h2><span class="kicker">Setting</span>The World</h2>
+  <h3>Lowport, Maine, around 2050</h3>
+  <p>Lowport is a fictional coastal industrial city that is past its peak but still running unevenly: shipyards, container terminals, water treatment, and old drainage and transit tunnels under everything. It is damp, foggy and salt-corroded, and always slightly cold. The technology is near-future and believable: smart contacts, ambient AI assistants, predictive systems. If you walked down the street it would still feel like our world.</p>
+  <h3>Meridian Neurological</h3>
+  <p>A biotech company that ran a research facility on the Lowport coast, funded by defense grants and private pharma money. Its hidden layer was neural and memory technology: memory mapping, emotional-pattern extraction, neural data storage. None of it is public-facing, and the public doesn't understand what it can do. Meridian spread its sites deliberately across Lowport (primary facility, secondary storage, data mirrors, relay and transfer points) for "risk management." In Kade's words, it was protecting itself <em>"From themselves."</em> And it "didn't shut down clean."</p>
+</section>
+
+<section id="chapters">
+  <h2><span class="kicker">Refresher</span>Chapter by Chapter</h2>
+
+  <div class="act">
+    <div class="act-head">Act I · Discovery</div>
+    <p class="act-sub">Iris and her condition, the pattern, and the realization that it's something external.</p>
+
+    <div class="ch"><div class="n">1</div><div><div class="t">The Gap</div><p>Iris enters the sealed Meridian facility through a cut fence and a dead-keypad side door. The Taking is shown only in fragments: a kitchen at nineteen, a yellow mug, a hospital corridor, a red scarf on a winter beach, two girls on a staircase, a pale hand. Her clock jumps from 14:07 to 14:41. In the van she finds Lena's photo and feels nothing.</p></div></div>
+    <div class="ch"><div class="n">2</div><div><div class="t">Caleb Ward</div><p>A two-person job at Harbor Data Storage, then a diner. Caleb is funny, alive and probing ("You seem different"). Iris watches him laugh and waits for her own response. It never comes.</p></div></div>
+    <div class="ch"><div class="n">3</div><div><div class="t">The First Case</div><p>Kade flags case K-01: Joel, gone two days, back "fine." His wife Leah is frightened. Iris feels the first faint pressure of her proximity sense and reports: "Something has been removed."</p></div></div>
+    <div class="ch"><div class="n">4</div><div><div class="t">Lila Mercer</div><p>Iris's first face-to-face meeting with a fully Taken person. Lila is perfectly polite and has nothing behind it. Iris's body tightens while her feelings don't. "I hope you have a good day."</p></div></div>
+    <div class="ch"><div class="n">5</div><div><div class="t">Kade</div><p>Kade's office has layered maps on the walls and boxes of site codes. Iris admits to the 34-minute gap. Kade reveals that Meridian had many sites and gives her six to check: "Access, retrieval, no questions that get written down." He notices she would have pushed harder before. Her verdict: "It's moving."</p></div></div>
+    <div class="ch"><div class="n">6</div><div><div class="t">Rourke</div><p>Dr. Rourke has hundreds of cases, targeted neural changes and no recoveries. She rejects Iris's theory, spots the same symptoms in Iris, and hands her the case files anyway. Outside, Iris feels nothing: "Expected: frustration. Observed: none."</p></div></div>
+    <div class="ch"><div class="n">7</div><div><div class="t">The Pattern <em>Act I turn</em></div><p>Iris maps the cases over time and finds a directional path rather than a cluster, running along Meridian-era infrastructure. Every transcript has the same shape: "Question → Answer → Stop." Alone, she says it out loud: "It's not a condition. It's not environmental. Something is moving. And it touches people."</p></div></div>
+  </div>
+
+  <div class="act">
+    <div class="act-head">Act II · Escalation</div>
+    <p class="act-sub">The threat gets personal and irreversible. Caleb is Taken. Iris starts to come apart.</p>
+
+    <div class="ch"><div class="n">8</div><div><div class="t">Following the Thread</div><p>Kade and Iris visit three sites. His access codes still work. He recognizes the relay and transfer points from his own logistics work and starts to confess, then stops. Iris notices he has stopped and doesn't care enough to ask.</p></div></div>
+    <div class="ch"><div class="n">9</div><div><div class="t">The City Feels It</div><p>A wide-lens chapter about Lowport flattening: conversations that end without ending, and a mother and child who both watch a dropped toy and neither reaches for it. Iris's own delays get worse, and she can't tell whether the change is in the city or in her.</p></div></div>
+    <div class="ch"><div class="n">10</div><div><div class="t">Lena</div><p>A café. Lena pushes ("You used to argue with me"), and Iris performs care from a checklist. They end on "I love you" and "I love you." Lena is almost convinced, then she isn't.</p></div></div>
+    <div class="ch"><div class="n">11</div><div><div class="t">Caleb Shift</div><p>Caleb on a job site. He is still Caleb, but his pauses run a fraction long and a joke lands without its reaction. "You ever get the sense something's already happened and we're just catching up to it?" Iris thinks <em>he was the most alive person she knew</em> and corrects the tense.</p></div></div>
+    <div class="ch"><div class="n">12</div><div><div class="t">The Taking of Caleb Ward <em>Midpoint</em></div><p>Told from Caleb's POV. She is simply there at the end of a corridor. A flat hand on his chest. His memories surface one by one and each is stripped of its warmth: running as a kid, a coffee someone handed him unasked, an improvised fix. The last thing to go is "the sense that things mattered." He logs a routine note and drives home.</p></div></div>
+    <div class="ch"><div class="n">13</div><div><div class="t">After</div><p>A bar. Caleb answers everything cleanly and correctly and doesn't remember his own joke. Asked what he'd do if everything went wrong at once, he gives a textbook answer. "The difference between them was not direction. Only distance."</p></div></div>
+    <div class="ch"><div class="n">14</div><div><div class="t">The Weight</div><p>"He is complete." "That's not better." Rourke has 63 new cases, and her answers have tightened. Kade asks whether it bothers her and Iris says "Yes," with perfect tone, then realizes she was performing grief. She can't tell whether she stopped because it was dishonest or because she forgot to keep going.</p></div></div>
+    <div class="ch"><div class="n">15</div><div><div class="t">Deterioration</div><p>False certainties: a case she is sure she marked, a site she is sure she visited, a conversation Kade swears she had. A contact is burned. She leaves herself a note, "Do not trust sequence," and later can't follow her own reasoning. "Certain. Incorrect. Continuing."</p></div></div>
+    <div class="ch"><div class="n">16</div><div><div class="t">The Realization <em>Act II turn</em></div><p>Iris rebuilds the map from verified records only, and one clean line remains. "It's one." Her own symptoms fit the path too, and she doesn't say so. Kade: "We're tracking something that's still happening." It doesn't feel like a breakthrough. "The door had closed."</p></div></div>
+  </div>
+
+  <div class="act">
+    <div class="act-head">Act III · Contact</div>
+    <p class="act-sub">Iris follows her own damage to the thing that caused it.</p>
+
+    <div class="ch"><div class="n">17</div><div><div class="t">Tracking</div><p>Past the edge of the map. Kade tells her not to go alone and she goes anyway. "She was measuring proximity through loss." She isn't afraid and notes that she isn't.</p></div></div>
+    <div class="ch"><div class="n">18</div><div><div class="t">The Deeper Zone</div><p>Empty warehouses, a patch of floor still warm where someone stood, tunnels with standing water. Inside the field her symptoms <em>ease</em>: calm, relief, no need to monitor anything. She could stay there forever. She makes herself leave the calm and keep going.</p></div></div>
+    <div class="ch"><div class="n">19</div><div><div class="t">Closing Distance</div><p>Her senses compress, her footsteps register late and her body stops without her deciding to. A room that feels "Not occupied. Not empty. Held." She knows where it is before she turns.</p></div></div>
+    <div class="ch"><div class="n">20</div><div><div class="t">Contact</div><p>The full reveal, told with no dialogue. A figure that moves by "reallocation," with proportions that correct themselves and a face that is "not held the same way." It recognizes her. What Iris recognizes is a process rather than a person, and some of it is already inside her.</p></div></div>
+    <div class="ch"><div class="n">21</div><div><div class="t">Partial Loss</div><p>A hand, light contact, and some small automatic response she relied on dissolves. She can feel the shape of the gap but not what used to fill it. She steps back. Willow doesn't follow. "The exchange had been sufficient."</p></div></div>
+    <div class="ch"><div class="n">22</div><div><div class="t">Exit</div><p>Willow lets her go. Iris walks back into Lowport and sits in a familiar café. Lena's text arrives and she reads it and doesn't reply. She is closer to Willow than anyone alive and further from herself. She should be afraid. "She waited. Nothing came."</p></div></div>
+  </div>
+</section>
+
+<section id="themes">
+  <h2><span class="kicker">What It's About</span>Themes</h2>
+  <ul class="points">
+    <li><b>Horror by subtraction.</b> Nothing explodes. Willow doesn't add anything or distort anything, she removes, and what's left is functional, calm and incomplete. The horror is in the gap.</li>
+    <li><b>Loss isn't always visible.</b> People keep walking, talking and working, and most of the world can't see what's gone. The city absorbs the damage: "He's still working." "That's good."</li>
+    <li><b>Identity is fragile.</b> A person isn't just their memories or just their emotions but the connection between the two, and that connection can be interrupted.</li>
+    <li><b>Pain has purpose.</b> Grief anchors us. Take away the pain and the meaning goes with it. Is suffering part of being human, or just damage? Willow thinks it's damage.</li>
+    <li><b>You can survive and still be gone.</b> Iris lives, stays aware and keeps working, and becomes progressively less herself.</li>
+  </ul>
+
+  <h3>Tone and style</h3>
+  <p>Quiet, heavy and slow-burning. The horror is intimate (touch, breath, proximity), psychological and physical, with no jump scares, gore or creature-feature spectacle. The language is grounded and precise. Iris's condition is built into the syntax: short, fragmented sentences, flat questions ending in periods, and clinical self-logging. The prose reads like the inside of someone who has had something removed.</p>
+</section>
+
+<section id="talking">
+  <h2><span class="kicker">For the Interview</span>Talking Points &amp; Key Lines</h2>
+
+  <h3>Likely questions, and the core of an answer</h3>
+  <ul class="points">
+    <li><b>Where did the idea come from?</b> What if the scariest monster didn't hurt you at all and just took something away, so quietly that you'd hardly notice and no one around you could tell?</li>
+    <li><b>Why her sister?</b> Iris keeps everything else. Losing exactly one love, and knowing you <em>should</em> feel it, is more unsettling than losing everything. (The series has a reason it was Lena specifically. See the spoiler section below and don't give it away.)</li>
+    <li><b>Is Willow evil?</b> No. It's calm and observant, and in its own logic it's reducing suffering. The flatness is the horror.</li>
+    <li><b>Why does it let Iris go?</b> Deliberately left open. In Book 1 it's the question the book ends on.</li>
+    <li><b>Why is the prose so spare and fragmented?</b> It's Iris's condition rendered as syntax. The reader feels the gaps because the sentences have them.</li>
+    <li><b>Why a novella?</b> It's built as a tight, claustrophobic opening chapter of a larger series. Book 2 is a full-length novel by design.</li>
+    <li><b>Is it sci-fi or horror?</b> Horror with a grounded near-future frame. The technology could plausibly exist in 20 to 30 years, with no neon and no cyberpunk spectacle.</li>
+  </ul>
+
+  <h3>Lines worth quoting</h3>
+  <blockquote>"Features learned from observation rather than born to them."<cite>Willow's face, Ch1</cite></blockquote>
+  <blockquote>"Something has been removed."<cite>Iris to Kade, Ch3</cite></blockquote>
+  <blockquote>"Expected: frustration. Observed: none."<cite>Iris, Ch6</cite></blockquote>
+  <blockquote>"It's not a condition. It's not environmental. Something is moving. And it touches people."<cite>Act I turn, Ch7</cite></blockquote>
+  <blockquote>"The interaction had completed without occurring."<cite>The city, Ch9</cite></blockquote>
+  <blockquote>"The difference between them was not direction. Only distance."<cite>Iris after seeing Caleb, Ch13</cite></blockquote>
+  <blockquote>"Certain. Incorrect. Continuing."<cite>Ch15</cite></blockquote>
+  <blockquote>"She was measuring proximity through loss."<cite>Ch17</cite></blockquote>
+  <blockquote>"She noted that she should be afraid… She waited. Nothing came."<cite>The ending, Ch22</cite></blockquote>
+
+  <h3>Questions the book leaves open (and the series answers)</h3>
+  <ul class="points">
+    <li>Why did Willow let Iris go, both times?</li>
+    <li>Why can't Willow fully take Iris?</li>
+    <li>Who inside Meridian made it, and how?</li>
+    <li>What does Willow actually want?</li>
+    <li>How much of Iris is left?</li>
+  </ul>
+</section>
+
+<section id="ahead">
+  <h2><span class="kicker">Spoilers</span>The Series Ahead</h2>
+  <div class="warnbox">Books 2 and 3 are not published. Everything below is for your memory only. Click to expand, and be careful what you reveal on air.</div>
+
+  <details>
+    <summary>Book 2 — The Ending <span class="tag">Light teaser</span></summary>
+    <p>A sequel set weeks after The Absence. Taken people start dying. They aren't killed, exactly: they stop eating, walk into traffic, never seek treatment, because nothing in them objects to anything anymore. Kade opens Meridian's post-shutdown files, and Iris does the one thing she has always been good at. She recovers the data, and what comes off the drives is the story of how Willow was made.</p>
+    <p>Meanwhile Willow's method is failing, so she increases the dose. Then she starts going back to finish jobs she left open. <b>Iris is an open job.</b> It's a full-length novel, about 72,000 words.</p>
+    <p><i>Safe on air:</i> "Book 2 goes back inside Meridian and finds out what was really in that building, and why it's called Willow."</p>
+  </details>
+
+  <details>
+    <summary>Book 2 — The Ending <span class="tag">Full spoilers</span></summary>
+    <ul class="points">
+      <li><b>The origin.</b> Seven chapters set years earlier and recovered off the drives tell the story of <b>Dr. Marin Halloway</b>, a Meridian researcher on a therapeutic memory-editing program, and her younger sister <b>Willow Halloway</b>, a patient whose treatment works. Willow comes out calm, agreeable and less. Her line: <i>"It's still there. I just can't find the handle on it anymore."</i> She means it as good news. About six months later she drowns.</li>
+      <li><b>The deviation.</b> Grieving and unable to know whether the treatment let her sister walk into the water, Marin keeps Willow's pre-treatment emotional map, renders it on the substrate and changes two parameters in one undocumented afternoon. Each step is small and defensible. Something comes back. <b>She's never a villain.</b> Eventually she consents to being consumed whole, and she is happy.</li>
+      <li><b>The name.</b> The entity is called Willow because Willow Halloway was a person. Iris <i>finds</i> the name, and nobody ever explains it.</li>
+      <li><b>Caleb dies at the midpoint.</b> Willow comes back and finishes him. He calls Iris to report, flatly, "There's someone here." She gets there after.</li>
+      <li><b>Lila Mercer</b> can't be warned ("That is useful information"), and she dies later, a single line in a list.</li>
+      <li><b>Supporting cast:</b> Dr. Simon Virek (the substrate scientist who noticed the anomaly, raised it once, got a reasonable answer and let it go) · Dr. Feld (Willow Halloway's clinician) · Terri Roth (front desk) · Dr. Raman (program director, right in every scene) · Pell (technician, the first Taken person in the world).</li>
+      <li><b>The ending.</b> Willow comes back to finish Iris and fails, the third refusal. In doing so she finds the empty place where Iris's love for Lena used to be and stops on it. Lena is now located. Iris never works out what happened.</li>
+      <li><b>Why Lena?</b> In Book 1, Willow took that love out of recognition, not as collateral: it was the shape of a younger sister. The books never state this outright.</li>
+      <li>Willow's face slowly resolves over the series toward Willow Halloway's. She becomes more human, and more beautiful, the worse she gets.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Book 3 — The Silence <span class="tag">Planned, may change</span></summary>
+    <ul class="points">
+      <li>Weeks after Book 2, roughly June to October, all told from Iris's point of view. Willow becomes strategic and no longer needs to touch anyone. She studies her targets first.</li>
+      <li>The city misreads the spread and then welcomes it, because people are calmer and grateful.</li>
+      <li>Lena is partially Taken at the midpoint. Rourke breaks in public. Kade tries to contain it alone and is partially Taken.</li>
+      <li>Virek, found alive in hiding, is the only living person who ever saw Willow Halloway, and he recognizes the face.</li>
+      <li><b>The ending:</b> a compulsion trap, then the water. Willow reaches Iris's irreducible core, can't take it and can't stop, and the attempt completes her. She finishes becoming Willow Halloway, walks past Iris and goes into the water. Iris doesn't kill her. Iris finishes her. The ending stays ambiguous so the series can continue.</li>
+    </ul>
+  </details>
+</section>
+
+<footer>Weeping Willow: The Absence · interview prep · Kristopher Michael</footer>
+
+</div>
+</body>
+</html>
