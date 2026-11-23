@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Absence Cast</title><style>
+:root{--bg:#fff;--panel:#fff;--panel-2:#f6f4ef;--ink:#1a1a1a;--muted:#6b6862;--accent:#4f6f66;--accent-2:#7a5f2e;--rule:#c9c5bd;--warn:#b4643c;}
+*{box-sizing:border-box}
+body{margin:0;background:#fff;color:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;font-size:15px;line-height:1.5}
+.wrap{max-width:900px;margin:0 auto;padding:32px 16px 48px}
+header{text-align:center;margin-bottom:18px}
+.series{letter-spacing:.3em;text-transform:uppercase;font-size:11px;color:var(--accent);font-family:system-ui,sans-serif}
+h1{font-weight:normal;font-size:32px;margin:4px 0 2px}
+.byline{color:var(--muted);font-style:italic;font-size:14px}
+h3{font-weight:normal;font-size:20px;margin:22px 0 10px;color:var(--accent-2);border-bottom:1px solid var(--rule);padding-bottom:4px}
+.castmap{margin:0 0 8px}
+.castmap svg{display:block;width:100%;height:auto}
+.castmap figcaption{font-family:system-ui,sans-serif;font-size:11.5px;color:var(--muted);margin-top:6px}
+.cm-box{fill:#fff;stroke:#9c978e;stroke-width:1.2}
+.cm-lead{fill:var(--panel-2);stroke:var(--accent);stroke-width:2}
+.cm-taken{stroke:var(--warn);stroke-width:1.8}
+.cm-partly{stroke:var(--warn);stroke-width:2;stroke-dasharray:6 4}
+.cm-name{fill:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;font-size:18px}
+.cm-role{fill:var(--accent);font-family:system-ui,sans-serif;font-size:10px;letter-spacing:.12em}
+.cm-desc{fill:#333;font-family:system-ui,sans-serif;font-size:12.5px}
+.cm-tag{fill:var(--warn);font-family:system-ui,sans-serif;font-size:9.5px;letter-spacing:.14em;font-weight:600}
+.cm-edge{stroke:var(--muted);stroke-width:1.4;fill:none}
+.cm-edge.w{stroke:var(--warn);stroke-width:1.8}
+.cm-lab{fill:var(--muted);font-family:system-ui,sans-serif;font-size:11.5px;font-style:italic}
+.cm-lab.w{fill:var(--warn)}
+.cast{display:grid;grid-template-columns:1fr;gap:10px}
+@media (min-width:640px){.cast{grid-template-columns:1fr 1fr}}
+.card{border:1px solid var(--rule);border-radius:5px;padding:10px 14px;break-inside:avoid;page-break-inside:avoid}
+.card.lead{grid-column:1/-1;background:var(--panel-2)}
+.card h4{margin:0;font-size:17px;font-weight:normal}
+.card .role{font-family:system-ui,sans-serif;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:1px 0 6px}
+.card p{margin:0 0 .5em;font-size:13.5px}
+.card p:last-child{margin-bottom:0}
+.card .line{color:var(--accent-2);font-style:italic}
+.printbtn{position:fixed;top:12px;right:12px;font:13px system-ui,sans-serif;padding:6px 12px;border:1px solid var(--rule);background:#fff;border-radius:4px;cursor:pointer}
+@media print{
+ @page{size:letter;margin:0.5in}
+ .printbtn{display:none}
+ .wrap{padding:0;max-width:none}
+ .cast{grid-template-columns:1fr 1fr}
+ h3.detail{break-before:page}
+ *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+</style></head>
+<body><button class="printbtn" onclick="window.print()">Print</button><div class="wrap">
+<header><div class="series">Weeping Willow · Book One</div><h1>The Absence: Cast</h1><div class="byline">by Kristopher Michael</div></header>
+<h3>Who connects to whom</h3>
+<section id="cast">
+  
+
+  <figure class="castmap">
+    <svg viewBox="0 0 960 640" role="img" aria-labelledby="cm-title">
+      <title id="cm-title">How the characters of The Absence connect</title>
+      <defs>
+        <marker id="cm-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b6862"/></marker>
+        <marker id="cm-arr-w" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b4643c"/></marker>
+      </defs>
+
+      <!-- edges -->
+      <line class="cm-edge" x1="700" y1="77" x2="602" y2="77" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="68" text-anchor="middle">found inside</text>
+
+      <line class="cm-edge w" x1="480" y1="135" x2="480" y2="243" marker-end="url(#cm-arr-w)"/>
+      <text class="cm-lab w" x="492" y="180">touches her, takes her</text>
+      <text class="cm-lab w" x="492" y="196">love for Lena, lets her go</text>
+
+      <line class="cm-edge" x1="820" y1="245" x2="820" y2="137" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="808" y="180" text-anchor="end">moved its cargo,</text>
+      <text class="cm-lab" x="808" y="196" text-anchor="end">never asked what</text>
+
+      <line class="cm-edge" x1="700" y1="300" x2="602" y2="300" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="292" text-anchor="middle">hires her</text>
+      <text class="cm-lab" x="650" y="318" text-anchor="middle">job MN-44-7</text>
+
+      <line class="cm-edge" x1="260" y1="300" x2="360" y2="300"/>
+      <text class="cm-lab" x="310" y="292" text-anchor="middle">sisters</text>
+      <text class="cm-lab" x="310" y="318" text-anchor="middle">love, one way</text>
+
+      <path class="cm-edge" d="M410,375 V435 H140 V500"/>
+      <text class="cm-lab" x="275" y="427" text-anchor="middle">old friend and field partner</text>
+
+      <path class="cm-edge" d="M550,375 V435 H820 V498" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="685" y="427" text-anchor="middle">sees the same absence</text>
+
+      <line class="cm-edge" x1="480" y1="375" x2="480" y2="450"/>
+      <line class="cm-edge" x1="480" y1="490" x2="480" y2="500"/>
+      <text class="cm-lab" x="480" y="465" text-anchor="middle">skeptic, but shares</text>
+      <text class="cm-lab" x="480" y="481" text-anchor="middle">redacted case files</text>
+
+      <line class="cm-edge" x1="600" y1="560" x2="698" y2="560" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="552" text-anchor="middle">files them as</text>
+      <text class="cm-lab" x="650" y="578" text-anchor="middle">a condition</text>
+
+      <!-- legend -->
+      <text class="cm-role" x="20" y="38">HOW TO READ THIS</text>
+      <rect class="cm-box cm-taken" x="20" y="52" width="26" height="16" rx="3"/>
+      <text class="cm-desc" x="56" y="65">Taken by Willow</text>
+      <rect class="cm-box cm-partly" x="20" y="80" width="26" height="16" rx="3"/>
+      <text class="cm-desc" x="56" y="93">Partly Taken</text>
+      <line class="cm-edge" x1="20" y1="117" x2="44" y2="117" marker-end="url(#cm-arr)"/>
+      <text class="cm-desc" x="56" y="121">acts on, or leads to</text>
+
+      <!-- Willow -->
+      <rect class="cm-box" x="360" y="20" width="240" height="115" rx="6"/>
+      <text class="cm-name" x="372" y="48">Willow</text>
+      <text class="cm-role" x="372" y="66">THE ENTITY</text>
+      <text class="cm-desc" x="372" y="88">Met inside Meridian. Nearly human,<tspan x="372" dy="17">takes feeling away by touch.</tspan><tspan x="372" dy="17">Silent for the whole book.</tspan></text>
+
+      <!-- Meridian -->
+      <rect class="cm-box" x="700" y="20" width="240" height="115" rx="6"/>
+      <text class="cm-name" x="712" y="48">Meridian Neurological</text>
+      <text class="cm-role" x="712" y="66">THE PLACE · SEALED RESEARCH SITE</text>
+      <text class="cm-desc" x="712" y="88">Sealed research site on the<tspan x="712" dy="17">Lowport coast. Its work is never</tspan><tspan x="712" dy="17">explained. Didn't shut down clean.</tspan></text>
+
+      <!-- Lena -->
+      <rect class="cm-box" x="20" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-name" x="32" y="273">Lena Vale</text>
+      <text class="cm-role" x="32" y="291">IRIS'S YOUNGER SISTER</text>
+      <text class="cm-desc" x="32" y="313">Warm and persistent. Keeps<tspan x="32" dy="17">fighting for a sister who can't</tspan><tspan x="32" dy="17">feel it. What's missing, in person.</tspan></text>
+
+      <!-- Iris -->
+      <rect class="cm-box cm-lead cm-partly" x="360" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-tag" x="588" y="265" text-anchor="end">PARTLY TAKEN</text>
+      <text class="cm-name" x="372" y="273">Iris Vale</text>
+      <text class="cm-role" x="372" y="291">PROTAGONIST · DATA RECOVERY</text>
+      <text class="cm-desc" x="372" y="313">Only known survivor of contact.<tspan x="372" dy="17">Lost her love for Lena, and keeps</tspan><tspan x="372" dy="17">losing pieces. Tracks Willow by</tspan><tspan x="372" dy="17">what each step costs her.</tspan></text>
+
+      <!-- Kade -->
+      <rect class="cm-box" x="700" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-name" x="712" y="273">Daniel Kade</text>
+      <text class="cm-role" x="712" y="291">CLIENT · HANDLER · ALLY</text>
+      <text class="cm-desc" x="712" y="313">Ex-Meridian logistics. Hires Iris<tspan x="712" dy="17">and feeds her sites. Moved crates</tspan><tspan x="712" dy="17">he never asked about. His</tspan><tspan x="712" dy="17">access codes still work.</tspan></text>
+
+      <!-- Caleb -->
+      <rect class="cm-box cm-taken" x="20" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-tag" x="248" y="520" text-anchor="end">TAKEN</text>
+      <text class="cm-name" x="32" y="528">Caleb Ward</text>
+      <text class="cm-role" x="32" y="546">FIELD TECH · OLD FRIEND</text>
+      <text class="cm-desc" x="32" y="568">The most alive person she knows.<tspan x="32" dy="17">Sees she's changed and says so.</tspan><tspan x="32" dy="17">Taken at the midpoint (Ch12).</tspan></text>
+
+      <!-- Rourke -->
+      <rect class="cm-box" x="360" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-name" x="372" y="528">Dr. Elena Rourke</text>
+      <text class="cm-role" x="372" y="546">BEHAVIORAL HEALTH · SKEPTIC</text>
+      <text class="cm-desc" x="372" y="568">Right about the symptoms, wrong<tspan x="372" dy="17">about the cause. Hundreds of</tspan><tspan x="372" dy="17">cases, no recoveries. A wall.</tspan></text>
+
+      <!-- The Taken -->
+      <rect class="cm-box cm-taken" x="700" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-tag" x="928" y="520" text-anchor="end">TAKEN</text>
+      <text class="cm-name" x="712" y="528">The Taken</text>
+      <text class="cm-role" x="712" y="546">LILA MERCER · JOEL &amp; LEAH</text>
+      <text class="cm-desc" x="712" y="568">Calm, polite, correct, hollow.<tspan x="712" dy="17">Joel is case K-01. His wife Leah</tspan><tspan x="712" dy="17">lives a smaller version of Lena's.</tspan></text>
+    </svg>
+    <figcaption>Book 1 only, so this is safe to talk about on air. Leah isn't Taken herself; she's in that box as Joel's wife.</figcaption>
+  </figure>
+
+  <h3 class="detail">In detail</h3>
+  <div class="cast">
+    <div class="card lead">
+      <h4>Iris Vale</h4>
+      <div class="role">Protagonist · data recovery specialist</div>
+      <p>A systems-recovery tech, one of the few people who will take jobs inside sealed sites. She is known for getting in, getting the data out and not asking questions. After Meridian she is the only known survivor of direct contact with Willow, and the one thing taken from her is her love for her younger sister Lena. She still remembers Lena and knows she <em>should</em> care. She doesn't.</p>
+      <p>There is collateral damage too: delayed emotional responses, unreliable decisions, memory gaps and false certainties. She catalogs her own losses like system logs ("Expected: frustration. Observed: none."). Her drive is not revenge or justice but understanding. Because the Taking was interrupted, she can sense Willow nearby as pressure in her head, and that makes her the only person who can track it. Every step closer costs her more.</p>
+      <p>She is controlled, observant and dry on the surface, and constantly monitoring herself underneath. Before the incident she was protective, impatient, funny and sharp, but the reader only ever sees that version in what other people expect of her and don't get.</p>
+    </div>
+
+    <div class="card">
+      <h4>Willow</h4>
+      <div class="role">The entity · antagonist</div>
+      <p>The thing Iris meets inside Meridian. It is elongated and almost human, with a face of "features learned from observation rather than born to them." It moves with no wasted motion.</p>
+      <p>It takes by touch. A hand on the chest, a flash of a person's most charged memories, then the feeling is stripped off them and the memory follows. Up close, it gives off a calming field that dulls sound and slows reactions. Nothing it does looks cruel. It is silent for the whole of Book 1.</p>
+    </div>
+
+    <div class="card">
+      <h4>Lena Vale</h4>
+      <div class="role">Iris's younger sister</div>
+      <p>She is warm, direct and persistent. She refuses to accept that her sister has changed and keeps fighting for the relationship. In the café scene (Ch10) she tells Iris, "You sound like you're managing a problem," and Iris says, "I am." Lena: "You are the problem." She is the emotional core of the book because she is exactly what is missing. Love only flows in one direction now.</p>
+      <p class="line">"I love you." / "I love you." The words matched. Tone aligned. No delay.</p>
+    </div>
+
+    <div class="card">
+      <h4>Caleb Ward</h4>
+      <div class="role">Field tech · the reader's anchor</div>
+      <p>An independent tech runner Iris has worked with for years. He is sharp, funny, conversational, a little reckless, and one of the few people who knew her before. He notices she has changed and tells her so. Ch12, the midpoint, is his POV, the only chapter in the book told from his point of view, and it is the on-page Taking. Afterward he functions perfectly and he is not Caleb anymore.</p>
+      <p class="line">"If something's off, you can just say that. You don't have to… optimize the answer."</p>
+    </div>
+
+    <div class="card">
+      <h4>Daniel Kade</h4>
+      <div class="role">Client · handler · ally</div>
+      <p>A former Meridian logistics and site coordinator, not a scientist. He hired Iris for the job (ref MN-44-7) and keeps feeding her the adjacent sites. He is practical and controlled, and he doesn't speculate. His guilt is logistical rather than dramatic: he moved crates and data units to locations he never asked about. His Meridian access codes still work.</p>
+      <p class="line">"I moved things through here. Crates. Equipment. Data units. Didn't ask what was in them."</p>
+    </div>
+
+    <div class="card">
+      <h4>Dr. Elena Rourke</h4>
+      <div class="role">Behavioral health authority · the skeptic</div>
+      <p>Lowport's medical authority on the rising cases. She is analytical, precise and competent, with hundreds of cases under one classification ("Behavioral flattening. Dissociative presentation. Emotional attenuation.") and no full recoveries. She is right about the symptoms and wrong about the cause. She isn't a villain, just a wall. She hands Iris redacted case files anyway, pragmatically, and notices Iris presenting with the same markers.</p>
+      <p class="line">"They're moving." / "They're not moving. They're appearing."</p>
+    </div>
+
+    <div class="card">
+      <h4>Lila Mercer</h4>
+      <div class="role">The first fully Taken person</div>
+      <p>The first fully Taken person Iris meets face to face (Ch4). She is calm, present and polite, and completely hollow. She sets the tone for the whole book: no drama, only absence. Iris's body reacts even though her emotions can't.</p>
+      <p class="line">"Do you feel like anything is missing?" / "No."</p>
+    </div>
+
+    <div class="card">
+      <h4>Joel &amp; Leah</h4>
+      <div class="role">The first case (K-01)</div>
+      <p>Joel is a north-side dock and logistics worker who was gone for two days and came back "fine." His answers are correct and empty: "I know what is necessary." His wife Leah is frightened and confused, a smaller mirror of what Lena is living with. His case leads to Iris's report to Kade: <em>"Something has been removed."</em></p>
+    </div>
+  </div>
+</section>
+</div></body></html>

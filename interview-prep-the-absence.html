@@ -99,6 +99,22 @@
   .tag { font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--warn); border: 1px solid var(--warn); border-radius: 3px; padding: 1px 6px; margin-left: 8px; vertical-align: 3px; }
   .warnbox { border: 1px solid var(--warn); color: var(--warn); background: rgba(201,138,107,.07); padding: 12px 16px; border-radius: 6px; font-size: 15.5px; font-family: system-ui, sans-serif; }
 
+  .castmap { margin: 8px 0 36px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .castmap svg { display: block; width: 100%; min-width: 720px; height: auto; }
+  .castmap figcaption { font-family: system-ui, sans-serif; font-size: 13px; color: var(--muted); margin-top: 8px; }
+  .cm-box { fill: var(--panel); stroke: var(--rule); stroke-width: 1.2; }
+  .cm-lead { fill: var(--panel-2); stroke: var(--accent); stroke-width: 2; }
+  .cm-taken { stroke: var(--warn); stroke-width: 1.8; }
+  .cm-partly { stroke: var(--warn); stroke-width: 2; stroke-dasharray: 6 4; }
+  .cm-name { fill: var(--ink); font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 18px; }
+  .cm-role { fill: var(--accent); font-family: system-ui, sans-serif; font-size: 10px; letter-spacing: .12em; }
+  .cm-desc { fill: #c7c4bc; font-family: system-ui, sans-serif; font-size: 12.5px; }
+  .cm-tag { fill: var(--warn); font-family: system-ui, sans-serif; font-size: 9.5px; letter-spacing: .14em; }
+  .cm-edge { stroke: var(--muted); stroke-width: 1.4; fill: none; }
+  .cm-edge.w { stroke: var(--warn); stroke-width: 1.8; }
+  .cm-lab { fill: var(--muted); font-family: system-ui, sans-serif; font-size: 11.5px; font-style: italic; }
+  .cm-lab.w { fill: var(--warn); }
+
   footer { margin-top: 72px; text-align: center; color: var(--muted); font-size: 13px; font-family: system-ui, sans-serif; }
 
   @media print {
@@ -135,6 +151,7 @@
   <a href="#chapters">Chapter by Chapter</a>
   <a href="#themes">Themes</a>
   <a href="#talking">Talking Points</a>
+<a href="#influences">Influences</a>
   <a href="#next">What's Next</a>
   <a href="#ahead">Spoilers</a>
 </nav>
@@ -159,6 +176,113 @@
 <section id="cast">
   <h2><span class="kicker">Who's Who</span>Cast</h2>
 
+  <figure class="castmap">
+    <svg viewBox="0 0 960 640" role="img" aria-labelledby="cm-title">
+      <title id="cm-title">How the characters of The Absence connect</title>
+      <defs>
+        <marker id="cm-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9a978f"/></marker>
+        <marker id="cm-arr-w" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c98a6b"/></marker>
+      </defs>
+
+      <!-- edges -->
+      <line class="cm-edge" x1="700" y1="77" x2="602" y2="77" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="68" text-anchor="middle">found inside</text>
+
+      <line class="cm-edge w" x1="480" y1="135" x2="480" y2="243" marker-end="url(#cm-arr-w)"/>
+      <text class="cm-lab w" x="492" y="180">touches her, takes her</text>
+      <text class="cm-lab w" x="492" y="196">love for Lena, lets her go</text>
+
+      <line class="cm-edge" x1="820" y1="245" x2="820" y2="137" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="808" y="180" text-anchor="end">moved its cargo,</text>
+      <text class="cm-lab" x="808" y="196" text-anchor="end">never asked what</text>
+
+      <line class="cm-edge" x1="700" y1="300" x2="602" y2="300" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="292" text-anchor="middle">hires her</text>
+      <text class="cm-lab" x="650" y="318" text-anchor="middle">job MN-44-7</text>
+
+      <line class="cm-edge" x1="260" y1="300" x2="360" y2="300"/>
+      <text class="cm-lab" x="310" y="292" text-anchor="middle">sisters</text>
+      <text class="cm-lab" x="310" y="318" text-anchor="middle">love, one way</text>
+
+      <path class="cm-edge" d="M410,375 V435 H140 V500"/>
+      <text class="cm-lab" x="275" y="427" text-anchor="middle">old friend and field partner</text>
+
+      <path class="cm-edge" d="M550,375 V435 H820 V498" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="685" y="427" text-anchor="middle">sees the same absence</text>
+
+      <line class="cm-edge" x1="480" y1="375" x2="480" y2="450"/>
+      <line class="cm-edge" x1="480" y1="490" x2="480" y2="500"/>
+      <text class="cm-lab" x="480" y="465" text-anchor="middle">skeptic, but shares</text>
+      <text class="cm-lab" x="480" y="481" text-anchor="middle">redacted case files</text>
+
+      <line class="cm-edge" x1="600" y1="560" x2="698" y2="560" marker-end="url(#cm-arr)"/>
+      <text class="cm-lab" x="650" y="552" text-anchor="middle">files them as</text>
+      <text class="cm-lab" x="650" y="578" text-anchor="middle">a condition</text>
+
+      <!-- legend -->
+      <text class="cm-role" x="20" y="38">HOW TO READ THIS</text>
+      <rect class="cm-box cm-taken" x="20" y="52" width="26" height="16" rx="3"/>
+      <text class="cm-desc" x="56" y="65">Taken by Willow</text>
+      <rect class="cm-box cm-partly" x="20" y="80" width="26" height="16" rx="3"/>
+      <text class="cm-desc" x="56" y="93">Partly Taken</text>
+      <line class="cm-edge" x1="20" y1="117" x2="44" y2="117" marker-end="url(#cm-arr)"/>
+      <text class="cm-desc" x="56" y="121">acts on, or leads to</text>
+
+      <!-- Willow -->
+      <rect class="cm-box" x="360" y="20" width="240" height="115" rx="6"/>
+      <text class="cm-name" x="372" y="48">Willow</text>
+      <text class="cm-role" x="372" y="66">THE ENTITY</text>
+      <text class="cm-desc" x="372" y="88">Met inside Meridian. Nearly human,<tspan x="372" dy="17">takes feeling away by touch.</tspan><tspan x="372" dy="17">Silent for the whole book.</tspan></text>
+
+      <!-- Meridian -->
+      <rect class="cm-box" x="700" y="20" width="240" height="115" rx="6"/>
+      <text class="cm-name" x="712" y="48">Meridian Neurological</text>
+      <text class="cm-role" x="712" y="66">THE PLACE · SEALED RESEARCH SITE</text>
+      <text class="cm-desc" x="712" y="88">Sealed research site on the<tspan x="712" dy="17">Lowport coast. Its work is never</tspan><tspan x="712" dy="17">explained. Didn't shut down clean.</tspan></text>
+
+      <!-- Lena -->
+      <rect class="cm-box" x="20" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-name" x="32" y="273">Lena Vale</text>
+      <text class="cm-role" x="32" y="291">IRIS'S YOUNGER SISTER</text>
+      <text class="cm-desc" x="32" y="313">Warm and persistent. Keeps<tspan x="32" dy="17">fighting for a sister who can't</tspan><tspan x="32" dy="17">feel it. What's missing, in person.</tspan></text>
+
+      <!-- Iris -->
+      <rect class="cm-box cm-lead cm-partly" x="360" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-tag" x="588" y="265" text-anchor="end">PARTLY TAKEN</text>
+      <text class="cm-name" x="372" y="273">Iris Vale</text>
+      <text class="cm-role" x="372" y="291">PROTAGONIST · DATA RECOVERY</text>
+      <text class="cm-desc" x="372" y="313">Only known survivor of contact.<tspan x="372" dy="17">Lost her love for Lena, and keeps</tspan><tspan x="372" dy="17">losing pieces. Tracks Willow by</tspan><tspan x="372" dy="17">what each step costs her.</tspan></text>
+
+      <!-- Kade -->
+      <rect class="cm-box" x="700" y="245" width="240" height="130" rx="6"/>
+      <text class="cm-name" x="712" y="273">Daniel Kade</text>
+      <text class="cm-role" x="712" y="291">CLIENT · HANDLER · ALLY</text>
+      <text class="cm-desc" x="712" y="313">Ex-Meridian logistics. Hires Iris<tspan x="712" dy="17">and feeds her sites. Moved crates</tspan><tspan x="712" dy="17">he never asked about. His</tspan><tspan x="712" dy="17">access codes still work.</tspan></text>
+
+      <!-- Caleb -->
+      <rect class="cm-box cm-taken" x="20" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-tag" x="248" y="520" text-anchor="end">TAKEN</text>
+      <text class="cm-name" x="32" y="528">Caleb Ward</text>
+      <text class="cm-role" x="32" y="546">FIELD TECH · OLD FRIEND</text>
+      <text class="cm-desc" x="32" y="568">The most alive person she knows.<tspan x="32" dy="17">Sees she's changed and says so.</tspan><tspan x="32" dy="17">Taken at the midpoint (Ch12).</tspan></text>
+
+      <!-- Rourke -->
+      <rect class="cm-box" x="360" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-name" x="372" y="528">Dr. Elena Rourke</text>
+      <text class="cm-role" x="372" y="546">BEHAVIORAL HEALTH · SKEPTIC</text>
+      <text class="cm-desc" x="372" y="568">Right about the symptoms, wrong<tspan x="372" dy="17">about the cause. Hundreds of</tspan><tspan x="372" dy="17">cases, no recoveries. A wall.</tspan></text>
+
+      <!-- The Taken -->
+      <rect class="cm-box cm-taken" x="700" y="500" width="240" height="120" rx="6"/>
+      <text class="cm-tag" x="928" y="520" text-anchor="end">TAKEN</text>
+      <text class="cm-name" x="712" y="528">The Taken</text>
+      <text class="cm-role" x="712" y="546">LILA MERCER · JOEL &amp; LEAH</text>
+      <text class="cm-desc" x="712" y="568">Calm, polite, correct, hollow.<tspan x="712" dy="17">Joel is case K-01. His wife Leah</tspan><tspan x="712" dy="17">lives a smaller version of Lena's.</tspan></text>
+    </svg>
+    <figcaption>Book 1 only, so this is safe to talk about on air. Leah isn't Taken herself; she's in that box as Joel's wife.</figcaption>
+  </figure>
+
+  <h3>In detail</h3>
   <div class="cast">
     <div class="card lead">
       <h4>Iris Vale</h4>
@@ -166,21 +290,20 @@
       <p>A systems-recovery tech, one of the few people who will take jobs inside sealed sites. She is known for getting in, getting the data out and not asking questions. After Meridian she is the only known survivor of direct contact with Willow, and the one thing taken from her is her love for her younger sister Lena. She still remembers Lena and knows she <em>should</em> care. She doesn't.</p>
       <p>There is collateral damage too: delayed emotional responses, unreliable decisions, memory gaps and false certainties. She catalogs her own losses like system logs ("Expected: frustration. Observed: none."). Her drive is not revenge or justice but understanding. Because the Taking was interrupted, she can sense Willow nearby as pressure in her head, and that makes her the only person who can track it. Every step closer costs her more.</p>
       <p>She is controlled, observant and dry on the surface, and constantly monitoring herself underneath. Before the incident she was protective, impatient, funny and sharp, but the reader only ever sees that version in what other people expect of her and don't get.</p>
-      <p class="line">The dangerous thought: "Maybe I was better after."</p>
     </div>
 
     <div class="card">
       <h4>Willow</h4>
       <div class="role">The entity · antagonist</div>
-      <p>A bio-mechanical organism grown inside Meridian from neural mapping, memory technology and synthetic tissue. It is female-coded and elongated, almost human, with a face of "features learned from observation rather than born to them." It moves with no wasted motion and obeys physical rules: no teleporting, nothing supernatural.</p>
-      <p>It takes by touch. A hand on the chest, a flash of a person's most charged memories, then the feeling is stripped off them and the memory follows. Up close, it gives off a calming field that dulls sound and slows reactions. It isn't cruel. As far as it is concerned, it is removing suffering. It is silent for the whole of Book 1.</p>
+      <p>The thing Iris meets inside Meridian. It is elongated and almost human, with a face of "features learned from observation rather than born to them." It moves with no wasted motion.</p>
+      <p>It takes by touch. A hand on the chest, a flash of a person's most charged memories, then the feeling is stripped off them and the memory follows. Up close, it gives off a calming field that dulls sound and slows reactions. Nothing it does looks cruel. It is silent for the whole of Book 1.</p>
     </div>
 
     <div class="card">
       <h4>Lena Vale</h4>
       <div class="role">Iris's younger sister</div>
       <p>She is warm, direct and persistent. She refuses to accept that her sister has changed and keeps fighting for the relationship. In the café scene (Ch10) she tells Iris, "You sound like you're managing a problem," and Iris says, "I am." Lena: "You are the problem." She is the emotional core of the book because she is exactly what is missing. Love only flows in one direction now.</p>
-      <p class="line">"I love you." / "I love you." Words matched. Tone aligned. Only one was true.</p>
+      <p class="line">"I love you." / "I love you." The words matched. Tone aligned. No delay.</p>
     </div>
 
     <div class="card">
@@ -200,7 +323,7 @@
     <div class="card">
       <h4>Dr. Elena Rourke</h4>
       <div class="role">Behavioral health authority · the skeptic</div>
-      <p>Lowport's medical authority on the rising cases. She is analytical, precise and competent, with hundreds of cases filed as "behavioral flattening, dissociative presentation, emotional attenuation," and no full recoveries. She is right about the symptoms and wrong about the cause. She isn't a villain, just a wall. She hands Iris redacted case files anyway, pragmatically, and notices Iris presenting with the same markers.</p>
+      <p>Lowport's medical authority on the rising cases. She is analytical, precise and competent, with hundreds of cases under one classification ("Behavioral flattening. Dissociative presentation. Emotional attenuation.") and no full recoveries. She is right about the symptoms and wrong about the cause. She isn't a villain, just a wall. She hands Iris redacted case files anyway, pragmatically, and notices Iris presenting with the same markers.</p>
       <p class="line">"They're moving." / "They're not moving. They're appearing."</p>
     </div>
 
@@ -224,7 +347,7 @@
   <h3>Lowport, Maine, around 2050</h3>
   <p>Lowport is a fictional coastal industrial city that is past its peak but still running unevenly: shipyards, container terminals, water treatment, and old drainage and transit tunnels under everything. It is damp, foggy and salt-corroded, and always slightly cold. The technology is near-future and believable: smart contacts, ambient AI assistants, predictive systems. If you walked down the street it would still feel like our world.</p>
   <h3>Meridian Neurological</h3>
-  <p>A biotech company that ran a research facility on the Lowport coast, funded by defense grants and private pharma money. Its hidden layer was neural and memory technology: memory mapping, emotional-pattern extraction, neural data storage. None of it is public-facing, and the public doesn't understand what it can do. Meridian spread its sites deliberately across Lowport (primary facility, secondary storage, data mirrors, relay and transfer points) for "risk management." In Kade's words, it was protecting itself <em>"From themselves."</em> And it "didn't shut down clean."</p>
+  <p>A sealed research building on the Lowport coast, "more bunker than clinic," with MERIDIAN NEUROLOGICAL RESEARCH still fading over the door. Book 1 never says what was done inside it. Meridian spread its sites deliberately across Lowport (primary facility, secondary storage, data mirrors, relay and transfer points) for "risk management." In Kade's words, it was protecting itself <em>"From themselves."</em> And it "didn't shut down clean."</p>
 </section>
 
 <section id="chapters">
@@ -277,7 +400,7 @@
     <li><b>Horror by subtraction.</b> Nothing explodes. Willow doesn't add anything or distort anything, she removes, and what's left is functional, calm and incomplete. The horror is in the gap.</li>
     <li><b>Loss isn't always visible.</b> People keep walking, talking and working, and most of the world can't see what's gone. The city absorbs the damage: "He's still working." "That's good."</li>
     <li><b>Identity is fragile.</b> A person isn't just their memories or just their emotions but the connection between the two, and that connection can be interrupted.</li>
-    <li><b>Pain has purpose.</b> Grief anchors us. Take away the pain and the meaning goes with it. Is suffering part of being human, or just damage? Willow thinks it's damage.</li>
+    <li><b>Pain has purpose.</b> Grief anchors us. Take away the pain and the meaning goes with it. Is suffering part of being human, or just damage?</li>
     <li><b>You can survive and still be gone.</b> Iris lives, stays aware and keeps working, and becomes progressively less herself.</li>
   </ul>
 
@@ -292,7 +415,7 @@
   <ul class="points">
     <li><b>Where did the idea come from?</b> What if the scariest monster didn't hurt you at all and just took something away, so quietly that you'd hardly notice and no one around you could tell?</li>
     <li><b>Why her sister?</b> Iris keeps everything else. Losing exactly one love, and knowing you <em>should</em> feel it, is more unsettling than losing everything. (The series has a reason it was Lena specifically. See the spoiler section below and don't give it away.)</li>
-    <li><b>Is Willow evil?</b> No. It's calm and observant, and in its own logic it's reducing suffering. The flatness is the horror.</li>
+    <li><b>Is Willow evil?</b> Nothing it does reads as cruel. It's calm and observant, and the flatness is the horror.</li>
     <li><b>Why does it let Iris go?</b> Deliberately left open. In Book 1 it's the question the book ends on.</li>
     <li><b>Why is the prose so spare and fragmented?</b> It's Iris's condition rendered as syntax. The reader feels the gaps because the sentences have them.</li>
     <li><b>Why a novella?</b> It's built as a tight, claustrophobic opening chapter of a larger series. Book 2 is a full-length novel by design.</li>
@@ -318,6 +441,74 @@
     <li>What does Willow actually want?</li>
     <li>How much of Iris is left?</li>
   </ul>
+</section>
+
+<section id="influences">
+  <h2><span class="kicker">Where It Comes From</span>Influences</h2>
+  <p>Roughly in the order they arrived: picture books and childhood, then fantasy, then cyberpunk and science fiction about memory, machines and what makes a person real.</p>
+
+  <div class="act-head">Earliest · Childhood</div>
+  <div class="cast">
+    <div class="card">
+      <h4>Mercer Mayer</h4>
+      <div class="role">Picture books</div>
+      <p>Author and illustrator of the <i>Little Critter</i> books and <i>There's a Nightmare in My Closet</i> (1968), which is about a child who faces the thing in the dark and finds it isn't what he feared.</p>
+    </div>
+    <div class="card">
+      <h4>Judy Blume</h4>
+      <div class="role">Middle grade &amp; young adult</div>
+      <p>Wrote <i>Tales of a Fourth Grade Nothing</i>, <i>Superfudge</i> and <i>Are You There God? It's Me, Margaret.</i> Her books took the inner lives of ordinary kids seriously and talked to readers frankly.</p>
+    </div>
+    <div class="card">
+      <h4>Bill Basso · <i>The Top of the Pizzas</i></h4>
+      <div class="role">Picture book · 1977</div>
+      <p>Ogre, the cook kept out of sight in Leonardo's pizzeria kitchen, loses his job when a customer faints at the sight of him. He lands on a decorated old rooftop, first standing in for a missing gargoyle, and ends up making a fortune feeding the sightseers.</p>
+    </div>
+    <div class="card lead">
+      <h4>J.R.R. Tolkien · <i>The Hobbit</i></h4>
+      <div class="role">Picture book &amp; record · 1977</div>
+      <p>The read-along book and record made from the 1977 Rankin/Bass animated film and released on Disneyland Records. It tells Tolkien's 1937 story of an ordinary person pulled out of a quiet life and into something far larger and older than him.</p>
+    </div>
+  </div>
+
+  <div class="act-head">Middle · Fantasy</div>
+  <div class="cast">
+    <div class="card lead">
+      <h4>R.A. Salvatore · <i>The Dark Elf Trilogy</i></h4>
+      <div class="role">Forgotten Realms · <i>Homeland</i> (1990), <i>Exile</i> (1990), <i>Sojourn</i> (1991)</div>
+      <p>The origin of Drizzt Do'Urden, a drow raised in the cruel underground city of Menzoberranzan who walks away from everything his people are. The series is set in TSR's <b>Forgotten Realms</b> world, and the trilogy is an outsider's story told from the inside, about a character defined by what he refuses to become.</p>
+    </div>
+    <div class="card lead">
+      <h4>Margaret Weis &amp; Tracy Hickman · <i>Dragonlance Chronicles</i></h4>
+      <div class="role">TSR · <i>Dragons of Autumn Twilight</i> (1984), <i>Dragons of Winter Night</i> (1985), <i>Dragons of Spring Dawning</i> (1985)</div>
+      <p>The Companions of the Inn of the Last Home, Tanis Half-Elven, Raistlin and Caramon Majere, Sturm Brightblade, Tasslehoff Burrfoot, Flint Fireforge, Goldmoon and Riverwind, in the world of Krynn after the gods have gone quiet. It's an ensemble story about friends and brothers, and at its center is <b>Raistlin</b>, the brilliant, sickly mage who gives up more and more of what made him human in exchange for power.</p>
+    </div>
+  </div>
+
+  <div class="act-head">Later · Science fiction</div>
+  <div class="cast">
+    <div class="card lead">
+      <h4>William Gibson · <i>Neuromancer</i></h4>
+      <div class="role">1984 · the founding cyberpunk novel</div>
+      <p>Case, a burned-out hacker, is hired for one last job and finds himself working for an artificial intelligence that is quietly arranging its own escape from the limits built into it. Corporations, minds that live inside machines, and a dead hacker's mind saved as a recording. It made the word "cyberspace" famous and swept the Hugo, Nebula and Philip K. Dick awards.</p>
+    </div>
+    <div class="card">
+      <h4>Star Wars novels</h4>
+      <div class="role">Canon and Legends</div>
+      <p>A favorite: K.W. Jeter's <b>The Bounty Hunter Wars</b> trilogy, <i>The Mandalorian Armor</i> (1998), <i>Slave Ship</i> (1998) and <i>Hard Merchandise</i> (1999), centered on Boba Fett. They're now part of the <b>Legends</b> line, the pre-2014 books Disney moved out of official canon.</p>
+    </div>
+    <div class="card">
+      <h4>Philip K. Dick</h4>
+      <div class="role"><i>Blade Runner</i> · <i>Total Recall</i></div>
+      <p><b>Blade Runner</b> (Ridley Scott, 1982) is adapted from Dick's novel <i>Do Androids Dream of Electric Sheep?</i> (1968). <b>Total Recall</b> (Paul Verhoeven, 1990) is adapted from his short story "We Can Remember It for You Wholesale" (1966). Both ask whether memories and feelings make someone real, and what happens when they can be manufactured or edited.</p>
+    </div>
+    <div class="card">
+      <h4>The Wachowskis · <i>The Matrix</i></h4>
+      <div class="role">1999 · film, written &amp; directed</div>
+      <p>Lana and Lilly Wachowski wrote and directed it; it wasn't based on a novel. Its question is a world that feels complete and isn't, and people who don't notice what has been taken from them.</p>
+    </div>
+  </div>
+
 </section>
 
 <section id="next">

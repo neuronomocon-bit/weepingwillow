@@ -27,7 +27,7 @@ Both superseded arcs are preserved in `series-bible/archive/` with a README expl
 
 **Book 1 is locked in `book1-published/` and is read for context, never edited.** Book 3 has an outline and no briefs and is not being drafted.
 
-**Two side projects sit alongside the books (added 2026-11-22), and neither touches any prose:** the author-interview prep page `interview-prep-the-absence.html`, and the Book 1 graphic novel in **`graphic-novel/`**. See THE GRAPHIC NOVEL below.
+**Two side projects sit alongside the books (added 2026-11-22), and neither touches any prose:** the author-interview prep page `interview-prep-the-absence.html` (plus, added 2026-11-23, **`the-absence-reference.pdf`**, a 7-page printable packet for the interviewer that is **Book 1 only, with no Book 1 quotes and nothing from Books 2 or 3**; page 7 is the author's AI statement, printed or held back at his choice), and the Book 1 graphic novel in **`graphic-novel/`**. See THE GRAPHIC NOVEL below.
 
 ---
 
