@@ -476,7 +476,7 @@ Flag when they stack, and vary the language. Current watch list for this series:
 
 **The abstraction set is the biggest of these and nothing was counting it.** Ch1 ran **`thing` at 37.5 per 10k against published Book 1's 6.0**, plus `instrument` ×4 and `reading` ×6 where **Book 1 has zero of either**.
 
-**Why it happens here specifically, and why some of it is correct:** Iris is trying to describe internal phenomena that are missing. *The place where it belonged was smooth.* *It was the shape of concern with the concern lifted out.* Vagueness is sometimes the accurate rendering of her experience and those instances stay.
+**Why it happens here specifically, and why some of it is correct:** Iris is trying to describe internal phenomena that are missing. *The place where it belonged was smooth.* (*"It was the shape of concern with the concern lifted out"* used to stand here as a second example; it was cut from Ch1 on 2026-11-22 under epistemic gate 3, because it certified Caleb's absence by image.) Vagueness is sometimes the accurate rendering of her experience and those instances stay.
 
 **The defect is the other kind:** the same abstraction used for an *ordinary* noun, where a concrete word was available and would have been sharper. *"a thing she could not remember losing was a thing she could not measure"* went to *"what she could not measure."*
 
@@ -498,6 +498,6 @@ The register rule above sends narration from *nobody* to *no one*, and a one-for
 
 **And the count was the wrong unit.** All three instances were the same construction: *an object no one had attended to* — a room no one inhabited, a poster no one had taken down, a filing cabinet no one had moved. **A semantic family across two chapters, spelled three ways.**
 
-**Fixed by deleting, not by substituting**, per the rule that says so: the poster and the filing cabinet lost the clause entirely and both sentences improved. The one that stays is Caleb's room, where it is doing real work.
+**Fixed by deleting, not by substituting**, per the rule that says so: the poster and the filing cabinet lost the clause entirely and both sentences improved. The one that stays is Caleb's room, where it is doing real work. **⚠️ Superseded 2026-11-22:** *"the cleanliness of a room no one fully inhabited"* was cut from Ch1 in the rules audit under epistemic gate 3 (it certified Caleb's absence by image, a rule adopted after this ruling). **Law 5: it had been cleared against the pronoun question, not the gate.**
 
 **Watch both halves every chapter:** the raw rate against Book 1's 2.6 per 10k, and the *construction*. A second phrase absorbing the same job is the substitution failing, not the fix working.

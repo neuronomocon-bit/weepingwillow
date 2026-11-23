@@ -1,5 +1,5 @@
 # Book 2 — The Ending
-**22 chapters · 72,246 words · complete in draft and fully locked**
+**22 chapters · 72,050 words · complete in draft and fully locked**
 **The question:** *Where did it come from, and why is it killing now?*
 **Two threads: Present 15 · Recovered 7**
 

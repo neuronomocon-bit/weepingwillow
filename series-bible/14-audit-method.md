@@ -125,7 +125,7 @@ No script is committed to this repo yet. The measurement is a short throwaway th
 
 ### ⚠️ THE BASELINE IS A NOVELLA AND THE THING BEING MEASURED IS A NOVEL — added 2026-09-03
 
-**Book 1 is 23,405 words. Book 2 is 72,246.** The comparison is still sound, because **every rate here is per 10k and a rate is length-invariant.** That is the whole reason the method uses rates rather than counts, and nothing about the form difference weakens it.
+**Book 1 is 23,405 words. Book 2 is 72,050.** The comparison is still sound, because **every rate here is per 10k and a rate is length-invariant.** That is the whole reason the method uses rates rather than counts, and nothing about the form difference weakens it.
 
 **What the form difference does change is the noise floor on the Book 1 side.** A per-10k rate computed over 23,405 words rests on very few instances: **Book 1's *no one* at 2.6 per 10k is about six occurrences in the entire book, and its *, which was* at 0 is an absence measured across a quarter of Book 2's length.**
 
@@ -322,7 +322,7 @@ On the other project the largest single prose tic — 148 instances of the expla
 
 `03-themes-and-tone.md` has banned **`X was not Y. It was Z.`** since Book 2 began, and it was listed there explicitly. **Every screen we had looked inside a single sentence**, so the split form read as two clean declaratives and passed. Ch14 carried *"four was not a ceiling. It was a stage."* through three passes.
 
-**`contrast framing, split` is now a line in `tools/voice-audit.js`.** With it running: **Book 1 four, Book 2 six** — a *lower* rate than the published baseline, so this is not a runaway tic. **But it is banned outright for Book 2 regardless of rate**, and the six are all in locked chapters (Ch1 ×2, Ch5 ×2, Ch7, Ch12). **They are reported and left alone: this is style, not a consistency defect, so the standing permission does not reach them.**
+**`contrast framing, split` is now a line in `tools/voice-audit.js`.** With it running: **Book 1 four, Book 2 six** — a *lower* rate than the published baseline, so this is not a runaway tic. **But it is banned outright for Book 2 regardless of rate**, and the six are all in locked chapters (Ch1 ×2, Ch5 ×2, Ch7, Ch12). **They are reported and left alone: this is style, not a consistency defect, so the standing permission does not reach them.** **Update 2026-11-22: the author explicitly authorized the Ch1 rules-audit fixes, and both Ch1 instances are gone. The screen now reads Book 2 four.**
 
 ### ⚠️ A CHECK CAN BE TURNED OFF BY THE THING IT IS CHECKING
 

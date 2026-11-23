@@ -734,7 +734,7 @@ He is the first death that is unambiguously a killing: everything removed at onc
 ## Caleb Ward
 
 - **Settled exactly where Willow left him** as of Ch1: no further loss, no recovery, and from outside it looks like a man who has become calm.
-- *"Good seeing you"* is a fixed unit he will say to the next person in the same shape. His *"How are you doing?"* is placed correctly and is the shape of concern with the concern lifted out.
+- *"Good seeing you"* is a fixed unit. His *"How are you doing?"* is placed correctly and arrives in the right tone, and he answers *"I'm functioning"* with *"Good. That's good."* (The narration no longer glosses either; cut in the 2026-11-22 rules audit under the epistemic gate.)
 - **Iris checks him on a three-week schedule** from Ch1. **The check due on Day 42 was not made**, because that was the evening Lena arrived; Caleb calls on Day 45.
 - **⚠️ Ch12: his sister is Dana Ward**, eleven hours away, and Iris makes the call. The certificate gives a cardiac cause and it is correct. **There is a service and Iris does not go.**
 - **⚠️ Ch11: Iris calls emergency services and they do not arrive in time.** She refuses to treat his *"there's no point"* as a refusal, **because a refusal requires wanting an outcome and she has spent an hour documenting that he cannot produce one.** The call does not move up a category, because every answer is a no. **Twenty-five minutes, and the chapter ends first.** ⚠️ **Willow's action is the sole cause of the death and nothing may imply otherwise.**

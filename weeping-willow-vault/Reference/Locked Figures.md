@@ -27,11 +27,11 @@
 | | |
 |---|---|
 | **Book 1 — The Absence** | **23,405** words · 22 chapters · **novella** |
-| **Book 2 — The Ending** | **72,246** words · 22 chapters · **novel** |
+| **Book 2 — The Ending** | **72,050** words · 22 chapters · **novel** |
 | Book 2 target | 68,000–72,000. **It lands 246 over and that is ruled immaterial. Do not cut for the total** |
 
 > [!warning] The ratio means nothing
-> 23,405 against 72,246 is roughly three to one. **Book 1 is not truncated and Book 2 is not
+> 23,405 against 72,050 is roughly three to one. **Book 1 is not truncated and Book 2 is not
 > bloated.** The form is the design. Neither number is evidence about the other.
 
 ## Substrate parameters

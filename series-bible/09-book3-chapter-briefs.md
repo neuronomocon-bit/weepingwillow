@@ -94,6 +94,7 @@ Twenty-two chapters at roughly **3,200 words**. **The per-chapter budgets below 
 | **What Ch22 leaves in her has no name in her.** A value that will not close, a system that cannot leave a value open. **The prose never calls it anger or want** | ⚠️ **The outline's *From Method to Intent* is the arc, not the starting point. This book must EARN the word *intent*. It may not open with her wanting anything**, because Book 2 spent a chapter refusing to say so |
 | **Lila Mercer is dead**, one line in Ch18, after Iris warned her in person in Ch14 | **The warning that could not be delivered has a body attached to it now** |
 | **Every recovered system stops at the seal** | **A hard limit, in this book as in the last. Inference only, from what happened after** |
+| **The industrial-road building, Book 2 Ch1, never returned to in Book 2.** A Meridian-linked building, eleven years owned, taxes still paid from a single-purpose account. **Ruled a Book 3 plant by the author 2026-11-22**; full detail in `07-book3-outline.md` | **Pay it off somewhere in these briefs.** No brief claims it yet. Keep it distinct from Kade's storage bay off the same road |
 | **Iris never once considered that having Lena close was dangerous.** Not a suppressed thought — the consideration did not occur | **Ch13 collects on it. Nothing in this book may mark it in advance** |
 
 ---

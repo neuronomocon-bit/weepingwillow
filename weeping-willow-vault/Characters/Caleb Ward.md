@@ -21,7 +21,7 @@ Sharp, conversational, grounded. Slightly reckless, takes jobs others will not, 
 - **Ch13** — answers clean, immediate, correct. The joke test fails: *"I don't recall"* and then *"That's consistent."* **"The difference between them was not direction. Only distance."**
 
 ## Book 2 — he dies at the midpoint
-- **Ch1** — three weeks on, **settled exactly where Willow left him.** No further loss, no recovery. *"From the outside the settling looked like a man who had become calm."* He asks *"How are you doing?"* and it is placed correctly and arrives in the right tone, **and it is the shape of concern with the concern lifted out.** The Caleb check becomes a scheduled thing here
+- **Ch1** — three weeks on, **settled exactly where Willow left him.** No further loss, no recovery. *"From the outside the settling looked like a man who had become calm."* He asks *"How are you doing?"* and it is placed correctly and arrives in the right tone. **The narration does not say what is behind it.** The Caleb check becomes a scheduled thing here
 - **Ch11 (MIDPOINT), Iris POV.** [[Willow]] returns to a previous subject because the partial result was unsatisfactory, **and finishes him**
 - **He calls Iris.** He does not call people. He calls because a fact requires reporting, and he reports it flatly: *There's someone here.* **No alarm, no request, no urgency, because nothing in him objects to anything**
 - **She arrives after.** The body keeps working for a while. He is sitting down, and every answer is correct, and there is nothing behind any of them, **and even the settled diminished version she had been checking on a schedule is already gone**

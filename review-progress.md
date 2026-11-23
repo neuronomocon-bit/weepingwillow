@@ -62,7 +62,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | # | Title | Thread | Budget | Draft | Review |
 |----|-------|--------|--------|-------|--------|
 | **ACT I — WHAT CAME BACK** | | | | | |
-| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,931** | **✅ LOCKED 2026-09-02** |
+| 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,735** | **✅ LOCKED 2026-09-02** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,951** | **✅ LOCKED 2026-09-02** |
 | 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,052** | **✅ LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
@@ -144,7 +144,7 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 
 | Ch | Budget | Drafted | Under |
 |---|---|---|---|
-| 1 | 3,400 | 2,931 | 469 |
+| 1 | 3,400 | 2,735 | 665 |
 | 2 | 3,400 | 2,951 | 449 |
 | 3 | 3,600 | 3,052 | 548 |
 | 4 | 3,600 | 3,394 | 206 |
@@ -273,7 +273,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 | Ch | Title | Words | Locked |
 |---|---|---|---|
-| 1 | Aftermath | 2,931 | **2026-09-02** |
+| 1 | Aftermath | 2,735 | **2026-09-02** |
 | 2 | Mortality | 2,951 | **2026-09-02** |
 | 3 | The Files | 3,052 | **2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | **2026-09-02** |
@@ -296,7 +296,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 20 | **RECOVERED: The Last Session** | 3,804 | **2026-09-03** |
 | 21 | Why Lena | 3,566 | **2026-09-03** |
 | 22 | The Second Visit (ENDING) | 3,226 | **2026-09-03** |
-| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,246** | |
+| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **72,050** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
@@ -312,7 +312,9 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 **Drafted at 3,246, reviewed by the author the same day, revised to 3,228 against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. ✅ LOCKED 2026-09-03.**
 
-# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 72,246 WORDS.
+# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 72,050 WORDS.
+
+> **2026-11-22: a fresh rules audit is running chapter by chapter, logged in `book2-audit-2026-11.md`.** Ch1 was fixed on the author's explicit authorization and re-locked (2,931 → 2,735; the book went 72,246 → 72,050). The record of what changed is in the Ch1 brief → RULES AUDIT PASS. Ch2 onward have not been audited yet.
 
 **Every chapter has an AUTHOR'S REVIEW PASS block in its brief and a row in the REVIEW LEDGER. `python tools/verify-record.py` reports no gap and no broken lock.** The whole manuscript is now closed to editing except under the four standing-permission conditions.
 

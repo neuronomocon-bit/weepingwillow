@@ -1,5 +1,5 @@
 # Book 2 · Chapter 1 — Aftermath
-**POV:** [[Iris Vale]] · **Day 21** · **2,931 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 21** · **2,735 words** · **LOCKED**
 **Act I — What Came Back**
 **Location:** Iris's apartment, then [[Caleb Ward]]'s building inland
 
@@ -29,15 +29,15 @@ The route turn arrives **three seconds late** at the rail crossing and the car b
 
 > *"Do you want anything." / "Nothing I can think of." / "Is that a symptom?" / "It's information." / "Then write it down."*
 
-***"How are you doing?"* is placed correctly and arrives in the right tone, and it is the shape of concern with the concern lifted out.**
+***"How are you doing?"* is placed correctly and arrives in the right tone.** The narration does not say what is behind it; his *"Good. That's good."* does.
 
 **The cup:** the second one was already down off the shelf, because he had always taken two down before anyone answered. **He leaves it where it is**, and at the door it is still on the counter and neither of them looks at it. **Do not cut it and do not explain it.**
 
 ## The convergence — stated once and never again
-> *"Behind Caleb's questions there was a space of the same kind. He filled it the same way and did not know he was doing it either. From the outside, the two operations were beginning to converge."*
+> *"The same gap sat behind Caleb's questions. He filled it as she had and did not know he was doing it either. / From the outside, the two operations were beginning to converge."*
 
 ## Lena's thread
-**Nine messages across three weeks.** *Call me when you can. I'm not angry. I just want to know you're okay.* Iris understands the request in the first three words and the restraint in the last four, **and that the restraint cost Lena something to keep in place across all nine.** She checks. The place is smooth. **She does not reply.**
+**Nine messages across three weeks.** *Call me when you can. I'm not angry. I just want to know you're okay.* Iris understands the request in the first two words and the restraint in the last three, **and that the restraint cost Lena something to keep in place across all nine.** She checks. The place is smooth. **She does not reply.**
 
 ## Closing
 For months she read the damage in other people and filed it. **She is the damaged instrument now, and still the only one able to take the reading.**
