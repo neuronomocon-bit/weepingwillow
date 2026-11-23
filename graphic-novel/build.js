@@ -105,7 +105,25 @@ function buildPrompts() {
 // ------------------------------------------------------------ pages.html
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-function panelHtml(p) {
+const inkFile = (id) => (fs.existsSync(path.join(CH, 'ink', `${id}.png`)) ? `ink/${id}.png` : null);
+
+// Hand-drawn panel border: a slightly wobbly rectangle, the same for a given panel every build.
+function roughBorder(id, cls = 'bd') {
+  let seed = [...id].reduce((a, ch) => (a * 31 + ch.charCodeAt(0)) >>> 0, 7);
+  const rnd = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296) - 0.5;
+  const side = (x0, y0, x1, y1) => {
+    const pts = [];
+    for (let i = 0; i < 6; i++) {
+      const t = i / 6;
+      pts.push(`${(x0 + (x1 - x0) * t + rnd() * 0.5).toFixed(2)},${(y0 + (y1 - y0) * t + rnd() * 0.5).toFixed(2)}`);
+    }
+    return pts;
+  };
+  const pts = [...side(0.6, 0.6, 99.4, 0.6), ...side(99.4, 0.6, 99.4, 99.4), ...side(99.4, 99.4, 0.6, 99.4), ...side(0.6, 99.4, 0.6, 0.6)];
+  return `<svg class="${cls}" viewBox="0 0 100 100" preserveAspectRatio="none"><polygon points="${pts.join(' ')}"/></svg>`;
+}
+
+function panelHtml(p, comic) {
   const groups = {};
   for (const c of p.cap || []) (groups[c.pos] ||= []).push(`<div class="cap">${esc(c.t)}</div>`);
   if (p.screen) (groups[p.screen.pos] ||= []).push(
@@ -116,20 +134,25 @@ function panelHtml(p) {
   let art;
   if (p.black) art = '';
   else {
-    const f = artFile(p.reuse || p.id);
+    const f = (comic && inkFile(p.reuse || p.id)) || artFile(p.reuse || p.id);
     art = f
       ? `<img src="${f}" style="object-position:${p.focus || 'center'}" alt="">`
       : `<div class="ph"><b>${p.id}</b><span>${esc(p.prompt.slice(0, 140))}…</span></div>`;
   }
-  return `<div class="panel${p.black ? ' black' : ''}" style="flex:${p.w} 1 0">${art}${letters}${sfx}</div>`;
+  const bleed = comic ? p.bleed || [] : [];
+  const pad = { top: '0.42in', left: '0.38in', right: '0.38in', bottom: '0.5in' };
+  const margins = bleed.map((e) => `margin-${e}:-${pad[e]}`).join(';');
+  const border = comic && !bleed.length ? roughBorder(p.id) : '';
+  const cls = ['panel', p.black ? 'black' : '', bleed.length ? 'bleed' : ''].filter(Boolean).join(' ');
+  return `<div class="${cls}" style="flex:${p.w} 1 0;${margins}">${art}${letters}${sfx}${border}</div>`;
 }
 
 function buildPages() {
   const total = allPanels().filter((p) => !p.black);
   const done = total.filter((p) => artFile(p.reuse || p.id)).length;
   const pages = data.pages.map((pg) =>
-    `<section class="page${pg.memory ? ' memory' : ''}" data-n="${pg.n}"><div class="rows">${pg.rows
-      .map((r) => `<div class="row" style="flex:${r.h} 1 0">${r.panels.map(panelHtml).join('')}</div>`)
+    `<section class="page${pg.memory ? ' memory' : ''}${pg.comic ? ' comic' : ''}" data-n="${pg.n}"><div class="rows">${pg.rows
+      .map((r) => `<div class="row" style="flex:${r.h} 1 0">${r.panels.map((p) => panelHtml(p, pg.comic)).join('')}</div>`)
       .join('')}</div><div class="folio">${pg.n}</div></section>`).join('\n');
 
   const html = `<!DOCTYPE html>
@@ -173,6 +196,18 @@ function buildPages() {
   .cover { background: #000; color: #eee; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
   .cover .s { letter-spacing: .5em; font-size: 10pt; color: #999; } .cover h1 { font-weight: normal; font-size: 44pt; margin: 14px 0; letter-spacing: .06em; }
   .cover .c { font-style: italic; color: #bbb; } .cover .a { margin-top: 2.2in; font-size: 10pt; letter-spacing: .3em; color: #888; }
+  /* ---- comic pages: ink art, hand-drawn borders, comic lettering ---- */
+  .comic .panel { border: 0; }
+  .comic .panel.bleed { border: 0; }
+  .comic .bd { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 3; pointer-events: none; overflow: visible; }
+  .comic .bd polygon { fill: none; stroke: #000; stroke-width: 3px; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+  .comic .cap { font-family: "Ink Free", "Segoe Print", "Comic Sans MS", cursive; font-weight: bold; text-transform: uppercase;
+                font-size: 8.6pt; line-height: 1.22; letter-spacing: .03em; padding: 5px 8px 4px; background: #fff;
+                border: 2px solid #000; box-shadow: none; border-radius: 3px 9px 4px 11px / 10px 3px 12px 4px; }
+  .comic .black .cap { background: #000; color: #fff; border: 0; }
+  .comic .g-tl { top: 9px; left: 9px; } .comic .g-tr { top: 9px; right: 9px; }
+  .comic .g-bl { bottom: 9px; left: 9px; } .comic .g-br { bottom: 9px; right: 9px; }
+  .comic .bleed .g-tl { top: 0.5in; left: 0.46in; } .comic .bleed .g-tr { top: 0.5in; right: 0.46in; }
   .solo { background: #fff; } .solo .status { display: none; } .solo .page { margin: 0; box-shadow: none; }
   @media print { body { background: #fff; } .status { display: none; } .page { margin: 0; box-shadow: none; } }
 </style></head><body>

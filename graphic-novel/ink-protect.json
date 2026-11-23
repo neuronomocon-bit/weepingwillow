@@ -1,0 +1,6 @@
+{
+  "_note": "Regions that keep fine detail through the ink pass: faces, hands, story objects. Fractions of width/height: [x0, y0, x1, y1].",
+  "p09-3": [[0.40, 0.06, 0.62, 0.42], [0.50, 0.74, 0.70, 0.99]],
+  "p13-2": [[0.20, 0.10, 0.80, 0.55]],
+  "p15-4": [[0.0, 0.0, 1.0, 1.0]]
+}

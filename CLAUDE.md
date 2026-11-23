@@ -27,6 +27,8 @@ Both superseded arcs are preserved in `series-bible/archive/` with a README expl
 
 **Book 1 is locked in `book1-published/` and is read for context, never edited.** Book 3 has an outline and no briefs and is not being drafted.
 
+**Two side projects sit alongside the books (added 2026-11-22), and neither touches any prose:** the author-interview prep page `interview-prep-the-absence.html`, and the Book 1 graphic novel in **`graphic-novel/`**. See THE GRAPHIC NOVEL below.
+
 ---
 
 ## Workflow
@@ -94,6 +96,21 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **When a chapter changes, the vault is not automatically part of the same-commit rule** — it is not in the tracked-files table and `verify-record.py` does not check it. **Bring it forward when a change would make a note wrong**, and say so in the commit message.
 
+## The graphic novel — `graphic-novel/`
+
+**Added 2026-11-22. A standalone adaptation of Book 1. It reads `book1-published/` and never edits it,** and no tool in the parent project reads it. **`graphic-novel/README.md` is the entry point** and carries the full generation log; `graphic-novel/style-bible.md` carries the drift controls.
+
+**Status: the Chapter 1 pilot, "The Gap", is finished.** 19 lettered pages plus a cover, 73 panels, black-and-white gothic ink. **The author called it great.** Committed as `d7acfe0`, not pushed.
+
+- **One source:** `ch01-the-gap/panels.js` holds every panel's scene, captions (Book 1's own sentences), sound effects, screen text and grid placement. `node graphic-novel/build.js` generates the readable script, the prompts and **`ch01-the-gap/pages.html`, which is the book: open it in a browser.** `node graphic-novel/render.js` files new art and renders pages to PNG; `render.js pdf` prints the proof.
+- **Art was generated in ChatGPT** (one long conversation, driven through Chrome, three reference sheets first), **and the lettering is HTML laid over it, never inside the images.** A caption can change without touching art.
+- **⚠️ THE IMAGES ARE NOT IN GIT** (about 350 MB, excluded by `graphic-novel/.gitignore`). **The final 72 panels and 3 reference sheets are in Dropbox at `weepingwillow\Graphic Novel\Ch01 - The Gap\`, which is their only backup.** The rejected versions exist only on the laptop, in `ch01-the-gap/art-rejected/`. The README says how to restore a fresh checkout.
+- **A drift pass redid nine panels** that contradicted their caption or missed their beat, and **the author then caught a tenth (p17-3): the fence had a gap wide enough to drive through, where Book 1 has one person-sized cut and the van parked outside the perimeter.** The review had checked each image against its caption and not against the other panels. **Check continuity across panels, not just panel against caption.**
+- **The author may redraw every panel by hand,** using the generated images as reference, so the book can be called a graphic novel without AI art and carry full copyright. **The layout is built for it: save a drawing as `art/<panel id>.png` and rerun the build.**
+- **⚠️ OPEN DECISION, the author's, needed before Ch20: the cover Willow and the panel Willow differ.** The published cover and the Dropbox concept art show the tendril-crowned true form; the Ch1 panels draw the near-human glimpse Book 1's text describes (porcelain face, dark coat). Either the panel figure grows toward the cover form across the book, or the true form appears only on covers and splash pages. Recorded in `style-bible.md` §6.
+
+**Known soft spots that remain:** the art is grayscale rather than true ink (skies and fog come out gray), the camera is mostly medium shots at eye level, and pages 7 and 12 run caption-heavy.
+
 ## Book 1 — The Absence: PUBLISHED AND LOCKED
 
 **Published 2026-05-14. 22 chapters, 23,405 words. Its text is law and it is never edited.**
@@ -154,7 +171,16 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ---
 
-## WHERE WE LEFT OFF (2026-09-04)
+## WHERE WE LEFT OFF (2026-11-22)
+
+### The 2026-11-22 session — no prose touched, two side projects
+
+1. **The interview prep page, `interview-prep-the-absence.html`** (commits `6b26b8f`, `ad833f1`). A standalone refresher for author interviews on The Absence: story, cast, world, chapter by chapter, themes, talking points and quotable lines. **It now has a spoiler-free "What Readers Find Out Next" section** naming the questions Books 2 and 3 answer without the answers, with lines safe to say on air, **ahead of the collapsed full-spoiler sections.**
+2. **The Book 1 graphic novel, Ch1 pilot, finished and committed** (`d7acfe0`, images excluded). See THE GRAPHIC NOVEL above for status, where the art lives, and the open cover-Willow decision.
+
+**Not pushed:** `d7acfe0`. **Next for the graphic novel, when the author wants it:** decide the cover-Willow question, choose AI art or hand redraws, then script Ch2.
+
+**Book 2 and Book 3 status is unchanged from 2026-09-04, below.**
 
 # ⚠️ BOOK 3 HAS STARTED. ACT I OF THE BRIEFS IS WRITTEN; ACTS II AND III ARE THE NEXT WORK.
 

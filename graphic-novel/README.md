@@ -62,3 +62,11 @@ node tools-prompt.js p05-1 --ctx   # print one panel's full prompt on one line
 ## Dropbox copy
 
 Final panels and reference sheets are mirrored to `Dropbox\weepingwillow\Graphic Novel\Ch01 - The Gap\` (`panels\`, `reference sheets\`). **The images are not in git** (`.gitignore` excludes `art/`, `art-rejected/`, `refs/`, renders and the PDF; about 350 MB). Dropbox is their only backup. **To set up a fresh checkout, copy `panels\` into `ch01-the-gap/art/` and `reference sheets\` into `refs/`**, then run `node build.js`. After any regeneration, copy the changed panel to Dropbox too.
+
+## Ink pass — LOCKED HOUSE STYLE (2026-11-22)
+
+**Approved by the author on page 1.** `python ink-pass.py <ids>` (or `--all`) turns panels into true black-and-white comic ink, written to `ch01-the-gap/ink/<id>.png` as 1-bit PNG, plus a side-by-side `-compare.png`. Not in git; regenerate from `art/`.
+
+The house settings (`HOUSE` in `ink-pass.py`) were tuned on p01-1 with the author: edge-preserving smoothing, Levels, a local threshold that keeps the drawing's own hatch strokes, solid black for true darks, clean paper for near-white, a shape-aware cleanup that removes pebbles and stipple but keeps strokes (the author asked for the ground simplified as far as possible), then contours smoothed at 3x. Memory panels (`MEMORY_PANELS`) get a separate fine-line setting. Faces and hands that must keep detail go in `ink-protect.json`. Vector tracing (`--svg`, needs `pip install vtracer`) went blobby and is not used by the layout.
+
+**Comic page mode:** set `comic: true` on a page in `panels.js` and the build uses the ink art, hand-drawn borders, borderless `bleed` panels and uppercase hand-lettered captions. **Only page 1 is converted so far.** The caption font (Ink Free) is a placeholder; choose a licensed comic font before publishing.

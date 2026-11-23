@@ -12,6 +12,9 @@
 //   black   true = solid black panel, no art
 //   focus   CSS object-position for the crop (default 'center')
 //   reuse   use another panel's art file instead of generating (e.g. the same clock screen)
+//   bleed   edges that run off the page with no border, e.g. ['top', 'left', 'right'] (comic pages)
+//
+// Page fields: comic: true = use the ink-pass art (ink/<id>.png), hand-drawn borders and comic lettering
 
 const P = (h, ...panels) => ({ h, panels });
 const c = (w, panel) => ({ w, ...panel });
@@ -31,8 +34,8 @@ module.exports = {
 
   pages: [
     // ---------------------------------------------------------------- 1
-    { n: 1, rows: [
-      P(2.2, c(1, { id: 'p01-1', aspect: 'wide', chars: [],
+    { n: 1, comic: true, rows: [
+      P(2.2, c(1, { id: 'p01-1', bleed: ['top', 'left', 'right'], aspect: 'wide', chars: [],
         prompt: 'Establishing shot. In the foreground, a chain-link fence with a person-sized opening cut into it, the cut wire curled inward. Beyond it, across a gravel lot full of weeds and puddles, a low concrete bunker-like research building squats on a coastal bluff, narrow slit windows, rust at the seams. Gray ocean beyond and a flat heavy overcast sky rendered in horizontal hatching.',
         cap: [{ t: 'The fence had been cut and left that way.', pos: 'tl' }] })),
       P(1, c(1, { id: 'p01-2', aspect: 'wide', chars: [],
