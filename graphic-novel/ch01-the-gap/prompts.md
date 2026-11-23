@@ -611,7 +611,7 @@ IRIS: a lean woman in her early thirties with a sharp angular face, high cheekbo
 
 THE FIGURE: female-coded and almost human, a little too tall and a little too narrow, limbs slightly too long; a pale seamless surface like cool porcelain or wet stone, smoother than skin, with no veins, pores, wrinkles or knuckle creases; short dark hair lost in shadow; wearing a plain dark long coat that falls below the knee; perfectly symmetrical face with features that look learned rather than born, eyes too direct, mouth closed, no expression. Utterly still. Never claws, teeth, tendrils, horns, glowing eyes or anything monstrous.
 
-SCENE: Extreme close-up: pale smooth fingertips touching the bare inside of a woman's wrist exactly where her dark work glove ends. Gentle contact.
+SCENE: Extreme close-up of a gentle touch on a woman's wrist. Her forearm is in a heavy dark waxed-canvas jacket sleeve and she wears a dark work glove; the glove ends at her wrist, leaving a narrow band of bare skin on the inside of the wrist between the glove cuff and the sleeve. A long, slender, pale hand with smooth porcelain-like skin rests its fingertips lightly on exactly that band of bare skin. The pale hand has correct human anatomy: FOUR fingers and one thumb, five digits in total, all clearly visible and separated. Quiet, still, intimate. Solid black background.
 ```
 
 ### `p14-1` ✅
@@ -631,7 +631,7 @@ Square format, 1:1.
 
 Black and white ink illustration for a gothic horror graphic novel, in an original style. Pure black ink on white paper: no color, no gray wash, no gradients, no digital airbrush. Midtones built only from hatching, crosshatching, stippling and dry-brush texture. Heavy spotted solid blacks covering at least a third of the image, stark white highlights carved out of the black, crisp nib and brush linework with feathered edges, scratchy texture in fog, dust and concrete. High contrast chiaroscuro. Quiet, still, restrained dread; no gore, no glowing eyes, no lens flare. Cinematic comic panel composition. Absolutely no text, letters, numbers, captions, speech balloons, panel borders, signatures or watermarks anywhere in the image.
 
-SCENE: A memory: two hands wrapped around a paper coffee cup in a long hospital corridor, the corridor stretching away. Edges dissolving into white paper.
+SCENE: A memory: a paper coffee cup held in two hands, seen from slightly above, in a long hospital corridor that stretches away behind it into soft light. The two hands cup it from opposite sides, fingers side by side, thumbs resting on the front, NOT interlaced and NOT crossing over each other; each hand has four fingers and a thumb. Knit sweater cuffs at the wrists. Edges dissolving into white paper.
 ```
 
 ### `p14-3` ✅
@@ -703,7 +703,7 @@ Landscape format, 3:2.
 
 Black and white ink illustration for a gothic horror graphic novel, in an original style. Pure black ink on white paper: no color, no gray wash, no gradients, no digital airbrush. Midtones built only from hatching, crosshatching, stippling and dry-brush texture. Heavy spotted solid blacks covering at least a third of the image, stark white highlights carved out of the black, crisp nib and brush linework with feathered edges, scratchy texture in fog, dust and concrete. High contrast chiaroscuro. Quiet, still, restrained dread; no gore, no glowing eyes, no lens flare. Cinematic comic panel composition. Absolutely no text, letters, numbers, captions, speech balloons, panel borders, signatures or watermarks anywhere in the image.
 
-SCENE: A memory: two young girls sitting side by side on an old wooden staircase with their shoulders touching, the smaller one turned to the older one, talking fast and earnest, waiting for an answer. Rain on a window above. Drawn softer, edges dissolving into white paper.
+SCENE: A memory: two young sisters sitting side by side on an old wooden staircase with their shoulders touching, rain on a window above them. The smaller, younger girl is turned toward her older sister, mouth open mid-sentence, talking fast and earnestly, waiting for an answer; both of her arms are wrapped around her drawn-up knees, hands clasped and mostly hidden by her sweater sleeves. The older sister listens with her chin on one loosely closed fist. Keep every visible hand simple, relaxed and anatomically correct. Edges dissolving into white paper.
 ```
 
 ### `p15-4` ✅

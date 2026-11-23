@@ -100,16 +100,19 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **Added 2026-11-22. A standalone adaptation of Book 1. It reads `book1-published/` and never edits it,** and no tool in the parent project reads it. **`graphic-novel/README.md` is the entry point** and carries the full generation log; `graphic-novel/style-bible.md` carries the drift controls.
 
-**Status: the Chapter 1 pilot, "The Gap", is finished.** 19 lettered pages plus a cover, 73 panels, black-and-white gothic ink. **The author called it great.** Committed as `d7acfe0`, not pushed.
+**Status: Chapter 1, "The Gap", is finished in the approved black-and-white comic look (2026-11-22)** — 19 lettered pages plus a cover, 73 panels, true 1-bit ink, hand-drawn borders, hand-lettered captions. **The author approved it.** **Chapter 2 is next.**
 
 - **One source:** `ch01-the-gap/panels.js` holds every panel's scene, captions (Book 1's own sentences), sound effects, screen text and grid placement. `node graphic-novel/build.js` generates the readable script, the prompts and **`ch01-the-gap/pages.html`, which is the book: open it in a browser.** `node graphic-novel/render.js` files new art and renders pages to PNG; `render.js pdf` prints the proof.
 - **Art was generated in ChatGPT** (one long conversation, driven through Chrome, three reference sheets first), **and the lettering is HTML laid over it, never inside the images.** A caption can change without touching art.
-- **⚠️ THE IMAGES ARE NOT IN GIT** (about 350 MB, excluded by `graphic-novel/.gitignore`). **The final 72 panels and 3 reference sheets are in Dropbox at `weepingwillow\Graphic Novel\Ch01 - The Gap\`, which is their only backup.** The rejected versions exist only on the laptop, in `ch01-the-gap/art-rejected/`. The README says how to restore a fresh checkout.
+- **⚠️ THE INK LOOK IS LOCKED and lives in `graphic-novel/ink-pass.py`.** Tuned with the author: `HOUSE` (exteriors, close-ups), `DARK` for low-key panels (heavier, less stipple, after the author's review), `MEMORY` (fine line), `VOID_PANELS` that keep solid black because the void is the scene, a comic **face** treatment for faces marked in `ink-protect.json`, and `MEMORY_REGIONS`. **The author's standing direction: solid black and white, lots of black, no stipple, faces that read.**
+- **⚠️ Caption rules the author set during the script audit:** never "the right way", no repeated "than it should have been", no caption that points back at something cut (every "it" and "them" must have its referent on the page). Replace with Book 1's concrete detail.
+- **⚠️ Continuity rules from review:** the clipped headlamp is on Iris's **right** collar until p10-3; hands must have correct anatomy (gesturing and interlocked hands fail most); check panel against panel, not just panel against caption.
+- **⚠️ THE IMAGES ARE NOT IN GIT** (about 350 MB, excluded by `graphic-novel/.gitignore`). **The final 72 panels, their 72 ink versions, the 3 reference sheets and the PDF proof are in Dropbox at `weepingwillow\Graphic Novel\Ch01 - The Gap\` (`panels\`, `ink\`, `reference sheets\`), which is their only backup.** The rejected versions exist only on the laptop, in `ch01-the-gap/art-rejected/`. The README says how to restore a fresh checkout.
 - **A drift pass redid nine panels** that contradicted their caption or missed their beat, and **the author then caught a tenth (p17-3): the fence had a gap wide enough to drive through, where Book 1 has one person-sized cut and the van parked outside the perimeter.** The review had checked each image against its caption and not against the other panels. **Check continuity across panels, not just panel against caption.**
 - **The author may redraw every panel by hand,** using the generated images as reference, so the book can be called a graphic novel without AI art and carry full copyright. **The layout is built for it: save a drawing as `art/<panel id>.png` and rerun the build.**
 - **⚠️ OPEN DECISION, the author's, needed before Ch20: the cover Willow and the panel Willow differ.** The published cover and the Dropbox concept art show the tendril-crowned true form; the Ch1 panels draw the near-human glimpse Book 1's text describes (porcelain face, dark coat). Either the panel figure grows toward the cover form across the book, or the true form appears only on covers and splash pages. Recorded in `style-bible.md` §6.
 
-**Known soft spots that remain:** the art is grayscale rather than true ink (skies and fog come out gray), the camera is mostly medium shots at eye level, and pages 7 and 12 run caption-heavy.
+**Known soft spots that remain:** p16-2 and p10-2 faces are the weakest (regenerate with flatter face lighting if the author asks), the caption font (Ink Free) is a placeholder pending a licensed comic font, and the p08-1 screen text is cramped.
 
 ## Book 1 — The Absence: PUBLISHED AND LOCKED
 
@@ -178,7 +181,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 1. **The interview prep page, `interview-prep-the-absence.html`** (commits `6b26b8f`, `ad833f1`). A standalone refresher for author interviews on The Absence: story, cast, world, chapter by chapter, themes, talking points and quotable lines. **It now has a spoiler-free "What Readers Find Out Next" section** naming the questions Books 2 and 3 answer without the answers, with lines safe to say on air, **ahead of the collapsed full-spoiler sections.**
 2. **The Book 1 graphic novel, Ch1 pilot, finished and committed** (`d7acfe0`, images excluded). See THE GRAPHIC NOVEL above for status, where the art lives, and the open cover-Willow decision.
 
-**Not pushed:** `d7acfe0`. **Next for the graphic novel, when the author wants it:** decide the cover-Willow question, choose AI art or hand redraws, then script Ch2.
+**Pushed.** Chapter 1 of the graphic novel is finished in the approved ink look. **Next: Chapter 2 of the graphic novel** (Book 1 Ch2, "Caleb Ward").
 
 **Book 2 and Book 3 status is unchanged from 2026-09-04, below.**
 

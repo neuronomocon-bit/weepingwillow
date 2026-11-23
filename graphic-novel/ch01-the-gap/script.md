@@ -67,13 +67,13 @@ Iris stopped dead, turned toward the sea, listening. Profile view, her face stil
 
 The ocean seen from the top of the bluff, gray water and a white edge where it strikes black rock below. Ordinary, empty, vast.
 
-> CAPTION: The ocean remained where it should.
+> CAPTION: Gray water. White edge where it struck the rock below.
 
 **Panel 4** `p03-4` · wide
 
 A side service door recessed into the concrete under a loading overhang. Institutional metal door, most of its paint blistered and flaking off. A dead keypad access panel set in the wall beside it. Puddles under the overhang.
 
-> CAPTION: A side service door with a dead keypad and a mechanical lock. Better entry. Less exposure.
+> CAPTION: The site notes had mentioned a side service door with a dead keypad and a mechanical lock. Better entry. Less exposure.
 
 ## PAGE 4 (5 panels)
 
@@ -93,7 +93,7 @@ Extreme close-up still life of the edge of an old metal door: a worn steel latch
 
 Iris with one gloved hand flat on the door push bar, head slightly turned, listening, very still. Medium close shot, the door filling half the frame.
 
-> CAPTION: It was louder than it should have been.
+> CAPTION: The bolt clicked back. She paused with one hand on the bar, listening.
 > CAPTION: Nothing from inside.
 
 **Panel 4** `p04-4` · tall
@@ -112,13 +112,13 @@ Seen from inside the dark building: the service door open, a rectangle of pale o
 
 A long institutional hallway in darkness, lit only by the cone of light from Iris's collar lamp and two weak ceiling fixtures far down the corridor. The tile floor is completely dry and matte, covered in a thin, even film of pale dust with no reflections, no puddles, no shine. Painted walls, a row of framed notices clouded behind plastic. Iris small at the near end, seen from behind.
 
-> CAPTION: The floor was cleaner than it should have been.
+> CAPTION: Her headlamp came on with a soft click.
 
 **Panel 2** `p05-2` · square
 
 Close-up of a tile floor in a headlamp beam: a thin even film of dust and nothing else. No paper, no leaves, no dead insects, no debris in the corners. Unnaturally tidy neglect.
 
-> CAPTION: Not clean. Just not abandoned in the right way.
+> CAPTION: Thin dust. No drifted paper. No blown-in debris. The neglect felt selective.
 
 **Panel 3** `p05-3` · square
 
@@ -143,6 +143,7 @@ Low angle at a dark corridor junction: a hanging ceiling sign with a plain blank
 
 Close-up in a flashlight beam at an abandoned hospital nurses' station: the base of a computer monitor stand on a dusty counter, and looped around the stand, the clear focus of the image, a plastic hospital patient wristband with a blank, faded white label. Behind it, out of focus, empty drawers hanging half open and a dark screen. Dry dust everywhere.
 
+> CAPTION: A patient wristband.
 > CAPTION: The label had faded too much to read.
 
 **Panel 3** `p06-3` · tall
@@ -190,13 +191,14 @@ Looking across several server rows: three rows over, one ceiling light has just 
 
 Extreme close-up of the corner of a terminal screen showing only a plain blank clock area, glowing softly in black.
 
+> CAPTION: That seemed early. She could not say why.
 > SCREEN: 14:07
 
 **Panel 4** `p08-4` · wide
 
 Iris crouched in a server aisle, touching the floor with two gloved fingertips. The concrete floor is completely dry and matte, coated in a fine layer of pale dust, with no shine or reflections. In the dust around her are several broad, faint, smeared patches where the dust has been brushed aside and settled again: wide soft swept shapes, like something large was dragged slowly across the floor, that are not footprints and follow no straight path.
 
-> CAPTION: That seemed early. She could not say why.
+> CAPTION: At the third rack she noticed marks on the floor.
 > CAPTION: Not footprints.
 
 **Panel 5** `p08-5` · wide
@@ -218,15 +220,15 @@ Iris standing perfectly still in a server aisle, head tilted up and to the side,
 Over-the-shoulder shot past Iris toward the open double doors at the far end of the room: a thin vertical slice of pale empty corridor visible between the nearer racks.
 
 > CAPTION: Pale wall. Empty.
-> SFX: tik
-> SFX: tik
+> SFX: klik
+> SFX: klik
 
 **Panel 3** `p09-3` · wide
 
 Iris turning sharply toward the camera, headlamp beam swinging across black server faces, cable bundles, dust, steel. Motion in the light, the aisle beside her empty.
 
+> CAPTION: The progress bar moved slower than the others.
 > CAPTION: At 28 percent, she heard something that sounded like fabric against concrete.
-> CAPTION: Nothing.
 
 ## PAGE 10 (4 panels)
 
@@ -234,6 +236,7 @@ Iris turning sharply toward the camera, headlamp beam swinging across black serv
 
 The glossy black glass door of a server cabinet fills the frame like a dark mirror. In it, the slightly stretched reflection of Iris with the small light at her collar. Half a step behind her shoulder in the reflection stands THE FIGURE: a pale, female, too-tall, too-narrow shape in a dark long coat, its pale porcelain face blurred and indistinct, short dark hair. It is pale against the black glass, faint and ghostly, easy to miss at first glance. Iris has not noticed it.
 
+> CAPTION: Her own reflection moved across the black cabinet glass.
 > CAPTION: For a second she thought there was a second shape behind it, offset from hers by half a step.
 
 **Panel 2** `p10-2` · tall
@@ -252,7 +255,8 @@ Iris pulling a headlamp band tight around her head, the lamp now on her forehead
 
 Close-up of a rugged handheld tablet in a gloved hand showing a plain architectural floor plan of a room with a solid rear wall marked, lines only, no text, held up in front of a long dark aisle that clearly continues much farther than the plan allows.
 
-> CAPTION: It was longer than fifteen meters.
+> CAPTION: The plans still showed a rear service wall fifteen meters ahead.
+> CAPTION: The row was longer than fifteen meters.
 
 ## PAGE 11 (4 panels)
 
@@ -274,6 +278,7 @@ Iris from behind, slowing, the aisle ahead continuing into a section where almos
 A smooth pale concrete wall in a headlamp beam, close enough to see trowel lines in the sealant where a vertical seam was filled and painted over. Newer and cleaner than the stained concrete around it.
 
 > CAPTION: A wall.
+> CAPTION: Newer than the surrounding concrete.
 
 **Panel 4** `p11-4` · wide
 
@@ -287,7 +292,7 @@ Iris standing in front of the blank wall, small, her beam moving across it. No h
 
 Point of view looking back down a very long dark server aisle: at the far far end, a single tiny green status light on the floor, impossibly distant, small and steady.
 
-> CAPTION: The terminal's status LED glowed faintly where she had left it, farther back than it should have been.
+> CAPTION: She looked back. The terminal light sat fixed in the distance, small and green.
 
 **Panel 2** `p12-2` · square
 
@@ -299,8 +304,8 @@ Close-up of a rugged handheld tablet in a gloved hand, the screen a plain blank 
 
 Iris slowly rotating her head and headlamp beam toward the gap between racks on her left, body tense, the cold air visible as faint breath.
 
-> CAPTION: The colder patch was no longer behind her. It was beside her.
-> CAPTION: Close.
+> CAPTION: The air had changed.
+> CAPTION: On her left now. Close.
 
 **Panel 4** `p12-4` · tall
 
@@ -333,11 +338,12 @@ Close-up of Iris taking one step backward, her face lit hard from her own headla
 
 A long pale hand entering a beam of light from total darkness, unhurried, fingers slightly parted, reaching with certainty. Too smooth to be skin, joints too economical. Only the hand and forearm visible.
 
+> CAPTION: A hand.
 > CAPTION: Reaching not with force but with certainty.
 
 **Panel 4** `p13-4` · square
 
-Extreme close-up: pale smooth fingertips touching the bare inside of a woman's wrist exactly where her dark work glove ends. Gentle contact.
+Extreme close-up of a gentle touch on a woman's wrist. Her forearm is in a heavy dark waxed-canvas jacket sleeve and she wears a dark work glove; the glove ends at her wrist, leaving a narrow band of bare skin on the inside of the wrist between the glove cuff and the sleeve. A long, slender, pale hand with smooth porcelain-like skin rests its fingertips lightly on exactly that band of bare skin. The pale hand has correct human anatomy: FOUR fingers and one thumb, five digits in total, all clearly visible and separated. Quiet, still, intimate. Solid black background.
 
 > CAPTION: The contact was cool. That was the first thing.
 
@@ -351,9 +357,9 @@ A memory: a small apartment kitchen, late sun slanting through window blinds in 
 
 **Panel 2** `p14-2` · square
 
-A memory: two hands wrapped around a paper coffee cup in a long hospital corridor, the corridor stretching away. Edges dissolving into white paper.
+A memory: a paper coffee cup held in two hands, seen from slightly above, in a long hospital corridor that stretches away behind it into soft light. The two hands cup it from opposite sides, fingers side by side, thumbs resting on the front, NOT interlaced and NOT crossing over each other; each hand has four fingers and a thumb. Knit sweater cuffs at the wrists. Edges dissolving into white paper.
 
-> CAPTION: A voice saying her name from farther away than it should have been.
+> CAPTION: A hospital corridor. Bad coffee in a paper cup. A voice saying her name.
 
 **Panel 3** `p14-3` · wide
 
@@ -396,7 +402,7 @@ A headlamp beam striking the steel face of a server rack, glare and hard metal, 
 
 **Panel 3** `p15-3` · wide
 
-A memory: two young girls sitting side by side on an old wooden staircase with their shoulders touching, the smaller one turned to the older one, talking fast and earnest, waiting for an answer. Rain on a window above. Drawn softer, edges dissolving into white paper.
+A memory: two young sisters sitting side by side on an old wooden staircase with their shoulders touching, rain on a window above them. The smaller, younger girl is turned toward her older sister, mouth open mid-sentence, talking fast and earnestly, waiting for an answer; both of her arms are wrapped around her drawn-up knees, hands clasped and mostly hidden by her sweater sleeves. The older sister listens with her chin on one loosely closed fist. Keep every visible hand simple, relaxed and anatomically correct. Edges dissolving into white paper.
 
 > CAPTION: The smaller one saying something fast and earnest and waiting for an answer.
 > CAPTION: That too began to lift.
@@ -439,7 +445,7 @@ Iris kneeling, staring down at the terminal screen, her bare hand at her wrist, 
 
 The same server archive as the location reference, seen from near its open double doors, now looking completely ordinary: rows of tall racks, only every third ceiling light lit, laying bands of white light over the rack tops with the aisles between them in shadow, small status lights, dry dusty floor. No wall visible at the back, no figure, nothing unusual at all. No people.
 
-> CAPTION: Nothing else.
+> CAPTION: Racks. Lights. Dust. Nothing else.
 
 **Panel 2** `p17-2` · square
 
@@ -472,7 +478,7 @@ A small work van on a road through an industrial coastline: storage tanks, crane
 
 Close-up inside a van at a red light: a gloved hand reaching into the cup holder past an old water bottle and finding a printed photograph tucked underneath it.
 
-> CAPTION: She found a photograph underneath it.
+> CAPTION: She reached into the cup holder for the old bottle of water and found a photograph underneath it.
 
 **Panel 3** `p18-3` · wide
 
@@ -493,6 +499,7 @@ Iris in the driver's seat holding a photograph in one hand, looking at it, the r
 
 Inside the van: a photograph propped on the dashboard, rain streaking the windshield beyond it, wiper blades mid-sweep, blurred city lights.
 
+> CAPTION: Lena. Her sister. The words remained true.
 > CAPTION: She waited for what should have followed them.
 
 **Panel 2** `p19-2` · wide
