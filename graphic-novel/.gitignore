@@ -8,3 +8,13 @@ ch01-the-gap/*.pdf
 ch01-the-gap/ink/
 ch01-the-gap/ink-hatch/
 ch01-the-gap/ink-tune/
+ch02-caleb-ward/art/
+ch02-caleb-ward/renders/
+ch02-caleb-ward/ink/
+ch02-caleb-ward/*.pdf
+ch0*/art/
+ch0*/art-rejected/
+ch0*/ink/
+ch0*/ink-tune/
+ch0*/renders/
+ch0*/*.pdf

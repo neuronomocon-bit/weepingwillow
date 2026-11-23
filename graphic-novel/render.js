@@ -8,7 +8,9 @@ const path = require('path');
 const os = require('os');
 const { execFileSync } = require('child_process');
 
-const CH = path.join(__dirname, 'ch01-the-gap');
+const CHAPTER = process.argv.slice(2).find((a) => /^ch\d\d-/.test(a)) || process.env.GN_CH || 'ch01-the-gap';
+const CH = path.join(__dirname, CHAPTER);
+process.env.GN_CH = CHAPTER;
 const DL = path.join(os.homedir(), 'Downloads');
 const CHROME = 'C:/Program Files/Google/Chrome/Application/chrome.exe';
 
@@ -32,15 +34,15 @@ for (const f of fs.readdirSync(DL)) {
 }
 
 // 2. rebuild
-execFileSync(process.execPath, [path.join(__dirname, 'build.js')], { stdio: 'inherit' });
+execFileSync(process.execPath, [path.join(__dirname, 'build.js'), CHAPTER], { stdio: 'inherit' });
 
 const url = 'file:///' + path.join(CH, 'pages.html').split(path.sep).join('/');
-const args = process.argv.slice(2);
+const args = process.argv.slice(2).filter((a) => !/^ch\d\d-/.test(a));
 const base = ['--headless=new', '--disable-gpu', '--hide-scrollbars',
   `--user-data-dir=${path.join(os.tmpdir(), 'gn-chrome-profile')}`, '--allow-file-access-from-files'];
 
 if (args[0] === 'pdf') {
-  const out = path.join(CH, 'the-gap-pilot.pdf');
+  const out = path.join(CH, `${CHAPTER}.pdf`);
   const since = Date.now() - 1;
   execFileSync(CHROME, [...base, '--no-pdf-header-footer', '--virtual-time-budget=30000', `--print-to-pdf=${out}`, url], { stdio: 'ignore' });
   // Chrome can return before the file is written; full-size art makes this slow (~185 MB).

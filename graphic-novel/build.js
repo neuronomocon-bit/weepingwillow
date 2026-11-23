@@ -5,7 +5,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const CH = path.join(__dirname, 'ch01-the-gap');
+const CHAPTER = process.argv.slice(2).find((a) => /^ch\d\d-/.test(a)) || process.env.GN_CH || 'ch01-the-gap';
+const CH = path.join(__dirname, CHAPTER);
 const data = require(path.join(CH, 'panels.js'));
 
 const STYLE_BLOCK =
@@ -29,6 +30,18 @@ const MEMORY_BLOCK =
   'drawn softer and lighter, a memory: fine black ink line and hatching on white paper, no color, no gray wash, ' +
   'the edges fading out into blank white paper as if dissolving. No text anywhere.';
 
+// INK-READY style (from Ch2 on): asks the image model for art that survives ink-pass.py.
+// Ch1 showed that fine hatching and stipple turn to speckle, gray skies wash out, and photographic
+// face lighting breaks faces. So: big flat black shapes, clean contours, flat simple face lighting.
+const INK_STYLE_BLOCK =
+  'Bold black and white noir comic book ink, in an original style. Pure black ink on white paper: no color, no gray, ' +
+  'no gradients, no wash, no pencil shading. Large flat areas of SOLID BLACK for shadows, dark clothing, hair and night, ' +
+  'with clean confident brush contours. Use as little fine hatching as possible and no stippling or speckled texture at all. ' +
+  'Faces are lit simply and evenly from one side: clear, well-drawn features (eyes, brows, nose and a visible mouth), ' +
+  'skin left as clean white paper with a few bold shadow shapes. Strong graphic chiaroscuro, high contrast, crisp edges. ' +
+  'Quiet, still, restrained dread. Cinematic comic panel composition. Absolutely no text, letters, numbers, captions, ' +
+  'speech balloons, panel borders, signatures or watermarks anywhere in the image.';
+
 const CHAR_BLOCKS = {
   iris:
     'IRIS: a lean woman in her early thirties with a sharp angular face, high cheekbones, straight dark brows and a narrow still mouth; ' +
@@ -38,6 +51,10 @@ const CHAR_BLOCKS = {
     'THE FIGURE: female-coded and almost human, a little too tall and a little too narrow, limbs slightly too long; a pale seamless surface like cool porcelain or wet stone, ' +
     'smoother than skin, with no veins, pores, wrinkles or knuckle creases; short dark hair lost in shadow; wearing a plain dark long coat that falls below the knee; perfectly symmetrical face with features that look learned rather than born, eyes too direct, mouth closed, no expression. ' +
     'Utterly still. Never claws, teeth, tendrils, horns, glowing eyes or anything monstrous.',
+  caleb:
+    'CALEB: a man in his early thirties, lean and loose-limbed, with an open, expressive, likeable face, a quick half-grin, ' +
+    'short slightly unkempt dark hair and a few days of stubble; wearing a worn canvas work jacket over a dark t-shirt, ' +
+    'jeans and work boots. Relaxed, easy posture; he leans on things.',
   lena:
     'LENA (the younger sister in the photograph): a woman in her late twenties, hair down and moving in the wind, a wide open smile, leaning in toward her sister.',
 };
@@ -49,14 +66,15 @@ const ASPECT = {
 };
 
 const fullPrompt = (p) =>
-  [ASPECT[p.aspect], STYLE_BLOCK, ...(p.chars || []).map((c) => CHAR_BLOCKS[c]), 'SCENE: ' + p.prompt].join('\n\n');
+  [ASPECT[p.aspect], data.style === 'ink' ? INK_STYLE_BLOCK : STYLE_BLOCK, ...(p.chars || []).map((c) => CHAR_BLOCKS[c]), 'SCENE: ' + p.prompt].join('\n\n');
 
 const allPanels = () => data.pages.flatMap((pg) => pg.rows.flatMap((r) => r.panels.map((p) => ({ ...p, page: pg.n }))));
 
 const artFile = (id) => {
+  const [chap, pid] = id.includes('/') ? id.split('/') : [null, id];
   for (const ext of ['png', 'jpg', 'jpeg', 'webp']) {
-    const f = path.join(CH, 'art', `${id}.${ext}`);
-    if (fs.existsSync(f)) return `art/${id}.${ext}`;
+    const f = path.join(chap ? path.join(__dirname, chap) : CH, 'art', `${pid}.${ext}`);
+    if (fs.existsSync(f)) return chap ? `../${chap}/art/${pid}.${ext}` : `art/${pid}.${ext}`;
   }
   return null;
 };
@@ -105,7 +123,11 @@ function buildPrompts() {
 // ------------------------------------------------------------ pages.html
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-const inkFile = (id) => (fs.existsSync(path.join(CH, 'ink', `${id}.png`)) ? `ink/${id}.png` : null);
+const inkFile = (id) => {
+  const [chap, pid] = id.includes('/') ? id.split('/') : [null, id];
+  return fs.existsSync(path.join(chap ? path.join(__dirname, chap) : CH, 'ink', `${pid}.png`))
+    ? (chap ? `../${chap}/ink/${pid}.png` : `ink/${pid}.png`) : null;
+};
 
 // Hand-drawn panel border: a slightly wobbly rectangle, the same for a given panel every build.
 function roughBorder(id, cls = 'bd') {
@@ -126,6 +148,7 @@ function roughBorder(id, cls = 'bd') {
 function panelHtml(p, comic) {
   const groups = {};
   for (const c of p.cap || []) (groups[c.pos] ||= []).push(`<div class="cap">${esc(c.t)}</div>`);
+  for (const b of p.say || []) (groups[b.pos] ||= []).push(`<div class="bal tail-${b.tail || 'b'}">${esc(b.t)}</div>`);
   if (p.screen) (groups[p.screen.pos] ||= []).push(
     `<div class="screen ${p.screen.style || ''}">${p.screen.lines.map(esc).join('<br>')}</div>`);
   const sfx = (p.sfx || []).map((s) => `<div class="sfx sfx-${s.pos}">${esc(s.t)}</div>`).join('');
@@ -137,7 +160,7 @@ function panelHtml(p, comic) {
     const f = (comic && inkFile(p.reuse || p.id)) || artFile(p.reuse || p.id);
     art = f
       ? `<img src="${f}" style="object-position:${p.focus || 'center'}" alt="">`
-      : `<div class="ph"><b>${p.id}</b><span>${esc(p.prompt.slice(0, 140))}…</span></div>`;
+      : `<div class="ph"><b>${p.id}</b><span>${esc((p.prompt || "reuses " + p.reuse).slice(0, 140))}…</span></div>`;
   }
   const bleed = comic ? p.bleed || [] : [];
   const pad = { top: '0.42in', left: '0.38in', right: '0.38in', bottom: '0.5in' };
@@ -208,11 +231,27 @@ function buildPages() {
   .comic .g-tl { top: 9px; left: 9px; } .comic .g-tr { top: 9px; right: 9px; }
   .comic .g-bl { bottom: 9px; left: 9px; } .comic .g-br { bottom: 9px; right: 9px; }
   .comic .bleed .g-tl { top: 0.5in; left: 0.46in; } .comic .bleed .g-tr { top: 0.5in; right: 0.46in; }
+  /* speech balloons */
+  .bal { position: relative; background: #fff; border: 2px solid #000; border-radius: 50% / 46%; padding: 9px 15px 8px;
+         font-family: "Ink Free", "Segoe Print", "Comic Sans MS", cursive; font-weight: bold; text-transform: uppercase;
+         font-size: 8.4pt; line-height: 1.2; letter-spacing: .02em; text-align: center; max-width: 2.3in; margin-bottom: 6px; }
+  .bal::before, .bal::after { content: ""; position: absolute; width: 0; height: 0; border-style: solid; }
+  .bal.tail-b::before { bottom: -13px; left: 46%; border-width: 13px 7px 0 7px; border-color: #000 transparent transparent; }
+  .bal.tail-b::after  { bottom: -9px;  left: calc(46% + 2px); border-width: 10px 5px 0 5px; border-color: #fff transparent transparent; }
+  .bal.tail-bl::before { bottom: -14px; left: 22%; border-width: 14px 12px 0 0; border-color: #000 transparent transparent; }
+  .bal.tail-bl::after  { bottom: -10px; left: calc(22% + 2px); border-width: 10px 8px 0 0; border-color: #fff transparent transparent; }
+  .bal.tail-br::before { bottom: -14px; right: 22%; border-width: 14px 0 0 12px; border-color: #000 transparent transparent; }
+  .bal.tail-br::after  { bottom: -10px; right: calc(22% + 2px); border-width: 10px 0 0 8px; border-color: #fff transparent transparent; }
+  .bal.tail-l::before { left: -14px; top: 40%; border-width: 6px 14px 6px 0; border-color: transparent #000 transparent transparent; }
+  .bal.tail-l::after  { left: -10px; top: calc(40% + 2px); border-width: 4px 10px 4px 0; border-color: transparent #fff transparent transparent; }
+  .bal.tail-r::before { right: -14px; top: 40%; border-width: 6px 0 6px 14px; border-color: transparent transparent transparent #000; }
+  .bal.tail-r::after  { right: -10px; top: calc(40% + 2px); border-width: 4px 0 4px 10px; border-color: transparent transparent transparent #fff; }
+  .bal.tail-none::before, .bal.tail-none::after { display: none; }
   .solo { background: #fff; } .solo .status { display: none; } .solo .page { margin: 0; box-shadow: none; }
   @media print { body { background: #fff; } .status { display: none; } .page { margin: 0; box-shadow: none; } }
 </style></head><body>
-<div class="status">Ch1 pilot · ${data.pages.length} pages · art ${done}/${total.length} panels · generated from panels.js</div>
-<section class="page cover"><div class="s">WEEPING WILLOW</div><h1>THE ABSENCE</h1><div class="c">Chapter One · The Gap</div><div class="a">KRISTOPHER MICHAEL</div></section>
+<div class="status">${esc(data.chapter)} · ${data.pages.length} pages · art ${done}/${total.length} panels · generated from panels.js</div>
+<section class="page cover"><div class="s">WEEPING WILLOW</div><h1>THE ABSENCE</h1><div class="c">${esc(data.cover || data.chapter)}</div><div class="a">KRISTOPHER MICHAEL</div></section>
 ${pages}
 <script>
   // pages.html?p=3 shows page 3 alone at print size (used by render.js)
@@ -227,6 +266,25 @@ ${pages}
 
 module.exports = { fullPrompt, data, allPanels, STYLE_BLOCK, CONTINUATION_BLOCK, MEMORY_BLOCK };
 if (require.main !== module) return;
+
+// ------------------------------------------------------------ lint: author's banned tics
+const TICS = [
+  [/\bthe right way\b/i, '"the right way"'],
+  [/should have been/i, '"should have been" comparison'],
+  [/\bnot [^.]{1,40}\.\s+just\b/i, '"Not X. Just Y." cadence'],
+  [/\b(wrong|off)\b/i, '"wrong"/"off" shorthand', 'cap'],   // a narration rule; dialogue may say "off"
+  [/nodded once/i, '"nodded once"'],
+  [/[—–]/, 'em/en dash'],
+];
+const lint = [];
+for (const p of allPanels()) {
+  const items = [...(p.cap || []).map((x) => ({ ...x, kind: 'cap' })), ...(p.say || []).map((x) => ({ ...x, kind: 'say' }))];
+  for (const x of items) {
+    const t = x.t.replace(/\bpanel off\b/gi, '');   // literal: the keypad panel comes off (p04-1)
+    for (const [re, name, only] of TICS) if ((!only || only === x.kind) && re.test(t)) lint.push(`${p.id}: ${name}: ${x.t}`);
+  }
+}
+if (lint.length) { console.log(`LINT ${lint.length} tic(s):`); lint.forEach((l) => console.log('  ' + l)); }
 
 buildScript();
 buildPrompts();

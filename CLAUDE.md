@@ -100,7 +100,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **Added 2026-11-22. A standalone adaptation of Book 1. It reads `book1-published/` and never edits it,** and no tool in the parent project reads it. **`graphic-novel/README.md` is the entry point** and carries the full generation log; `graphic-novel/style-bible.md` carries the drift controls.
 
-**Status: Chapter 1, "The Gap", is finished in the approved black-and-white comic look (2026-11-22)** — 19 lettered pages plus a cover, 73 panels, true 1-bit ink, hand-drawn borders, hand-lettered captions. **The author approved it.** **Chapter 2 is next.**
+**Chapter 2 is in progress (24/39 images; resume from `graphic-novel/README.md` → Chapter 2).** **Status: Chapter 1, "The Gap", is finished in the approved black-and-white comic look (2026-11-22)** — 19 lettered pages plus a cover, 73 panels, true 1-bit ink, hand-drawn borders, hand-lettered captions. **The author approved it.** **Chapter 2 is next.**
 
 - **One source:** `ch01-the-gap/panels.js` holds every panel's scene, captions (Book 1's own sentences), sound effects, screen text and grid placement. `node graphic-novel/build.js` generates the readable script, the prompts and **`ch01-the-gap/pages.html`, which is the book: open it in a browser.** `node graphic-novel/render.js` files new art and renders pages to PNG; `render.js pdf` prints the proof.
 - **Art was generated in ChatGPT** (one long conversation, driven through Chrome, three reference sheets first), **and the lettering is HTML laid over it, never inside the images.** A caption can change without touching art.
@@ -181,7 +181,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 1. **The interview prep page, `interview-prep-the-absence.html`** (commits `6b26b8f`, `ad833f1`). A standalone refresher for author interviews on The Absence: story, cast, world, chapter by chapter, themes, talking points and quotable lines. **It now has a spoiler-free "What Readers Find Out Next" section** naming the questions Books 2 and 3 answer without the answers, with lines safe to say on air, **ahead of the collapsed full-spoiler sections.**
 2. **The Book 1 graphic novel, Ch1 pilot, finished and committed** (`d7acfe0`, images excluded). See THE GRAPHIC NOVEL above for status, where the art lives, and the open cover-Willow decision.
 
-**Pushed.** Chapter 1 of the graphic novel is finished in the approved ink look. **Next: Chapter 2 of the graphic novel** (Book 1 Ch2, "Caleb Ward").
+**Graphic novel Ch1 finished and pushed. Ch2 "Caleb Ward" is in progress:** script done (20 pages, speech balloons, tic lint clean), **24 of 39 images generated**, ink-ready prompting in place. **ChatGPT's daily image limit stopped it at p15-2; resume after 11:26 AM 2026-11-23.** The exact remaining list and next steps are in `graphic-novel/README.md` → Chapter 2.
 
 **Book 2 and Book 3 status is unchanged from 2026-09-04, below.**
 

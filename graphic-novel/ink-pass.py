@@ -23,8 +23,10 @@ import cv2
 import vtracer
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ART = os.path.join(HERE, 'ch01-the-gap', 'art')
-OUT = os.path.join(HERE, 'ch01-the-gap', 'ink')
+CHAPTER = next((a for a in sys.argv[1:] if re.match(r'ch\d\d-', a)), os.environ.get('GN_CH', 'ch01-the-gap'))
+ART = os.path.join(HERE, CHAPTER, 'art')
+OUT = os.path.join(HERE, CHAPTER, 'ink')
+_CH1 = CHAPTER == 'ch01-the-gap'   # VOID_PANELS / MEMORY_* below hold Chapter 1 panel ids
 
 HOUSE = dict(smooth=60, blur=0.5, black=35, white=215, block=21, c=9, solid=62, paper=222,
              blob_black=700, blob_white=400)
@@ -36,17 +38,17 @@ MEMORY = dict(smooth=0, blur=0.5, black=60, white=235, block=25, c=9, solid=70, 
 DARK_MEDIAN = 40
 # Panels where the black void IS the scene (the figure emerging, the hand, the face, the too-long aisle).
 # They are low-key too, but must keep HOUSE's solid blacks; the DARK variant turns them pale.
-VOID_PANELS = {'p04-4', 'p11-3', 'p11-2', 'p12-1', 'p12-4', 'p13-1', 'p13-3', 'p13-4', 'p15-1', 'p15-2'}
+VOID_PANELS = set() if not _CH1 else {'p04-4', 'p11-3', 'p11-2', 'p12-1', 'p12-4', 'p13-1', 'p13-3', 'p13-4', 'p15-1', 'p15-2'}
 DARK = dict(HOUSE, smooth=80, black=8, c=4, paper=230, block=31, solid_pct=55, blob_white=1500)
 
 # Regions inside a present-day panel drawn in the memory style (the photo on the dashboard in p19-1
 # must match the photo panel p18-3, not be inked like the windshield around it).
-MEMORY_REGIONS = {'p19-1': [[0.47, 0.36, 0.77, 0.72]]}
+MEMORY_REGIONS = {} if not _CH1 else {'p19-1': [[0.47, 0.36, 0.77, 0.72]]}
 
-MEMORY_PANELS = {'p14-1', 'p14-2', 'p14-3', 'p14-4', 'p14-5', 'p14-6', 'p15-3', 'p18-3'}
+MEMORY_PANELS = set() if not _CH1 else {'p14-1', 'p14-2', 'p14-3', 'p14-4', 'p14-5', 'p14-6', 'p15-3', 'p18-3'}
 
 PROTECT = {}
-_pf = os.path.join(HERE, 'ink-protect.json')
+_pf = os.path.join(HERE, CHAPTER, 'ink-protect.json')
 if os.path.exists(_pf):
     PROTECT = {k: v for k, v in json.load(open(_pf)).items() if not k.startswith('_')}
 
@@ -159,7 +161,7 @@ def ink(pid):
 TRACE = False
 
 if __name__ == '__main__':
-    ids = sys.argv[1:]
+    ids = [a for a in sys.argv[1:] if not re.match(r'ch\d\d-', a)]
     if '--svg' in ids:
         TRACE = True
         ids.remove('--svg')
