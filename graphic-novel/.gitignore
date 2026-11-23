@@ -1,0 +1,7 @@
+# Images are not in git. The final art and reference sheets live in Dropbox,
+# under weepingwillow / Graphic Novel / Ch01 - The Gap (see README.md).
+ch01-the-gap/art/
+ch01-the-gap/art-rejected/
+refs/
+ch01-the-gap/renders/
+ch01-the-gap/*.pdf
