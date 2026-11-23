@@ -176,7 +176,28 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-11-22)
 
-### ⚠️ The 2026-11-22 Book 2 rules audit — IN PROGRESS, chapter by chapter. Ch1 and Ch2 done.
+### ⚠️⚠️ START HERE TOMORROW (left off 2026-11-22)
+
+**1. All 22 chapters are UNLOCKED** (author's instruction). See LOCKED CHAPTERS.
+
+**2. NEW RULE, RULED BY THE AUTHOR: time markers default to zero.** Full text in `03-themes-and-tone.md` → TIME MARKERS.
+- A marker stays only if it is plot evidence or a clock, a Book 1 lock, a character arguing about the interval, or the one reorientation a reader needs.
+- **Exempt:** Iris's own measurements (cards, timings, counts) and Marin's outcome-measure language. That is characterization, confirmed by the author.
+- **Recovered chapters:** one clear six-years-back marker each, and cut the rest. Confirmed by the author.
+- Cut weekday names, clock times, repeated months and incidental durations. **Delete, never substitute.** The bible keeps the full calendar.
+
+**3. The proposed plan for applying it (agreed in outline, NOT started, nothing checked yet):**
+- (a) The rule is written (done).
+- (b) A read-only inventory of every time expression in all 22 chapters, tagged keep / cut / soften, for the author to rule on by category.
+- (c) Apply chapter by chapter, record updated each time, Ch1 to Ch3 revisited under the new rule.
+- (d) Reconcile the few surviving weekdays and intervals against the master timeline. This should dissolve most of the weekday-spine problem below.
+- (e) Check whether `number-check.js` / `interval-check.py` need adjusting.
+
+**4. ⚠️ OPEN QUESTION, the author wants to discuss it first, next session:** run the time-marker sweep as its own pass across all 22 chapters *before* resuming the rules audit at Ch4 (my recommendation, because it changes what the audits check and should dissolve most of the weekday problem), **or** fold the time cuts into each chapter's audit as we go. **Do not start either until that is settled.**
+
+**5. Then resume the rules audit at Ch4** (the first Recovered chapter), with the same method: audit → summary → log in `book2-audit-2026-11.md` → fix on the author's word → record updated → commit and push when asked. **Each chapter is also checked for congruence with the chapters before it and with published Book 1.**
+
+### ⚠️ The 2026-11-22 Book 2 rules audit — IN PROGRESS, chapter by chapter. Ch1 to Ch3 done (Ch3 fixed; uncommitted until the end of the session).
 
 **The author started a fresh full-rules audit of Book 2, one chapter at a time. The running log is `book2-audit-2026-11.md` at the repo root**, with findings tiered **A** (consistency/arithmetic), **B** (hard rules) and **C** (caps and overuse). The workflow: audit a chapter, report a summary, log it, and **apply fixes only when the author says so.**
 
@@ -191,7 +212,11 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 **⚠️ Scope widened by the author during Ch2: every chapter is also checked for congruence with the chapters before it and with published Book 1.** That check found the largest Ch2 defect: **Lowport Public Health's building contradicted Book 1 Ch6** (new and "inserted" there, a former bank in Ch2). It is fixed by the department having moved since the winter.
 
-**Ch2 was fixed on the author's authorization and re-locked: 2,951 → 2,766, book 71,865, now inside the 68–72k range.** The record is in the Ch2 brief → RULES AUDIT PASS. **Next: Ch3, checked against Ch1, Ch2 and Book 1.**
+**Ch2 was fixed on the author's authorization and re-locked: 2,951 → 2,766, book 71,865, now inside the 68–72k range.** The record is in the Ch2 brief → RULES AUDIT PASS. **Ch3 fixed and re-locked: 3,052 → 3,018, book 71,831.** Headlines: the unit is 800 sq ft (200 could not hold 38 pallets), the caddy blocking, a new line keeping the industrial-road Book 3 plant alive, and *"That's cold."* replacing *"That's not comfort."* on the author's ruling.
+
+**⚠️ OPEN, WHOLE-BOOK: the weekday spine.** Counting from Ch2's Thursday at Day 24, Ch7, Ch11/12 and Ch16 name weekdays that do not fit their master-timeline Days (Caleb dies on a Friday; Day 45 is a Thursday). Logged in `book2-audit-2026-11.md` → GLOBAL FORWARD ITEM. **Decide with the author before editing any of them.**
+
+**Forward items already logged:** Ch5's nine-day rig clock; Ch7 and Ch16 giving Joel the Ch2 dead man's kitchen (Book 1 Ch3 puts Joel in a living room). **Next: Ch4.**
 
 ### The 2026-11-22 session — no prose touched, two side projects
 
@@ -224,11 +249,11 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 **⚠️ VERIFY AN EXPORT BY READING THE TEXT INSIDE THE .DOCX, NOT THE BUILD'S SUMMARY LINE.** The build printed `Chapters: 22`, `Sections: 24`, `Scene breaks: 173` and every one of those was accurate while the title page was wrong. **Unzip it and read `word/document.xml`.**
 
-# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 71,865 WORDS.
+# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 71,831 WORDS.
 
 **✅ THE FULL-MANUSCRIPT EDITORIAL PASS IS APPLIED (2026-09-03).** The author delivered a 17-item combined audit of all five editing passes as a read-only proposal list. **All 8 Required and all 7 Recommended items were applied, both Optional items were ruled keep, and three unflagged members of a flagged family were caught by sweeping and fixed.** Eleven chapters were edited and re-locked in one commit. **Net −96 words.** Full record in `review-progress.md` → THE FULL-MANUSCRIPT EDITORIAL PASS.
 
-**⚠️ THE BOOK IS FINISHED AND IT LANDS AT 71,865**, against a 68,000–72,000 target (72,246 after the editorial pass; the 2026-11-22 rules audit has taken out 381 more across Ch1 and Ch2, none of them for the count). **It is now inside the range. The author had already ruled the overage immaterial: do not cut for the total, and do not add to it either.** The editorial pass took 96 words out and **not one of them was removed for the count** — every cut was a rule fix, a claim narrowed, or a chain split. The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
+**⚠️ THE BOOK IS FINISHED AND IT LANDS AT 71,831**, against a 68,000–72,000 target (72,246 after the editorial pass; the 2026-11-22 rules audit has taken out 415 more across Ch1 to Ch3, none of them for the count). **It is now inside the range. The author had already ruled the overage immaterial: do not cut for the total, and do not add to it either.** The editorial pass took 96 words out and **not one of them was removed for the count** — every cut was a rule fix, a claim narrowed, or a chain split. The range was set by dividing a target; the briefs describe the book that got written. **Nothing needs cutting. The number is reported so it is not a surprise.**
 
 Ch15 through Ch22 were all locked 2026-09-03 on the author's word. **Nothing is drafted and unlocked. Nothing is unreviewed. `python tools/verify-record.py` reports no gap, no broken lock and no stale tracker.**
 
@@ -311,7 +336,7 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 |---|---|---|---|---|---|
 | 1 | Aftermath | 2,735 | 3,400 | 665 | **LOCKED 2026-09-02** |
 | 2 | Mortality | 2,766 | 3,400 | 634 | **LOCKED 2026-09-02** |
-| 3 | The Files | 3,052 | 3,600 | 548 | **LOCKED 2026-09-02** |
+| 3 | The Files | 3,018 | 3,600 | 582 | **LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | 3,600 | 206 | **LOCKED 2026-09-02** |
 | 5 | Read | 3,183 | 3,600 | 417 | **LOCKED 2026-09-02** |
 | 6 | Too Much | 3,276 | 3,400 | 124 | **LOCKED 2026-09-02** |
@@ -333,7 +358,7 @@ Written up in `14-audit-method.md` → CHECKING A NEW CLAIM AGAINST OLD PROSE. *
 | 20 | **RECOVERED: The Last Session** | 3,804 | 4,400 | 596 | **LOCKED 2026-09-03** |
 | 21 | Why Lena | 3,566 | 3,600 | 34 | **LOCKED 2026-09-03** |
 | 22 | The Second Visit (ENDING) | 3,226 | 3,800 | 574 | **LOCKED 2026-09-03** |
-| | **THROUGH CH22 — THE WHOLE BOOK** | **71,865** | **79,800** | **7,935** | 90% of budget |
+| | **THROUGH CH22 — THE WHOLE BOOK** | **71,831** | **79,800** | **7,969** | 90% of budget |
 
 **⚠️ Ch16 is the first chapter in the book to run over budget, and the reason is on the record.** The five calibrations from the author's review took it from 3,617 to 4,115; it was compressed back to 3,955 **at the sentence and not by removing anything.** Reaching 3,600 would have meant cutting the calibration, which undoes the review, or cutting a beat, which the rules forbid. **The number is reported rather than met.**
 
@@ -494,9 +519,11 @@ Picks up weeks after **Book 2**. Willow becomes strategic and **no longer needs 
 
 ## ⚠️ LOCKED CHAPTERS
 
+> **⚠️ 2026-11-22: ALL TWENTY-TWO CHAPTERS ARE UNLOCKED, on the author's instruction**, for the time-marker sweep and the rest of the rules audit (`python tools/verify-record.py --unlock --all`; `tools/locked-chapters.json` is now empty, and `--unlock` is a new command in the tool). **The unlock is not a licence to sweep blindly.** Work chapter by chapter, read every change, update the record in the same commit, and re-lock each chapter (`--lock`) when the author approves it. Everything below describes the lock regime as it stood until 2026-11-22 and comes back into force as chapters are re-locked.
+
 **A locked chapter has been reviewed and approved by the author and is closed.** It is treated the way `book1-published/` is treated: **read it, never edit it.** Not to fix a typo, not to apply a rule adopted afterward, and above all **not as part of a sweep across all chapters**, which is the realistic way an approved chapter gets edited by accident. The Ch1–Ch7 US-English sweep touched six chapters at once; a lock that was only a label in a status table would not have survived it.
 
-**✅ ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED, EDITED AND LOCKED. 71,865 words.** **The whole of Book 2 is closed to editing.** **Eleven of them were edited under the author's blanket authorization of 2026-09-03 for the full-manuscript editorial pass, and re-locked in the same commit.** That authorization was for that pass and is spent; the four standing conditions govern again.
+**✅ ALL TWENTY-TWO CHAPTERS ARE REVIEWED, REVISED, EDITED AND LOCKED. 71,831 words.** **The whole of Book 2 is closed to editing.** **Eleven of them were edited under the author's blanket authorization of 2026-09-03 for the full-manuscript editorial pass, and re-locked in the same commit.** That authorization was for that pass and is spent; the four standing conditions govern again.
 
 **⚠️ STANDING PERMISSION (author, 2026-09-02): a locked chapter MAY be changed when consistency genuinely requires it.** This is not a licence to edit. The conditions are all four of:
 

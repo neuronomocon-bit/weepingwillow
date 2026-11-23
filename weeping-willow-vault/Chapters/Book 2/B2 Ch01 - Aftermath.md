@@ -1,5 +1,5 @@
 # Book 2 · Chapter 1 — Aftermath
-**POV:** [[Iris Vale]] · **Day 21** · **2,735 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 21** · **2,735 words** · **UNLOCKED 2026-11-22**
 **Act I — What Came Back**
 **Location:** Iris's apartment, then [[Caleb Ward]]'s building inland
 

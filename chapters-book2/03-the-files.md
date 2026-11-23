@@ -1,10 +1,12 @@
 Chapter 3 — The Files
 
-The unit was in the third row of a storage yard off the industrial road, one of forty identical bays behind a gate that took a code and did not record it. Kade had it under his own name and had been paying for it monthly for three years. He told her that in the parking lot before he opened it, in the flat voice of a man getting a thing said early so it would not have to be said later.
+The unit was in the third row of a storage yard off the industrial road, one of forty identical bays behind a gate that took a code and did not record it. Kade had it under his own name and had been paying for it monthly for three years. He told her that in the parking lot before he opened it, in the flat voice of a man getting something said early so it would not have to be said later.
 
-The roller door went up to about chest height and stuck, and he ducked under it and hit the light.
+Two minutes before the yard Iris had passed the access road to the building she had found on Monday, and she had not taken it.
 
-Two hundred square feet, concrete floor, breeze-block walls painted once. Pallets down both sides to the height of her shoulder, shrink-wrapped and gone milky with age. A stack of flat crates against the back wall. In the near corner, where the roof sheet met the wall badly, there was a dark patch two feet across on the floor and a builder’s bucket sitting under it with an inch of water in the bottom.
+The roller door went up to about chest height and stuck. He ducked under it and hit the light.
+
+Eight hundred square feet, concrete floor, breeze-block walls painted once. Pallets down both sides to the height of her shoulder, shrink-wrapped and gone milky with age. A stack of flat crates against the back wall. In the near corner, where the roof sheet met the wall badly, there was a dark patch two feet across on the floor and a builder’s bucket sitting under it with an inch of water in the bottom.
 
 “That’s been like that since the second year,” Kade said. “They know. It’s on the account.”
 
@@ -16,7 +18,7 @@ Iris put her bag down on the dry side and started at the door end.
 
 ***
 
-The pallets were not sorted. They had been loaded in the order things had come off a truck, and the truck had been loaded in the order things had come out of a building, and the building had been emptied by people who were being made redundant on a schedule they had been given in writing. That determined the stacking. Heavy at the bottom, correct. Fragile on top, correct. And then, at some point in every column, a run of four or five identical cases that had clearly gone on together because they had come off a shelf together, followed by something that had no business next to them.
+The pallets were not sorted. They had been loaded in the order things had come off a truck, and the truck had been loaded in the order things had come out of a building, and the building had been emptied by people who were being made redundant on a schedule they had been given in writing. That determined the stacking. Heavy at the bottom, correct. Fragile on top, correct. And then, at some point in every column, a run of four or five identical cases that had gone on together because they had come off a shelf together, followed by something that had no business next to them.
 
 She read the labels along the second row. Most of them were printed and had survived. A few were handwritten on tape, and the tape had lifted and taken the ink with it.
 
@@ -42,13 +44,13 @@ Iris read the first sheet. It was three columns, and it was exactly what he had 
 
 “My credentials still work.” He straightened up. “Three years. I’ve never used them for anything, and they’ve never been revoked, and I’ve stopped assuming that’s an oversight.”
 
-He left it there and went back to what he had been doing, and Iris let him, because he had told her the useful part and everything after it was weather.
+He left it there and went back to what he had been doing. Iris let him, because he had told her the useful part and everything after it was weather.
 
 She read the other two sheets before she put the wallet down, properly, rather than looking for the line she already wanted.
 
 One code series. Six destinations.
 
-The split was not by size. She checked that first, because size is the ordinary reason a load goes to more than one place, and the pallet counts against each destination were uneven in a way that had nothing to do with the capacity of anything. It was not by type. The same class of media appeared under four of the six.
+The split was not by size. She checked that first, because size is the ordinary reason a load goes to more than one place, and the pallet counts against each destination bore no relation to the capacity of anything. It was not by type. The same class of media appeared under four of the six.
 
 She read the codes across all of it and saw what it had been sorted on.
 
@@ -70,9 +72,9 @@ She wrote the six destinations into her inventory in the order the sheet gave th
 
 She spent the first hour on condition, because condition determined everything else and there was no point building a plan on top of a guess.
 
-The good news was on the third and fourth pallets in. The research archive had left that building on archival cartridge, in rigid cases, in cardboard outers with the desiccant sachets still rattling in the bottom. That media had been specified deliberately and paid for out of a research grant, and the budget had held, because grants have line items that survive the people who wrote them. She opened four cases at random. The cartridges were clean, the shells were undistorted, and the write-protect tabs were where they had been left.
+The good news was on the third and fourth pallets in. The research archive had left that building on archival cartridge, in rigid cases, in cardboard outers with the desiccant sachets still rattling in the bottom. That media had been specified deliberately and paid for out of a research grant, and the budget had held, because a grant’s line items had outlived the people who wrote them. She opened four cases at random. The cartridges were clean, the shells were undistorted, and the write-protect tabs were where they had been left.
 
-She took one out to the van and read it there, off the van’s power, with the door open and the drive on the passenger seat. Condition you can see is a guess and condition you have read is a fact, and nothing was going to be powered up in a bay with a wet corner in it.
+She took one out to the van and read it there, off the van’s power, with the door open and the drive on the passenger seat. Nothing was going to be powered up in a bay with a wet corner in it.
 
 It came off at full rate. No retries, no soft errors, a clean index at the head and a directory structure that had been thought about by someone who expected it to be read. She let it run four minutes, stopped it, and carried the cartridge back in.
 
@@ -80,19 +82,17 @@ It came off at full rate. No retries, no soft errors, a clean index at the head 
 
 “Good.”
 
-“It is not going to stay fine in here, though.” She put the back of her hand against the wall and held it there. “This bay has no climate control. It is whatever the weather is, plus what a metal roof does to it, and it has been that for three years. Archival media is rated to conditions. It is not rated to a shed.”
+“It will not stay this good in here, though.” She put the back of her hand against the wall and held it there. “This bay has no climate control. It is whatever the weather is, plus what a metal roof does to it. Archival media is rated to conditions. It is not rated to a shed.”
 
 “I couldn’t put it anywhere with a paper trail.”
 
-“I know. I’m not telling you that you were wrong, I’m telling you what it cost.”
-
-“I want to see what came out of the mirror site.”
+“I know. That was the right call, and this is what it cost. Show me what came out of the mirror site.”
 
 He knew which pallets and he did not want to walk her to them, and he walked her to them.
 
 The second class of material was in the back stack, and it had been in water.
 
-Not submerged. Standing damp, for a period that was never measured, in a transfer point on the eastern spur where a service duct backed up in the second winter after the shutdown. The cases had been dried and restacked, and whoever did it had done a decent job with what they had. The outers were gone. The drives were consumer-grade, spinning disks in plastic caddies, the sort you buy in a hurry when the part you actually specified is on a six-week lead time.
+It had stood damp, for a period that was never measured, in a transfer point on the eastern spur where a service duct backed up in the second winter after the shutdown. The cases had been dried and restacked, and whoever did it had done a decent job with what they had. The outers were gone. The drives were consumer-grade, spinning disks in plastic caddies, bought in a hurry when the specified part was on a six-week lead time.
 
 She turned one over and read the corrosion on the connector pins with her light.
 
@@ -102,15 +102,13 @@ She turned one over and read the corrosion on the connector pins with her light.
 
 “No, I mean I can tell from the media.” She set it down and picked up another. “Nobody puts a clinical record set on this. This is what a department buys with what’s left in a budget in the last quarter. So somebody decided which of these two things was worth archival media and which one wasn’t, and they were not wrong at the time, because one of them had resale value and a citation trail and the other one was paperwork about people.”
 
-Kade looked at the stack for a while.
-
-“Say the part I’m not getting.”
+“Tell me the part I’m not getting,” Kade said.
 
 ***
 
 “There are two sets in this room,” Iris said. “They do different jobs and neither one is any use without the other.”
 
-She put her hand flat on the good pallet.
+She went to the good pallet.
 
 “That is the research archive. Session data, baseline maps, substrate logs, whatever the facilities side was reconciling. It is complete, or near enough, and I will have most of it off inside three weeks because the media wants to give it to me. And every single record in it is filed under a research identifier.”
 
@@ -134,7 +132,7 @@ Kade said nothing for long enough that she looked over. He had picked up one of 
 
 ***
 
-He started talking about twenty minutes later, while she was building an inventory and he was breaking down the empty outers so they would stack.
+He started talking about twenty minutes later. He had set the caddy down on the end of the back stack and was breaking down the empty outers so they would stack, and she was building an inventory.
 
 “There was a row,” he said. “Second week of the decommissioning. Twelve crates, all one code series, and the schedule had them going to secondary, and the code on the crates was one character off a series that was going to the mirror site.”
 
@@ -154,19 +152,19 @@ He put the flattened outer on the pile.
 
 “What I did not do,” he said, “was open one.”
 
-He said it as a finished thing, something he had done all his feeling about years ago, and that was the only reason it was bearable to be in the room for. He was not asking her to absolve him. He had not built up to it, and he went on breaking down cardboard while he said it.
+He said it as finished business. He had done all his feeling about it years ago, and that was the only reason the room was bearable. He was not asking her to absolve him. He had not built up to it, and he went on breaking down cardboard while he said it.
 
-Iris could see the whole structure of what he was doing. He had brought her here, and paid for this unit for three years, and kept the queried copy, and told her about the row before she found it herself, and every one of those was the same act performed four different ways.
+Iris could see the whole structure of what he was doing. He had brought her here, and paid for the unit, and kept the queried copy, and told her about the row before she found it herself.
 
 She had nothing to put against it, and she was not going to manufacture something, because he would have known and it would have been worse.
 
 “The crates you moved were manifest lines,” she said. “You matched a code to a sheet. That is the job. If you had opened one you would have been fired that afternoon and the twelve crates would have gone to secondary anyway, with somebody else’s initials on the line.”
 
-Kade laughed, once, with no humor in it at all.
+Kade made a sound that was nearly a laugh.
 
-“That’s not comfort.”
+“That’s cold.”
 
-“No.”
+“Yes.”
 
 “It’s better than comfort,” he said. “Don’t get better at it.”
 
@@ -182,17 +180,17 @@ Image everything before reading anything. Nothing gets powered up in this unit, 
 
 “You’ve had it three years.”
 
-“Fair.” He put the caddy back on the stack, squarely, in the space it had come out of. “Say the rest of it. You’ve been building to something since the wall.”
+“Fair.” He picked the caddy up off the end of the stack and put it back in the space it had come out of, squarely. “Go on. You’ve been building to something since the wall.”
 
 She had been, and he had noticed, and she was going to have to revise upward what he caught.
 
-“The cartridges are stable. Whatever they lose in a shed, they lose over decades, and I have decades.” She turned her light on the back stack and left it there. “That is not stable. Corrosion does not stop when a drive dries out. It slows down and it keeps going, and every winter in an unheated bay walks it a little further along. What I can see is the outside. What has got into the sealed part of one of these I find out when I open it and not before. There is a version of that stack I can read today. There is a smaller version I can read next winter, and I cannot tell you how much smaller, and there is no point at which anybody rings a bell.”
+“The cartridges are stable. Whatever they lose in a shed, they lose slowly, and they will be out of here in weeks.” She turned her light on the back stack and left it there. “That is not stable. Corrosion does not stop when a drive dries out. It slows down and it keeps going, and every winter in an unheated bay walks it a little further along. What I can see is the outside. What has got into the sealed part of one of these I find out when I open it and not before. There is a version of that stack I can read today. There is a smaller version I can read next winter, and I cannot tell you how much smaller, and there is no point at which anybody rings a bell.”
 
 “So it’s a race.”
 
 “It’s an appointment I don’t know the date of.” She picked up her bag. “The archive will wait for me. The index is the only thing in this room that can put a name on anything, it is the only copy, and it is spending every day I do not get to it becoming a smaller answer.”
 
-Kade looked at the stack for a while, and then he did the arithmetic she had done in the parking lot, out loud, because he was a logistics man and it was the only way he knew to hold something.
+Kade looked at the stack for a while. Then he did the arithmetic she had done in the parking lot, out loud, because he was a logistics man and it was the only way he knew to hold something.
 
 “Three years in here,” he said. “On my account. Because I didn’t want a paper trail.”
 

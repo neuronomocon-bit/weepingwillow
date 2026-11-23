@@ -5,7 +5,7 @@
 | | | |
 |---|---|---|
 | **[[Book 1 - The Absence]]** | **[[Book 2 - The Ending]]** | **[[Book 3 - The Silence]]** |
-| 22 chapters · 23,405 words | 22 chapters · 71,865 words | outline only |
+| 22 chapters · 23,405 words | 22 chapters · 71,831 words | outline only |
 | **Published 2026-05-14** | **Complete in draft, locked** | not yet drafted |
 
 > [!info] What this vault is

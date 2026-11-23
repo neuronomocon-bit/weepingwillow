@@ -1,5 +1,5 @@
 # Book 2 · Chapter 3 — The Files
-**POV:** [[Iris Vale]], [[Daniel Kade]] present throughout · **Day 27** · **3,052 words** · **LOCKED**
+**POV:** [[Iris Vale]], [[Daniel Kade]] present throughout · **Day 27** · **3,018 words** · **UNLOCKED 2026-11-22**
 **Location:** A leased unit on the industrial side, taken in Kade's name. Crates, pallets, a wet corner nobody fixed
 
 ---

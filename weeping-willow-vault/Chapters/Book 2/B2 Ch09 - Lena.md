@@ -1,5 +1,5 @@
 # Book 2 · Chapter 9 — Lena
-**POV:** [[Iris Vale]], [[Lena Vale]] present throughout · **Day 42** · **3,329 words** · **LOCKED**
+**POV:** [[Iris Vale]], [[Lena Vale]] present throughout · **Day 42** · **3,329 words** · **UNLOCKED 2026-11-22**
 **Location: Iris's apartment.** An evening that runs longer than Iris planned for
 
 > [!info] The brief said "Lena's place" until 2026-09-02 and it was wrong

@@ -1,5 +1,5 @@
 # Book 2 · Chapter 22 — The Second Visit
-**POV:** [[Iris Vale]], then a short [[Willow]] coda · **Day 74** · **3,226 words** · **LOCKED**
+**POV:** [[Iris Vale]], then a short [[Willow]] coda · **Day 74** · **3,226 words** · **UNLOCKED 2026-11-22**
 **THE ENDING**
 **Location:** Iris's apartment. Night
 

@@ -1,5 +1,5 @@
 # Book 2 · Chapter 20 — RECOVERED: The Last Session
-**POV:** [[Marin Halloway]] · **Year −3** · **3,804 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −3** · **3,804 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — the longest chapter in the book**
 **Location:** [[Meridian Neurological]], after the seal. The building is empty and the power is on standby
 

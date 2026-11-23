@@ -398,7 +398,7 @@ Iris tells him what that means: the research data will come off in weeks, the in
 
 **Craft:** No ominous crate. Nothing hums. The horror in this chapter is filing.
 
-**As Written (3,052 words, drafted 2026-08-30, `chapters-book2/03-the-files.md`).**
+**As Written (3,018 words after the 2026-11-22 rules audit; 3,052 at the 2026-09-02 lock. Drafted 2026-08-30, `chapters-book2/03-the-files.md`).**
 
 # ✅ LOCKED 2026-09-02 — reviewed, revised and approved by the author. Do not edit this chapter.
 
@@ -417,7 +417,7 @@ Load-bearing elements:
 - **The decision that produced that, and nobody was wrong at the time:** *"Somebody decided which of these two things was worth archival media and which one wasn't, and they were not wrong at the time, because one of them had resale value and a citation trail and the other one was paperwork about people."*
 - ***"Between a thing that happened and a thing that happened to somebody."*** Kade holding a caddy in both hands, having just been told what it is worth and being unable to see it.
 - **Kade's twelve crates.** Second week of the decommissioning, one code series, the schedule said secondary, the code was one character off a series going to the mirror site. **He asked the coordinator twice.** Same answer both times, no hesitation, no irritation. He wrote *queried twice, confirmed secondary* on his own copy with the time and signed it, and he still has it. *"Nobody asks three times. There isn't a version of me on that floor in that week who asks three times."* Then: ***"What I did not do was open one."*** **He is not confessing. He did all his feeling about it years ago, and that is the only reason the room is bearable.**
-- **Iris has nothing to put against it and does not manufacture any**, because he would have known and it would have been worse. She gives him the structural answer instead. *"That's not comfort." / "No." / "It's better than comfort. Don't get better at it."*
+- **Iris has nothing to put against it and does not manufacture any**, because he would have known and it would have been worse. She gives him the structural answer instead. *"That's cold." / "Yes." / "It's better than comfort. Don't get better at it."* (Was *"That's not comfort." / "No."*, a not-X/Y setup; changed 2026-11-22 on the author's ruling.)
 - **The plan, and its costs said out loud:** image everything before reading anything, nothing powered up in a bay with a wet corner and one working light, the cartridges out in four batches so a fire costs a quarter of the material, and **nine days to build the rig properly, which she is not going to shorten.**
 - **THE CLOCK, and the book's central asymmetry:** *"The archive will wait for me. The index is the only thing in this room that can put a name on anything, it is the only copy, and it is spending every day I do not get to it becoming a smaller answer."* — ***"So it's a race." / "It's an appointment I don't know the date of."***
 - **Closing:** `MN-C-0447` on the outer, written into her inventory, **and she ticks the line the way the coordinator ticked hers.**
@@ -435,6 +435,15 @@ Load-bearing elements:
 
 1. **The repeated "correct."** *Heavy at the bottom, correct. Fragile on top, correct.* · *the correct thing to do* · a schedule followed correctly · a tick against every line. **"Correct" is the chapter's controlling word: correctness at every step is what produced the outcome.** It is structure, not a tic.
 2. **The final tick.** Iris writes the code into her inventory and ticks the line the way the coordinator ticked hers, and **nothing explains the parallel.** The question it leaves open — whether she is reversing the machinery by restoring names or becoming it, because ticking the line is the part of her that still works — is the chapter's ending and it is not to be closed.
+
+**⚠️ RULES AUDIT PASS, 2026-11-22. Authorized explicitly by the author ("fix all"), re-locked in the same commit. 3,052 → 3,018 (−34). Full findings in `book2-audit-2026-11.md`.**
+
+- **Arithmetic:** the unit is **eight hundred square feet** (was two hundred, which cannot hold thirty-eight pallets single-stacked, let alone with an aisle, the flat crates and a dry side).
+- **Blocking:** Kade **sets the caddy down on the end of the back stack** before he breaks down the outers, and picks it up again to put it back (he had been holding it through two-handed cardboard work). Iris's *"Show me what came out of the mirror site"* now sits in her own paragraph (it had read as Kade's).
+- **Internal contradiction:** *"It will not stay this good in here"* and *"they lose slowly, and they will be out of here in weeks"* (was *"not going to stay fine"* against *"over decades, and I have decades"*).
+- **Congruence with Ch1 (the author's call):** *"Two minutes before the yard she had passed the access road to the building she had found on Monday, and she had not taken it."* This keeps the Book 3 plant alive. Day 21 is a Monday by Ch2's Thursday at Day 24.
+- **Hard rules:** *"Not submerged."* cut · *"the sort you buy in a hurry"* (a `kind of` form) → *"bought in a hurry"* · *"in a way that"* → *"bore no relation to"* · *"hand flat on the good pallet"* → *"She went to the good pallet"* · *"clearly"* cut · Iris's disclaimer *"I'm not telling you that you were wrong"* → *"That was the right call, and this is what it cost"* · **the comfort exchange, on the author's ruling:** *"That's cold." / "Yes."* now sets up *"It's better than comfort."*
+- **Caps and repetition:** the verbatim *"Kade looked at the stack for a while"* is now once · `three years` 8 → 4 · **Kade no longer borrows Rourke's "Say…" method in this chapter** (*"Tell me the part I'm not getting"*, *"Go on"*) · narration `thing` 5 → 3 (the thematic ones) · two present-tense maxims cut or put in the past tense · *"bearable to be in the room for"* → *"the only reason the room was bearable"* · the *"same act performed four different ways"* coda cut · *"laughed, once"* → *"made a sound that was nearly a laugh"* · three narration chains broken.
 
 **On `thing`, split by register:** Ch3 narration ran 4 instances at 23.4 per 10k against Book 1's 2.1, and one was recast. **The rest stay.** Kade's *"a code for a thing that lived in a room"* and Iris's *"a thing that happened and a thing that happened to somebody"* are the chapter's thematic vocabulary, not placeholders. **Do not normalize this chapter mechanically.**
 

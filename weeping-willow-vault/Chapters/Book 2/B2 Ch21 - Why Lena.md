@@ -1,5 +1,5 @@
 # Book 2 · Chapter 21 — Why Lena
-**POV:** [[Iris Vale]] · **Day 72** · **3,566 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 72** · **3,566 words** · **UNLOCKED 2026-11-22**
 **Location:** Her apartment. Alone for the reading; **[[Lena Vale]] arrives at ten past seven**
 
 ---

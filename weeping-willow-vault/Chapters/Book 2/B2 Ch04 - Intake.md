@@ -1,5 +1,5 @@
 # Book 2 · Chapter 4 — RECOVERED: Intake
-**POV:** [[Marin Halloway]] · **Year −6** · **3,394 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −6** · **3,394 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — a scene, not a document**
 **Location:** [[Meridian Neurological]]. Reception, intake suite, the corridor after
 

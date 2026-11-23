@@ -64,7 +64,7 @@ Checked on every chapter of this book in addition to the standard passes:
 | **ACT I — WHAT CAME BACK** | | | | | |
 | 1 | Aftermath | Iris | 3,400 | **DRAFTED 2,735** | **✅ LOCKED 2026-09-02** |
 | 2 | Mortality | Iris/Rourke | 3,400 | **DRAFTED 2,766** | **✅ LOCKED 2026-09-02** |
-| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,052** | **✅ LOCKED 2026-09-02** |
+| 3 | The Files | Iris/Kade | 3,600 | **DRAFTED 3,018** | **✅ LOCKED 2026-09-02** |
 | 4 | **RECOVERED: Intake** | Marin | 3,600 | **RE-AUDITED 3,394** | **✅ LOCKED 2026-09-02** |
 | 5 | Read | Iris | 3,600 | **DRAFTED 3,183** | **✅ LOCKED 2026-09-02** |
 | 6 | Too Much | Iris | 3,400 | **DRAFTED 3,276** | **✅ LOCKED 2026-09-02** |
@@ -146,7 +146,7 @@ The most serious catch of this type was in Ch3: "Marin thought so **at the time*
 |---|---|---|---|
 | 1 | 3,400 | 2,735 | 665 |
 | 2 | 3,400 | 2,766 | 634 |
-| 3 | 3,600 | 3,052 | 548 |
+| 3 | 3,600 | 3,018 | 582 |
 | 4 | 3,600 | 3,394 | 206 |
 | 5 | 3,600 | 3,183 | 417 |
 | 6 | 3,400 | 3,276 | 124 |
@@ -275,7 +275,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 |---|---|---|---|
 | 1 | Aftermath | 2,735 | **2026-09-02** |
 | 2 | Mortality | 2,766 | **2026-09-02** |
-| 3 | The Files | 3,052 | **2026-09-02** |
+| 3 | The Files | 3,018 | **2026-09-02** |
 | 4 | **RECOVERED: Intake** | 3,394 | **2026-09-02** |
 | 5 | Read | 3,183 | **2026-09-02** |
 | 6 | Too Much | 3,276 | **2026-09-02** |
@@ -296,7 +296,7 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 | 20 | **RECOVERED: The Last Session** | 3,804 | **2026-09-03** |
 | 21 | Why Lena | 3,566 | **2026-09-03** |
 | 22 | The Second Visit (ENDING) | 3,226 | **2026-09-03** |
-| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **71,865** | |
+| | **⚠️ ALL TWENTY-TWO LOCKED — THE WHOLE BOOK** | **71,831** | |
 
 **The lock is enforced.** `tools/locked-chapters.json` holds a hash per chapter; `python tools/verify-record.py` reports any that move. If a lock breaks, assume something edited an approved chapter by mistake and read the diff first. To re-lock after an approved change: `python tools/verify-record.py --lock 01-aftermath.md`, in the same commit as the change.
 
@@ -312,9 +312,9 @@ Full record in the Ch8 brief. The chapter's own findings are in the tracker entr
 
 **Drafted at 3,246, reviewed by the author the same day, revised to 3,228 against a 3,800 budget, 85%. Every beat in the brief and in the dialogue note is present and every negative gate is clean. ✅ LOCKED 2026-09-03.**
 
-# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 71,865 WORDS.
+# ⚠️ BOOK 2 IS COMPLETE. ALL TWENTY-TWO CHAPTERS REVIEWED, REVISED, EDITED AND LOCKED AT 71,831 WORDS.
 
-> **2026-11-22: a fresh rules audit is running chapter by chapter, logged in `book2-audit-2026-11.md`.** Ch1 was fixed on the author's explicit authorization and re-locked (2,931 → 2,735; the book went 72,246 → 72,050). Ch2 followed (2,951 → 2,766; book 71,865, inside the range), including a congruence fix against Book 1 Ch6 (Public Health has moved since the winter). The record of what changed is in each brief → RULES AUDIT PASS. Ch3 onward have not been audited yet.
+> **2026-11-22: a fresh rules audit is running chapter by chapter, logged in `book2-audit-2026-11.md`.** Ch1 was fixed on the author's explicit authorization and re-locked (2,931 → 2,735; the book went 72,246 → 72,050). Ch2 followed (2,951 → 2,766; book 71,865, inside the range), including a congruence fix against Book 1 Ch6 (Public Health has moved since the winter). The record of what changed is in each brief → RULES AUDIT PASS. Ch3 followed (3,052 → 3,018; book 71,831). A whole-book weekday-spine problem is logged as a global forward item. Ch4 onward have not been audited yet. **All 22 chapters were UNLOCKED by the author 2026-11-22**, and a new time-marker rule (default zero) is ruled in `03-themes-and-tone.md`. Applying it is the next work; see `CLAUDE.md` → START HERE TOMORROW.
 
 **Every chapter has an AUTHOR'S REVIEW PASS block in its brief and a row in the REVIEW LEDGER. `python tools/verify-record.py` reports no gap and no broken lock.** The whole manuscript is now closed to editing except under the four standing-permission conditions.
 

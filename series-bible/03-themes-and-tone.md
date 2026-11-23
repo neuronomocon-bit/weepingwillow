@@ -301,6 +301,33 @@ Three families, one habit:
 
 ## TIME MARKERS — the mood must be felt, not announced
 
+### ⚠️ RULED 2026-11-22 by the author: THE DEFAULT IS ZERO. Mention a time frame only when it is absolutely necessary.
+
+**The prose has been stamping the clock: weekday names, clock times, months, "three weeks since", "about twenty minutes later". Most of it is information no reader needs, and every one is a fact that can contradict another fact.** The weekday spine broke this way (found in the Ch3 audit), and `14-audit-method.md` already calls the interval phrase *the most reliable defect in this book*. **Fewer markers, fewer contradictions, better prose.**
+
+**A time marker stays only if it passes one of these. Otherwise it is cut:**
+
+1. **It is evidence or a clock the plot runs on.** Rourke's ten weeks / three / eleven; Ch7's dosage intervals; the index rotting on bad media; the Caleb three-week check (Ch11 collects on it); the nine-day rig.
+2. **It is a Book 1 lock.** The shutdown three years back, from the stopped wall calendar.
+3. **A character is arguing about the interval.** Kade's *"Three years in here. On my account."*
+4. **Without it the reader would be lost.** At most one reorientation per chapter, and only where needed.
+
+**⚠️ EXEMPT, because it is characterization and not narration (author, 2026-11-22):**
+- **Iris's own measurements:** the cards (*Retrieval, three seconds, route turn*), her timings of herself and her counts. That is her coping system.
+- **Marin's outcome-measure language** (*sleep latency eleven minutes to over an hour*). That is the tell.
+
+**The rule targets the narrator setting the scene, never a character measuring.**
+
+**THE RECOVERED THREAD (author, 2026-11-22):** the reader must know these chapters sit six years back. **One clear marker per Recovered chapter; cut the rest** (no scattered *"a Thursday afternoon in September"* / *"a Saturday in May"*).
+
+**Cut on sight, unless one of the four tests saves it:** weekday names · clock times (*nine sixteen*, *seven that morning*) · repeated month names · incidental durations (*early by eleven minutes*, *about twenty minutes later*) · orientation lines that repeat what the reader already knows.
+
+**Fix by deletion, never substitution.** Swapping *"on Thursday"* for *"two days later"* moves the tic; it does not remove it (see below). **The bible keeps the full calendar.** The master timeline and the Day numbers in `08-book2-chapter-briefs.md` stay complete, so continuity remains checkable even when the prose no longer shows it.
+
+**The sweep that applies this to all 22 chapters is the next work. See `CLAUDE.md` → WHERE WE LEFT OFF.**
+
+### The earlier version of this rule (2026-08-27), superseded by the above
+
 Book 2 opens three weeks after Book 1 and runs about eleven weeks, and the Recovered thread sits six years back. **That is a lot of interval to state.**
 
 **Cap the primary marker at five per chapter, and every substitute at three.** Keep the instances where a character is *arguing about* the interval; cut the ones that are only scene-setting.

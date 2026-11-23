@@ -1,5 +1,7 @@
 # BOOK 2 — RULES AUDIT, 2026-11-22
 
+> **⚠️ LEFT OFF 2026-11-22.** Ch1 to Ch3 are audited and fixed. **All 22 chapters are now unlocked.** A new time-marker rule (default zero) is written in `03-themes-and-tone.md`, and applying it across the book is the next work. **Whether that runs as its own sweep before Ch4 or folds into each chapter's audit is to be discussed first.** See `CLAUDE.md` → START HERE TOMORROW. The weekday-spine item at the foot of this file should mostly dissolve under the new rule.
+
 **Read-only audit. Every chapter is locked; nothing here has been applied.** Findings are logged for the author to rule on later. A fix to a locked chapter needs the four standing-permission conditions in `CLAUDE.md` (consistency defects only), or a fresh authorization from the author for anything stylistic.
 
 Checked against: `03-themes-and-tone.md` (hard rules, sentence variety, epistemic gate, caps, time markers, numbers, word overuse), `14-audit-method.md` (known-good hits, protected lines, split contrast framing), the chapter's brief and As Written block in `08-book2-chapter-briefs.md`, and `11-key-dialogue-notes.md`.
@@ -120,3 +122,64 @@ Severity: **A** = consistency or arithmetic defect (could qualify under standing
 - **Fixed:** cutting the hand-flat line left Rourke's echo *"Every one of them has a cause," she said* directly after Iris's identical line, so it read as Iris repeating herself. It is now tagged *Rourke said*. (A regression from the fix itself.)
 - **⚠️ FORWARD ITEM for Ch7 and Ch16, a Book 1 contradiction found from Ch2.** Ch7 L39 has *"Joel, whom she had interviewed for forty minutes in a kitchen with the extractor fan running because the switch was shared with the light"* and Ch16 L121 has *"Joel, in a kitchen in February"*. **That detail belongs to Ch2's dead man** (written 2026-08-27 in Ch2; Ch7 borrowed it 2026-08-31). **Published Book 1 Ch3 puts Joel in a living room, in a chair angled toward a muted television, with Leah moving off toward the kitchen.** Joel is alive in Ch14 and Ch18, so the two men cannot be the same, and as written they share one memory. **Ch2 keeps the kitchen. Ch7 and Ch16 should give Joel Book 1's living room.** Fix it in their audits.
 - Checked and congruent with later chapters: Ch6's *"Is he in your set."* uses the membership valve exactly as Ch2 sets it · Ch7's printout *"folded twice"* (Rourke once, Iris again) · Ch7 *"a prediction with the name left out was not a prediction"*, where Iris never submits, so *"no second appointment"* is never triggered · Ch12's Monday meeting is the second appointment, and the test was never failed · Ch12 puts Caleb on *"the second line"* of the February nine-name list, consistent with Ch2's fourth line being the dead man · Ch18's records room, *"unindexed and eleven months behind and filled from the door end backward"*, matches.
+
+---
+
+## Ch3 — The Files (3,052 words, locked 2026-09-02)
+
+> **✅ RESOLVED 2026-11-22 on the author's instruction ("fix all"), including both of the author's calls: 3.8, the comfort exchange, is now *"That's cold." / "Yes." / "It's better than comfort."*; 3.5, the industrial-road line, is added.** Ch3 3,052 → 3,018 (−34), re-locked; book 71,831. Also on the re-read: Iris is now named in the opening section (POV discipline), in the new industrial-road line. 3.6 stays a forward item for Ch5. The record is in the Ch3 brief → RULES AUDIT PASS.
+
+**Clean:** em dashes, exclamation points, `the kind of` (but see 3.9), `, which`, `nodded once`, straight quotes, self-annotation, `-body` in narration. All brief beats present, including the site-spread beat ("From themselves" as evidence), the two sets, the twelve crates, "What I did not do was open one", the ceiling ("a clean room and a budget"), "an appointment I don't know the date of", and the closing tick. **Protected:** the repeated "correct", and the final tick unexplained.
+
+**Congruence checked and fine:** Book 1 Ch5's "Overflow. Redundancy." and "From themselves" → the six-destination split · Book 1 Ch5's office shelving of "Site codes. Some crossed out" rhymes with the box file · MN-44-7 (Book 1 Ch1, Ch6) · credentials never revoked (Book 1 Ch8, where Kade enters a code and it is accepted) · Book 1 Ch8's relay and transfer points → the eastern-spur transfer point · Kade never told her about the unit in Book 1 (Ch5: "You checked them." / "After shutdown."), so learning it in the parking lot is consistent · "four batches" matches Ch5's "first batch came home in four crates" · the bucket matches Ch5's "fresh inch of water" · Iris's work at full speed matches Ch1's short row and Ch2's "the only thing that hasn't changed speed".
+
+### A — consistency / arithmetic / congruence
+
+| # | Line | Finding |
+|---|---|---|
+| 3.1 | L7 vs L203, `02-characters` L776, Ch16 | **Thirty-eight pallets do not fit in two hundred square feet.** A pallet is about 13 sq ft, so 38 of them single-stacked "to the height of her shoulder" need about 500 sq ft before the aisle, the flat crates against the back wall and "the dry side". `02-characters` and Ch16 confirm the 38 are Kade's pallets in this unit. **The fix is the floor area** (around 800 sq ft, a standard large bay). |
+| 3.2 | L125 vs L137–147, L185 | **Blocking: Kade holds the caddy for the whole scene.** He picks it up at L125. Twenty minutes later he is breaking down outers, folding a flap and creasing it with his thumb (L147), and at L185 "He put the caddy back on the stack". He would need both hands for the cardboard. |
+| 3.3 | L87–89 | **Speaker ambiguity.** Iris's "I know. I'm not telling you…" (L87) is followed by a new paragraph, *"I want to see what came out of the mirror site."*, with no tag. Consecutive untagged paragraphs by the same speaker read as Kade replying, and "He knew which pallets and he did not want to walk her to them" makes it worse. |
+| 3.4 | L83 vs L189 | **The archive's prognosis contradicts itself.** "It is not going to stay fine in here" against "Whatever they lose in a shed, they lose over decades, and I have decades." Reconcilable (slowly worse), but as written the second undoes the first. |
+| 3.5 | L3, Ch1 | **The industrial road, six days after Ch1.** Iris is on the same road as the Meridian-linked building she found and deferred in Ch1 ("it would keep"), and it doesn't cross her mind. Since it's now a Book 3 plant, one line (she passes the turnoff, or notes she still hasn't gone) keeps it alive and makes her attention congruent. Optional. |
+| 3.6 | **Ch5 L163, forward item** | **The nine-day rig clock.** Ch3 (Day 27) says nine days. Ch5 starts the bench on its first day (Day 29) and on its sixth day still says *"That is nine days out"*. By then it should be about three. **Fix in the Ch5 audit.** |
+
+### B — hard-rule breaches
+
+| # | Line | Rule | Finding |
+|---|---|---|---|
+| 3.7 | L95 | Contrast framing | *"Not submerged. Standing damp, for a period…"* (Not-X. Y.) |
+| 3.8 | L167–171 | It's-not-X-it's-Y (dialogue) | *"That's not comfort." / "No." / "It's better than comfort."* This is load-bearing in the As Written block, the same situation as Ch1's cleared images, so it needs the author's ruling rather than a reflex cut. |
+| 3.9 | L95 | `the kind of`, any form (Law 2: enumeration) | *"the sort you buy in a hurry when…"* is the `kind of` construction spelled `sort`. |
+| 3.10 | L51 | AI tic | *"uneven **in a way that** had nothing to do with the capacity of anything"* |
+| 3.11 | L113 | Gesture (cut on sight) | *"She put her hand flat on the good pallet."* |
+| 3.12 | L19 | Hedge | *"cases that had **clearly** gone on together"* |
+
+### C — caps, overuse, judgment
+
+| # | Line | Finding |
+|---|---|---|
+| 3.13 | L105, L195 | **A verbatim repeat:** *"Kade looked at the stack for a while."* twice. |
+| 3.14 | 3, 43, 79, 83, 151, 159, 183, 197 | **"three years" ×8; the time-marker cap is 5.** Kade arguing about it (L151, L183, L197) stays. L83 *"and it has been that for three years"* and L159 *"paid for this unit for three years"* are scene-setting restatements. |
+| 3.15 | L107, L185 | **Kade borrows Rourke's method.** *"Say the part I'm not getting."* and *"Say the rest of it."* echo Ch2's *"Say that back." / "Say it, please."*, which the Ch2 brief marks as Rourke's. Kade also says *"Say it"* in Ch7 and Ch16, and Willow Halloway says *"Say it back"* in Ch10. **The construction is spreading across mouths** (the same failure the self-annotation rule names). Cut it to one in Ch3 at most. |
+| 3.16 | narration | **`thing` in narration ×5** (L3 "getting a thing said early", L19 ×2, L61, L157 "a finished thing"). The As Written block said one was recast and three stay; it's now five. L3 and L157 are the ordinary-noun kind. Kade's and Iris's dialogue uses are protected. |
+| 3.17 | L73, L75, L95 | **Present-tense narrator maxims:** *"grants have line items that survive the people who wrote them"*, *"Condition you can see is a guess and condition you have read is a fact"*, *"the sort you buy in a hurry"*. Three in one page. |
+| 3.18 | L157 | *"…and that was the only reason it was bearable to be in the room for."* The grammar snags ("bearable to be in the room for"), and the paragraph's last sentence restates the brief's gloss. |
+| 3.19 | L159 | *"…every one of those was the same act performed four different ways."* A trailing thesis after a list that already shows it. |
+| 3.20 | L165 | *"Kade laughed, once, with no humor in it at all."* is the "nodded once" family. |
+| 3.21 | narration | **Run-on screen:** L19 (51 words, deliberate "and the truck… and the building" accumulation, survives), L45 (3 `and`s), L159 (4 commas, 4 `and`s, the list of acts, probably survives), L195 (40 words), L5 (3 `and`s). Dialogue spills (L119 at 56 words, L123) are Iris genuinely laying it out and are fine. |
+
+---
+
+## ⚠️ GLOBAL FORWARD ITEM — the weekday spine (found during Ch3, 2026-11-22)
+
+**Ch2 fixes Day 24 as a Thursday.** Counting from it (Day 24, 31, 38, 45, 52, 59, 66 and 73 are Thursdays), **Ch1 to Ch3 agree**: Day 21 Monday (Ch3's "the building she had found on Monday"), Day 27 Sunday. **Several later present-thread weekdays do not fit the master timeline's day numbers.** Check each in its own audit and decide which side moves, the weekday or the Day:
+
+| Ch | Day (master timeline) | Weekday by the Ch2 anchor | What the chapter says |
+|---|---|---|---|
+| 7 | 39 | Friday | *"Kade had called twice on Friday and once at seven that morning"* implies the morning is after Friday. |
+| 11 / 12 | 45 / 46–48 | Thursday / Fri–Sun | Ch12: *"Tuesday he was working… Friday at two he called me, and at four thirty he was dead"*, so Caleb dies on a Friday, but Day 45 is a Thursday. Ch12's *"Monday morning, at the unit"* and *"Monday afternoon"* (Rourke) would be Day 49, outside 46–48. |
+| 16 | 55 | Thursday | *"Monday, because she had stopped reading at the name"* |
+| 5, 6, 9, 14, 18, 19, 21, 22 | various | | Each names weekdays (listed by grep 2026-11-22). Verify against the anchor in turn. |
+
+**The likely cleanest fix is a one-day shift of the anchor or of a few Day numbers, not prose.** Decide once with the author when Ch5 to Ch7 come up, before anything is edited, because a fix in one chapter moves every chapter that depends on it (`14-audit-method.md` → A FIX IN ONE CHAPTER IS A CHANGE TO EVERY CHAPTER THAT DEPENDS ON IT).

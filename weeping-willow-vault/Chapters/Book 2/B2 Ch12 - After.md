@@ -1,5 +1,5 @@
 # Book 2 · Chapter 12 — After
-**POV:** [[Iris Vale]] · **Days 46–48** · **2,711 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Days 46–48** · **2,711 words** · **UNLOCKED 2026-11-22**
 **Location:** Iris's apartment. A room where a death is being administratively processed. [[Elena Rourke]]'s office
 
 ---

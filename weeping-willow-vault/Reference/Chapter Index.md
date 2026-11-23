@@ -41,7 +41,7 @@
 
 ---
 
-## [[Book 2 - The Ending]] — 22 chapters · 71,865 words · all locked
+## [[Book 2 - The Ending]] — 22 chapters · 71,831 words · all unlocked 2026-11-22 for the rules audit
 
 **Bold = Recovered thread ([[Marin Halloway]] POV).** Day 0 is the end of Book 1 Ch22.
 
@@ -50,7 +50,7 @@
 |---|---|---|---|---|
 | 1 | 21 | [[B2 Ch01 - Aftermath]] | 2,735 | The note she does not remember writing |
 | 2 | 24 | [[B2 Ch02 - Mortality]] | 2,766 | The curve, and a threshold |
-| 3 | 27 | [[B2 Ch03 - The Files]] | 3,052 | Two classes of media |
+| 3 | 27 | [[B2 Ch03 - The Files]] | 3,018 | Two classes of media |
 | **4** | −6y | **[[B2 Ch04 - Intake]]** | 3,394 | MN-R-0338 is planted |
 | 5 | 29–35 | [[B2 Ch05 - Read]] | 3,183 | A story with a number where the name should be |
 | 6 | 37 | [[B2 Ch06 - Too Much]] | 3,276 | The first over-taking |

@@ -1,5 +1,5 @@
 # Book 2 · Chapter 8 — RECOVERED: Sessions
-**POV:** [[Marin Halloway]] · **Year −5.8** · **3,833 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −5.8** · **3,833 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — a scene, not a document**
 **Location:** [[Meridian Neurological]]. Session rooms, the observation side, the substrate lab on the lower level
 

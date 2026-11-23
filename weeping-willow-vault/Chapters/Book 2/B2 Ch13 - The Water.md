@@ -1,5 +1,5 @@
 # Book 2 · Chapter 13 — RECOVERED: The Water
-**POV:** [[Marin Halloway]] · **Year −5.2** · **2,883 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −5.2** · **2,883 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — a scene, not a document**
 **Location:** The coast north of the Meridian site. Then a hospital corridor. Then [[Willow Halloway]]'s apartment
 

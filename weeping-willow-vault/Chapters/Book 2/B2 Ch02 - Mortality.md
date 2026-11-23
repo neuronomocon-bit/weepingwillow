@@ -1,5 +1,5 @@
 # Book 2 · Chapter 2 — Mortality
-**POV:** [[Iris Vale]] · **Day 24** · **2,766 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 24** · **2,766 words** · **UNLOCKED 2026-11-22**
 **Location:** Lowport Public Health. [[Elena Rourke]]'s office, and a records room she has no reason to be in
 
 ---

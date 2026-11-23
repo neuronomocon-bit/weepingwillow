@@ -1,5 +1,5 @@
 # Book 2 · Chapter 11 — MIDPOINT: Caleb
-**POV:** [[Iris Vale]] · **Day 45** · **3,073 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 45** · **3,073 words** · **UNLOCKED 2026-11-22**
 **THE MIDPOINT**
 **Location:** The van, the drive inland, then [[Caleb Ward]]'s apartment
 

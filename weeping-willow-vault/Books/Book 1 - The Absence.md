@@ -9,7 +9,7 @@
 > frequency, and that check stops working if Book 1 moves.
 
 > [!info] It is a novella, and that is the design
-> 23,405 against Book 2's 71,865 is roughly three to one. **Nothing follows from that ratio.**
+> 23,405 against Book 2's 71,831 is roughly three to one. **Nothing follows from that ratio.**
 > Book 1 is not truncated and Book 2 is not bloated.
 
 ---

@@ -1,5 +1,5 @@
 # Book 2 · Chapter 5 — Read
-**POV:** [[Iris Vale]] · **Days 29–35** · **3,183 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Days 29–35** · **3,183 words** · **UNLOCKED 2026-11-22**
 **Location:** The leased unit, and Iris's apartment. Six days compressed
 
 ---

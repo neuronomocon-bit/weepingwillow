@@ -1,5 +1,5 @@
 # Book 2 · Chapter 14 — Open Jobs
-**POV:** [[Iris Vale]] · **Day 51** · **3,298 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 51** · **3,298 words** · **UNLOCKED 2026-11-22**
 **Location:** Iris's apartment. Then [[Lila Mercer]]'s flat, second floor, organized, nothing out of place
 
 ---

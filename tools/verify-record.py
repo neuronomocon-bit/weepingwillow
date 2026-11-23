@@ -15,6 +15,8 @@ Two jobs:
 Usage:
     python tools/verify-record.py                    # check everything
     python tools/verify-record.py --lock 01-aftermath.md   # lock (or re-lock) a chapter
+    python tools/verify-record.py --unlock 01-aftermath.md # unlock one (author's word only)
+    python tools/verify-record.py --unlock --all           # unlock every chapter
 
 ⚠️ Re-lock only when the author has approved the change. If this script says a
 lock is broken, the default assumption is that something edited an approved
@@ -56,8 +58,27 @@ def lock(name):
     return 0
 
 
+def unlock(name):
+    # Only on the author's word. '--all' clears every lock; the chapters stay
+    # in the word-count cross-check either way.
+    locks = load_locks()
+    names = sorted(locks) if name == '--all' else [name]
+    for n in names:
+        if n in locks:
+            del locks[n]
+            print("UNLOCKED " + n)
+        else:
+            print("not locked: " + n)
+    io.open(LOCKFILE, 'w', encoding='utf-8').write(
+        unicode(json.dumps(locks, indent=2, sort_keys=True)) if sys.version_info[0] == 2
+        else json.dumps(locks, indent=2, sort_keys=True))
+    return 0
+
+
 if len(sys.argv) > 2 and sys.argv[1] == '--lock':
     sys.exit(lock(sys.argv[2]))
+if len(sys.argv) > 2 and sys.argv[1] == '--unlock':
+    sys.exit(unlock(sys.argv[2]))
 
 # ---------------------------------------------------------------- counts
 actual = {}

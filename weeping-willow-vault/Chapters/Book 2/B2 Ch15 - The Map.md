@@ -1,5 +1,5 @@
 # Book 2 · Chapter 15 — RECOVERED: The Map
-**POV:** [[Marin Halloway]], then a short [[Iris Vale]] coda · **Year −5.1, then Day 54** · **2,873 words** · **LOCKED**
+**POV:** [[Marin Halloway]], then a short [[Iris Vale]] coda · **Year −5.1, then Day 54** · **2,873 words** · **UNLOCKED 2026-11-22**
 **ACT II TURN · RECOVERED THREAD**
 **Location:** [[Meridian Neurological]], records then the substrate archive terminal. Then, after the break, the leased unit
 

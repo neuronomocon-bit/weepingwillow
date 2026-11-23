@@ -1,5 +1,5 @@
 # Book 2 · Chapter 10 — RECOVERED: Calm
-**POV:** [[Marin Halloway]] · **Year −5.5** · **3,043 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −5.5** · **3,043 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — a scene, not a document**
 **Location:** [[Willow Halloway]]'s apartment inland, then the shoreline path north of the city
 

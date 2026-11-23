@@ -1,5 +1,5 @@
 # Book 2 · Chapter 16 — The Name
-**POV:** [[Iris Vale]] · **Day 55** · **3,955 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 55** · **3,955 words** · **UNLOCKED 2026-11-22**
 **ACT III OPENS**
 **Location:** Iris's apartment, one long night. A call to [[Daniel Kade]] near the end
 

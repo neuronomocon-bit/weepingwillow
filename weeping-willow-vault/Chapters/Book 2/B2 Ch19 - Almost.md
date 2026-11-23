@@ -1,5 +1,5 @@
 # Book 2 · Chapter 19 — Almost
-**POV:** [[Iris Vale]] · **Day 69** · **3,727 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 69** · **3,727 words** · **UNLOCKED 2026-11-22**
 **Location:** A transit stop on the outer edge, in daylight. Then her apartment, late
 
 ---

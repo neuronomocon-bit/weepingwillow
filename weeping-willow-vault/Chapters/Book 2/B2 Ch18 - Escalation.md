@@ -1,5 +1,5 @@
 # Book 2 · Chapter 18 — Escalation
-**POV:** [[Iris Vale]], [[Elena Rourke]] present in the middle section · **Days 59–67** · **3,577 words** · **LOCKED**
+**POV:** [[Iris Vale]], [[Elena Rourke]] present in the middle section · **Days 59–67** · **3,577 words** · **UNLOCKED 2026-11-22**
 **Location:** [[Lowport]], across nine days. A public meeting. Rourke's office at night
 
 ---

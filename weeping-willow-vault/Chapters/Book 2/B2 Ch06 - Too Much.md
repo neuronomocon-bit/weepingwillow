@@ -1,5 +1,5 @@
 # Book 2 · Chapter 6 — Too Much
-**POV:** [[Iris Vale]] · **Day 37** · **3,276 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 37** · **3,276 words** · **UNLOCKED 2026-11-22**
 **Location:** A residential block on the north side. A stairwell, a flat, an ambulance bay
 
 ---

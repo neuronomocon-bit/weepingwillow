@@ -1,5 +1,5 @@
 # Book 2 · Chapter 17 — RECOVERED: The Limiter
-**POV:** [[Marin Halloway]] · **Year −5 to −4.6** · **3,032 words** · **LOCKED**
+**POV:** [[Marin Halloway]] · **Year −5 to −4.6** · **3,032 words** · **UNLOCKED 2026-11-22**
 **RECOVERED THREAD — a scene, not a document**
 **Location:** [[Meridian Neurological]]. The substrate archive after hours, across months. Then her own terminal, on an ordinary afternoon
 

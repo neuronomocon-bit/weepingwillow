@@ -1,5 +1,5 @@
 # Book 2 · Chapter 7 — The Curve
-**POV:** [[Iris Vale]] · **Day 39** · **3,529 words** · **LOCKED**
+**POV:** [[Iris Vale]] · **Day 39** · **3,529 words** · **UNLOCKED 2026-11-22**
 **ACT I TURN**
 **Location:** Iris's apartment, screens and printouts and the wall. Then a call to [[Daniel Kade]]
 
