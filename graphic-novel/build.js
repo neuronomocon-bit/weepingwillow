@@ -46,7 +46,7 @@ const CHAR_BLOCKS = {
   iris:
     'IRIS: a lean woman in her early thirties with a sharp angular face, high cheekbones, straight dark brows and a narrow still mouth; ' +
     'dark hair pulled back in a low loose knot with a few strands fallen forward; wearing a heavy dark waxed-canvas field jacket with the collar turned up ' +
-    'and a zipped chest pocket, dark work gloves ending at the wrist, dark cargo trousers, worn boots, a canvas backpack. Watchful, controlled, unreadable expression.',
+    'and a zipped chest pocket, dark work gloves ending at the wrist, dark cargo trousers, worn boots, a plain unpatterned canvas backpack. Watchful, controlled, unreadable expression.',
   figure:
     'THE FIGURE: female-coded and almost human, a little too tall and a little too narrow, limbs slightly too long; a pale seamless surface like cool porcelain or wet stone, ' +
     'smoother than skin, with no veins, pores, wrinkles or knuckle creases; short dark hair lost in shadow; wearing a plain dark long coat that falls below the knee; perfectly symmetrical face with features that look learned rather than born, eyes too direct, mouth closed, no expression. ' +
@@ -54,7 +54,15 @@ const CHAR_BLOCKS = {
   caleb:
     'CALEB: a man in his early thirties, lean and loose-limbed, with an open, expressive, likeable face, a quick half-grin, ' +
     'short slightly unkempt dark hair and a few days of stubble; wearing a worn canvas work jacket over a dark t-shirt, ' +
-    'jeans and work boots. Relaxed, easy posture; he leans on things.',
+    'plain blue five-pocket jeans (never cargo trousers) and work boots. Relaxed, easy posture; he leans on things.',
+  leah:
+    'LEAH: a woman in her mid-thirties with a tired, open, worried face, warm and expressive, faint shadows under her eyes; ' +
+    'medium-length brown hair pulled back loosely with strands escaping; wearing a long oatmeal-colored knit cardigan over a plain dark t-shirt, ' +
+    'faded jeans and socks (she is at home). Her hands are often holding on to something: a door frame, a counter, her own arms.',
+  joel:
+    'JOEL: a sturdy man in his early forties, a dock logistics worker, with a broad plain face, close-cropped dark hair graying at the temples, clean-shaven; ' +
+    'wearing a plain gray long-sleeved henley shirt and dark work trousers. Perfectly composed and relaxed, hands resting loosely on his knees, ' +
+    'his face calm, attentive and pleasant with no expression of feeling at all. He does not fidget.',
   lena:
     'LENA (the younger sister in the photograph): a woman in her late twenties, hair down and moving in the wind, a wide open smile, leaning in toward her sister.',
 };
@@ -95,7 +103,7 @@ function buildScript() {
       out.push(`**Panel ${i + 1}** \`${p.id}\`${p.black ? ' · solid black' : ` · ${p.aspect}`}`, '');
       if (p.prompt) out.push(p.prompt, '');
       for (const c of p.cap || []) out.push(`> CAPTION: ${c.t}`);
-      if (p.screen) out.push(`> ${p.screen.style === 'sign' ? 'SIGN' : 'SCREEN'}: ${p.screen.lines.join(' / ')}`);
+      for (const sc of [].concat(p.screen || [])) out.push(`> ${sc.style === 'sign' ? 'SIGN' : 'SCREEN'}: ${sc.lines.join(' / ')}`);
       for (const s of p.sfx || []) out.push(`> SFX: ${s.t}`);
       out.push('');
     });
@@ -147,12 +155,25 @@ function roughBorder(id, cls = 'bd') {
 
 function panelHtml(p, comic) {
   const groups = {};
-  for (const c of p.cap || []) (groups[c.pos] ||= []).push(`<div class="cap">${esc(c.t)}</div>`);
-  for (const b of p.say || []) (groups[b.pos] ||= []).push(`<div class="bal tail-${b.tail || 'b'}">${esc(b.t)}</div>`);
-  if (p.screen) (groups[p.screen.pos] ||= []).push(
-    `<div class="screen ${p.screen.style || ''}">${p.screen.lines.map(esc).join('<br>')}</div>`);
+  // pos: tl tr bl br top bottom center, or '@x,y' = left/top of the group in % of the panel (free placement,
+  // added 2026-11-27 so lettering can sit clear of faces). mw = an item's max width, in inches.
+  const mw = (x) => (x.mw ? ` style="max-width:${x.mw}in"` : '');
+  for (const c of p.cap || []) (groups[c.pos] ||= []).push(`<div class="cap"${mw(c)}>${esc(c.t)}</div>`);
+  for (const b of p.say || []) (groups[b.pos] ||= []).push(`<div class="bal tail-${b.tail || 'b'}${b.mw && b.mw <= 1.6 ? ' narrow' : ''}"${mw(b)}>${esc(b.t)}</div>`);
+  // A screen with `box: [x0, y0, x1, y1]` (fractions of the IMAGE, not the panel) is printed onto the blank
+  // sign or display drawn in the art, never boxed over it (author, 2026-11-27). The page script maps the box
+  // through the panel's crop. `rot` tilts it in degrees. `screen` may be an array (one per surface).
+  const onArt = [];
+  for (const sc of [].concat(p.screen || [])) {
+    if (sc.box) onArt.push(`<div class="onart ${sc.style || ''}" data-box="${sc.box.join(',')}" data-rot="${sc.rot || 0}"><span>${sc.lines.map(esc).join('<br>')}</span></div>`);
+    else (groups[sc.pos] ||= []).push(`<div class="screen ${sc.style || ''}">${sc.lines.map(esc).join('<br>')}</div>`);
+  }
   const sfx = (p.sfx || []).map((s) => `<div class="sfx sfx-${s.pos}">${esc(s.t)}</div>`).join('');
-  const letters = Object.entries(groups).map(([pos, items]) => `<div class="g g-${pos}">${items.join('')}</div>`).join('');
+  const letters = Object.entries(groups).map(([pos, items]) => {
+    const m = pos.match(/^@(-?[\d.]+),(-?[\d.]+)$/);
+    return m ? `<div class="g" style="left:${m[1]}%;top:${m[2]}%">${items.join('')}</div>`
+      : `<div class="g g-${pos}">${items.join('')}</div>`;
+  }).join('');
 
   let art;
   if (p.black) art = '';
@@ -167,7 +188,7 @@ function panelHtml(p, comic) {
   const margins = bleed.map((e) => `margin-${e}:-${pad[e]}`).join(';');
   const border = comic && !bleed.length ? roughBorder(p.id) : '';
   const cls = ['panel', p.black ? 'black' : '', bleed.length ? 'bleed' : ''].filter(Boolean).join(' ');
-  return `<div class="${cls}" style="flex:${p.w} 1 0;${margins}">${art}${letters}${sfx}${border}</div>`;
+  return `<div class="${cls}" style="flex:${p.w} 1 0;${margins}">${art}${onArt.join('')}${letters}${sfx}${border}</div>`;
 }
 
 function buildPages() {
@@ -192,7 +213,9 @@ function buildPages() {
   .row { display: flex; gap: 0.12in; min-height: 0; }
   .panel { position: relative; border: 2.5px solid #000; overflow: hidden; background: #fff; min-width: 0; }
   .panel img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .panel.black { background: #000; }
+  /* PRINT-FRIENDLY (author, 2026-11-27): no solid black pages or panels, so the book prints on a home printer.
+     A 'black' beat panel is now white with the caption in black; the cover is white with black type. */
+  .panel.black { background: #fff; }
   .memory .panel { border-style: dashed; border-color: #444; }
   .ph { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 6px; padding: 10px;
         background: repeating-linear-gradient(45deg, #f2f2f2 0 6px, #e4e4e4 6px 12px); color: #777; font: 9px/1.3 system-ui, sans-serif; }
@@ -205,9 +228,16 @@ function buildPages() {
   .g-center { top: 50%; left: 50%; transform: translate(-50%, -50%); align-items: center; max-width: 82%; }
   .cap { background: #fff; border: 1.5px solid #000; padding: 4px 7px; font-size: 9.5pt; line-height: 1.28;
          letter-spacing: .01em; box-shadow: 2px 2px 0 #000; }
-  .black .cap { background: #000; color: #fff; border: 0; box-shadow: none; font-style: italic; font-size: 11pt; text-align: center; }
+  .black .cap { background: transparent; color: #000; border: 0; box-shadow: none; font-style: italic; font-size: 11pt; text-align: center; }
   .screen { background: #000; color: #fff; border: 1.5px solid #fff; outline: 1.5px solid #000; padding: 5px 8px;
             font: 7.5pt/1.35 "Consolas", "Courier New", monospace; letter-spacing: .06em; }
+  /* text printed on a blank sign or display in the art */
+  .onart { position: absolute; z-index: 1; display: flex; align-items: center; justify-content: center; text-align: center;
+           color: #000; font: 7pt/1.3 "Consolas", "Courier New", monospace; letter-spacing: .04em; overflow: hidden; }
+  .onart.sign { font: bold 9pt/1.35 "Arial Narrow", Arial, sans-serif; letter-spacing: .14em; }
+  .onart.clock { letter-spacing: .1em; }
+  /* a white halo keeps printed text legible on textured ink signs */
+  .onart span { text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 3px #fff; }
   .screen.clock { font-size: 26pt; letter-spacing: .1em; padding: 4px 12px; }
   .screen.sign { background: #fff; color: #000; border: 2px solid #000; outline: 0; font: bold 8pt/1.4 "Arial Narrow", Arial, sans-serif;
                  letter-spacing: .14em; text-align: center; }
@@ -216,9 +246,10 @@ function buildPages() {
   .sfx-tl { top: 10px; left: 12px; } .sfx-tr { top: 10px; right: 12px; }
   .sfx-bl { bottom: 10px; left: 12px; } .sfx-br { bottom: 10px; right: 12px; }
   .folio { position: absolute; bottom: 0.18in; width: 100%; left: 0; text-align: center; font-size: 8pt; color: #555; }
-  .cover { background: #000; color: #eee; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
-  .cover .s { letter-spacing: .5em; font-size: 10pt; color: #999; } .cover h1 { font-weight: normal; font-size: 44pt; margin: 14px 0; letter-spacing: .06em; }
-  .cover .c { font-style: italic; color: #bbb; } .cover .a { margin-top: 2.2in; font-size: 10pt; letter-spacing: .3em; color: #888; }
+  .cover::before { content: ''; position: absolute; inset: 0.45in; border: 2.5px solid #000; pointer-events: none; }
+  .cover { background: #fff; color: #000; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+  .cover .s { letter-spacing: .5em; font-size: 10pt; color: #444; } .cover h1 { font-weight: normal; font-size: 44pt; margin: 14px 0; letter-spacing: .06em; }
+  .cover .c { font-style: italic; color: #222; } .cover .a { margin-top: 2.2in; font-size: 10pt; letter-spacing: .3em; color: #444; }
   /* ---- comic pages: ink art, hand-drawn borders, comic lettering ---- */
   .comic .panel { border: 0; }
   .comic .panel.bleed { border: 0; }
@@ -227,7 +258,7 @@ function buildPages() {
   .comic .cap { font-family: "Ink Free", "Segoe Print", "Comic Sans MS", cursive; font-weight: bold; text-transform: uppercase;
                 font-size: 8.6pt; line-height: 1.22; letter-spacing: .03em; padding: 5px 8px 4px; background: #fff;
                 border: 2px solid #000; box-shadow: none; border-radius: 3px 9px 4px 11px / 10px 3px 12px 4px; }
-  .comic .black .cap { background: #000; color: #fff; border: 0; }
+  .comic .black .cap { background: transparent; color: #000; border: 0; font-size: 11pt; }
   .comic .g-tl { top: 9px; left: 9px; } .comic .g-tr { top: 9px; right: 9px; }
   .comic .g-bl { bottom: 9px; left: 9px; } .comic .g-br { bottom: 9px; right: 9px; }
   .comic .bleed .g-tl { top: 0.5in; left: 0.46in; } .comic .bleed .g-tr { top: 0.5in; right: 0.46in; }
@@ -247,6 +278,14 @@ function buildPages() {
   .bal.tail-r::before { right: -14px; top: 40%; border-width: 6px 0 6px 14px; border-color: transparent transparent transparent #000; }
   .bal.tail-r::after  { right: -10px; top: calc(40% + 2px); border-width: 4px 0 4px 10px; border-color: transparent transparent transparent #fff; }
   .bal.tail-none::before, .bal.tail-none::after { display: none; }
+  .bal.narrow { border-radius: 46% / 22%; padding: 8px 11px 7px; }
+  /* upward tails, for a balloon set below the speaker's face (2026-11-27) */
+  .bal.tail-t::before { top: -13px; left: 46%; border-width: 0 7px 13px 7px; border-color: transparent transparent #000; }
+  .bal.tail-t::after  { top: -9px;  left: calc(46% + 2px); border-width: 0 5px 10px 5px; border-color: transparent transparent #fff; }
+  .bal.tail-tl::before { top: -14px; left: 22%; border-width: 0 12px 14px 0; border-color: transparent transparent #000 transparent; }
+  .bal.tail-tl::after  { top: -10px; left: calc(22% + 2px); border-width: 0 8px 10px 0; border-color: transparent transparent #fff transparent; }
+  .bal.tail-tr::before { top: -14px; right: 22%; border-width: 0 0 14px 12px; border-color: transparent transparent #000 transparent; }
+  .bal.tail-tr::after  { top: -10px; right: calc(22% + 2px); border-width: 0 0 10px 8px; border-color: transparent transparent #fff transparent; }
   .solo { background: #fff; } .solo .status { display: none; } .solo .page { margin: 0; box-shadow: none; }
   @media print { body { background: #fff; } .status { display: none; } .page { margin: 0; box-shadow: none; } }
 </style></head><body>
@@ -258,6 +297,23 @@ ${pages}
   const m = location.search.match(/p=([0-9]+)/);
   if (m) { document.body.classList.add('solo');
     document.querySelectorAll('section.page, .status').forEach((s) => { if (s.dataset.n !== m[1]) s.remove(); }); }
+  // place text printed on signs and displays: map the image-space box through the object-fit crop, then fit the type
+  const placeOnArt = () => document.querySelectorAll('.onart').forEach((el) => {
+    const panel = el.parentElement, img = panel.querySelector('img');
+    if (!img || !img.naturalWidth) return;
+    const pw = panel.clientWidth, ph = panel.clientHeight, nw = img.naturalWidth, nh = img.naturalHeight;
+    const k = Math.max(pw / nw, ph / nh), dw = nw * k, dh = nh * k;
+    const frac = (v, axis) => ({ left: 0, top: 0, center: 0.5, right: 1, bottom: 1 }[v] ?? (parseFloat(v) / 100 || 0.5));
+    const pos = (img.style.objectPosition || 'center center').trim().split(' ');
+    const ox = (pw - dw) * frac(pos[0]), oy = (ph - dh) * frac(pos[1] || 'center');
+    const [x0, y0, x1, y1] = el.dataset.box.split(',').map(Number);
+    Object.assign(el.style, { left: ox + x0 * dw + 'px', top: oy + y0 * dh + 'px', width: (x1 - x0) * dw + 'px',
+      height: (y1 - y0) * dh + 'px', transform: 'rotate(' + el.dataset.rot + 'deg)' });
+    let f = 40; el.style.fontSize = f + 'px';
+    const sp = el.firstElementChild;
+    while (f > 4 && (sp.offsetWidth > el.clientWidth * 0.9 || sp.offsetHeight > el.clientHeight * 0.85)) el.style.fontSize = (f -= 0.5) + 'px';
+  });
+  window.addEventListener('load', placeOnArt); window.addEventListener('resize', placeOnArt);
 </script>
 </body></html>`;
   fs.writeFileSync(path.join(CH, 'pages.html'), html);
@@ -266,6 +322,12 @@ ${pages}
 
 module.exports = { fullPrompt, data, allPanels, STYLE_BLOCK, CONTINUATION_BLOCK, MEMORY_BLOCK };
 if (require.main !== module) return;
+
+// ------------------------------------------------------------ no repeats (author, 2026-11-23)
+if (data.noRepeats) {
+  const reused = allPanels().filter((p) => p.reuse);
+  if (reused.length) { console.error(`ERROR noRepeats: ${reused.length} panel(s) reuse art: ${reused.map((p) => p.id).join(' ')}`); process.exitCode = 1; }
+}
 
 // ------------------------------------------------------------ lint: author's banned tics
 const TICS = [

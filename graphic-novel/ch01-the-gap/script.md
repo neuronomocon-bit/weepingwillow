@@ -156,7 +156,8 @@ A freight elevator with its doors half parted around a gap of absolute black. Be
 
 A stairwell landing wall in a headlamp beam: an official metal placard, and screwed beneath it a second cheaper plastic placard in a different style. Both placard faces plain and blank. Breath of cold mist.
 
-> SIGN: AUTHORIZED PERSONNEL ONLY / — / ARCHIVE STORAGE
+> SIGN: AUTHORIZED / PERSONNEL ONLY
+> SIGN: ARCHIVE STORAGE
 
 ## PAGE 7 (2 panels)
 

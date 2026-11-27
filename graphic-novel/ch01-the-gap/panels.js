@@ -8,7 +8,7 @@
 //   prompt  the scene, in art-direction language
 //   cap     captions [{t, pos}]      pos: tl tr bl br top bottom
 //   sfx     sound effects [{t, pos}]
-//   screen  device text {lines:[], pos}
+//   screen  device text {lines:[], pos} -- or {lines, box:[x0,y0,x1,y1], rot} to print it ON the blank sign/screen in the art (box in image fractions). Never box text over a sign (author, 2026-11-27). May be an array.
 //   black   true = solid black panel, no art
 //   focus   CSS object-position for the crop (default 'center')
 //   reuse   use another panel's art file instead of generating (e.g. the same clock screen)
@@ -53,7 +53,7 @@ module.exports = {
         cap: [{ t: 'The building had been designed to keep things in or out. It was hard to tell which.', pos: 'bl' }] })),
       P(1, c(1.2, { id: 'p02-2', aspect: 'wide', chars: ['iris'],
         prompt: 'Close-up of a gloved hand holding a rugged handheld tablet. The screen is a plain blank glowing rectangle with nothing on it. Rain-dark jacket sleeve. Background out of focus.',
-        screen: { lines: ['MN-44-7', 'ON-SITE RECOVERY', 'LOCAL EXTRACTION ONLY', 'NO LIVE NETWORK DEPENDENCY', 'PARTIAL POWER REPORTED', 'NO PERSONNEL EXPECTED', 'CLIENT: ████████'], pos: 'tr' } }),
+        screen: { lines: ['MN-44-7', 'ON-SITE RECOVERY', 'LOCAL EXTRACTION ONLY', 'NO LIVE NETWORK DEPENDENCY', 'PARTIAL POWER REPORTED', 'NO PERSONNEL EXPECTED', 'CLIENT: ████████'], box: [0.42, 0.16, 0.84, 0.64], rot: 3 } }),
         c(1, { id: 'p02-3', aspect: 'square', chars: ['iris'],
         prompt: 'Head-and-shoulders close-up of Iris looking down at something in her hands, face calm, flat and unreadable, collar up against the wind.',
         cap: [{ t: 'Routine.', pos: 'br' }] })),
@@ -115,7 +115,7 @@ module.exports = {
     { n: 6, comic: true, rows: [
       P(1, c(1, { id: 'p06-1', aspect: 'square', chars: ['iris'],
         prompt: 'Low angle at a dark corridor junction: a hanging ceiling sign with a plain blank white face and an arrow shape pointing deeper into the building, and Iris standing beneath it looking up at it. Plain solid dark trousers with no pattern. The floor is dry, matte and dusty, with no reflections.',
-        screen: { lines: ['DATA ARCHIVE / LOWER ACCESS'], pos: 'tl', style: 'sign' } }),
+        screen: { lines: ['DATA ARCHIVE / LOWER ACCESS'], box: [0.18, 0.12, 0.54, 0.24], rot: 4, style: 'sign' } }),
         c(1, { id: 'p06-2', aspect: 'square', chars: [],
         prompt: 'Close-up in a flashlight beam at an abandoned hospital nurses\' station: the base of a computer monitor stand on a dusty counter, and looped around the stand, the clear focus of the image, a plastic hospital patient wristband with a blank, faded white label. Behind it, out of focus, empty drawers hanging half open and a dark screen. Dry dust everywhere.',
         cap: [{ t: 'A patient wristband.', pos: 'tl' }, { t: 'The label had faded too much to read.', pos: 'bl' }] })),
@@ -124,7 +124,7 @@ module.exports = {
         cap: [{ t: 'She did not look into it.', pos: 'tl' }] }),
         c(1, { id: 'p06-4', aspect: 'tall', chars: [],
         prompt: 'A stairwell landing wall in a headlamp beam: an official metal placard, and screwed beneath it a second cheaper plastic placard in a different style. Both placard faces plain and blank. Breath of cold mist.',
-        screen: { lines: ['AUTHORIZED PERSONNEL ONLY', '—', 'ARCHIVE STORAGE'], pos: 'center', style: 'sign' } })),
+        screen: [{ lines: ['AUTHORIZED', 'PERSONNEL ONLY'], box: [0.50, 0.17, 0.82, 0.29], rot: -3, style: 'sign' }, { lines: ['ARCHIVE STORAGE'], box: [0.56, 0.33, 0.80, 0.44], rot: -2, style: 'sign' }] })),
     ] },
 
     // ---------------------------------------------------------------- 7
@@ -141,13 +141,13 @@ module.exports = {
     { n: 8, comic: true, rows: [
       P(1, c(1, { id: 'p08-1', aspect: 'wide', chars: [],
         prompt: 'Close-up of a ruggedized laptop terminal on a concrete floor, its screen a plain blank glowing rectangle, cables running out of frame into a server rack.',
-        screen: { lines: ['PATIENT MAPPING OUTPUTS', 'MEMORY ARCHITECTURE STUDIES', 'CLINICAL OBSERVATION FOOTAGE', 'TRANSFER ▓▓▓▓▓▓░░░░░░'], pos: 'center' } }),
+        screen: { lines: ['PATIENT MAPPING OUTPUTS', 'MEMORY ARCHITECTURE STUDIES', 'CLINICAL OBSERVATION FOOTAGE', 'TRANSFER ▓▓▓▓▓▓░░░░░░'], box: [0.19, 0.15, 0.58, 0.48], rot: -1 } }),
         c(1, { id: 'p08-2', aspect: 'wide', chars: [],
         prompt: 'Looking across several server rows: three rows over, one ceiling light has just died, leaving a new patch of black in the bands of light. Small and quiet.',
         cap: [{ t: 'A light three rows over fluttered twice, steadied, then went out.', pos: 'bl' }] })),
       P(1, c(1, { id: 'p08-3', aspect: 'square', chars: [],
         prompt: 'Extreme close-up of the corner of a terminal screen showing only a plain blank clock area, glowing softly in black.',
-        screen: { lines: ['14:07'], pos: 'center', style: 'clock' }, cap: [{ t: 'That seemed early. She could not say why.', pos: 'bl' }] }),
+        screen: { lines: ['14:07'], box: [0.2, 0.42, 0.66, 0.70], style: 'clock' }, cap: [{ t: 'That seemed early. She could not say why.', pos: 'bl' }] }),
         c(1.6, { id: 'p08-4', aspect: 'wide', chars: ['iris'],
         prompt: 'Iris crouched in a server aisle, touching the floor with two gloved fingertips. The concrete floor is completely dry and matte, coated in a fine layer of pale dust, with no shine or reflections. In the dust around her are several broad, faint, smeared patches where the dust has been brushed aside and settled again: wide soft swept shapes, like something large was dragged slowly across the floor, that are not footprints and follow no straight path.',
         cap: [{ t: 'At the third rack she noticed marks on the floor.', pos: 'tl' }, { t: 'Not footprints.', pos: 'br' }] })),
@@ -209,7 +209,7 @@ module.exports = {
         cap: [{ t: 'She looked back. The terminal light sat fixed in the distance, small and green.', pos: 'tl' }] })),
       P(1, c(1, { id: 'p12-2', aspect: 'square', chars: ['iris'],
         prompt: 'Close-up of a rugged handheld tablet in a gloved hand, the screen a plain blank glowing rectangle.',
-        screen: { lines: ['TRANSFER STALLED.', 'LINK UNSTABLE.'], pos: 'center' } }),
+        screen: { lines: ['TRANSFER STALLED.', 'LINK UNSTABLE.'], box: [0.31, 0.20, 0.87, 0.62], rot: -2 } }),
         c(1.4, { id: 'p12-3', aspect: 'wide', chars: ['iris'],
         prompt: 'Iris slowly rotating her head and headlamp beam toward the gap between racks on her left, body tense, the cold air visible as faint breath.',
         cap: [{ t: 'The air had changed.', pos: 'tl' }, { t: 'On her left now. Close.', pos: 'br' }] })),
@@ -283,7 +283,7 @@ module.exports = {
         cap: [{ t: 'She was on one knee beside her open pack.', pos: 'bl' }] })),
       P(1, c(1, { id: 'p16-3', reuse: 'p08-3', aspect: 'square', chars: [],
         prompt: 'Extreme close-up of the corner of a terminal screen showing only a plain blank clock area, glowing in black.',
-        screen: { lines: ['14:41'], pos: 'center', style: 'clock' } }),
+        screen: { lines: ['14:41'], box: [0.2, 0.42, 0.66, 0.70], style: 'clock' } }),
         c(1.3, { id: 'p16-4', aspect: 'wide', chars: ['iris'],
         prompt: 'Iris kneeling, staring down at the terminal screen, her bare hand at her wrist, face flat and unreadable.',
         cap: [{ t: 'She stared at it longer than she needed to.', pos: 'tl' }] })),

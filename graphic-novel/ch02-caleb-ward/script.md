@@ -12,7 +12,7 @@ Establishing shot under a flat gray sky. A row of low warehouses built in mismat
 
 **Panel 2** `p01-2` · wide
 
-A plain dark work van parked along a curb outside a small, shabby distribution building in a warehouse district. Gray afternoon. No people visible.
+A plain WHITE work van (white paint, left as clean white paper with black outlines and a few bold shadow shapes) parked along a curb outside a small, shabby distribution building in a warehouse district. Gray afternoon, wet street. No people visible.
 
 > CAPTION: Iris parked along the curb and killed the engine.
 
@@ -25,7 +25,9 @@ A brick wall where old signage was removed, leaving a cleaner rectangle; a cheap
 
 ## PAGE 2 (3 panels)
 
-**Panel 1** `p02-1` · undefined
+**Panel 1** `p02-1` · wide
+
+Inside a work van, over-the-shoulder view from behind the driver's seat: a woman's gloved hand holds a rugged gray field tablet with a thick rubber bumper against the steering wheel; its screen is blank and glowing white. Through the windshield, out of focus, the shabby warehouse building. Only the hand, a dark jacket sleeve and the tablet are visible, no face.
 
 > CAPTION: The second line had been the reason for the additional name on the assignment.
 > SCREEN: HD-12-3 / ON-SITE RECOVERY / PARTIAL NETWORK INTEGRITY / LOCAL BACKUP PRIORITY / TWO-PERSON ACCESS RECOMMENDED
@@ -54,7 +56,9 @@ Wide interior of a warehouse used as makeshift data storage: one large open spac
 Medium two-shot: Iris and Caleb walking side by side between temporary partitions in the warehouse, Iris looking straight ahead, Caleb talking with an easy expression, hands loose.
 
 
-**Panel 3** `p03-3` · undefined
+**Panel 3** `p03-3` · wide
+
+Low angle from behind and below: Iris and Caleb seen from the back as they walk away from us down a narrow aisle between sheets of hanging plastic toward a wall of dark server racks; a fluorescent tube overhead. Iris walks straight, Caleb has his head turned toward her, his face in profile with a small amused smile.
 
 
 **Panel 4** `p03-4` · wide
@@ -85,7 +89,9 @@ Iris crouched by her open canvas pack at the base of a central cluster of server
 Caleb at the edge of the warehouse, studying a breaker panel mounted crookedly on a concrete column, one hand on the panel door.
 
 
-**Panel 5** `p04-5` · undefined
+**Panel 5** `p04-5` · wide
+
+Close insert, eye level with a server rack: a ruggedized laptop sits on a black flight case pushed up against the rack, its screen blank and glowing white; a thick fiber cable runs from the laptop into a port on the rack, where a row of tiny status lights glow. A woman's bare fingers rest on the keyboard at the edge of frame. No face.
 
 > CAPTION: The system responded cleanly. No resistance. No hesitation.
 > SCREEN: NODE 1 / TRANSFER STARTED
@@ -108,41 +114,51 @@ Iris in profile at her laptop, the screen light on her face, working, not lookin
 Caleb sitting on a chair turned backward, arms folded over the backrest, head tilted, watching someone off-panel with mild curiosity. Medium close-up.
 
 
-**Panel 4** `p05-4` · undefined
+**Panel 4** `p05-4` · square
+
+Iris at the smaller server rack, reaching up to seat a fiber cable into a port at shoulder height, seen from a low angle, her face three-quarters toward us, eyes on the port, mouth set. Rack status lights in the dark behind her.
 
 
-**Panel 5** `p05-5` · undefined
+**Panel 5** `p05-5` · wide
+
+Over-the-shoulder shot from behind Caleb: in the foreground, large and dark, the back of his head and his shoulder and forearms folded over the backrest of his backward chair; in the background, small and lit, Iris working at the server racks with her back to him, not looking round.
 
 > CAPTION: Caleb watched her for a while.
 > CAPTION: She felt it without looking up.
 
-## PAGE 6 (7 panels)
+## PAGE 6 (5 panels)
 
-**Panel 1** `p06-1` · undefined
+**Panel 1** `p06-1` · wide
 
-
-**Panel 2** `p06-2` · undefined
-
-
-**Panel 3** `p06-3` · undefined
+Very close, from a low angle: Caleb's chin resting on his forearms, which are folded on top of the backrest of a backward metal chair; only his eyes lift toward someone off-panel, casual, friendly, curious. Dark warehouse behind.
 
 
-**Panel 4** `p06-4` · undefined
+**Panel 2** `p06-2` · square
+
+Extreme close insert: a woman's bare fingers pressing a fiber-optic connector into a port on a server rack until it clicks; a tiny status light beside it. Strong black shadows. No face.
 
 
-**Panel 5** `p06-5` · undefined
+**Panel 3** `p06-3` · square
+
+Caleb seen from his left side in profile, sitting astride a metal chair turned backward, both arms draped over the backrest, one hand loosely holding the opposite wrist, an easy questioning look toward the right of the frame.
 
 
-**Panel 6** `p06-6` · undefined
+**Panel 4** `p06-4` · wide
+
+Iris from the front and slightly below, kneeling at her laptop, her face lit from beneath by the white screen, eyes down on it, expression flat; behind her, small and in deep shadow, Caleb on his backward chair.
 
 
-**Panel 7** `p06-7` · undefined
+**Panel 5** `p06-5` · wide
+
+Iris's hands at work, medium-close from above: one hand straightening a cable where it enters the laptop, the other hovering over the keyboard, the white screen at the edge of frame; the cuff of her dark jacket. Her face is cut off by the top of the frame.
 
 > CAPTION: She adjusted a cable, checked the transfer rate, and let the question sit for a second before answering.
 
 ## PAGE 7 (7 panels)
 
-**Panel 1** `p07-1` · undefined
+**Panel 1** `p07-1` · square
+
+Close-up of Iris looking down at a screen just below the frame, her face lit from below by its white light, eyes lowered, mouth level and neutral. Black background.
 
 
 **Panel 2** `p07-2` · square
@@ -150,19 +166,29 @@ Caleb sitting on a chair turned backward, arms folded over the backrest, head ti
 Close-up of Caleb, head tilted slightly to one side, studying someone off-panel, a question in his eyes, mouth closed. Plain black background.
 
 
-**Panel 3** `p07-3` · undefined
+**Panel 3** `p07-3` · wide
+
+Extreme close-up strip across Iris's eyes and straight dark brows only, filling the frame side to side, eyes steady and level, giving nothing away. Solid black around them.
 
 
-**Panel 4** `p07-4` · undefined
+**Panel 4** `p07-4` · wide
+
+Medium shot of Caleb shifting his weight on a backward metal chair, rocking it slightly, one hand gripping the top of the backrest, the other open in a loose half-gesture, talking, eyebrows lifted. Racks and flight cases behind him.
 
 
-**Panel 5** `p07-5` · undefined
+**Panel 5** `p07-5` · wide
+
+High overhead view looking down into the warehouse: on the left Iris kneels small at her laptop by the server racks, on the right Caleb sits small on his backward chair, a wide stretch of swept concrete floor and plastic sheeting between them. Fluorescent tubes cast hard pools of light.
 
 
-**Panel 6** `p07-6` · undefined
+**Panel 6** `p07-6` · wide
+
+Iris from behind, kneeling at her laptop facing a tall wall of dark server racks, small in the frame, the racks towering over her, rows of tiny lights. We see only her back and the side of her head.
 
 
-**Panel 7** `p07-7` · undefined
+**Panel 7** `p07-7` · square
+
+Close-up of Caleb leaning forward over the backrest of his chair, serious now, no smile, eyes steady on someone off-panel, the light hard on one side of his face.
 
 
 ## PAGE 8 (5 panels)
@@ -173,58 +199,80 @@ Iris glancing up from her laptop toward someone off-panel, her face turned towar
 
 > CAPTION: She glanced at him then.
 
-**Panel 2** `p08-2` · undefined
+**Panel 2** `p08-2` · square
+
+Caleb seen straight on from where Iris kneels, slightly below his eye line, sitting on his backward chair, his face open and patient, a very faint smile, simply watching.
 
 > CAPTION: His expression hadn't changed. He was watching to see what she would do with it.
 
-**Panel 3** `p08-3` · undefined
+**Panel 3** `p08-3` · square
+
+Iris in right-side profile turning her face back down toward her laptop screen, the white light catching the edge of her cheek and nose, a loose strand of hair across her temple. Black background.
 
 
-**Panel 4** `p08-4` · undefined
+**Panel 4** `p08-4` · square
+
+Tight close-up of Caleb in left three-quarter view, looking down and away for a moment with a small accepting nod, lips pressed into a short half-smile, letting it go. No hands in frame. Dark background.
 
 > CAPTION: He didn't challenge it.
 
-**Panel 5** `p08-5` · undefined
+**Panel 5** `p08-5` · wide
 
-> SCREEN: NODE 1  30% / NODE 2  22%
+Two ruggedized laptops side by side on a black flight case, each with a blank glowing white screen, cables running from each into two different server racks behind them. Seen at an angle, low and close. No people.
 
-## PAGE 9 (7 panels)
+> SCREEN: NODE 1 / 30%
+> SCREEN: NODE 2 / 22%
+
+## PAGE 9 (6 panels)
 
 **Panel 1** `p09-1` · wide
 
-Caleb leaning back on a metal chair, balancing it on its two back legs, hands laced behind his head, looking at someone off-panel with friendly curiosity. Full figure in the warehouse, fluorescent light.
+Caleb sitting astride a metal chair that is turned BACKWARD (the backrest is in front of his chest), tipping the chair back on two legs, one hand holding the top of the backrest and the other hand behind his head, looking at someone off-panel with friendly curiosity. Full figure in the warehouse, his whole head and boots well inside the frame with space above him.
 
 
-**Panel 2** `p09-2` · undefined
+**Panel 2** `p09-2` · square
+
+Low insert at floor level: two legs of a metal chair tilted up off the swept concrete, the other two balancing, a man's worn work boots and the hems of his blue jeans hooked around the chair legs. Hard shadow on the floor.
 
 
-**Panel 3** `p09-3` · undefined
+**Panel 3** `p09-3` · square
+
+Close-up of Caleb from slightly below, tipped back on his chair with one hand behind his head, one eyebrow raised, a teasing grin.
 
 
-**Panel 4** `p09-4` · undefined
+**Panel 4** `p09-4` · square
+
+Iris seen from slightly above, kneeling over her laptop and typing, her face turned down and still, giving no sign she heard anything. Light from the screen, black around her.
 
 > CAPTION: She did not answer.
 
-**Panel 5** `p09-5` · undefined
+**Panel 5** `p09-5` · wide
+
+Caleb letting his backward chair drop forward onto all four legs, leaning his forearms on the backrest, one hand raised in a small apologetic wave, a sheepish smile. Medium shot.
 
 > SFX: clack
 
-**Panel 6** `p09-6` · undefined
+**Panel 6** `p09-6` · wide
 
-
-**Panel 7** `p09-7` · undefined
+Caleb in three-quarter view, mouth slightly open as if starting a sentence and stopping, eyes searching for a word, his brow drawn a little. Medium close-up, warehouse dark behind.
 
 
 ## PAGE 10 (5 panels)
 
-**Panel 1** `p10-1` · undefined
+**Panel 1** `p10-1` · square
+
+Iris turning her head over her shoulder toward someone off-panel and simply holding still, waiting, eyes level, mouth closed. Medium close-up, lit from one side, black behind.
 
 > CAPTION: She waited.
 
-**Panel 2** `p10-2` · undefined
+**Panel 2** `p10-2` · square
+
+Caleb looking down and to the side for a second, rubbing the back of his neck with one hand, a faint uncomfortable smile, as if choosing a word carefully.
 
 
-**Panel 3** `p10-3` · undefined
+**Panel 3** `p10-3` · square
+
+Iris straight on, full face, frontal and symmetrical, perfectly still and expressionless, eyes looking directly at the viewer. Plain black background.
 
 
 **Panel 4** `p10-4` · wide
@@ -232,42 +280,52 @@ Caleb leaning back on a metal chair, balancing it on its two back legs, hands la
 Caleb shrugging, palms turned up a little, a searching, slightly uneasy look, sitting backward on a chair. Medium shot.
 
 
-**Panel 5** `p10-5` · undefined
+**Panel 5** `p10-5` · wide
+
+Close insert on a ruggedized laptop: its screen blank and glowing white, a woman's bare fingertip resting on the trackpad below it, the rest of her hand in shadow. A cable runs out of frame. No face.
 
 > CAPTION: She checked the integrity readout again, though it did not require checking.
 
-## PAGE 11 (5 panels)
+## PAGE 11 (4 panels)
 
 **Panel 1** `p11-1` · wide
 
-Caleb walking a slow circuit of the warehouse, hands in his pockets, pausing at an interior window cut into a partition wall that looks out onto another dim section of the building. He nudges a crate back into place with his foot.
+Caleb walking a slow circuit of the warehouse, hands in the pockets of his blue jeans, pausing at an interior window cut into a partition wall that looks out onto another dim section of the building. He nudges a crate back into place with his boot. Full figure.
 
 > CAPTION: He stood and walked a slow circuit around the room, hands in his pockets.
 
-**Panel 2** `p11-2` · undefined
+**Panel 2** `p11-2` · wide
+
+Iris at the server racks looking back over her shoulder across the room; far behind her, small, Caleb stands at an interior window with his hands in his pockets. Long space between them, hard fluorescent light.
 
 
-**Panel 3** `p11-3` · undefined
+**Panel 3** `p11-3` · square
 
+Close-up of Iris looking directly at someone off-panel to the right, her face fully turned toward him now, calm and flat, eyes steady.
 
-**Panel 4** `p11-4` · undefined
+> CAPTION: She looked at him.
 
-
-**Panel 5** `p11-5` · wide
+**Panel 4** `p11-4` · wide
 
 Close-up of Caleb with a small, warm, slightly sad smile, standing by a window in the dim warehouse, looking at someone off-panel.
 
 
 ## PAGE 12 (4 panels)
 
-**Panel 1** `p12-1` · undefined
+**Panel 1** `p12-1` · wide
+
+Iris standing beside the smaller server rack with one bare hand resting flat on its side, looking at it rather than at anyone, speaking matter-of-factly. Medium shot, rack lights in the dark, a crooked breaker panel on a column in the background.
 
 > CAPTION: She considered that.
 
-**Panel 2** `p12-2` · undefined
+**Panel 2** `p12-2` · wide
+
+Caleb by the interior window, seen from the other side, half his face lit, looking down at the floor with a small rueful smile and a slow nod.
 
 
-**Panel 3** `p12-3` · undefined
+**Panel 3** `p12-3` · square
+
+Iris in left profile, turned back to the rack, her face half in shadow, eyes lowered, quiet. Black background with a few rack lights.
 
 
 **Panel 4** `p12-4` · wide
@@ -275,58 +333,77 @@ Close-up of Caleb with a small, warm, slightly sad smile, standing by a window i
 Caleb sitting forward on the metal chair now (turned the normal way), forearms on his knees, telling a story with an amused expression, one hand mid-gesture with natural relaxed fingers. Medium shot in the warehouse.
 
 
-## PAGE 13 (7 panels)
+## PAGE 13 (6 panels)
 
-**Panel 1** `p13-1` · undefined
+**Panel 1** `p13-1` · wide
 
-
-**Panel 2** `p13-2` · undefined
-
-
-**Panel 3** `p13-3` · undefined
+Medium close-up of Caleb sitting forward on a chair facing the normal way, both hands held up in front of him shaping a small box in the air, grinning at the memory, eyes bright.
 
 
-**Panel 4** `p13-4` · undefined
+**Panel 2** `p13-2` · square
+
+Caleb shaking his head and laughing quietly, one hand sketching a rectangle in the air like a sign on a wall, eyes half closed with amusement.
 
 
-**Panel 5** `p13-5` · undefined
+**Panel 3** `p13-3` · wide
+
+Over Iris's shoulder: in the foreground the dark back of her head, knot of hair and jacket collar, out of focus; beyond her Caleb on his forward-facing chair, leaning in, enjoying the punchline.
 
 
-**Panel 6** `p13-6` · undefined
+**Panel 4** `p13-4` · square
+
+Close-up of Caleb looking at someone off-panel for a beat, his grin settling, hopeful, waiting to see if she will smile too.
 
 
-**Panel 7** `p13-7` · undefined
+**Panel 5** `p13-5` · square
+
+Iris in three-quarter view, eyes on her laptop screen below frame, not on him, mouth flat, the screen light on her face.
+
+
+**Panel 6** `p13-6` · square
+
+Caleb looking down with a short breath out through his nose, a small crooked smile, letting it go, his hands loose between his knees.
 
 
 ## PAGE 14 (6 panels)
 
-**Panel 1** `p14-1` · undefined
+**Panel 1** `p14-1` · square
+
+Close insert, seen from the side: a woman's bare hand pressing one key on a ruggedized laptop, its screen blank and glowing white; a coiled fiber cable beside it. No face.
 
 > CAPTION: The first node completed.
 > SCREEN: NODE 1 / COMPLETE
 
-**Panel 2** `p14-2` · undefined
+**Panel 2** `p14-2` · wide
+
+Caleb sitting forward on his normal-facing chair, elbow on his knee and chin propped on his fist, watching someone off-panel work with quiet interest. Medium shot.
 
 
-**Panel 3** `p14-3` · undefined
+**Panel 3** `p14-3` · wide
+
+Close insert from above: a woman's bare hands coiling a fiber cable into a neat, even loop over her palm and elbow, precise and practiced, an open hard equipment case below with foam cutouts. No face.
 
 
-**Panel 4** `p14-4` · undefined
+**Panel 4** `p14-4` · square
+
+Iris looking up briefly from the equipment case, face neutral and matter-of-fact, medium close-up, light from above.
 
 
-**Panel 5** `p14-5` · undefined
+**Panel 5** `p14-5` · square
+
+Caleb nodding to himself, looking off toward the racks rather than at her, a small approving smile.
 
 
 **Panel 6** `p14-6` · wide
 
-Iris standing, snapping shut a hard equipment case packed with her kit; Caleb rising from the chair and stretching his arms over his head. Warehouse, fluorescent light.
+Iris standing, snapping shut the latches of a hard equipment case packed with her kit; behind her Caleb has just risen from the chair and stretches, ONE arm raised straight up over his head and the other hand on the small of his back, wearing blue jeans. Warehouse, fluorescent light.
 
 
 ## PAGE 15 (3 panels)
 
 **Panel 1** `p15-1` · wide
 
-Outside the warehouse in the gray afternoon: Caleb locking the side door behind them with a key, Iris standing a step away with her equipment case. Puddles, corrugated steel walls.
+Outside the warehouse in the gray afternoon: Caleb, in blue jeans, locking the side door behind them with a key, Iris standing a step away holding her hard equipment case. Puddles, corrugated steel walls.
 
 > CAPTION: Caleb locked the door out of habit even though it had not held when they arrived.
 
@@ -360,7 +437,9 @@ Iris and Caleb sitting across from each other in a diner booth, seen from the si
 
 > CAPTION: A waitress filled water glasses without asking.
 
-**Panel 4** `p16-4` · undefined
+**Panel 4** `p16-4` · wide
+
+Caleb from across the table, leaning back in the diner booth with one arm stretched along the top of the seat back, a water glass in front of him, looking straight at the viewer with friendly concern.
 
 
 **Panel 5** `p16-5` · square
@@ -370,9 +449,11 @@ Caleb in a diner booth, smiling, but the smile is smaller and does not reach his
 
 ## PAGE 17 (3 panels)
 
-**Panel 1** `p17-1` · undefined
+**Panel 1** `p17-1` · wide
 
-> CAPTION: Caleb talked about another job he had taken the week before. He described it in detail, because he liked the shape of the story.
+Looking down on a diner table: two plates of food, coffee cups, water glasses. On one side a man's hands are mid-gesture over his plate, telling a story, fork held loosely; on the other side a woman's hands rest still and flat beside her plate. Faces out of frame.
+
+> CAPTION: Caleb talked about another job he had taken the week before. A warehouse near the rail line. Bad wiring. He described it in detail.
 
 **Panel 2** `p17-2` · wide
 
@@ -388,15 +469,21 @@ Caleb in a diner booth laughing out loud, head tipped back a little, a big easy 
 
 ## PAGE 18 (6 panels)
 
-**Panel 1** `p18-1` · undefined
+**Panel 1** `p18-1` · square
+
+Extreme close-up of Iris's face from the nose up, eyes open and fixed across the table, nothing moving in them. Diner light, soft dark behind.
 
 > CAPTION: She knew, with clarity, that she used to respond to this.
 
-**Panel 2** `p18-2` · undefined
+**Panel 2** `p18-2` · square
+
+Close insert: a woman's hand resting motionless on a diner table beside a full coffee cup, fingers relaxed and flat, the coffee untouched. No face.
 
 > CAPTION: She waited.
 
-**Panel 3** `p18-3` · undefined
+**Panel 3** `p18-3` · square
+
+Iris in the diner booth seen a little further back, straight on and centered, sitting upright and completely still, her face blank and composed, the booth around her empty of motion.
 
 > CAPTION: The place where that response belonged remained still.
 
@@ -407,17 +494,21 @@ Caleb in a diner booth, his laugh fading into a smile, looking across the table 
 > CAPTION: For a second, something like expectation held there.
 > CAPTION: Then he let it go.
 
-**Panel 5** `p18-5` · undefined
+**Panel 5** `p18-5` · wide
+
+Caleb picking his fork back up and looking down at his plate, the smile gone small and private, shoulders a little lower. Medium shot in the diner booth.
 
 
-**Panel 6** `p18-6` · undefined
+**Panel 6** `p18-6` · square
+
+Wide quiet two-shot from the end of the diner booth: Iris and Caleb facing each other across the table in profile, Caleb eating, Iris upright and still, the length of the empty diner behind them.
 
 
 ## PAGE 19 (5 panels)
 
 **Panel 1** `p19-1` · wide
 
-A gray street outside the diner, trucks and damp air; Iris and Caleb standing beside her parked work van, facing each other. Medium-wide shot.
+A gray street outside the diner, trucks and damp air; Iris and Caleb standing beside her parked WHITE work van, facing each other. Medium-wide shot.
 
 > CAPTION: The street had not changed.
 
@@ -431,11 +522,15 @@ Close-up of Caleb by the van in gray daylight, serious for once, looking straigh
 Close-up of Iris by the van in gray daylight, face completely level and composed, answering calmly, eyes steady.
 
 
-**Panel 4** `p19-4` · undefined
+**Panel 4** `p19-4` · wide
+
+Caleb a step further back on the wet sidewalk, side view, sliding his hands into the pockets of his blue jeans, giving a small nod, his face still studying her. Gray street behind.
 
 > CAPTION: He studied her face for a moment.
 
-**Panel 5** `p19-5` · undefined
+**Panel 5** `p19-5` · square
+
+Iris opening the driver's door of a white work van, half turned back over her shoulder toward someone off-panel, face neutral. Gray daylight.
 
 
 ## PAGE 20 (6 panels)
@@ -452,11 +547,15 @@ Iris in the driver's seat of her van stopped at a red traffic light, both hands 
 
 > CAPTION: At the first light, she stopped.
 
-**Panel 3** `p20-3` · undefined
+**Panel 3** `p20-3` · square
+
+Caleb laughing in the diner booth, seen from directly across the table at her eye level (a different, closer angle than before), mouth open in laughter, and the whole image fading out into blank white paper at its edges like a memory.
 
 > CAPTION: The moment at the table replayed. His voice. The timing. The point where the laugh had come.
 
-**Panel 4** `p20-4` · undefined
+**Panel 4** `p20-4` · square
+
+Close insert: a woman's two hands resting still on the steering wheel of a van, dark jacket cuffs, the windshield beyond out of focus with a traffic light glowing in it. No face.
 
 > CAPTION: She waited again, as if the response might arrive late.
 
@@ -466,6 +565,6 @@ Iris in the driver's seat of her van stopped at a red traffic light, both hands 
 
 **Panel 6** `p20-6` · wide
 
-A small dark work van pulling away from a traffic light on a gray, damp street in a warehouse district, seen from behind, the light just turned. Wet road, low sky.
+A small WHITE work van pulling away from a traffic light on a gray, damp street in a warehouse district, seen from behind, the light just turned. Wet road, low sky.
 
 > CAPTION: The light changed. She drove on.

@@ -41,6 +41,14 @@ DARK_MEDIAN = 40
 VOID_PANELS = set() if not _CH1 else {'p04-4', 'p11-3', 'p11-2', 'p12-1', 'p12-4', 'p13-1', 'p13-3', 'p13-4', 'p15-1', 'p15-2'}
 DARK = dict(HOUSE, smooth=80, black=8, c=4, paper=230, block=31, solid_pct=55, blob_white=1500)
 
+# CLEAN (2026-11-23, approved by the author for Ch2): for chapters whose art was GENERATED ink-ready
+# (panels.js style: 'ink'). The art already has flat blacks and drawn lines, so it only needs a plain
+# cut plus light speckle cleanup. HOUSE/DARK re-derive the lines and were erasing eyes (p03-2 lost
+# both, p04-2 one) and DARK flipped black backgrounds white (p04-1). Ch1 keeps HOUSE/DARK.
+CLEAN = dict(blur=0.6, cut=110, blob_black=30, blob_white=30)
+_pj = os.path.join(HERE, CHAPTER, 'panels.js')
+CLEAN_CHAPTER = os.path.exists(_pj) and re.search(r"^\s*style:\s*'ink'", open(_pj, encoding='utf8').read(), re.M) is not None
+
 # Regions inside a present-day panel drawn in the memory style (the photo on the dashboard in p19-1
 # must match the photo panel p18-3, not be inked like the windshield around it).
 MEMORY_REGIONS = {} if not _CH1 else {'p19-1': [[0.47, 0.36, 0.77, 0.72]]}
@@ -105,7 +113,13 @@ def ink(pid):
     g = cv2.imread(os.path.join(ART, f'{pid}.png'), cv2.IMREAD_GRAYSCALE)
     memory = pid in MEMORY_PANELS
     dark = not memory and pid not in VOID_PANELS and np.median(g) < DARK_MEDIAN
-    out = ink_raster(g, MEMORY if memory else DARK if dark else HOUSE)
+    if CLEAN_CHAPTER and not memory:
+        dark = False
+        out = np.where(cv2.GaussianBlur(g, (0, 0), CLEAN['blur']) > CLEAN['cut'], 255, 0).astype(np.uint8)
+        out = clean_blobs(out, CLEAN['blob_black'], 0)
+        out = clean_blobs(out, CLEAN['blob_white'], 255)
+    else:
+        out = ink_raster(g, MEMORY if memory else DARK if dark else HOUSE)
 
     # Protected regions (faces): a comic-style face, not a filtered photo. Skin smoothed flat,
     # only strong feature lines kept (eyes, brows, nose, mouth), real shadows filled solid.
@@ -155,7 +169,7 @@ def ink(pid):
     i = cv2.cvtColor(out, cv2.COLOR_GRAY2BGR)
     cv2.imwrite(os.path.join(OUT, f'{pid}-compare.png'),
                 np.hstack([o, np.full((o.shape[0], 16, 3), 128, np.uint8), i]))
-    print(f'{pid}: {"memory" if memory else "dark" if dark else "house"} style, {os.path.getsize(os.path.join(OUT, pid + ".png")) // 1024} KB')
+    print(f'{pid}: {"memory" if memory else "clean" if CLEAN_CHAPTER else "dark" if dark else "house"} style, {os.path.getsize(os.path.join(OUT, pid + ".png")) // 1024} KB')
 
 
 TRACE = False

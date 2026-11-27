@@ -100,7 +100,7 @@ Docs in `series-bible/`. **Book 1 material is complete. Book 2 and Book 3 materi
 
 **Added 2026-11-22. A standalone adaptation of Book 1. It reads `book1-published/` and never edits it,** and no tool in the parent project reads it. **`graphic-novel/README.md` is the entry point** and carries the full generation log; `graphic-novel/style-bible.md` carries the drift controls.
 
-**Chapter 2 is in progress (24/39 images; resume from `graphic-novel/README.md` → Chapter 2).** **Status: Chapter 1, "The Gap", is finished in the approved black-and-white comic look (2026-11-22)** — 19 lettered pages plus a cover, 73 panels, true 1-bit ink, hand-drawn borders, hand-lettered captions. **The author approved it.** **Chapter 2 is next.**
+**Chapter 3 "The First Case" art is COMPLETE (2026-11-27) and awaiting the author's review: 90 unique panels, audited, CLEAN ink, backed up to Dropbox, committed 2026-11-27. Lessons for Ch4 in `graphic-novel/README.md` → Chapter 3.** **Standing page rules added 2026-11-27: no lettering over a face (`node graphic-novel/audit-letters.js <chapter>`), sign and screen text printed on the art (`screen.box`), no solid black pages or panels (print-friendly), no "shape of".** **Chapter 2 art is COMPLETE (2026-11-23) and awaiting the author's review: 95 panels, every one its own image (no repeats, author's rule), audited on arrival, CLEAN ink mode. Details and the Ch3 lessons in `graphic-novel/README.md` → Chapter 2.** **Status: Chapter 1, "The Gap", is finished in the approved black-and-white comic look (2026-11-22)** — 19 lettered pages plus a cover, 73 panels, true 1-bit ink, hand-drawn borders, hand-lettered captions. **The author approved it.** **Chapter 2 is next.**
 
 - **One source:** `ch01-the-gap/panels.js` holds every panel's scene, captions (Book 1's own sentences), sound effects, screen text and grid placement. `node graphic-novel/build.js` generates the readable script, the prompts and **`ch01-the-gap/pages.html`, which is the book: open it in a browser.** `node graphic-novel/render.js` files new art and renders pages to PNG; `render.js pdf` prints the proof.
 - **Art was generated in ChatGPT** (one long conversation, driven through Chrome, three reference sheets first), **and the lettering is HTML laid over it, never inside the images.** A caption can change without touching art.
@@ -176,7 +176,27 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 
 ## WHERE WE LEFT OFF (2026-11-22)
 
-### ⚠️⚠️ START HERE TOMORROW (left off 2026-11-22)
+### ⚠️⚠️ LAST SESSION (2026-11-27): graphic novel Ch2 fixes + Ch3 complete — LEAVE OFF HERE
+
+**Committed and pushed this session.** Images stay out of git; every final image is in Dropbox (`Graphic Novel\Ch01`, `Ch02`, `Ch03`), verified byte-for-byte.
+
+**Done this session:**
+- **Ch2:** 33 panels' lettering moved off faces (the author's rule), p06-4 fixed by re-cropping (Caleb was in the art), "shape of" removed (p17-1), backed up to Dropbox.
+- **Ch1 + Ch2:** every sign and screen now prints its text ON the blank surface in the art (`screen.box`), never in a box over it.
+- **Print-friendly (author's rule):** no solid black pages or panels. Covers and black beat panels are white with black type.
+- **Ch3 "The First Case":** 20 pages, 90 unique panels, Leah and Joel reference sheets, audited on arrival, CLEAN ink, lettering audited off faces, PDF proof, Dropbox backup. 99 generations (7 redos). The ChatGPT conversation is "Create Leah reference sheet".
+- **New tool:** `node graphic-novel/audit-letters.js <chapter> [pages]` renders the lettering as see-through red outlines into `renders/audit/`.
+
+**When it resumes:**
+1. **The author reviews Ch2 and Ch3** (`graphic-novel/ch02-caleb-ward/pages.html`, `graphic-novel/ch03-the-first-case/pages.html`). Ch3 soft spots kept to save generations: p10-4 and p13-1 frame close to p07-1 and p10-1; Joel's hair curly on p13–p15; Leah in shoes on p14-1; p20-5 skyline too big for Lowport.
+2. Redo what is flagged: fresh generation, full character locks in the prompt, re-run `audit-letters.js`, re-copy to Dropbox, commit.
+3. **Then Ch4 "Lila Mercer"**, using the lessons in `graphic-novel/README.md` → Chapter 3. **Generations are limited: prompt tight to avoid redos.**
+4. **Open decisions, the author's:** redo Ch1 in the CLEAN ink mode to match? Cover Willow vs panel Willow (before Ch20).
+5. **Future, not started:** a browser viewer that remembers the reader's page; possibly hosted on the author's website. The book must stay printable on a home printer.
+
+**The Book 2 items below are unchanged and still open.** The time-marker sweep-vs-fold decision comes first.
+
+### ⚠️⚠️ BOOK 2: START HERE (left off 2026-11-22)
 
 **1. All 22 chapters are UNLOCKED** (author's instruction). See LOCKED CHAPTERS.
 
@@ -223,7 +243,7 @@ Seven beats, no filler: **Intake · Sessions · Calm · The Water · The Map · 
 1. **The interview prep page, `interview-prep-the-absence.html`** (commits `6b26b8f`, `ad833f1`). A standalone refresher for author interviews on The Absence: story, cast, world, chapter by chapter, themes, talking points and quotable lines. **It now has a spoiler-free "What Readers Find Out Next" section** naming the questions Books 2 and 3 answer without the answers, with lines safe to say on air, **ahead of the collapsed full-spoiler sections.**
 2. **The Book 1 graphic novel, Ch1 pilot, finished and committed** (`d7acfe0`, images excluded). See THE GRAPHIC NOVEL above for status, where the art lives, and the open cover-Willow decision.
 
-**Graphic novel Ch1 finished and pushed. Ch2 "Caleb Ward" is in progress:** script done (20 pages, speech balloons, tic lint clean), **24 of 39 images generated**, ink-ready prompting in place. **ChatGPT's daily image limit stopped it at p15-2; resume after 11:26 AM 2026-11-23.** The exact remaining list and next steps are in `graphic-novel/README.md` → Chapter 2.
+**Graphic novel Ch2 "Caleb Ward": art complete 2026-11-23, awaiting the author's review** (`graphic-novel/ch02-caleb-ward/pages.html` or the PDF proof). On approval: copy to Dropbox (the only image backup), then commit. **Two new standing rules from the author: no repeated panel art ever, and audit every image as it is generated.** See `graphic-novel/README.md` → Chapter 2.
 
 **Book 2 and Book 3 status is unchanged from 2026-09-04, below.**
 
